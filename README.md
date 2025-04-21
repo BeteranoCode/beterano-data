@@ -23,3 +23,4 @@ Si se actualiza este repositorio, los proyectos que lo consumen deben recibir lo
 
 Uso interno de Beterano Motors. No redistribuir sin autorización.
 # beterano-data
+# beterano-data
