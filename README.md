@@ -1,26 +1,29 @@
 # Beterano Data
 
-Este repositorio centraliza los datos técnicos usados por todos los proyectos del ecosistema Beterano:
+Este repositorio centraliza los **datos técnicos estructurados** utilizados por todos los proyectos del ecosistema Beterano.
 
-- `vehiculos.json`: lista de marcas, modelos, generaciones, motores, etc.
-- `biblioteca_piezas.json`: estructura jerárquica de piezas (ensamblaje > categoría > subcategoría > pieza)
+### 📦 Contenido
 
-Estos archivos deben mantenerse actualizados y compartidos para que cualquier modificación impacte automáticamente en las interfaces que los consumen.
+- `vehiculos.json`: listado jerarquizado de marcas, modelos, generaciones, motores, etc.
+- `biblioteca_piezas.json`: estructura de piezas organizada por ensamblaje > categoría > subcategoría > pieza
+- `biblioteca_piezas_vehiculos.xlsx`: archivo fuente desde el cual se generan los JSON
+- `scripts/sync_biblioteca.js`: script para sincronizar los archivos JSON desde la hoja Excel
 
-## Uso recomendado
+---
 
-En proyectos frontend (como `beterano-catalogo-web`):
+### 🚀 Proyectos que utilizan este repositorio
 
-```js
-fetch("https://raw.githubusercontent.com/BeteranoMotors/beterano-data/main/vehiculos.json")
-```
+Este repositorio actúa como **única fuente de verdad** para los siguientes proyectos:
 
-## Actualización
+- [`beterano-catalogo-web`](https://github.com/BeteranoMotors/beterano-catalogo-web)
+- [`beterano_ai_wa_talk_catcher`](https://github.com/BeteranoMotors/beterano_ai_wa_talk_catcher)
 
-Si se actualiza este repositorio, los proyectos que lo consumen deben recibir los cambios automáticamente si usan las URLs crudas.
+---
 
-## Licencia
+### 🛠 Cómo sincronizar desde Excel
 
-Uso interno de Beterano Motors. No redistribuir sin autorización.
-# beterano-data
-# beterano-data
+1. Asegurate de tener Node.js instalado
+2. Instalá las dependencias:
+
+```bash
+npm install
