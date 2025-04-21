@@ -1,0 +1,14 @@
+{
+  "name": "beterano-data",
+  "version": "1.0.0",
+  "description": "Repositorio central de datos t\u00e9cnicos para proyectos de Beterano",
+  "main": "scripts/sync_biblioteca.js",
+  "scripts": {
+    "sync": "node scripts/sync_biblioteca.js"
+  },
+  "author": "Beterano",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
