@@ -1,0 +1,27 @@
+{
+  "venta": [
+    { "lang": "ES", "words": ["vendo", "en venta", "se vende", "wallapop", "milanuncios", "vibbo"] },
+    { "lang": "EN", "words": ["for sale", "selling", "ebay", "marketplace", "craigslist"] },
+    { "lang": "DE", "words": ["zu verkaufen", "verkaufe", "ebay kleinanzeigen", "willhaben"] },
+    { "lang": "FR", "words": ["à vendre", "je vends", "leboncoin", "marketplace"] },
+    { "lang": "GLOBAL", "words": ["ebay.com", "wallapop.com", "facebook.com/marketplace", "kleinanzeigen.de", "subito.it", "olx"] }
+  ],
+  "compra": [
+    { "lang": "ES", "words": ["compro", "quiero comprar"] },
+    { "lang": "EN", "words": ["buying", "looking to buy"] },
+    { "lang": "DE", "words": ["kaufe", "suche"] },
+    { "lang": "FR", "words": ["j’achète", "recherche"] }
+  ],
+  "busqueda": [
+    { "lang": "ES", "words": ["busco", "necesito"] },
+    { "lang": "EN", "words": ["searching", "need"] },
+    { "lang": "DE", "words": ["suche", "benötige"] },
+    { "lang": "FR", "words": ["je cherche", "besoin de"] }
+  ],
+  "tecnico": [
+    { "lang": "ES", "words": ["problema", "ruido", "falla", "avería"] },
+    { "lang": "EN", "words": ["issue", "noise", "problem", "malfunction"] },
+    { "lang": "DE", "words": ["problem", "geräusch", "defekt"] },
+    { "lang": "FR", "words": ["problème", "bruit", "panne"] }
+  ]
+}
