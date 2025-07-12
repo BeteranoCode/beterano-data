@@ -1,5 +1,6 @@
 [
   {
+    "IDN": 1,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Range Rover",
@@ -7,9 +8,12 @@
     "Combustible": "Gasolina",
     "Motor": "V8 3.5",
     "Año": "1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985",
-    "Imagen": "img/vehiculos/modelo/range-rover-classic.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Range Rover.jpg",
+    "IDspecific": "land-rover-range-rover-classic-v8 3.5-gasolina",
+    "ID": "land-rover-range-rover-classic"
   },
   {
+    "IDN": 2,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Range Rover",
@@ -17,9 +21,12 @@
     "Combustible": "Gasolina",
     "Motor": "V8 3.5i",
     "Año": "1986, 1987, 1988, 1989",
-    "Imagen": "img/vehiculos/modelo/range-rover-classic.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Range Rover.jpg",
+    "IDspecific": "land-rover-range-rover-classic-v8 3.5i-gasolina",
+    "ID": "land-rover-range-rover-classic"
   },
   {
+    "IDN": 3,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Range Rover",
@@ -27,9 +34,12 @@
     "Combustible": "Gasolina",
     "Motor": "V8 3.9",
     "Año": "1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/range-rover-classic.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Range Rover.jpg",
+    "IDspecific": "land-rover-range-rover-classic-v8 3.9-gasolina",
+    "ID": "land-rover-range-rover-classic"
   },
   {
+    "IDN": 4,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Range Rover",
@@ -37,9 +47,12 @@
     "Combustible": "Gasolina",
     "Motor": "V8 4.2 LSE",
     "Año": "1992, 1993, 1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/range-rover-classic.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Range Rover.jpg",
+    "IDspecific": "land-rover-range-rover-classic-v8 4.2 lse-gasolina",
+    "ID": "land-rover-range-rover-classic"
   },
   {
+    "IDN": 5,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Range Rover",
@@ -47,9 +60,12 @@
     "Combustible": "Diesel",
     "Motor": "VM Motori 81A",
     "Año": "1986, 1987, 1988, 1989",
-    "Imagen": "img/vehiculos/modelo/range-rover-classic.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Range Rover.jpg",
+    "IDspecific": "land-rover-range-rover-classic-vm motori 81a-diesel",
+    "ID": "land-rover-range-rover-classic"
   },
   {
+    "IDN": 6,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Range Rover",
@@ -57,9 +73,12 @@
     "Combustible": "Diesel",
     "Motor": "VM Motori 425 OHV",
     "Año": "1989, 1990, 1991, 1992",
-    "Imagen": "img/vehiculos/modelo/range-rover-classic.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Range Rover.jpg",
+    "IDspecific": "land-rover-range-rover-classic-vm motori 425 ohv-diesel",
+    "ID": "land-rover-range-rover-classic"
   },
   {
+    "IDN": 7,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Range Rover",
@@ -67,9 +86,12 @@
     "Combustible": "Diesel",
     "Motor": "200Tdi",
     "Año": "1992, 1993, 1994",
-    "Imagen": "img/vehiculos/modelo/range-rover-classic.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Range Rover.jpg",
+    "IDspecific": "land-rover-range-rover-classic-200tdi-diesel",
+    "ID": "land-rover-range-rover-classic"
   },
   {
+    "IDN": 8,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Range Rover",
@@ -77,9 +99,12 @@
     "Combustible": "Diesel",
     "Motor": "300Tdi",
     "Año": "1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/range-rover-classic.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Range Rover.jpg",
+    "IDspecific": "land-rover-range-rover-classic-300tdi-diesel",
+    "ID": "land-rover-range-rover-classic"
   },
   {
+    "IDN": 9,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
@@ -87,9 +112,12 @@
     "Combustible": "Gasolina",
     "Motor": "230 G (M115)",
     "Año": "1979, 1980, 1981, 1982",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w460-230 g -m115-gasolina",
+    "ID": "mercedes-benz-claseg-w460"
   },
   {
+    "IDN": 10,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
@@ -97,9 +125,12 @@
     "Combustible": "Gasolina",
     "Motor": "230 GE (M102)",
     "Año": "1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w460-230 ge -m102-gasolina",
+    "ID": "mercedes-benz-claseg-w460"
   },
   {
+    "IDN": 11,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
@@ -107,9 +138,12 @@
     "Combustible": "Gasolina",
     "Motor": "280 GE (M110)",
     "Año": "1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w460-280 ge -m110-gasolina",
+    "ID": "mercedes-benz-claseg-w460"
   },
   {
+    "IDN": 12,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
@@ -117,9 +151,12 @@
     "Combustible": "Gasolina",
     "Motor": "G 500 (M113)",
     "Año": "1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w463-g 500 -m113-gasolina",
+    "ID": "mercedes-benz-claseg-w463"
   },
   {
+    "IDN": 13,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
@@ -127,9 +164,12 @@
     "Combustible": "Gasolina",
     "Motor": "G 500 (M273)",
     "Año": "2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w463-g 500 -m273-gasolina",
+    "ID": "mercedes-benz-claseg-w463"
   },
   {
+    "IDN": 14,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
@@ -137,9 +177,12 @@
     "Combustible": "Gasolina",
     "Motor": "G 500 (M176)",
     "Año": "2015, 2016, 2017, 2018",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w463-g 500 -m176-gasolina",
+    "ID": "mercedes-benz-claseg-w463"
   },
   {
+    "IDN": 15,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
@@ -147,9 +190,12 @@
     "Combustible": "Gasolina",
     "Motor": "G 55 AMG (M113)",
     "Año": "1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w463-g 55 amg -m113-gasolina",
+    "ID": "mercedes-benz-claseg-w463"
   },
   {
+    "IDN": 16,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
@@ -157,9 +203,12 @@
     "Combustible": "Gasolina",
     "Motor": "G 63 AMG (M157)",
     "Año": "2012, 2013, 2014, 2015, 2016, 2017, 2018",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w463-g 63 amg -m157-gasolina",
+    "ID": "mercedes-benz-claseg-w463"
   },
   {
+    "IDN": 17,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
@@ -167,9 +216,12 @@
     "Combustible": "Gasolina",
     "Motor": "G 63 AMG (M177)",
     "Año": "2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w463-g 63 amg -m177-gasolina",
+    "ID": "mercedes-benz-claseg-w463"
   },
   {
+    "IDN": 18,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
@@ -177,99 +229,129 @@
     "Combustible": "Gasolina",
     "Motor": "G 65 AMG (M279)",
     "Año": "2012, 2013, 2014, 2015, 2016, 2017, 2018",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w463-g 65 amg -m279-gasolina",
+    "ID": "mercedes-benz-claseg-w463"
   },
   {
+    "IDN": 19,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
     "Serie/Generacion": "Clase G W460",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "240 GD (OM616)",
     "Año": "1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w460-240 gd -om616-diesel",
+    "ID": "mercedes-benz-claseg-w460"
   },
   {
+    "IDN": 20,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
     "Serie/Generacion": "Clase G W461",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "250 GD (OM602)",
     "Año": "1987, 1988, 1989, 1990, 1991, 1992",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w461-250 gd -om602-diesel",
+    "ID": "mercedes-benz-claseg-w461"
   },
   {
+    "IDN": 21,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
     "Serie/Generacion": "Clase G W460",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "300 GD (OM617)",
     "Año": "1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w460-300 gd -om617-diesel",
+    "ID": "mercedes-benz-claseg-w460"
   },
   {
+    "IDN": 22,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
     "Serie/Generacion": "Clase G W463",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "G 270 CDI (OM612)",
     "Año": "2002, 2003, 2004, 2005, 2006",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w463-g 270 cdi -om612-diesel",
+    "ID": "mercedes-benz-claseg-w463"
   },
   {
+    "IDN": 23,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
     "Serie/Generacion": "Clase G W463",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "G 320 CDI (OM642)",
     "Año": "2006, 2007, 2008, 2009, 2010",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w463-g 320 cdi -om642-diesel",
+    "ID": "mercedes-benz-claseg-w463"
   },
   {
+    "IDN": 24,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
     "Serie/Generacion": "Clase G W463",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "G 350 BlueTEC (OM642)",
     "Año": "2010, 2011, 2012, 2013, 2014, 2015",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w463-g 350 bluetec -om642-diesel",
+    "ID": "mercedes-benz-claseg-w463"
   },
   {
+    "IDN": 25,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
     "Serie/Generacion": "Clase G W463",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "G 350 d (OM656)",
     "Año": "2018, 2019, 2020, 2021, 2022, 2023, 2024",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w463-g 350 d -om656-diesel",
+    "ID": "mercedes-benz-claseg-w463"
   },
   {
+    "IDN": 26,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
     "Serie/Generacion": "Clase G W463",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "G 400 d (OM656)",
     "Año": "2020, 2021, 2022, 2023, 2024",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w463-g 400 d -om656-diesel",
+    "ID": "mercedes-benz-claseg-w463"
   },
   {
+    "IDN": 27,
     "Tipo": "SUV",
     "Marca": "Mercedes-Benz",
     "Modelo": "Clase G",
     "Serie/Generacion": "Clase G W463",
-    "Combustible": "Eléctrico",
+    "Combustible": "ElÃ©ctrico",
     "Motor": "G 580 EQ",
     "Año": "2024, 2025",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-claseg.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mercedes-Benz-Clase G.jpg",
+    "IDspecific": "mercedes-benz-claseg-w463-g 580 eq-elã©ctrico",
+    "ID": "mercedes-benz-claseg-w463"
   },
   {
+    "IDN": 28,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
@@ -277,9 +359,12 @@
     "Combustible": "Gasolina",
     "Motor": "3.5 V8",
     "Año": "1989, 1990",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-serie-i-3.5 v8-gasolina",
+    "ID": "land-rover-discovery-discovery-serie-i"
   },
   {
+    "IDN": 29,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
@@ -287,9 +372,12 @@
     "Combustible": "Gasolina",
     "Motor": "3.9 V8",
     "Año": "1990, 1991, 1992, 1993, 1994",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-serie-i-3.9 v8-gasolina",
+    "ID": "land-rover-discovery-discovery-serie-i"
   },
   {
+    "IDN": 30,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
@@ -297,9 +385,12 @@
     "Combustible": "Gasolina",
     "Motor": "4.0 V8",
     "Año": "1994, 1995, 1996, 1997, 1998",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-serie-i-4.0 v8-gasolina",
+    "ID": "land-rover-discovery-discovery-serie-i"
   },
   {
+    "IDN": 31,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
@@ -307,9 +398,12 @@
     "Combustible": "Gasolina",
     "Motor": "4.0 V8",
     "Año": "1998, 1999, 2000, 2001, 2002, 2003, 2004",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-serie-ii-4.0 v8-gasolina",
+    "ID": "land-rover-discovery-discovery-serie-ii"
   },
   {
+    "IDN": 32,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
@@ -317,9 +411,12 @@
     "Combustible": "Gasolina",
     "Motor": "4.0 V6",
     "Año": "2004, 2005, 2006, 2007, 2008, 2009",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-3-4.0 v6-gasolina",
+    "ID": "land-rover-discovery-discovery-3"
   },
   {
+    "IDN": 33,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
@@ -327,9 +424,12 @@
     "Combustible": "Gasolina",
     "Motor": "4.4 V8",
     "Año": "2004, 2005, 2006, 2007, 2008, 2009",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-3-4.4 v8-gasolina",
+    "ID": "land-rover-discovery-discovery-3"
   },
   {
+    "IDN": 34,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
@@ -337,9 +437,12 @@
     "Combustible": "Gasolina",
     "Motor": "5.0 V8",
     "Año": "2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-4-5.0 v8-gasolina",
+    "ID": "land-rover-discovery-discovery-4"
   },
   {
+    "IDN": 35,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
@@ -347,9 +450,12 @@
     "Combustible": "Gasolina",
     "Motor": "2.0 P300 I4",
     "Año": "2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-5-2.0 p300 i4-gasolina",
+    "ID": "land-rover-discovery-discovery-5"
   },
   {
+    "IDN": 36,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
@@ -357,89 +463,116 @@
     "Combustible": "Gasolina",
     "Motor": "3.0 P360 I6 MHEV",
     "Año": "2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-5-3.0 p360 i6 mhev-gasolina",
+    "ID": "land-rover-discovery-discovery-5"
   },
   {
+    "IDN": 37,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
     "Serie/Generacion": "Discovery Serie I",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "200Tdi",
     "Año": "1989, 1990, 1991, 1992, 1993, 1994",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-serie-i-200tdi-diesel",
+    "ID": "land-rover-discovery-discovery-serie-i"
   },
   {
+    "IDN": 38,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
     "Serie/Generacion": "Discovery Serie I",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "300Tdi",
     "Año": "1994, 1995, 1996, 1997, 1998",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-serie-i-300tdi-diesel",
+    "ID": "land-rover-discovery-discovery-serie-i"
   },
   {
+    "IDN": 39,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
     "Serie/Generacion": "Discovery Serie II",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "Td5",
     "Año": "1998, 1999, 2000, 2001, 2002, 2003, 2004",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-serie-ii-td5-diesel",
+    "ID": "land-rover-discovery-discovery-serie-ii"
   },
   {
+    "IDN": 40,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
     "Serie/Generacion": "Discovery 3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.7 TDV6",
     "Año": "2004, 2005, 2006, 2007, 2008, 2009",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-3-2.7 tdv6-diesel",
+    "ID": "land-rover-discovery-discovery-3"
   },
   {
+    "IDN": 41,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
     "Serie/Generacion": "Discovery 4",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "3.0 SDV6",
     "Año": "2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-4-3.0 sdv6-diesel",
+    "ID": "land-rover-discovery-discovery-4"
   },
   {
+    "IDN": 42,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
     "Serie/Generacion": "Discovery 5",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "3.0 D250 I6 MHEV",
     "Año": "2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-5-3.0 d250 i6 mhev-diesel",
+    "ID": "land-rover-discovery-discovery-5"
   },
   {
+    "IDN": 43,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Discovery",
     "Serie/Generacion": "Discovery 5",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "3.0 D300 I6 MHEV",
     "Año": "2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/land-rover-discovery.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Discovery.jpg",
+    "IDspecific": "land-rover-discovery-discovery-5-3.0 d300 i6 mhev-diesel",
+    "ID": "land-rover-discovery-discovery-5"
   },
   {
+    "IDN": 44,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
     "Serie/Generacion": "T1 207 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM616 (2.4L I4)",
     "Año": "1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-om616 -2.4l i4-diesel",
+    "ID": "mercedes-benz-transporter1"
   },
   {
+    "IDN": 45,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
@@ -447,9 +580,12 @@
     "Combustible": "Gasolina",
     "Motor": "M115 (2.3L I4)",
     "Año": "1977, 1978, 1979, 1980, 1981, 1982",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-m115 -2.3l i4-gasolina",
+    "ID": "mercedes-benz-transporter1"
   },
   {
+    "IDN": 46,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
@@ -457,19 +593,25 @@
     "Combustible": "Gasolina",
     "Motor": "M102 (2.3L I4)",
     "Año": "1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-m102 -2.3l i4-gasolina",
+    "ID": "mercedes-benz-transporter1"
   },
   {
+    "IDN": 47,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
     "Serie/Generacion": "T1 307 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM616 (2.4L I4)",
     "Año": "1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-om616 -2.4l i4-diesel",
+    "ID": "mercedes-benz-transporter1"
   },
   {
+    "IDN": 48,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
@@ -477,9 +619,12 @@
     "Combustible": "Gasolina",
     "Motor": "M115 (2.3L I4)",
     "Año": "1977, 1978, 1979, 1980, 1981, 1982",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-m115 -2.3l i4-gasolina",
+    "ID": "mercedes-benz-transporter1"
   },
   {
+    "IDN": 49,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
@@ -487,39 +632,51 @@
     "Combustible": "Gasolina",
     "Motor": "M102 (2.3L I4)",
     "Año": "1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-m102 -2.3l i4-gasolina",
+    "ID": "mercedes-benz-transporter1"
   },
   {
+    "IDN": 50,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
     "Serie/Generacion": "T1 308 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM601 (2.3L I4)",
     "Año": "1989, 1990, 1991, 1992, 1993, 1994, 1995",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-om601 -2.3l i4-diesel",
+    "ID": "mercedes-benz-transporter1"
   },
   {
+    "IDN": 51,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
     "Serie/Generacion": "T1 310 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM602 (2.9L I5)",
     "Año": "1989, 1990, 1991, 1992, 1993, 1994, 1995",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-om602 -2.9l i5-diesel",
+    "ID": "mercedes-benz-transporter1"
   },
   {
+    "IDN": 52,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
     "Serie/Generacion": "T1 407 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM616 (2.4L I4)",
     "Año": "1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-om616 -2.4l i4-diesel",
+    "ID": "mercedes-benz-transporter1"
   },
   {
+    "IDN": 53,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
@@ -527,9 +684,12 @@
     "Combustible": "Gasolina",
     "Motor": "M115 (2.3L I4)",
     "Año": "1977, 1978, 1979, 1980, 1981, 1982",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-m115 -2.3l i4-gasolina",
+    "ID": "mercedes-benz-transporter1"
   },
   {
+    "IDN": 54,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
@@ -537,79 +697,90 @@
     "Combustible": "Gasolina",
     "Motor": "M102 (2.3L I4)",
     "Año": "1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-m102 -2.3l i4-gasolina",
+    "ID": "mercedes-benz-transporter1"
   },
   {
+    "IDN": 55,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
     "Serie/Generacion": "T1 408 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM314 (3.8L I4)",
     "Año": "1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-om314 -3.8l i4-diesel",
+    "ID": "mercedes-benz-transporter1"
   },
   {
+    "IDN": 56,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
     "Serie/Generacion": "T1 409 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM617 (3.0L I5)",
     "Año": "1982, 1983, 1984, 1985, 1986, 1987, 1988",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-om617 -3.0l i5-diesel",
+    "ID": "mercedes-benz-transporter1"
   },
   {
+    "IDN": 57,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 1",
     "Serie/Generacion": "T1 410 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM602 (2.9L I5)",
     "Año": "1989, 1990, 1991, 1992, 1993, 1994, 1995",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 1.jpg",
+    "IDspecific": "mercedes-benz-transporter1-om602 -2.9l i5-diesel",
+    "ID": "mercedes-benz-transporter1"
   },
   {
-    "Tipo": "Wagon",
-    "Marca": "Mercedes-Benz",
-    "Modelo": "Transporter 1",
-    "Serie/Generacion": "T1 210 E",
-    "Combustible": "Eléctrico",
-    "Motor": "Motor eléctrico",
-    "Año": "1978, 1979, 1980",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter1.jpg"
-  },
-  {
+    "IDN": 58,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 406 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM621 (2.0L I4)",
     "Año": "1967, 1968",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om621 -2.0l i4-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 59,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 406 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM615 (2.2L I4)",
     "Año": "1968, 1969, 1970, 1971, 1972, 1973, 1974",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om615 -2.2l i4-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 60,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 407 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM616 (2.4L I4)",
     "Año": "1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om616 -2.4l i4-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 61,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
@@ -617,9 +788,12 @@
     "Combustible": "Gasolina",
     "Motor": "M121 (2.0L I4)",
     "Año": "1967, 1968",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-m121 -2.0l i4-gasolina",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 62,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
@@ -627,69 +801,90 @@
     "Combustible": "Gasolina",
     "Motor": "M115 (2.3L I4)",
     "Año": "1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-m115 -2.3l i4-gasolina",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 63,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 408 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM314 (3.8L I4)",
     "Año": "1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om314 -3.8l i4-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 64,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 508 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM314 (3.8L I4)",
     "Año": "1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om314 -3.8l i4-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 65,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 608 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM314 (3.8L I4)",
     "Año": "1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om314 -3.8l i4-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 66,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 613 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM352 (5.7L I6)",
     "Año": "1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om352 -5.7l i6-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 67,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 507 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM616 (2.4L I4)",
     "Año": "1986, 1987, 1988, 1989",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om616 -2.4l i4-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 68,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 508 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM601 (2.3L I4)",
     "Año": "1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om601 -2.3l i4-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 69,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
@@ -697,59 +892,77 @@
     "Combustible": "Gasolina",
     "Motor": "M102 (2.3L I4)",
     "Año": "1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-m102 -2.3l i4-gasolina",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 70,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 609 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM364 (4.0L I4)",
     "Año": "1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om364 -4.0l i4-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 71,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 709 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM364 (4.0L I4)",
     "Año": "1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om364 -4.0l i4-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 72,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 711 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM364 A (4.0L I4 Turbo)",
     "Año": "1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om364 a -4.0l i4 turbo-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 73,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 811 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM364 A (4.0L I4 Turbo)",
     "Año": "1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om364 a -4.0l i4 turbo-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 74,
     "Tipo": "Wagon",
     "Marca": "Mercedes-Benz",
     "Modelo": "Transporter 2",
     "Serie/Generacion": "T2 814 D",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "OM364 LA (4.0L Turbo Intercooler)",
     "Año": "1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/mercedes-benz-transporter2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Wagon/Mercedes-Benz-Transporter 2.jpg",
+    "IDspecific": "mercedes-benz-transporter2-om364 la -4.0l turbo intercooler-diesel",
+    "ID": "mercedes-benz-transporter2"
   },
   {
+    "IDN": 75,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -757,9 +970,12 @@
     "Combustible": "Gasolina",
     "Motor": "170 CID I6",
     "Año": "1966, 1967, 1968, 1969, 1970, 1971, 1972",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen1-170 cid i6-gasolina",
+    "ID": "ford-bronco-bronco-gen1"
   },
   {
+    "IDN": 76,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -767,9 +983,12 @@
     "Combustible": "Gasolina",
     "Motor": "289 CID V8",
     "Año": "1966, 1967, 1968, 1969",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen1-289 cid v8-gasolina",
+    "ID": "ford-bronco-bronco-gen1"
   },
   {
+    "IDN": 77,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -777,9 +996,12 @@
     "Combustible": "Gasolina",
     "Motor": "200 CID I6",
     "Año": "1973, 1974, 1975, 1976, 1977",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen1-200 cid i6-gasolina",
+    "ID": "ford-bronco-bronco-gen1"
   },
   {
+    "IDN": 78,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -787,9 +1009,12 @@
     "Combustible": "Gasolina",
     "Motor": "302 CID V8",
     "Año": "1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen1.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen1-302 cid v8-gasolina",
+    "ID": "ford-bronco-bronco-gen1"
   },
   {
+    "IDN": 79,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -797,9 +1022,12 @@
     "Combustible": "Gasolina",
     "Motor": "351 CID V8 (Windsor)",
     "Año": "1978, 1979",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen2-351 cid v8 -windsor-gasolina",
+    "ID": "ford-bronco-bronco-gen2"
   },
   {
+    "IDN": 80,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -807,9 +1035,12 @@
     "Combustible": "Gasolina",
     "Motor": "400 CID V8",
     "Año": "1978, 1979",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen2.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen2-400 cid v8-gasolina",
+    "ID": "ford-bronco-bronco-gen2"
   },
   {
+    "IDN": 81,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -817,9 +1048,12 @@
     "Combustible": "Gasolina",
     "Motor": "300 CID I6",
     "Año": "1980, 1981, 1982, 1983, 1984, 1985, 1986",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen3.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen3-300 cid i6-gasolina",
+    "ID": "ford-bronco-bronco-gen3"
   },
   {
+    "IDN": 82,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -827,9 +1061,12 @@
     "Combustible": "Gasolina",
     "Motor": "302 CID V8",
     "Año": "1980, 1981, 1982, 1983, 1984, 1985, 1986",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen3.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen3-302 cid v8-gasolina",
+    "ID": "ford-bronco-bronco-gen3"
   },
   {
+    "IDN": 83,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -837,9 +1074,12 @@
     "Combustible": "Gasolina",
     "Motor": "351 CID V8 (Windsor)",
     "Año": "1980, 1981, 1982, 1983, 1984, 1985, 1986",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen3.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen3-351 cid v8 -windsor-gasolina",
+    "ID": "ford-bronco-bronco-gen3"
   },
   {
+    "IDN": 84,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -847,9 +1087,12 @@
     "Combustible": "Gasolina",
     "Motor": "300 CID I6",
     "Año": "1987, 1988, 1989, 1990, 1991",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen4.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen4-300 cid i6-gasolina",
+    "ID": "ford-bronco-bronco-gen4"
   },
   {
+    "IDN": 85,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -857,9 +1100,12 @@
     "Combustible": "Gasolina",
     "Motor": "302 CID V8",
     "Año": "1987, 1988, 1989, 1990, 1991",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen4.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen4-302 cid v8-gasolina",
+    "ID": "ford-bronco-bronco-gen4"
   },
   {
+    "IDN": 86,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -867,9 +1113,12 @@
     "Combustible": "Gasolina",
     "Motor": "351 CID V8 (Windsor)",
     "Año": "1987, 1988, 1989, 1990, 1991",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen4.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen4-351 cid v8 -windsor-gasolina",
+    "ID": "ford-bronco-bronco-gen4"
   },
   {
+    "IDN": 87,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -877,9 +1126,12 @@
     "Combustible": "Gasolina",
     "Motor": "302 CID V8",
     "Año": "1992, 1993, 1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen5.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen5-302 cid v8-gasolina",
+    "ID": "ford-bronco-bronco-gen5"
   },
   {
+    "IDN": 88,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -887,9 +1139,12 @@
     "Combustible": "Gasolina",
     "Motor": "351 CID V8 (Windsor)",
     "Año": "1992, 1993, 1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen5.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen5-351 cid v8 -windsor-gasolina",
+    "ID": "ford-bronco-bronco-gen5"
   },
   {
+    "IDN": 89,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -897,9 +1152,12 @@
     "Combustible": "Gasolina",
     "Motor": "2.3L I4 Turbo EcoBoost",
     "Año": "2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen6.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen6-2.3l i4 turbo ecoboost-gasolina",
+    "ID": "ford-bronco-bronco-gen6"
   },
   {
+    "IDN": 90,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -907,9 +1165,12 @@
     "Combustible": "Gasolina",
     "Motor": "2.7L V6 Twin-Turbo",
     "Año": "2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen6.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen6-2.7l v6 twin-turbo-gasolina",
+    "ID": "ford-bronco-bronco-gen6"
   },
   {
+    "IDN": 91,
     "Tipo": "SUV",
     "Marca": "Ford",
     "Modelo": "Bronco",
@@ -917,9 +1178,12 @@
     "Combustible": "Gasolina",
     "Motor": "3.0L V6 Twin-Turbo",
     "Año": "2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/ford-bronco-gen6.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Ford-Bronco.jpg",
+    "IDspecific": "ford-bronco-bronco-gen6-3.0l v6 twin-turbo-gasolina",
+    "ID": "ford-bronco-bronco-gen6"
   },
   {
+    "IDN": 92,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
@@ -927,9 +1191,12 @@
     "Combustible": "Gasolina",
     "Motor": "F 3.9L I6",
     "Año": "1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-40.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie40-f 3.9l i6-gasolina",
+    "ID": "toyota-landcruiser-serie40"
   },
   {
+    "IDN": 93,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
@@ -937,49 +1204,64 @@
     "Combustible": "Gasolina",
     "Motor": "2F 4.2L I6",
     "Año": "1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-40.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie40-2f 4.2l i6-gasolina",
+    "ID": "toyota-landcruiser-serie40"
   },
   {
+    "IDN": 94,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
     "Serie/Generacion": "LandCruiser BJ40",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "B 3.0L I4",
     "Año": "1974, 1975, 1976, 1977, 1978, 1979",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-40.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie40-b 3.0l i4-diesel",
+    "ID": "toyota-landcruiser-serie40"
   },
   {
+    "IDN": 95,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
     "Serie/Generacion": "LandCruiser BJ42",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "3B 3.4L I4",
     "Año": "1980, 1981, 1982, 1983, 1984",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-40.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie40-3b 3.4l i4-diesel",
+    "ID": "toyota-landcruiser-serie40"
   },
   {
+    "IDN": 96,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
     "Serie/Generacion": "LandCruiser HJ45",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "H 3.6L I6",
     "Año": "1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-40.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie40-h 3.6l i6-diesel",
+    "ID": "toyota-landcruiser-serie40"
   },
   {
+    "IDN": 97,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
     "Serie/Generacion": "LandCruiser HJ47",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2H 4.0L I6",
     "Año": "1980, 1981, 1982, 1983, 1984",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-40.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie40-2h 4.0l i6-diesel",
+    "ID": "toyota-landcruiser-serie40"
   },
   {
+    "IDN": 98,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
@@ -987,9 +1269,12 @@
     "Combustible": "Gasolina",
     "Motor": "F 3.9L I6",
     "Año": "1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-50.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie50-f 3.9l i6-gasolina",
+    "ID": "toyota-landcruiser-serie50"
   },
   {
+    "IDN": 99,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
@@ -997,9 +1282,12 @@
     "Combustible": "Gasolina",
     "Motor": "2F 4.2L I6",
     "Año": "1975, 1976, 1977, 1978, 1979, 1980",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-50.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie50-2f 4.2l i6-gasolina",
+    "ID": "toyota-landcruiser-serie50"
   },
   {
+    "IDN": 100,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
@@ -1007,9 +1295,12 @@
     "Combustible": "Gasolina",
     "Motor": "2F 4.2L I6",
     "Año": "1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-60.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie60-2f 4.2l i6-gasolina",
+    "ID": "toyota-landcruiser-serie60"
   },
   {
+    "IDN": 101,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
@@ -1017,49 +1308,64 @@
     "Combustible": "Gasolina",
     "Motor": "3F-E 4.0L I6 EFI",
     "Año": "1988, 1989, 1990",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-60.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie60-3f-e 4.0l i6 efi-gasolina",
+    "ID": "toyota-landcruiser-serie60"
   },
   {
+    "IDN": 102,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
     "Serie/Generacion": "LandCruiser HJ60",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2H 4.0L I6",
     "Año": "1980, 1981, 1982, 1983, 1984, 1985",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-60.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie60-2h 4.0l i6-diesel",
+    "ID": "toyota-landcruiser-serie60"
   },
   {
+    "IDN": 103,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
     "Serie/Generacion": "LandCruiser HJ61",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "12H-T 4.0L I6 Turbo",
     "Año": "1985, 1986, 1987, 1988, 1989",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-60.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie60-12h-t 4.0l i6 turbo-diesel",
+    "ID": "toyota-landcruiser-serie60"
   },
   {
+    "IDN": 104,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
     "Serie/Generacion": "LandCruiser BJ70",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "3B 3.4L I4",
     "Año": "1984, 1985, 1986, 1987, 1988, 1989",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-70.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie70-3b 3.4l i4-diesel",
+    "ID": "toyota-landcruiser-serie70"
   },
   {
+    "IDN": 105,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
     "Serie/Generacion": "LandCruiser BJ73",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "13B-T 3.4L I4 Turbo",
     "Año": "1984, 1985, 1986, 1987, 1988, 1989",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-70.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie70-13b-t 3.4l i4 turbo-diesel",
+    "ID": "toyota-landcruiser-serie70"
   },
   {
+    "IDN": 106,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
@@ -1067,9 +1373,12 @@
     "Combustible": "Gasolina",
     "Motor": "3F 4.0L I6",
     "Año": "1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-70.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie70-3f 4.0l i6-gasolina",
+    "ID": "toyota-landcruiser-serie70"
   },
   {
+    "IDN": 107,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
@@ -1077,39 +1386,51 @@
     "Combustible": "Gasolina",
     "Motor": "1FZ-FE 4.5L I6",
     "Año": "1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-70.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie70-1fz-fe 4.5l i6-gasolina",
+    "ID": "toyota-landcruiser-serie70"
   },
   {
+    "IDN": 108,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
     "Serie/Generacion": "LandCruiser HZJ70",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "1HZ 4.2L I6",
     "Año": "1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-70.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie70-1hz 4.2l i6-diesel",
+    "ID": "toyota-landcruiser-serie70"
   },
   {
+    "IDN": 109,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
     "Serie/Generacion": "LandCruiser HDJ78",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "1HD-FTE 4.2L I6 Turbo",
     "Año": "1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-70.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie70-1hd-fte 4.2l i6 turbo-diesel",
+    "ID": "toyota-landcruiser-serie70"
   },
   {
+    "IDN": 110,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
     "Serie/Generacion": "LandCruiser VDJ76",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "1VD-FTV 4.5L V8 Turbo",
     "Año": "2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-70.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie70-1vd-ftv 4.5l v8 turbo-diesel",
+    "ID": "toyota-landcruiser-serie70"
   },
   {
+    "IDN": 111,
     "Tipo": "SUV",
     "Marca": "Toyota",
     "Modelo": "LandCruiser",
@@ -1117,9 +1438,12 @@
     "Combustible": "Gasolina",
     "Motor": "1GR-FE 4.0L V6",
     "Año": "2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/land-cruiser-serie-70.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Toyota-LandCruiser.jpg",
+    "IDspecific": "toyota-landcruiser-serie70-1gr-fe 4.0l v6-gasolina",
+    "ID": "toyota-landcruiser-serie70"
   },
   {
+    "IDN": 112,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
@@ -1127,9 +1451,12 @@
     "Combustible": "Gasolina",
     "Motor": "P 4.0L I6",
     "Año": "1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen1-p 4.0l i6-gasolina",
+    "ID": "nissan-patrol-gen1"
   },
   {
+    "IDN": 113,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
@@ -1137,9 +1464,12 @@
     "Combustible": "Gasolina",
     "Motor": "L28 2.8L I6",
     "Año": "1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen2-l28 2.8l i6-gasolina",
+    "ID": "nissan-patrol-gen2"
   },
   {
+    "IDN": 114,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
@@ -1147,29 +1477,38 @@
     "Combustible": "Gasolina",
     "Motor": "P40 4.0L I6",
     "Año": "1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen2-p40 4.0l i6-gasolina",
+    "ID": "nissan-patrol-gen2"
   },
   {
+    "IDN": 115,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
     "Serie/Generacion": "Patrol 160 Gen2",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "SD33 3.3L I6",
     "Año": "1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen2-sd33 3.3l i6-diesel",
+    "ID": "nissan-patrol-gen2"
   },
   {
+    "IDN": 116,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
     "Serie/Generacion": "Patrol 160 Gen2",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "SD33T 3.3L I6 Turbo",
     "Año": "1983, 1984, 1985, 1986, 1987, 1988, 1989",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen2-sd33t 3.3l i6 turbo-diesel",
+    "ID": "nissan-patrol-gen2"
   },
   {
+    "IDN": 117,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
@@ -1177,29 +1516,38 @@
     "Combustible": "Gasolina",
     "Motor": "TB42 4.2L I6",
     "Año": "1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen3-tb42 4.2l i6-gasolina",
+    "ID": "nissan-patrol-gen3"
   },
   {
+    "IDN": 118,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
     "Serie/Generacion": "Patrol Y60 Gen3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "TD42 4.2L I6",
     "Año": "1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen3-td42 4.2l i6-diesel",
+    "ID": "nissan-patrol-gen3"
   },
   {
+    "IDN": 119,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
     "Serie/Generacion": "Patrol Y60 Gen3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "RD28T 2.8L I6 Turbo",
     "Año": "1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen3-rd28t 2.8l i6 turbo-diesel",
+    "ID": "nissan-patrol-gen3"
   },
   {
+    "IDN": 120,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
@@ -1207,9 +1555,12 @@
     "Combustible": "Gasolina",
     "Motor": "TB45E 4.5L I6",
     "Año": "1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen4-tb45e 4.5l i6-gasolina",
+    "ID": "nissan-patrol-gen4"
   },
   {
+    "IDN": 121,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
@@ -1217,39 +1568,51 @@
     "Combustible": "Gasolina",
     "Motor": "TB48DE 4.8L I6",
     "Año": "2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen4-tb48de 4.8l i6-gasolina",
+    "ID": "nissan-patrol-gen4"
   },
   {
+    "IDN": 122,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
     "Serie/Generacion": "Patrol Y61 Gen4",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "ZD30DDTi 3.0L I4 Turbo",
     "Año": "2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen4-zd30ddti 3.0l i4 turbo-diesel",
+    "ID": "nissan-patrol-gen4"
   },
   {
+    "IDN": 123,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
     "Serie/Generacion": "Patrol Y61 Gen4",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "TD42 4.2L I6",
     "Año": "1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen4-td42 4.2l i6-diesel",
+    "ID": "nissan-patrol-gen4"
   },
   {
+    "IDN": 124,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
     "Serie/Generacion": "Patrol Y61 Gen4",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "TD42T 4.2L I6 Turbo",
     "Año": "1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen4-td42t 4.2l i6 turbo-diesel",
+    "ID": "nissan-patrol-gen4"
   },
   {
+    "IDN": 125,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
@@ -1257,9 +1620,12 @@
     "Combustible": "Gasolina",
     "Motor": "VK56VD 5.6L V8",
     "Año": "2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen5-vk56vd 5.6l v8-gasolina",
+    "ID": "nissan-patrol-gen5"
   },
   {
+    "IDN": 126,
     "Tipo": "SUV",
     "Marca": "Nissan",
     "Modelo": "Patrol",
@@ -1267,9 +1633,12 @@
     "Combustible": "Gasolina",
     "Motor": "VK56VD 5.6L V8 (428 hp)",
     "Año": "2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/nissan-patrol.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Nissan-Patrol.jpg",
+    "IDspecific": "nissan-patrol-gen5-vk56vd 5.6l v8 -428 hp-gasolina",
+    "ID": "nissan-patrol-gen5"
   },
   {
+    "IDN": 127,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Samurai",
@@ -1277,9 +1646,12 @@
     "Combustible": "Gasolina",
     "Motor": "F10A 1.0L I4",
     "Año": "1981, 1982, 1983, 1984, 1985",
-    "Imagen": "img/vehiculos/modelo/suzuki-samurai.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Samurai.jpg",
+    "IDspecific": "suzuki-samurai-gen1-f10a 1.0l i4-gasolina",
+    "ID": "suzuki-samurai-gen1"
   },
   {
+    "IDN": 128,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Samurai",
@@ -1287,9 +1659,12 @@
     "Combustible": "Gasolina",
     "Motor": "G13A 1.3L I4 (carburador)",
     "Año": "1984, 1985, 1986, 1987, 1988, 1989",
-    "Imagen": "img/vehiculos/modelo/suzuki-samurai.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Samurai.jpg",
+    "IDspecific": "suzuki-samurai-gen2-g13a 1.3l i4 -carburador-gasolina",
+    "ID": "suzuki-samurai-gen2"
   },
   {
+    "IDN": 129,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Samurai",
@@ -1297,49 +1672,64 @@
     "Combustible": "Gasolina",
     "Motor": "G13A 1.3L I4 (carburador)",
     "Año": "1986, 1987, 1988, 1989, 1990, 1991, 1992",
-    "Imagen": "img/vehiculos/modelo/suzuki-samurai.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Samurai.jpg",
+    "IDspecific": "suzuki-samurai-gen3-g13a 1.3l i4 -carburador-gasolina",
+    "ID": "suzuki-samurai-gen3"
   },
   {
+    "IDN": 130,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Samurai",
     "Serie/Generacion": "Samurai Gen3",
     "Combustible": "Gasolina",
-    "Motor": "G13BA 1.3L I4 (inyección monopunto)",
+    "Motor": "G13BA 1.3L I4 (inyecciÃ³n monopunto)",
     "Año": "1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000",
-    "Imagen": "img/vehiculos/modelo/suzuki-samurai.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Samurai.jpg",
+    "IDspecific": "suzuki-samurai-gen3-g13ba 1.3l i4 -inyecciã³n monopunto-gasolina",
+    "ID": "suzuki-samurai-gen3"
   },
   {
+    "IDN": 131,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Samurai",
     "Serie/Generacion": "Samurai Gen3",
     "Combustible": "Gasolina",
-    "Motor": "G13BB 1.3L I4 (inyección multipunto)",
+    "Motor": "G13BB 1.3L I4 (inyecciÃ³n multipunto)",
     "Año": "2001, 2002, 2003",
-    "Imagen": "img/vehiculos/modelo/suzuki-samurai.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Samurai.jpg",
+    "IDspecific": "suzuki-samurai-gen3-g13bb 1.3l i4 -inyecciã³n multipunto-gasolina",
+    "ID": "suzuki-samurai-gen3"
   },
   {
+    "IDN": 132,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Samurai",
     "Serie/Generacion": "Samurai Gen3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "XUD9 1.9L I4 Turbo (Peugeot)",
     "Año": "1998, 1999, 2000, 2001",
-    "Imagen": "img/vehiculos/modelo/suzuki-samurai.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Samurai.jpg",
+    "IDspecific": "suzuki-samurai-gen3-xud9 1.9l i4 turbo -peugeot-diesel",
+    "ID": "suzuki-samurai-gen3"
   },
   {
+    "IDN": 133,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Samurai",
     "Serie/Generacion": "Samurai Gen3",
-    "Combustible": "Diésel",
-    "Motor": "F8Q 1.9L I4 (Renault, atmosférico)",
+    "Combustible": "Diesel",
+    "Motor": "F8Q 1.9L I4 (Renault, atmosfÃ©rico)",
     "Año": "2001, 2002, 2003",
-    "Imagen": "img/vehiculos/modelo/suzuki-samurai.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Samurai.jpg",
+    "IDspecific": "suzuki-samurai-gen3-f8q 1.9l i4 -renault, atmosfã©rico-diesel",
+    "ID": "suzuki-samurai-gen3"
   },
   {
+    "IDN": 134,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1347,9 +1737,12 @@
     "Combustible": "Gasolina",
     "Motor": "359 cc 2-cil. 2T",
     "Año": "1970, 1971, 1972",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen1-359 cc 2-cil. 2t-gasolina",
+    "ID": "suzuki-jimny-gen1"
   },
   {
+    "IDN": 135,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1357,9 +1750,12 @@
     "Combustible": "Gasolina",
     "Motor": "359 cc 2-cil. 2T",
     "Año": "1972, 1973, 1974",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen1-359 cc 2-cil. 2t-gasolina",
+    "ID": "suzuki-jimny-gen1"
   },
   {
+    "IDN": 136,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1367,9 +1763,12 @@
     "Combustible": "Gasolina",
     "Motor": "539 cc 3-cil. 2T",
     "Año": "1975, 1976, 1977",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen1-539 cc 3-cil. 2t-gasolina",
+    "ID": "suzuki-jimny-gen1"
   },
   {
+    "IDN": 137,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1377,9 +1776,12 @@
     "Combustible": "Gasolina",
     "Motor": "797 cc 4-cil. 4T",
     "Año": "1977, 1978, 1979, 1980, 1981",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen1-797 cc 4-cil. 4t-gasolina",
+    "ID": "suzuki-jimny-gen1"
   },
   {
+    "IDN": 138,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1387,9 +1789,12 @@
     "Combustible": "Gasolina",
     "Motor": "539 cc 3-cil. 2T",
     "Año": "1981, 1982, 1983, 1984, 1985",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen2-539 cc 3-cil. 2t-gasolina",
+    "ID": "suzuki-jimny-gen2"
   },
   {
+    "IDN": 139,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1397,9 +1802,12 @@
     "Combustible": "Gasolina",
     "Motor": "970 cc 4-cil. 4T",
     "Año": "1982, 1983, 1984, 1985, 1986",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen2-970 cc 4-cil. 4t-gasolina",
+    "ID": "suzuki-jimny-gen2"
   },
   {
+    "IDN": 140,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1407,9 +1815,12 @@
     "Combustible": "Gasolina",
     "Motor": "543 cc 3-cil. Turbo",
     "Año": "1986, 1987, 1988, 1989",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen2-543 cc 3-cil. turbo-gasolina",
+    "ID": "suzuki-jimny-gen2"
   },
   {
+    "IDN": 141,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1417,9 +1828,12 @@
     "Combustible": "Gasolina",
     "Motor": "657 cc 3-cil. Turbo",
     "Año": "1990, 1991, 1992, 1993",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen2-657 cc 3-cil. turbo-gasolina",
+    "ID": "suzuki-jimny-gen2"
   },
   {
+    "IDN": 142,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1427,9 +1841,12 @@
     "Combustible": "Gasolina",
     "Motor": "657 cc 3-cil. Turbo",
     "Año": "1993, 1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen2-657 cc 3-cil. turbo-gasolina",
+    "ID": "suzuki-jimny-gen2"
   },
   {
+    "IDN": 143,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1437,9 +1854,12 @@
     "Combustible": "Gasolina",
     "Motor": "658 cc 3-cil. Turbo",
     "Año": "1995, 1996, 1997",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen2-658 cc 3-cil. turbo-gasolina",
+    "ID": "suzuki-jimny-gen2"
   },
   {
+    "IDN": 144,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1447,9 +1867,12 @@
     "Combustible": "Gasolina",
     "Motor": "658 cc 3-cil. Turbo",
     "Año": "1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen3-658 cc 3-cil. turbo-gasolina",
+    "ID": "suzuki-jimny-gen3"
   },
   {
+    "IDN": 145,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1457,9 +1880,12 @@
     "Combustible": "Gasolina",
     "Motor": "1.3L 4-cil.",
     "Año": "1998, 1999, 2000, 2001, 2002",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen3-1.3l 4-cil.-gasolina",
+    "ID": "suzuki-jimny-gen3"
   },
   {
+    "IDN": 146,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1467,19 +1893,25 @@
     "Combustible": "Gasolina",
     "Motor": "1.3L 4-cil.",
     "Año": "2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen3-1.3l 4-cil.-gasolina",
+    "ID": "suzuki-jimny-gen3"
   },
   {
+    "IDN": 147,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
     "Serie/Generacion": "Jimny JB53 Gen3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "1.5L 4-cil. Turbo",
     "Año": "2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen3-1.5l 4-cil. turbo-diesel",
+    "ID": "suzuki-jimny-gen3"
   },
   {
+    "IDN": 148,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1487,9 +1919,12 @@
     "Combustible": "Gasolina",
     "Motor": "658 cc 3-cil. Turbo",
     "Año": "2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen4-658 cc 3-cil. turbo-gasolina",
+    "ID": "suzuki-jimny-gen4"
   },
   {
+    "IDN": 149,
     "Tipo": "SUV",
     "Marca": "Suzuki",
     "Modelo": "Jimny",
@@ -1497,9 +1932,12 @@
     "Combustible": "Gasolina",
     "Motor": "1.5L 4-cil.",
     "Año": "2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/suzuki-jimny.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Suzuki-Jimny.jpg",
+    "IDspecific": "suzuki-jimny-gen4-1.5l 4-cil.-gasolina",
+    "ID": "suzuki-jimny-gen4"
   },
   {
+    "IDN": 150,
     "Tipo": "SUV",
     "Marca": "Mitsubishi",
     "Modelo": "Pajero",
@@ -1507,9 +1945,12 @@
     "Combustible": "Gasolina",
     "Motor": "2.0L I4",
     "Año": "1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991",
-    "Imagen": "img/vehiculos/modelo/mitsubishi-pajero.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mitsubishi-Pajero.jpg",
+    "IDspecific": "mitsubishi-pajero-gen1-2.0l i4-gasolina",
+    "ID": "mitsubishi-pajero-gen1"
   },
   {
+    "IDN": 151,
     "Tipo": "SUV",
     "Marca": "Mitsubishi",
     "Modelo": "Pajero",
@@ -1517,9 +1958,12 @@
     "Combustible": "Gasolina",
     "Motor": "2.6L I4",
     "Año": "1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991",
-    "Imagen": "img/vehiculos/modelo/mitsubishi-pajero.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mitsubishi-Pajero.jpg",
+    "IDspecific": "mitsubishi-pajero-gen1-2.6l i4-gasolina",
+    "ID": "mitsubishi-pajero-gen1"
   },
   {
+    "IDN": 152,
     "Tipo": "SUV",
     "Marca": "Mitsubishi",
     "Modelo": "Pajero",
@@ -1527,29 +1971,38 @@
     "Combustible": "Gasolina",
     "Motor": "3.0L V6",
     "Año": "1988, 1989, 1990, 1991",
-    "Imagen": "img/vehiculos/modelo/mitsubishi-pajero.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mitsubishi-Pajero.jpg",
+    "IDspecific": "mitsubishi-pajero-gen1-3.0l v6-gasolina",
+    "ID": "mitsubishi-pajero-gen1"
   },
   {
+    "IDN": 153,
     "Tipo": "SUV",
     "Marca": "Mitsubishi",
     "Modelo": "Pajero",
     "Serie/Generacion": "Pajero Gen1",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.3L I4 Turbo",
     "Año": "1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991",
-    "Imagen": "img/vehiculos/modelo/mitsubishi-pajero.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mitsubishi-Pajero.jpg",
+    "IDspecific": "mitsubishi-pajero-gen1-2.3l i4 turbo-diesel",
+    "ID": "mitsubishi-pajero-gen1"
   },
   {
+    "IDN": 154,
     "Tipo": "SUV",
     "Marca": "Mitsubishi",
     "Modelo": "Pajero",
     "Serie/Generacion": "Pajero Gen1",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.5L I4 Turbo",
     "Año": "1988, 1989, 1990, 1991",
-    "Imagen": "img/vehiculos/modelo/mitsubishi-pajero.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mitsubishi-Pajero.jpg",
+    "IDspecific": "mitsubishi-pajero-gen1-2.5l i4 turbo-diesel",
+    "ID": "mitsubishi-pajero-gen1"
   },
   {
+    "IDN": 155,
     "Tipo": "SUV",
     "Marca": "Mitsubishi",
     "Modelo": "Pajero",
@@ -1557,9 +2010,12 @@
     "Combustible": "Gasolina",
     "Motor": "3.0L V6",
     "Año": "1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999",
-    "Imagen": "img/vehiculos/modelo/mitsubishi-pajero.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mitsubishi-Pajero.jpg",
+    "IDspecific": "mitsubishi-pajero-gen2-3.0l v6-gasolina",
+    "ID": "mitsubishi-pajero-gen2"
   },
   {
+    "IDN": 156,
     "Tipo": "SUV",
     "Marca": "Mitsubishi",
     "Modelo": "Pajero",
@@ -1567,29 +2023,38 @@
     "Combustible": "Gasolina",
     "Motor": "3.5L V6",
     "Año": "1993, 1994, 1995, 1996, 1997, 1998, 1999",
-    "Imagen": "img/vehiculos/modelo/mitsubishi-pajero.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mitsubishi-Pajero.jpg",
+    "IDspecific": "mitsubishi-pajero-gen2-3.5l v6-gasolina",
+    "ID": "mitsubishi-pajero-gen2"
   },
   {
+    "IDN": 157,
     "Tipo": "SUV",
     "Marca": "Mitsubishi",
     "Modelo": "Pajero",
     "Serie/Generacion": "Pajero Gen2",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.5L I4 Turbo",
     "Año": "1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999",
-    "Imagen": "img/vehiculos/modelo/mitsubishi-pajero.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mitsubishi-Pajero.jpg",
+    "IDspecific": "mitsubishi-pajero-gen2-2.5l i4 turbo-diesel",
+    "ID": "mitsubishi-pajero-gen2"
   },
   {
+    "IDN": 158,
     "Tipo": "SUV",
     "Marca": "Mitsubishi",
     "Modelo": "Pajero",
     "Serie/Generacion": "Pajero Gen2",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.8L I4 Turbo",
     "Año": "1993, 1994, 1995, 1996, 1997, 1998, 1999",
-    "Imagen": "img/vehiculos/modelo/mitsubishi-pajero.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mitsubishi-Pajero.jpg",
+    "IDspecific": "mitsubishi-pajero-gen2-2.8l i4 turbo-diesel",
+    "ID": "mitsubishi-pajero-gen2"
   },
   {
+    "IDN": 159,
     "Tipo": "SUV",
     "Marca": "Mitsubishi",
     "Modelo": "Pajero",
@@ -1597,19 +2062,25 @@
     "Combustible": "Gasolina",
     "Motor": "3.5L V6 GDI",
     "Año": "1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006",
-    "Imagen": "img/vehiculos/modelo/mitsubishi-pajero.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mitsubishi-Pajero.jpg",
+    "IDspecific": "mitsubishi-pajero-gen3-3.5l v6 gdi-gasolina",
+    "ID": "mitsubishi-pajero-gen3"
   },
   {
+    "IDN": 160,
     "Tipo": "SUV",
     "Marca": "Mitsubishi",
     "Modelo": "Pajero",
     "Serie/Generacion": "Pajero Gen3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "3.2L I4 DI-D",
     "Año": "1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006",
-    "Imagen": "img/vehiculos/modelo/mitsubishi-pajero.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mitsubishi-Pajero.jpg",
+    "IDspecific": "mitsubishi-pajero-gen3-3.2l i4 di-d-diesel",
+    "ID": "mitsubishi-pajero-gen3"
   },
   {
+    "IDN": 161,
     "Tipo": "SUV",
     "Marca": "Mitsubishi",
     "Modelo": "Pajero",
@@ -1617,19 +2088,25 @@
     "Combustible": "Gasolina",
     "Motor": "3.8L V6 MIVEC",
     "Año": "2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021",
-    "Imagen": "img/vehiculos/modelo/mitsubishi-pajero.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mitsubishi-Pajero.jpg",
+    "IDspecific": "mitsubishi-pajero-gen4-3.8l v6 mivec-gasolina",
+    "ID": "mitsubishi-pajero-gen4"
   },
   {
+    "IDN": 162,
     "Tipo": "SUV",
     "Marca": "Mitsubishi",
     "Modelo": "Pajero",
     "Serie/Generacion": "Pajero Gen4",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "3.2L I4 DI-D (Common Rail)",
     "Año": "2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021",
-    "Imagen": "img/vehiculos/modelo/mitsubishi-pajero.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Mitsubishi-Pajero.jpg",
+    "IDspecific": "mitsubishi-pajero-gen4-3.2l i4 di-d -common rail-diesel",
+    "ID": "mitsubishi-pajero-gen4"
   },
   {
+    "IDN": 163,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
@@ -1637,19 +2114,25 @@
     "Combustible": "Gasolina",
     "Motor": "1.6L I4",
     "Año": "1948, 1949, 1950, 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie1-1.6l i4-gasolina",
+    "ID": "land-rover-defender-serie1"
   },
   {
+    "IDN": 164,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender Serie I Gen1",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.0L I4",
     "Año": "1957, 1958",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie1-2.0l i4-diesel",
+    "ID": "land-rover-defender-serie1"
   },
   {
+    "IDN": 165,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
@@ -1657,9 +2140,12 @@
     "Combustible": "Gasolina",
     "Motor": "2.25L I4",
     "Año": "1958, 1959, 1960, 1961",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie2-2.25l i4-gasolina",
+    "ID": "land-rover-defender-serie2"
   },
   {
+    "IDN": 166,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
@@ -1667,19 +2153,25 @@
     "Combustible": "Gasolina",
     "Motor": "2.25L I4",
     "Año": "1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie2-2.25l i4-gasolina",
+    "ID": "land-rover-defender-serie2"
   },
   {
+    "IDN": 167,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender Serie IIA Gen2",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.25L I4",
     "Año": "1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie2-2.25l i4-diesel",
+    "ID": "land-rover-defender-serie2"
   },
   {
+    "IDN": 168,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
@@ -1687,19 +2179,25 @@
     "Combustible": "Gasolina",
     "Motor": "2.25L I4",
     "Año": "1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie3-2.25l i4-gasolina",
+    "ID": "land-rover-defender-serie3"
   },
   {
+    "IDN": 169,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender Serie III Gen3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.25L I4",
     "Año": "1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie3-2.25l i4-diesel",
+    "ID": "land-rover-defender-serie3"
   },
   {
+    "IDN": 170,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
@@ -1707,19 +2205,25 @@
     "Combustible": "Gasolina",
     "Motor": "3.5L V8",
     "Año": "1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie4-3.5l v8-gasolina",
+    "ID": "land-rover-defender-serie4"
   },
   {
+    "IDN": 171,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender 90 Gen4",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.5L I4",
     "Año": "1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie4-2.5l i4-diesel",
+    "ID": "land-rover-defender-serie4"
   },
   {
+    "IDN": 172,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
@@ -1727,119 +2231,155 @@
     "Combustible": "Gasolina",
     "Motor": "3.5L V8",
     "Año": "1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie4-3.5l v8-gasolina",
+    "ID": "land-rover-defender-serie4"
   },
   {
+    "IDN": 173,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender 110 Gen4",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.5L I4",
     "Año": "1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie4-2.5l i4-diesel",
+    "ID": "land-rover-defender-serie4"
   },
   {
+    "IDN": 174,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender 90 Gen5",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "200Tdi 2.5L I4 Turbo",
     "Año": "1990, 1991, 1992, 1993",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie5-200tdi 2.5l i4 turbo-diesel",
+    "ID": "land-rover-defender-serie5"
   },
   {
+    "IDN": 175,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender 90 Gen5",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "300Tdi 2.5L I4 Turbo",
     "Año": "1994, 1995, 1996, 1997",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie5-300tdi 2.5l i4 turbo-diesel",
+    "ID": "land-rover-defender-serie5"
   },
   {
+    "IDN": 176,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender 90 Gen5",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "Td5 2.5L I5 Turbo",
     "Año": "1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie5-td5 2.5l i5 turbo-diesel",
+    "ID": "land-rover-defender-serie5"
   },
   {
+    "IDN": 177,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender 90 Gen5",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.4L I4 Turbo",
     "Año": "2007, 2008, 2009, 2010, 2011",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie5-2.4l i4 turbo-diesel",
+    "ID": "land-rover-defender-serie5"
   },
   {
+    "IDN": 178,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender 90 Gen5",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.2L I4 Turbo",
     "Año": "2012, 2013, 2014, 2015, 2016",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie5-2.2l i4 turbo-diesel",
+    "ID": "land-rover-defender-serie5"
   },
   {
+    "IDN": 179,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender 110 Gen5",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "200Tdi 2.5L I4 Turbo",
     "Año": "1990, 1991, 1992, 1993",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie5-200tdi 2.5l i4 turbo-diesel",
+    "ID": "land-rover-defender-serie5"
   },
   {
+    "IDN": 180,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender 110 Gen5",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "300Tdi 2.5L I4 Turbo",
     "Año": "1994, 1995, 1996, 1997",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie5-300tdi 2.5l i4 turbo-diesel",
+    "ID": "land-rover-defender-serie5"
   },
   {
+    "IDN": 181,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender 110 Gen5",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "Td5 2.5L I5 Turbo",
     "Año": "1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie5-td5 2.5l i5 turbo-diesel",
+    "ID": "land-rover-defender-serie5"
   },
   {
+    "IDN": 182,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender 110 Gen5",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.4L I4 Turbo",
     "Año": "2007, 2008, 2009, 2010, 2011",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie5-2.4l i4 turbo-diesel",
+    "ID": "land-rover-defender-serie5"
   },
   {
+    "IDN": 183,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender 110 Gen5",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.2L I4 Turbo",
     "Año": "2012, 2013, 2014, 2015, 2016",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie5-2.2l i4 turbo-diesel",
+    "ID": "land-rover-defender-serie5"
   },
   {
+    "IDN": 184,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
@@ -1847,9 +2387,12 @@
     "Combustible": "Gasolina",
     "Motor": "2.0L I4 Turbo",
     "Año": "2020, 2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie6-2.0l i4 turbo-gasolina",
+    "ID": "land-rover-defender-serie6"
   },
   {
+    "IDN": 185,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
@@ -1857,9 +2400,12 @@
     "Combustible": "Gasolina",
     "Motor": "3.0L I6 Turbo Mild Hybrid",
     "Año": "2020, 2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie6-3.0l i6 turbo mild hybrid-gasolina",
+    "ID": "land-rover-defender-serie6"
   },
   {
+    "IDN": 186,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
@@ -1867,19 +2413,25 @@
     "Combustible": "Gasolina",
     "Motor": "5.0L V8 Supercharged",
     "Año": "2021, 2022, 2023, 2024, 2025",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie6-5.0l v8 supercharged-gasolina",
+    "ID": "land-rover-defender-serie6"
   },
   {
+    "IDN": 187,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Defender",
     "Serie/Generacion": "Defender 90 Gen6",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "3.0L I6 Turbo",
     "Año": "",
-    "Imagen": "img/vehiculos/modelo/land-rover-defender.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Defender.jpg",
+    "IDspecific": "land-rover-defender-serie6-3.0l i6 turbo-diesel",
+    "ID": "land-rover-defender-serie6"
   },
   {
+    "IDN": 188,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Santana",
@@ -1887,19 +2439,25 @@
     "Combustible": "Gasolina",
     "Motor": "2.0L I4",
     "Año": "1958, 1959, 1960, 1961",
-    "Imagen": "img/vehiculos/modelo/land-rover-santana.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Santana.jpg",
+    "IDspecific": "land-rover-santana-serie2-2.0l i4-gasolina",
+    "ID": "land-rover-santana-serie2"
   },
   {
+    "IDN": 189,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Santana",
     "Serie/Generacion": "Santana Serie II Gen1",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.0L I4",
     "Año": "1958, 1959, 1960, 1961",
-    "Imagen": "img/vehiculos/modelo/land-rover-santana.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Santana.jpg",
+    "IDspecific": "land-rover-santana-serie2-2.0l i4-diesel",
+    "ID": "land-rover-santana-serie2"
   },
   {
+    "IDN": 190,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Santana",
@@ -1907,19 +2465,25 @@
     "Combustible": "Gasolina",
     "Motor": "2.25L I4",
     "Año": "1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974",
-    "Imagen": "img/vehiculos/modelo/land-rover-santana.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Santana.jpg",
+    "IDspecific": "land-rover-santana-serie2a-2.25l i4-gasolina",
+    "ID": "land-rover-santana-serie2a"
   },
   {
+    "IDN": 191,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Santana",
     "Serie/Generacion": "Santana Serie IIA Gen2",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.25L I4",
     "Año": "1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974",
-    "Imagen": "img/vehiculos/modelo/land-rover-santana.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Santana.jpg",
+    "IDspecific": "land-rover-santana-serie2a-2.25l i4-diesel",
+    "ID": "land-rover-santana-serie2a"
   },
   {
+    "IDN": 192,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Santana",
@@ -1927,29 +2491,38 @@
     "Combustible": "Gasolina",
     "Motor": "2.25L I4",
     "Año": "1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984",
-    "Imagen": "img/vehiculos/modelo/land-rover-santana.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Santana.jpg",
+    "IDspecific": "land-rover-santana-serie3-2.25l i4-gasolina",
+    "ID": "land-rover-santana-serie3"
   },
   {
+    "IDN": 193,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Santana",
     "Serie/Generacion": "Santana Serie III Gen3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.25L I4",
     "Año": "1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984",
-    "Imagen": "img/vehiculos/modelo/land-rover-santana.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Santana.jpg",
+    "IDspecific": "land-rover-santana-serie3-2.25l i4-diesel",
+    "ID": "land-rover-santana-serie3"
   },
   {
+    "IDN": 194,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Santana",
     "Serie/Generacion": "Santana Serie III Gen3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.25L I4 Turbo",
     "Año": "1982, 1983, 1984",
-    "Imagen": "img/vehiculos/modelo/land-rover-santana.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Santana.jpg",
+    "IDspecific": "land-rover-santana-serie3-2.25l i4 turbo-diesel",
+    "ID": "land-rover-santana-serie3"
   },
   {
+    "IDN": 195,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Santana",
@@ -1957,39 +2530,51 @@
     "Combustible": "Gasolina",
     "Motor": "3.5L I6",
     "Año": "1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984",
-    "Imagen": "img/vehiculos/modelo/land-rover-santana.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Santana.jpg",
+    "IDspecific": "land-rover-santana-serie3-3.5l i6-gasolina",
+    "ID": "land-rover-santana-serie3"
   },
   {
+    "IDN": 196,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Santana",
     "Serie/Generacion": "Santana Serie III Gen3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "3.5L I6",
     "Año": "1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984",
-    "Imagen": "img/vehiculos/modelo/land-rover-santana.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Santana.jpg",
+    "IDspecific": "land-rover-santana-serie3-3.5l i6-diesel",
+    "ID": "land-rover-santana-serie3"
   },
   {
+    "IDN": 197,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Santana",
     "Serie/Generacion": "Santana 2500 Gen4",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.5L I4",
     "Año": "1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994",
-    "Imagen": "img/vehiculos/modelo/land-rover-santana.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Santana.jpg",
+    "IDspecific": "land-rover-santana-2500-2.5l i4-diesel",
+    "ID": "land-rover-santana-2500"
   },
   {
+    "IDN": 198,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Santana",
     "Serie/Generacion": "Santana 2500 Gen4",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "2.5L I4 Turbo",
     "Año": "1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994",
-    "Imagen": "img/vehiculos/modelo/land-rover-santana.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Santana.jpg",
+    "IDspecific": "land-rover-santana-2500-2.5l i4 turbo-diesel",
+    "ID": "land-rover-santana-2500"
   },
   {
+    "IDN": 199,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Santana",
@@ -1997,19 +2582,25 @@
     "Combustible": "Gasolina",
     "Motor": "2.25L I4",
     "Año": "1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994",
-    "Imagen": "img/vehiculos/modelo/land-rover-santana.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Santana.jpg",
+    "IDspecific": "land-rover-santana-2500-2.25l i4-gasolina",
+    "ID": "land-rover-santana-2500"
   },
   {
+    "IDN": 200,
     "Tipo": "SUV",
     "Marca": "Land Rover",
     "Modelo": "Santana",
     "Serie/Generacion": "Santana 3500 DL Gen4",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "3.5L I6",
     "Año": "1989, 1990, 1991, 1992",
-    "Imagen": "img/vehiculos/modelo/land-rover-santana.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/SUV/Land Rover-Santana.jpg",
+    "IDspecific": "land-rover-santana-3500-3.5l i6-diesel",
+    "ID": "land-rover-santana-3500"
   },
   {
+    "IDN": 201,
     "Tipo": "Van",
     "Marca": "Chevrolet",
     "Modelo": "G-Series",
@@ -2017,9 +2608,12 @@
     "Combustible": "Gasolina",
     "Motor": "2.5L I4",
     "Año": "1964, 1965, 1966",
-    "Imagen": "img/vehiculos/modelo/chevrolet-g.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/Chevrolet-G-Series.jpg",
+    "IDspecific": "chevrolet-g-series-gen1-2.5l i4-gasolina",
+    "ID": "chevrolet-g-series-gen1"
   },
   {
+    "IDN": 202,
     "Tipo": "Van",
     "Marca": "Chevrolet",
     "Modelo": "G-Series",
@@ -2027,9 +2621,12 @@
     "Combustible": "Gasolina",
     "Motor": "3.2L I6",
     "Año": "1964, 1965, 1966",
-    "Imagen": "img/vehiculos/modelo/chevrolet-g.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/Chevrolet-G-Series.jpg",
+    "IDspecific": "chevrolet-g-series-gen1-3.2l i6-gasolina",
+    "ID": "chevrolet-g-series-gen1"
   },
   {
+    "IDN": 203,
     "Tipo": "Van",
     "Marca": "GMC",
     "Modelo": "Handi-Van",
@@ -2037,9 +2634,12 @@
     "Combustible": "Gasolina",
     "Motor": "2.5L I4",
     "Año": "1964, 1965, 1966",
-    "Imagen": "img/vehiculos/modelo/gmc-handi.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/GMC-Handi-Van.jpg",
+    "IDspecific": "gmc-handi-van-gen1-2.5l i4-gasolina",
+    "ID": "gmc-handi-van-gen1"
   },
   {
+    "IDN": 204,
     "Tipo": "Van",
     "Marca": "GMC",
     "Modelo": "Handi-Van",
@@ -2047,9 +2647,12 @@
     "Combustible": "Gasolina",
     "Motor": "3.2L I6",
     "Año": "1964, 1965, 1966",
-    "Imagen": "img/vehiculos/modelo/gmc-handi.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/GMC-Handi-Van.jpg",
+    "IDspecific": "gmc-handi-van-gen1-3.2l i6-gasolina",
+    "ID": "gmc-handi-van-gen1"
   },
   {
+    "IDN": 205,
     "Tipo": "Van",
     "Marca": "Chevrolet",
     "Modelo": "G-Series",
@@ -2057,9 +2660,12 @@
     "Combustible": "Gasolina",
     "Motor": "3.8L I6",
     "Año": "1967, 1968, 1969, 1970",
-    "Imagen": "img/vehiculos/modelo/chevrolet-g.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/Chevrolet-G-Series.jpg",
+    "IDspecific": "chevrolet-g-series-gen2-3.8l i6-gasolina",
+    "ID": "chevrolet-g-series-gen2"
   },
   {
+    "IDN": 206,
     "Tipo": "Van",
     "Marca": "Chevrolet",
     "Modelo": "G-Series",
@@ -2067,9 +2673,12 @@
     "Combustible": "Gasolina",
     "Motor": "4.1L I6",
     "Año": "1967, 1968, 1969, 1970",
-    "Imagen": "img/vehiculos/modelo/chevrolet-g.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/Chevrolet-G-Series.jpg",
+    "IDspecific": "chevrolet-g-series-gen2-4.1l i6-gasolina",
+    "ID": "chevrolet-g-series-gen2"
   },
   {
+    "IDN": 207,
     "Tipo": "Van",
     "Marca": "Chevrolet",
     "Modelo": "G-Series",
@@ -2077,9 +2686,12 @@
     "Combustible": "Gasolina",
     "Motor": "4.6L V8",
     "Año": "1967, 1968, 1969, 1970",
-    "Imagen": "img/vehiculos/modelo/chevrolet-g.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/Chevrolet-G-Series.jpg",
+    "IDspecific": "chevrolet-g-series-gen2-4.6l v8-gasolina",
+    "ID": "chevrolet-g-series-gen2"
   },
   {
+    "IDN": 208,
     "Tipo": "Van",
     "Marca": "Chevrolet",
     "Modelo": "G-Series",
@@ -2087,9 +2699,12 @@
     "Combustible": "Gasolina",
     "Motor": "5.0L V8",
     "Año": "1967, 1968, 1969, 1970",
-    "Imagen": "img/vehiculos/modelo/chevrolet-g.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/Chevrolet-G-Series.jpg",
+    "IDspecific": "chevrolet-g-series-gen2-5.0l v8-gasolina",
+    "ID": "chevrolet-g-series-gen2"
   },
   {
+    "IDN": 209,
     "Tipo": "Van",
     "Marca": "GMC",
     "Modelo": "Handi-Van",
@@ -2097,9 +2712,12 @@
     "Combustible": "Gasolina",
     "Motor": "3.8L I6",
     "Año": "1967, 1968, 1969, 1970",
-    "Imagen": "img/vehiculos/modelo/gmc-handi.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/GMC-Handi-Van.jpg",
+    "IDspecific": "gmc-handi-van-gen2-3.8l i6-gasolina",
+    "ID": "gmc-handi-van-gen2"
   },
   {
+    "IDN": 210,
     "Tipo": "Van",
     "Marca": "GMC",
     "Modelo": "Handi-Van",
@@ -2107,9 +2725,12 @@
     "Combustible": "Gasolina",
     "Motor": "4.1L I6",
     "Año": "1967, 1968, 1969, 1970",
-    "Imagen": "img/vehiculos/modelo/gmc-handi.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/GMC-Handi-Van.jpg",
+    "IDspecific": "gmc-handi-van-gen3-4.1l i6-gasolina",
+    "ID": "gmc-handi-van-gen3"
   },
   {
+    "IDN": 211,
     "Tipo": "Van",
     "Marca": "GMC",
     "Modelo": "Handi-Van",
@@ -2117,9 +2738,12 @@
     "Combustible": "Gasolina",
     "Motor": "4.6L V8",
     "Año": "1967, 1968, 1969, 1970",
-    "Imagen": "img/vehiculos/modelo/gmc-handi.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/GMC-Handi-Van.jpg",
+    "IDspecific": "gmc-handi-van-gen4-4.6l v8-gasolina",
+    "ID": "gmc-handi-van-gen4"
   },
   {
+    "IDN": 212,
     "Tipo": "Van",
     "Marca": "GMC",
     "Modelo": "Handi-Van",
@@ -2127,9 +2751,12 @@
     "Combustible": "Gasolina",
     "Motor": "5.0L V8",
     "Año": "1967, 1968, 1969, 1970",
-    "Imagen": "img/vehiculos/modelo/gmc-handi.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/GMC-Handi-Van.jpg",
+    "IDspecific": "gmc-handi-van-gen5-5.0l v8-gasolina",
+    "ID": "gmc-handi-van-gen5"
   },
   {
+    "IDN": 213,
     "Tipo": "Van",
     "Marca": "Chevrolet",
     "Modelo": "G-Series",
@@ -2137,9 +2764,12 @@
     "Combustible": "Gasolina",
     "Motor": "4.1L I6",
     "Año": "1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984",
-    "Imagen": "img/vehiculos/modelo/chevrolet-g.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/Chevrolet-G-Series.jpg",
+    "IDspecific": "chevrolet-g-series-gen3-4.1l i6-gasolina",
+    "ID": "chevrolet-g-series-gen3"
   },
   {
+    "IDN": 214,
     "Tipo": "Van",
     "Marca": "Chevrolet",
     "Modelo": "G-Series",
@@ -2147,29 +2777,38 @@
     "Combustible": "Gasolina",
     "Motor": "4.3L V6",
     "Año": "1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/chevrolet-g.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/Chevrolet-G-Series.jpg",
+    "IDspecific": "chevrolet-g-series-4x4-gen3-4.3l v6-gasolina",
+    "ID": "chevrolet-g-series-4x4-gen3"
   },
   {
+    "IDN": 215,
     "Tipo": "Van",
     "Marca": "Chevrolet",
     "Modelo": "G-Series",
     "Serie/Generacion": "G-Series 4x4 Gen3",
     "Combustible": "Gasolina",
     "Motor": "5.0L V8",
-    "Año": "1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985–1996",
-    "Imagen": "img/vehiculos/modelo/chevrolet-g.jpg"
+    "Año": "1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985â€“1996",
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/Chevrolet-G-Series.jpg",
+    "IDspecific": "chevrolet-g-series-4x4-gen3-5.0l v8-gasolina",
+    "ID": "chevrolet-g-series-4x4-gen3"
   },
   {
+    "IDN": 216,
     "Tipo": "Van",
     "Marca": "Chevrolet",
     "Modelo": "G-Series",
     "Serie/Generacion": "G-Series 4x4 Gen3",
     "Combustible": "Gasolina",
     "Motor": "5.7L V8",
-    "Año": "1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985–1996",
-    "Imagen": "img/vehiculos/modelo/chevrolet-g.jpg"
+    "Año": "1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985â€“1996",
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/Chevrolet-G-Series.jpg",
+    "IDspecific": "chevrolet-g-series-4x4-gen3-5.7l v8-gasolina",
+    "ID": "chevrolet-g-series-4x4-gen3"
   },
   {
+    "IDN": 217,
     "Tipo": "Van",
     "Marca": "Chevrolet",
     "Modelo": "G-Series",
@@ -2177,66 +2816,86 @@
     "Combustible": "Gasolina",
     "Motor": "7.4L V8",
     "Año": "1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/chevrolet-g.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/Chevrolet-G-Series.jpg",
+    "IDspecific": "chevrolet-g-series-4x4-gen3-7.4l v8-gasolina",
+    "ID": "chevrolet-g-series-4x4-gen3"
   },
   {
+    "IDN": 218,
     "Tipo": "Van",
     "Marca": "Chevrolet",
     "Modelo": "G-Series",
     "Serie/Generacion": "G-Series 4x4 Gen3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "6.2L V8",
-    "Año": "1982–1993",
-    "Imagen": "img/vehiculos/modelo/chevrolet-g.jpg"
+    "Año": "1982â€“1993",
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/Chevrolet-G-Series.jpg",
+    "IDspecific": "chevrolet-g-series-4x4-gen3-6.2l v8-diesel",
+    "ID": "chevrolet-g-series-4x4-gen3"
   },
   {
+    "IDN": 219,
     "Tipo": "Van",
     "Marca": "Chevrolet",
     "Modelo": "G-Series",
     "Serie/Generacion": "G-Series 4x4 Gen3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "6.5L V8",
     "Año": "1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/chevrolet-g.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/Chevrolet-G-Series.jpg",
+    "IDspecific": "chevrolet-g-series-4x4-gen3-6.5l v8-diesel",
+    "ID": "chevrolet-g-series-4x4-gen3"
   },
   {
+    "IDN": 220,
     "Tipo": "Van",
     "Marca": "GMC",
     "Modelo": "Vandura",
     "Serie/Generacion": "Vandura 4x4 Gen3",
     "Combustible": "Gasolina",
     "Motor": "5.0L V8",
-    "Año": "1977–1996",
-    "Imagen": "img/vehiculos/modelo/gmc-vandura.jpg"
+    "Año": "1977â€“1996",
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/GMC-Vandura.jpg",
+    "IDspecific": "gmc-vandura-4x4-gen3-5.0l v8-gasolina",
+    "ID": "gmc-vandura-4x4-gen3"
   },
   {
+    "IDN": 221,
     "Tipo": "Van",
     "Marca": "GMC",
     "Modelo": "Vandura",
     "Serie/Generacion": "Vandura 4x4 Gen3",
     "Combustible": "Gasolina",
     "Motor": "5.7L V8",
-    "Año": "1977–1996",
-    "Imagen": "img/vehiculos/modelo/gmc-vandura.jpg"
+    "Año": "1977â€“1996",
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/GMC-Vandura.jpg",
+    "IDspecific": "gmc-vandura-4x4-gen3-5.7l v8-gasolina",
+    "ID": "gmc-vandura-4x4-gen3"
   },
   {
+    "IDN": 222,
     "Tipo": "Van",
     "Marca": "GMC",
     "Modelo": "Vandura",
     "Serie/Generacion": "Vandura 4x4 Gen3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "6.2L V8",
-    "Año": "1982–1993",
-    "Imagen": "img/vehiculos/modelo/gmc-vandura.jpg"
+    "Año": "1982â€“1993",
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/GMC-Vandura.jpg",
+    "IDspecific": "gmc-vandura-4x4-gen3-6.2l v8-diesel",
+    "ID": "gmc-vandura-4x4-gen3"
   },
   {
+    "IDN": 223,
     "Tipo": "Van",
     "Marca": "GMC",
     "Modelo": "Vandura",
     "Serie/Generacion": "Vandura 4x4 Gen3",
-    "Combustible": "Diésel",
+    "Combustible": "Diesel",
     "Motor": "6.5L V8",
     "Año": "1994, 1995, 1996",
-    "Imagen": "img/vehiculos/modelo/gmc-vandura.jpg"
+    "Imagen": "https://beteranomotors.github.io/beterano-data/img/vehiculos/Van/GMC-Vandura.jpg",
+    "IDspecific": "gmc-vandura-4x4-gen3-6.5l v8-diesel",
+    "ID": "gmc-vandura-4x4-gen3"
   }
 ]
