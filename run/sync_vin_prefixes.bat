@@ -1,5 +1,5 @@
 @echo off
 cd ..
-echo Ejecutando sincronización de vin_prefixes.json...
+echo Ejecutando sync_vin_prefixes.js ...
 node scripts\sync_vin_prefixes.js
 pause
