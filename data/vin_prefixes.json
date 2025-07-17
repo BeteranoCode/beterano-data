@@ -1,0 +1,56 @@
+{
+  "Chevrolet": {
+    "prefix": "1G1",
+    "vin_length": 17,
+    "vin_start_year": 1981,
+    "chassis_format": "pre-1981: 11 chars"
+  },
+  "Ford": {
+    "prefix": "1FME",
+    "vin_length": 17,
+    "vin_start_year": 1981,
+    "chassis_format": "pre-1981: 11 chars (ej: U15GLR08721)"
+  },
+  "GMC": {
+    "prefix": "1G2",
+    "vin_length": 17,
+    "vin_start_year": 1981,
+    "chassis_format": "pre-1981: 11 chars"
+  },
+  "Land Rover": {
+    "prefix": "SAL",
+    "vin_length": 17,
+    "vin_start_year": 1981,
+    "chassis_format": "pre-1981: 8-11 chars (ej: 24126782C)"
+  },
+  "Mercedes-Benz": {
+    "prefix": "WDB",
+    "vin_length": 17,
+    "vin_start_year": 1980,
+    "chassis_format": "pre-1981: 14 chars (ej: 309350-12-012345)"
+  },
+  "Mitsubishi": {
+    "prefix": "JMYS",
+    "vin_length": 17,
+    "vin_start_year": 1981,
+    "chassis_format": "pre-1981: 11 chars"
+  },
+  "Nissan": {
+    "prefix": "JN1",
+    "vin_length": 17,
+    "vin_start_year": 1981,
+    "chassis_format": "pre-1981: SD33-123456"
+  },
+  "Suzuki": {
+    "prefix": "JSA",
+    "vin_length": 17,
+    "vin_start_year": 1981,
+    "chassis_format": "pre-1981: 8-11 chars"
+  },
+  "Toyota": {
+    "prefix": "JT1",
+    "vin_length": 17,
+    "vin_start_year": 1980,
+    "chassis_format": "pre-1981: FJ40-123456"
+  }
+}
