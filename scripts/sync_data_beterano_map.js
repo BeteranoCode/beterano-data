@@ -7,7 +7,7 @@ const path = require('path');
 const { execSync } = require('child_process');
 
 // === CONFIGURACIÓN ===
-const SPREADSHEET_ID = '18STFQeKvzXMsPQZUTPE_xVhHWLr04TmWB4FP8iepb7o';
+const SPREADSHEET_ID = process.env.SPREADSHEET_ID;
 const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY || '';
 
 // Permite usar ruta personalizada desde línea de comandos
