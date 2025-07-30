@@ -22,8 +22,8 @@ const sheetsToExtract = [
 // Ruta de salida (permite usar parámetro CLI opcional)
 const outputArg = process.argv[2];
 const OUTPUT_FOLDER = outputArg
-  ? path.resolve(__dirname, outputArg)
-  : path.join(__dirname, '../../beterano-map/src/data');
+  ? path.resolve(process.cwd(), outputArg)
+  : path.resolve(__dirname, '../../beterano-map/src/data');
 
 // === FUNCIÓN PRINCIPAL ===
 async function sync() {
