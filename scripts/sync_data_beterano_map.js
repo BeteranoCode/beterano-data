@@ -1,22 +1,11 @@
-// sync_data_beterano_map.js
-require('dotenv').config();
+// sync_data_beterano_map.js (sin API KEY, sin autenticación)
 
-const { GoogleSpreadsheet } = require('google-spreadsheet');
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
+const axios = require('axios');
 
 // === CONFIGURACIÓN ===
-const SPREADSHEET_ID = process.env.SPREADSHEET_ID;
-const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY || '';
-
-// Permite usar ruta personalizada desde línea de comandos
-const outputArg = process.argv[2]; // Ejemplo: node sync_data_beterano_map.js ../beterano-map/src/data
-const OUTPUT_FOLDER = outputArg
-  ? path.resolve(__dirname, outputArg)
-  : path.join(__dirname, '../../beterano-map/src/data');
-
-// Lista de hojas del Google Sheet que se convertirán en JSON
+const SPREADSHEET_ID = '18STFQeKvzXMsPQZUTPE_xVhHWLr04TmWB4FP8iepb7o';
 const sheetsToExtract = [
   'restauradores',
   'gruas',
@@ -30,46 +19,44 @@ const sheetsToExtract = [
   'shops'
 ];
 
+// Ruta de salida (permite usar parámetro CLI opcional)
+const outputArg = process.argv[2];
+const OUTPUT_FOLDER = outputArg
+  ? path.resolve(__dirname, outputArg)
+  : path.join(__dirname, '../../beterano-map/src/data');
+
+// === FUNCIÓN PRINCIPAL ===
 async function sync() {
-  try {
-    const doc = new GoogleSpreadsheet(SPREADSHEET_ID);
-    // Hoja pública, no requiere autenticación //if (GOOGLE_API_KEY) doc.useApiKey(GOOGLE_API_KEY);
-    await doc.loadInfo();
+  console.log(`📥 Conectando a Google Sheets...`);
+  console.log(`💾 Carpeta de salida: ${OUTPUT_FOLDER}\n`);
 
-    console.log(`📥 Conectado a: ${doc.title}`);
-    console.log(`💾 Carpeta de salida: ${OUTPUT_FOLDER}\n`);
+  for (const sheet of sheetsToExtract) {
+    const url = `https://docs.google.com/spreadsheets/d/${SPREADSHEET_ID}/gviz/tq?tqx=out:json&sheet=${sheet}`;
 
-    for (const sheetName of sheetsToExtract) {
-      const sheet = doc.sheetsByTitle[sheetName];
-      if (!sheet) {
-        console.warn(`❌ Hoja no encontrada: ${sheetName}`);
-        continue;
-      }
+    try {
+      const response = await axios.get(url);
+      const raw = response.data;
 
-      const rows = await sheet.getRows();
-      const data = rows.map(row => row.toObject());
-      const outputPath = path.join(OUTPUT_FOLDER, `${sheetName}.json`);
+      // Elimina el texto de envoltura: google.visualization.Query.setResponse(...)
+      const jsonStr = raw.match(/setResponse\(([\s\S\w]+)\)/)[1];
+      const json = JSON.parse(jsonStr);
 
-      fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
-      console.log(`✅ Exportado: ${sheetName}.json`);
+      const rows = json.table.rows.map(row =>
+        Object.fromEntries(
+          row.c.map((cell, i) => [json.table.cols[i].label, cell?.v ?? ''])
+        )
+      );
+
+      const outPath = path.join(OUTPUT_FOLDER, `${sheet}.json`);
+      fs.writeFileSync(outPath, JSON.stringify(rows, null, 2));
+      console.log(`✅ Exportado: ${sheet}.json`);
+
+    } catch (err) {
+      console.warn(`❌ Error al procesar ${sheet}: ${err.message}`);
     }
-
-    // Git commit automático (solo si carpeta es beterano-map)
-    if (OUTPUT_FOLDER.includes('beterano-map')) {
-      try {
-        execSync('git add . && git commit -m "sync: update beterano-map JSONs from Google Sheet" && git push', {
-          cwd: path.resolve(OUTPUT_FOLDER, '../../'), // ruta al root del repo
-          stdio: 'inherit'
-        });
-      } catch {
-        console.log('⚠️ No hay cambios o git ya está actualizado.');
-      }
-    }
-
-    console.log('\n✅ Sincronización completa.');
-  } catch (err) {
-    console.error('❌ Error durante la sincronización:\n', err);
   }
+
+  console.log('\n✅ Sincronización completa.');
 }
 
 sync();
