@@ -2,12 +2,12 @@
 cd /d "%~dp0"
 
 echo ▶ Ejecutando sincronización desde Google Sheets...
-node scripts/sync_data_beterano_map.js
+node ../scripts/sync_data_beterano_map.js
 
 echo.
 echo ✅ Sincronización completada. Verificando cambios en JSON...
 
-cd src\data
+cd ../data
 
 :: Verifica si hay archivos modificados
 git status --porcelain > temp_git_status.txt
@@ -16,8 +16,8 @@ if %errorlevel%==0 (
     echo.
     echo 🔄 Se han detectado cambios en los archivos JSON.
 
-    cd ../..
-    git add src/data/*.json
+    cd ..
+    git add data/*.json
     git commit -m "sync: actualiza JSON desde Google Sheets"
     git push
     echo 📤 Cambios subidos a GitHub.
@@ -26,7 +26,7 @@ if %errorlevel%==0 (
 )
 
 :: Limpieza
-cd ../..
-del src\data\temp_git_status.txt 2>nul
+cd ..
+del data\temp_git_status.txt 2>nul
 
 pause

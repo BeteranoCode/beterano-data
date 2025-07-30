@@ -5,14 +5,17 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
-// ID del documento y ruta de guardado
+// === CONFIGURACIÓN ===
 const SPREADSHEET_ID = '18STFQeKvzXMsPQZUTPE_xVhHWLr04TmWB4FP8iepb7o';
-const OUTPUT_FOLDER = path.join(__dirname, '../../beterano-map/src/data');
+const GOOGLE_API_KEY = ''; // (⚠️ En blanco porque el sheet es público)
 
-// Clave de API pública (añadirla si el documento se hace privado)
-const GOOGLE_API_KEY = ''; // ❗️Agregar en el futuro cuando se privatice
+// Permite usar ruta personalizada desde línea de comandos
+const outputArg = process.argv[2]; // Ejemplo: node sync_data_beterano_map.js ../beterano-map/src/data
+const OUTPUT_FOLDER = outputArg
+  ? path.resolve(__dirname, outputArg)
+  : path.join(__dirname, '../../beterano-map/src/data');
 
-// Nombre de las hojas = nombre de los archivos .json
+// Lista de hojas del Google Sheet que se convertirán en JSON
 const sheetsToExtract = [
   'restauradores',
   'gruas',
@@ -26,34 +29,45 @@ const sheetsToExtract = [
   'shops'
 ];
 
-// Función principal
 async function sync() {
-  const doc = new GoogleSpreadsheet(SPREADSHEET_ID);
-  if (GOOGLE_API_KEY) doc.useApiKey(GOOGLE_API_KEY);
-  await doc.loadInfo();
+  try {
+    const doc = new GoogleSpreadsheet(SPREADSHEET_ID);
+    if (GOOGLE_API_KEY) doc.useApiKey(GOOGLE_API_KEY);
+    await doc.loadInfo();
 
-  for (const sheetName of sheetsToExtract) {
-    const sheet = doc.sheetsByTitle[sheetName];
-    if (!sheet) {
-      console.warn(`❌ No se encontró la hoja: ${sheetName}`);
-      continue;
+    console.log(`📥 Conectado a: ${doc.title}`);
+    console.log(`💾 Carpeta de salida: ${OUTPUT_FOLDER}\n`);
+
+    for (const sheetName of sheetsToExtract) {
+      const sheet = doc.sheetsByTitle[sheetName];
+      if (!sheet) {
+        console.warn(`❌ Hoja no encontrada: ${sheetName}`);
+        continue;
+      }
+
+      const rows = await sheet.getRows();
+      const data = rows.map(row => row.toObject());
+      const outputPath = path.join(OUTPUT_FOLDER, `${sheetName}.json`);
+
+      fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
+      console.log(`✅ Exportado: ${sheetName}.json`);
     }
 
-    const rows = await sheet.getRows();
-    const data = rows.map(row => row.toObject());
-    const outputPath = path.join(OUTPUT_FOLDER, `${sheetName}.json`);
-    fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
-    console.log(`✅ Exportado: ${sheetName}.json`);
-  }
+    // Git commit automático (solo si carpeta es beterano-map)
+    if (OUTPUT_FOLDER.includes('beterano-map')) {
+      try {
+        execSync('git add . && git commit -m "sync: update beterano-map JSONs from Google Sheet" && git push', {
+          cwd: path.resolve(OUTPUT_FOLDER, '../../'), // ruta al root del repo
+          stdio: 'inherit'
+        });
+      } catch {
+        console.log('⚠️ No hay cambios o git ya está actualizado.');
+      }
+    }
 
-  // Git commit automático
-  try {
-    execSync('git add . && git commit -m "sync: update beterano-map JSONs from Google Sheet" && git push', {
-      cwd: path.join(__dirname, '../../beterano-map'),
-      stdio: 'inherit'
-    });
+    console.log('\n✅ Sincronización completa.');
   } catch (err) {
-    console.log('⚠️ No hay cambios para commitear o error en git.');
+    console.error('❌ Error durante la sincronización:\n', err);
   }
 }
 
