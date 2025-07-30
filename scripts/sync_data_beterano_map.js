@@ -33,7 +33,7 @@ const sheetsToExtract = [
 async function sync() {
   try {
     const doc = new GoogleSpreadsheet(SPREADSHEET_ID);
-    if (GOOGLE_API_KEY) doc.useApiKey(GOOGLE_API_KEY);
+    // Hoja pública, no requiere autenticación //if (GOOGLE_API_KEY) doc.useApiKey(GOOGLE_API_KEY);
     await doc.loadInfo();
 
     console.log(`📥 Conectado a: ${doc.title}`);
