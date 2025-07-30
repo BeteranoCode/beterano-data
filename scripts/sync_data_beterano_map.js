@@ -1,4 +1,5 @@
 // sync_data_beterano_map.js
+require('dotenv').config();
 
 const { GoogleSpreadsheet } = require('google-spreadsheet');
 const fs = require('fs');
@@ -7,7 +8,7 @@ const { execSync } = require('child_process');
 
 // === CONFIGURACIÓN ===
 const SPREADSHEET_ID = '18STFQeKvzXMsPQZUTPE_xVhHWLr04TmWB4FP8iepb7o';
-const GOOGLE_API_KEY = ''; // (⚠️ En blanco porque el sheet es público)
+const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY || '';
 
 // Permite usar ruta personalizada desde línea de comandos
 const outputArg = process.argv[2]; // Ejemplo: node sync_data_beterano_map.js ../beterano-map/src/data
