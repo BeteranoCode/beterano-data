@@ -7,7 +7,7 @@ node ../scripts/sync_data_beterano_map.js
 echo.
 echo ✅ Sincronización completada. Verificando cambios en JSON...
 
-cd ../data
+cd ../data || exit /b
 
 :: Verifica si hay archivos modificados
 git status --porcelain > temp_git_status.txt
