@@ -15,5 +15,12 @@ dist/
 build/
 .cache/
 
-# Excel temporales
-~$*.xlsx
+# Excel temporales y de respaldo
+~$*.xls*        # evita archivos temporales de Excel (.xlsx, .xls, .xlsm, etc.)
+*.bak
+*.tmp
+*.temp
+
+# Ignorar todos los Excel excepto los que estén en /data
+*.xlsx
+
