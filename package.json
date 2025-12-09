@@ -4,13 +4,22 @@
   "description": "Repositorio central de datos técnicos para proyectos de Beterano",
   "main": "scripts/sync_biblioteca.js",
   "scripts": {
-    "sync": "node scripts/sync_biblioteca.js"
+    "sync": "node scripts/sync_biblioteca.js",
+    "seed:lab": "ts-node scripts/seed-lab-postgres.ts",
+    "seed:motors": "ts-node scripts/seed-motors-firestore.ts"
   },
   "author": "Beterano",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^17.2.1",
+    "dotenv": "^17.2.3",
+    "firebase-admin": "^13.6.0",
     "google-spreadsheet": "^4.1.5",
+    "pg": "^8.16.3",
     "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }
