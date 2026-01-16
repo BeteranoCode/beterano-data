@@ -1,3 +1,4 @@
+import { Locale } from "@prisma/client";
 import type { Request, Response } from "express";
 
 const DEFAULT_LIMIT = 50;
@@ -68,4 +69,18 @@ export function requireQuery(
     return null;
   }
   return String(normalized);
+}
+
+export function parseLocale(
+  req: Request,
+  res: Response,
+  defaultLocale: Locale = Locale.es
+) {
+  const rawLocale = safeString(req.query.locale);
+  if (!rawLocale) return defaultLocale;
+  if (Object.values(Locale).includes(rawLocale as Locale)) {
+    return rawLocale as Locale;
+  }
+  sendError(res, 400, "Invalid locale");
+  return null;
 }

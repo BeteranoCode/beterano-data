@@ -1,4 +1,6 @@
 import type {
+  CatalogItem,
+  CatalogItemKind,
   MediaAsset,
   PartCategory,
   ServiceOperation,
@@ -69,6 +71,21 @@ export type MediaAssetDto = {
   vehicleModelKey?: string | null;
 } & DtoMeta;
 
+export type CatalogCategoryDto = {
+  key: string;
+  name: string;
+} & DtoMeta;
+
+export type CatalogItemDto = {
+  code: number;
+  key: string;
+  name: string;
+  kind: CatalogItemKind;
+  categoryKey: string;
+  aliases?: string[];
+  keywords?: string[];
+} & DtoMeta;
+
 type VehicleModelWithMake = VehicleModel & { make: VehicleMake };
 type VehicleVariantWithModel = VehicleVariant & { model: VehicleModel };
 type TaxonomyNodeWithParent = TaxonomyNode & { parent: TaxonomyNode | null };
@@ -81,6 +98,10 @@ type PartCategoryWithTaxonomy = PartCategory & {
 type MediaAssetWithRelations = MediaAsset & {
   taxonomyNode: TaxonomyNode | null;
   vehicleModel: VehicleModel | null;
+};
+
+type CatalogItemWithCategory = CatalogItem & {
+  category: TaxonomyNode;
 };
 
 export function toVehicleMakeDto(make: VehicleMake): VehicleMakeDto {
@@ -165,5 +186,39 @@ export function toMediaAssetDto(
     taxonomyKey: asset.taxonomyNode?.key ?? null,
     vehicleModelKey: asset.vehicleModel?.key ?? null,
     ...buildMetadata(asset.key, asset.key),
+  };
+}
+
+function parseStringArray(value: unknown): string[] | undefined {
+  if (!Array.isArray(value)) return undefined;
+  return value.filter((item) => typeof item === "string") as string[];
+}
+
+export function toCatalogCategoryDto(
+  node: TaxonomyNode,
+  translatedName?: string | null
+): CatalogCategoryDto {
+  const name = translatedName ?? node.name;
+  return {
+    key: node.key,
+    name,
+    ...buildMetadata(name, node.key),
+  };
+}
+
+export function toCatalogItemDto(
+  item: CatalogItemWithCategory,
+  translatedName?: string | null
+): CatalogItemDto {
+  const name = translatedName ?? item.name;
+  return {
+    code: item.code,
+    key: item.key,
+    name,
+    kind: item.kind,
+    categoryKey: item.category.key,
+    aliases: parseStringArray(item.aliases),
+    keywords: parseStringArray(item.keywords),
+    ...buildMetadata(name, item.key),
   };
 }

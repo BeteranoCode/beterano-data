@@ -50,6 +50,9 @@ npm run dev
 - `GET /v1/lookup/vehicle?make=...&model=...&variant=...`
 - `GET /v1/lookup/service?skill=...&taxonomyKey=...&serviceKey=...`
 - `GET /v1/lookup/part?system=...&categoryKey=...`
+- `GET /v1/catalog/categories?locale=es`
+- `GET /v1/catalog/items?categoryKey=...&locale=es&limit=...&cursor=...`
+- `GET /v1/catalog/lookup/item?code=...&locale=es`
 
 Response contract:
 
@@ -76,6 +79,9 @@ curl "http://localhost:4010/v1/media/assets?kind=IMG&q=ibiza&limit=10"
 curl "http://localhost:4010/v1/lookup/vehicle?make=seat&model=ibiza"
 curl "http://localhost:4010/v1/lookup/service?skill=mechanics&taxonomyKey=engine-service&serviceKey=oil-change"
 curl "http://localhost:4010/v1/lookup/part?system=parts&categoryKey=brake-pads"
+curl "http://localhost:4010/v1/catalog/categories?locale=es"
+curl "http://localhost:4010/v1/catalog/items?categoryKey=diagnosis&locale=es&limit=10"
+curl "http://localhost:4010/v1/catalog/lookup/item?code=503&locale=es"
 ```
 
 ## Static assets
@@ -93,5 +99,6 @@ Use this API as the single source of truth for catalog data and validations.
 - Frontend: query `GET /v1/vehicles/*` and taxonomy endpoints to populate dropdowns.
 - Backend: use lookup endpoints to validate user selections before persisting.
 - Assistant/AI: consume DTOs with `aliases`, `keywords`, and `confidenceHints` for matching.
+- Catalogs: request `locale` for translated names; fallback is the base `name` field.
 
 Do not duplicate catalogs in other repos. Persist only stable references (keys), never internal IDs, and re-validate via lookup endpoints when needed.

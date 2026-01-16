@@ -61,10 +61,12 @@ model TaxonomyNode {
 
   parent    TaxonomyNode? @relation("TaxonomyTree", fields: [parentId], references: [id])
   children  TaxonomyNode[] @relation("TaxonomyTree")
+  translations TaxonomyNodeTranslation[]
 
   services  ServiceOperation[]
   parts     PartCategory[]
   media     MediaAsset[]
+  catalogItems CatalogItem[]
 
   @@index([parentId])
   @@index([kind])
@@ -119,14 +121,83 @@ model MediaAsset {
   @@index([vehicleModelId])
 }
 
+model CatalogItem {
+  id         String   @id @default(cuid())
+  code       Int
+  key        String   @unique
+  name       String
+  kind       CatalogItemKind
+  categoryId String
+  aliases    Json?
+  keywords   Json?
+  meta       Json?
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  category   TaxonomyNode @relation(fields: [categoryId], references: [id])
+  translations CatalogItemTranslation[]
+
+  @@index([code])
+  @@index([categoryId, kind])
+}
+
+model CatalogItemTranslation {
+  id          String   @id @default(cuid())
+  itemId      String
+  locale      Locale
+  name        String
+  description String?
+  aliases     Json?
+
+  item        CatalogItem @relation(fields: [itemId], references: [id])
+
+  @@unique([itemId, locale])
+  @@index([locale])
+}
+
+model TaxonomyNodeTranslation {
+  id             String   @id @default(cuid())
+  taxonomyNodeId String
+  locale         Locale
+  name           String
+
+  taxonomyNode   TaxonomyNode @relation(fields: [taxonomyNodeId], references: [id])
+
+  @@unique([taxonomyNodeId, locale])
+  @@index([locale])
+}
+
 enum TaxonomyKind {
   VEHICLE_SYSTEM
   SERVICE
   PARTS
   OTHER
+  CATALOG
 }
 
 enum MediaType {
   IMG
   GLB
+}
+
+enum CatalogItemKind {
+  LABOR
+  PART
+  CONSUMABLE
+  FEE
+}
+
+enum Locale {
+  ar
+  de
+  en
+  es
+  fr
+  hr
+  it
+  ja
+  nl
+  pl
+  tr
+  zh
 }
