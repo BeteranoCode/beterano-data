@@ -1,5 +1,10 @@
 import { Router } from "express";
 import { prisma } from "../db";
+import {
+  toVehicleMakeDto,
+  toVehicleModelDto,
+  toVehicleVariantDto,
+} from "../dto";
 import { buildNextCursor, parseCursor, parseLimit, requireQuery } from "./helpers";
 
 export const vehiclesRouter = Router();
@@ -27,12 +32,12 @@ vehiclesRouter.get("/makes", async (req, res, next) => {
       take: limit + 1,
     });
 
-    const items = data.slice(0, limit);
+    const items = data.slice(0, limit).map(toVehicleMakeDto);
     const nextCursor =
       data.length > limit && items.length
         ? buildNextCursor({
-            id: items[items.length - 1].id,
-            createdAt: items[items.length - 1].createdAt,
+            id: data[Math.min(limit, data.length) - 1].id,
+            createdAt: data[Math.min(limit, data.length) - 1].createdAt,
           })
         : null;
 
@@ -70,16 +75,17 @@ vehiclesRouter.get("/models", async (req, res, next) => {
           whereCursor ?? {},
         ],
       },
+      include: { make: true },
       orderBy: [{ createdAt: "desc" }, { id: "desc" }],
       take: limit + 1,
     });
 
-    const items = data.slice(0, limit);
+    const items = data.slice(0, limit).map(toVehicleModelDto);
     const nextCursor =
       data.length > limit && items.length
         ? buildNextCursor({
-            id: items[items.length - 1].id,
-            createdAt: items[items.length - 1].createdAt,
+            id: data[Math.min(limit, data.length) - 1].id,
+            createdAt: data[Math.min(limit, data.length) - 1].createdAt,
           })
         : null;
 
@@ -117,16 +123,17 @@ vehiclesRouter.get("/variants", async (req, res, next) => {
           whereCursor ?? {},
         ],
       },
+      include: { model: true },
       orderBy: [{ createdAt: "desc" }, { id: "desc" }],
       take: limit + 1,
     });
 
-    const items = data.slice(0, limit);
+    const items = data.slice(0, limit).map(toVehicleVariantDto);
     const nextCursor =
       data.length > limit && items.length
         ? buildNextCursor({
-            id: items[items.length - 1].id,
-            createdAt: items[items.length - 1].createdAt,
+            id: data[Math.min(limit, data.length) - 1].id,
+            createdAt: data[Math.min(limit, data.length) - 1].createdAt,
           })
         : null;
 

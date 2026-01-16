@@ -1,6 +1,7 @@
 import { Router } from "express";
 import { MediaType } from "@prisma/client";
 import { prisma } from "../db";
+import { toMediaAssetDto } from "../dto";
 import {
   buildNextCursor,
   parseCursor,
@@ -55,16 +56,17 @@ mediaRouter.get("/media/assets", async (req, res, next) => {
 
     const data = await prisma.mediaAsset.findMany({
       where,
+      include: { taxonomyNode: true, vehicleModel: true },
       orderBy: [{ createdAt: "desc" }, { id: "desc" }],
       take: limit + 1,
     });
 
-    const items = data.slice(0, limit);
+    const items = data.slice(0, limit).map(toMediaAssetDto);
     const nextCursor =
       data.length > limit && items.length
         ? buildNextCursor({
-            id: items[items.length - 1].id,
-            createdAt: items[items.length - 1].createdAt,
+            id: data[Math.min(limit, data.length) - 1].id,
+            createdAt: data[Math.min(limit, data.length) - 1].createdAt,
           })
         : null;
 

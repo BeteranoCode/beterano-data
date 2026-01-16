@@ -1,5 +1,6 @@
 import { Router } from "express";
 import { prisma } from "../db";
+import { toPartCategoryDto } from "../dto";
 import {
   buildNextCursor,
   parseCursor,
@@ -55,16 +56,17 @@ partsRouter.get("/parts/categories", async (req, res, next) => {
 
     const data = await prisma.partCategory.findMany({
       where,
+      include: { taxonomyNode: true },
       orderBy: [{ createdAt: "desc" }, { id: "desc" }],
       take: limit + 1,
     });
 
-    const items = data.slice(0, limit);
+    const items = data.slice(0, limit).map(toPartCategoryDto);
     const nextCursor =
       data.length > limit && items.length
         ? buildNextCursor({
-            id: items[items.length - 1].id,
-            createdAt: items[items.length - 1].createdAt,
+            id: data[Math.min(limit, data.length) - 1].id,
+            createdAt: data[Math.min(limit, data.length) - 1].createdAt,
           })
         : null;
 

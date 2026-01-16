@@ -7,6 +7,7 @@ import { servicesRouter } from "./routes/services";
 import { partsRouter } from "./routes/parts";
 import { mediaRouter } from "./routes/media";
 import { healthRouter } from "./routes/health";
+import { lookupRouter } from "./routes/lookup";
 import { sendError } from "./routes/helpers";
 
 const app = express();
@@ -60,6 +61,7 @@ app.use("/v1", taxonomyRouter);
 app.use("/v1", servicesRouter);
 app.use("/v1", partsRouter);
 app.use("/v1", mediaRouter);
+app.use("/v1", lookupRouter);
 
 app.use((err: Error, _req: express.Request, res: express.Response, _next: express.NextFunction) => {
   console.error(err);
