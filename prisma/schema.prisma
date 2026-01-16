@@ -1,0 +1,132 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model VehicleMake {
+  id        String   @id @default(cuid())
+  key       String   @unique
+  name      String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  models    VehicleModel[]
+}
+
+model VehicleModel {
+  id        String   @id @default(cuid())
+  makeId    String
+  key       String   @unique
+  name      String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  make      VehicleMake @relation(fields: [makeId], references: [id])
+  variants  VehicleVariant[]
+  media     MediaAsset[]
+
+  @@index([makeId])
+}
+
+model VehicleVariant {
+  id        String   @id @default(cuid())
+  modelId   String
+  key       String   @unique
+  name      String
+  yearFrom  Int?
+  yearTo    Int?
+  engine    String?
+  fuel      String?
+  powerKw   Int?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  model     VehicleModel @relation(fields: [modelId], references: [id])
+
+  @@index([modelId])
+}
+
+model TaxonomyNode {
+  id        String   @id @default(cuid())
+  key       String   @unique
+  name      String
+  parentId  String?
+  kind      TaxonomyKind
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  parent    TaxonomyNode? @relation("TaxonomyTree", fields: [parentId], references: [id])
+  children  TaxonomyNode[] @relation("TaxonomyTree")
+
+  services  ServiceOperation[]
+  parts     PartCategory[]
+  media     MediaAsset[]
+
+  @@index([parentId])
+  @@index([kind])
+}
+
+model ServiceOperation {
+  id                String   @id @default(cuid())
+  key               String   @unique
+  name              String
+  skillKey          String?
+  taxonomyNodeId    String?
+  estimatedMinutes  Int?
+  source            String?
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  taxonomyNode      TaxonomyNode? @relation(fields: [taxonomyNodeId], references: [id])
+
+  @@index([taxonomyNodeId])
+  @@index([skillKey])
+}
+
+model PartCategory {
+  id             String   @id @default(cuid())
+  key            String   @unique
+  name           String
+  taxonomyNodeId String?
+  source         String?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  taxonomyNode   TaxonomyNode? @relation(fields: [taxonomyNodeId], references: [id])
+
+  @@index([taxonomyNodeId])
+}
+
+model MediaAsset {
+  id             String   @id @default(cuid())
+  key            String   @unique
+  type           MediaType
+  url            String
+  path           String?
+  taxonomyNodeId String?
+  vehicleModelId String?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  taxonomyNode   TaxonomyNode? @relation(fields: [taxonomyNodeId], references: [id])
+  vehicleModel   VehicleModel? @relation(fields: [vehicleModelId], references: [id])
+
+  @@index([taxonomyNodeId])
+  @@index([vehicleModelId])
+}
+
+enum TaxonomyKind {
+  VEHICLE_SYSTEM
+  SERVICE
+  PARTS
+  OTHER
+}
+
+enum MediaType {
+  IMG
+  GLB
+}

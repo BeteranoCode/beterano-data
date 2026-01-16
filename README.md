@@ -1,44 +1,81 @@
-# Beterano Data
+# Beterano Data Catalog
 
-Este repositorio centraliza los **datos técnicos estructurados** utilizados por todos los proyectos del ecosistema Beterano.
+Fixed catalog service for vehicles, taxonomy, services, parts, and media assets. Runs Postgres + Prisma + seed + read-only Express API.
 
-### 📦 Contenido
+## Structure
 
-- `vehiculos.json`: listado jerarquizado de marcas, modelos, generaciones, motores, etc.
-- `biblioteca_piezas.json`: estructura de piezas organizada por ensamblaje > categoría > subcategoría > pieza
-- `biblioteca_piezas_vehiculos.xlsx`: archivo fuente desde el cual se generan los JSON
-- `vin_prefixes.xlsx`: base editable con prefijos VIN, longitud y años por modelo
-- `scripts/sync_biblioteca.js`: script para sincronizar los archivos JSON desde la hoja Excel
-- `scripts/sync_vin_prefixes.js`: script que convierte `vin_prefixes.xlsx` en `vin_prefixes.json`
+- `prisma/schema.prisma` database schema
+- `prisma/seed.ts` seed script (idempotent)
+- `src/server.ts` Express API
+- `src/routes/*` read-only endpoints
+- `assets/` static files served at `/assets`
+- `datasets/` source files used by seed
 
----
+## Requirements
 
-### 🚀 Proyectos que utilizan este repositorio
+- Node.js 18+
+- Postgres 14+
 
-Este repositorio actúa como **única fuente de verdad** para los siguientes proyectos:
+## Postgres setup (example)
 
-- [`beterano-catalogo-web`](https://github.com/BeteranoMotors/beterano-catalogo-web)
-- [`beterano_ai_wa_talk_catcher`](https://github.com/BeteranoMotors/beterano_ai_wa_talk_catcher)
+Use your own Postgres instance or run one locally. Example with Docker:
 
----
+```bash
+docker run --name beterano-postgres -e POSTGRES_PASSWORD=postgres -e POSTGRES_DB=beterano_data -p 5432:5432 -d postgres:16
+```
 
-### 🛠 Cómo sincronizar desde Excel
+## Environment
 
-1. Asegúrate de tener Node.js instalado
-2. Instala las dependencias (por única vez):
+Create `.env` based on `.env.example`:
+
+```bash
+DATABASE_URL=postgresql://postgres:postgres@localhost:5432/beterano_data
+PORT=3000
+ASSETS_BASE_URL=http://localhost:3000/assets
+```
+
+## Install
 
 ```bash
 npm install
 ```
 
-3. Ejecuta uno de los siguientes comandos según el tipo de sincronización:
+## Prisma
 
 ```bash
-# Para actualizar biblioteca_piezas.json
-node scripts/sync_biblioteca.js
-
-# Para actualizar vin_prefixes.json desde vin_prefixes.xlsx
-node scripts/sync_vin_prefixes.js
+npm run prisma:generate
+npm run prisma:migrate
+npm run prisma:seed
 ```
 
-También puedes usar los archivos `.bat` en la carpeta `run/` si estás en Windows.
+## Run
+
+```bash
+npm run dev
+```
+
+## Endpoints
+
+- `GET /v1/health`
+- `GET /v1/vehicles/makes`
+- `GET /v1/vehicles/models?makeKey=...`
+- `GET /v1/vehicles/variants?modelKey=...`
+- `GET /v1/taxonomy?rootKey=...`
+- `GET /v1/services/operations?skillKey=...&taxonomyKey=...`
+- `GET /v1/parts/categories?taxonomyKey=...`
+- `GET /v1/media?type=IMG|GLB&taxonomyKey=...&vehicleModelKey=...`
+
+Pagination: `limit` and `offset` on list endpoints.
+
+## Curl examples
+
+```bash
+curl http://localhost:3000/v1/health
+curl "http://localhost:3000/v1/vehicles/makes?limit=10"
+curl "http://localhost:3000/v1/vehicles/models?makeKey=seat"
+curl "http://localhost:3000/v1/vehicles/variants?modelKey=ibiza"
+curl "http://localhost:3000/v1/taxonomy?rootKey=mechanics"
+curl "http://localhost:3000/v1/services/operations?skillKey=mechanics"
+curl "http://localhost:3000/v1/parts/categories?taxonomyKey=brake-system"
+curl "http://localhost:3000/v1/media?type=IMG&vehicleModelKey=ibiza"
+```

@@ -9,5 +9,5 @@
     "types": ["node"],
     "outDir": "dist"
   },
-  "include": ["scripts/**/*.ts"]
+  "include": ["scripts/**/*.ts", "src/**/*.ts", "prisma/**/*.ts"]
 }
