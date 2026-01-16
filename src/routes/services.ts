@@ -1,39 +1,68 @@
 import { Router } from "express";
 import { prisma } from "../db";
-import { getPagination } from "./helpers";
+import {
+  buildNextCursor,
+  parseCursor,
+  parseLimit,
+  safeString,
+} from "./helpers";
 
 export const servicesRouter = Router();
 
 servicesRouter.get("/services/operations", async (req, res, next) => {
   try {
-    const skillKeyRaw = req.query.skillKey;
-    const taxonomyKeyRaw = req.query.taxonomyKey;
+    const skill = safeString(req.query.skill);
+    const query = safeString(req.query.q);
 
-    const skillKey = Array.isArray(skillKeyRaw) ? skillKeyRaw[0] : skillKeyRaw;
-    const taxonomyKey = Array.isArray(taxonomyKeyRaw)
-      ? taxonomyKeyRaw[0]
-      : taxonomyKeyRaw;
+    const limit = parseLimit(req);
+    const cursor = parseCursor(req);
+    const whereCursor =
+      cursor?.createdAt && cursor.id
+        ? {
+            OR: [
+              { createdAt: { lt: cursor.createdAt } },
+              {
+                createdAt: cursor.createdAt,
+                id: { lt: cursor.id },
+              },
+            ],
+          }
+        : undefined;
 
-    const where: Record<string, any> = {};
+    const where: Record<string, any> = {
+      AND: [whereCursor ?? {}],
+    };
 
-    if (skillKey) {
-      where.skillKey = String(skillKey);
+    if (skill) {
+      where.AND.push({ skillKey: skill });
     }
 
-    if (taxonomyKey) {
-      where.taxonomyNode = { key: String(taxonomyKey) };
+    if (query) {
+      where.AND.push({
+        OR: [
+          { name: { contains: query, mode: "insensitive" } },
+          { key: { contains: query, mode: "insensitive" } },
+        ],
+      });
     }
 
-    const { limit, offset } = getPagination(req);
     const data = await prisma.serviceOperation.findMany({
       where,
-      orderBy: { name: "asc" },
-      take: limit,
-      skip: offset,
+      orderBy: [{ createdAt: "desc" }, { id: "desc" }],
+      take: limit + 1,
     });
 
+    const items = data.slice(0, limit);
+    const nextCursor =
+      data.length > limit && items.length
+        ? buildNextCursor({
+            id: items[items.length - 1].id,
+            createdAt: items[items.length - 1].createdAt,
+          })
+        : null;
+
     res.set("Cache-Control", "public, max-age=60");
-    res.json({ data, pagination: { limit, offset } });
+    res.json({ items, nextCursor });
   } catch (error) {
     next(error);
   }

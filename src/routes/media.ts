@@ -1,52 +1,75 @@
 import { Router } from "express";
 import { MediaType } from "@prisma/client";
 import { prisma } from "../db";
-import { getPagination, requireQuery, sendError } from "./helpers";
+import {
+  buildNextCursor,
+  parseCursor,
+  parseLimit,
+  safeString,
+  sendError,
+} from "./helpers";
 
 export const mediaRouter = Router();
 
-mediaRouter.get("/media", async (req, res, next) => {
+mediaRouter.get("/media/assets", async (req, res, next) => {
   try {
-    const typeRaw = requireQuery(req, res, "type");
-    if (!typeRaw) return;
+    const kind = safeString(req.query.kind);
+    if (!kind) {
+      return sendError(res, 400, "Missing required query: kind");
+    }
 
-    const typeValue = typeRaw.toUpperCase();
+    const typeValue = kind.toUpperCase();
     if (!Object.values(MediaType).includes(typeValue as MediaType)) {
       return sendError(res, 400, "Invalid media type");
     }
 
-    const taxonomyKeyRaw = req.query.taxonomyKey;
-    const vehicleModelKeyRaw = req.query.vehicleModelKey;
-
-    const taxonomyKey = Array.isArray(taxonomyKeyRaw)
-      ? taxonomyKeyRaw[0]
-      : taxonomyKeyRaw;
-    const vehicleModelKey = Array.isArray(vehicleModelKeyRaw)
-      ? vehicleModelKeyRaw[0]
-      : vehicleModelKeyRaw;
+    const query = safeString(req.query.q);
+    const limit = parseLimit(req);
+    const cursor = parseCursor(req);
+    const whereCursor =
+      cursor?.createdAt && cursor.id
+        ? {
+            OR: [
+              { createdAt: { lt: cursor.createdAt } },
+              {
+                createdAt: cursor.createdAt,
+                id: { lt: cursor.id },
+              },
+            ],
+          }
+        : undefined;
 
     const where: Record<string, any> = {
-      type: typeValue,
+      AND: [{ type: typeValue }, whereCursor ?? {}],
     };
 
-    if (taxonomyKey) {
-      where.taxonomyNode = { key: String(taxonomyKey) };
+    if (query) {
+      where.AND.push({
+        OR: [
+          { key: { contains: query, mode: "insensitive" } },
+          { url: { contains: query, mode: "insensitive" } },
+          { path: { contains: query, mode: "insensitive" } },
+        ],
+      });
     }
 
-    if (vehicleModelKey) {
-      where.vehicleModel = { key: String(vehicleModelKey) };
-    }
-
-    const { limit, offset } = getPagination(req);
     const data = await prisma.mediaAsset.findMany({
       where,
-      orderBy: { createdAt: "desc" },
-      take: limit,
-      skip: offset,
+      orderBy: [{ createdAt: "desc" }, { id: "desc" }],
+      take: limit + 1,
     });
 
+    const items = data.slice(0, limit);
+    const nextCursor =
+      data.length > limit && items.length
+        ? buildNextCursor({
+            id: items[items.length - 1].id,
+            createdAt: items[items.length - 1].createdAt,
+          })
+        : null;
+
     res.set("Cache-Control", "public, max-age=120");
-    res.json({ data, pagination: { limit, offset } });
+    res.json({ items, nextCursor });
   } catch (error) {
     next(error);
   }
