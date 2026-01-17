@@ -10,6 +10,8 @@
     "prisma:generate": "prisma generate",
     "prisma:migrate": "prisma migrate dev",
     "prisma:seed": "prisma db seed",
+    "import:parts": "ts-node scripts/import-parts-taxonomy.ts",
+    "import:vehicles": "ts-node scripts/import-vehicles.ts",
     "sync": "node scripts/sync_biblioteca.js",
     "seed:lab": "ts-node scripts/seed-lab-postgres.ts",
     "seed:motors": "ts-node scripts/seed-motors-firestore.ts"
