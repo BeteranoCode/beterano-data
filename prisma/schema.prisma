@@ -66,7 +66,7 @@ model TaxonomyNode {
   services  ServiceOperation[]
   parts     PartCategory[]
   media     MediaAsset[]
-  catalogItems CatalogItem[]
+  catalogItems WorkCatalogItem[]
 
   @@index([parentId])
   @@index([kind])
@@ -84,6 +84,7 @@ model ServiceOperation {
   updatedAt         DateTime @updatedAt
 
   taxonomyNode      TaxonomyNode? @relation(fields: [taxonomyNodeId], references: [id])
+  translations      ServiceOperationTranslation[]
 
   @@index([taxonomyNodeId])
   @@index([skillKey])
@@ -91,16 +92,26 @@ model ServiceOperation {
 
 model PartCategory {
   id             String   @id @default(cuid())
-  key            String   @unique
+  key            String
   name           String
+  groupId        String?
+  systemId       String?
   taxonomyNodeId String?
   source         String?
+  imageKey       String?
   createdAt      DateTime @default(now())
   updatedAt      DateTime @updatedAt
 
+  group          PartGroup? @relation(fields: [groupId], references: [id])
+  system         PartSystem? @relation(fields: [systemId], references: [id])
   taxonomyNode   TaxonomyNode? @relation(fields: [taxonomyNodeId], references: [id])
+  elements       PartElement[]
+  translations   PartCategoryTranslation[]
 
   @@index([taxonomyNodeId])
+  @@index([groupId])
+  @@index([systemId])
+  @@unique([groupId, key])
 }
 
 model MediaAsset {
@@ -121,7 +132,7 @@ model MediaAsset {
   @@index([vehicleModelId])
 }
 
-model CatalogItem {
+model WorkCatalogItem {
   id         String   @id @default(cuid())
   code       Int
   key        String   @unique
@@ -135,13 +146,15 @@ model CatalogItem {
   updatedAt  DateTime @updatedAt
 
   category   TaxonomyNode @relation(fields: [categoryId], references: [id])
-  translations CatalogItemTranslation[]
+  translations WorkCatalogItemTranslation[]
 
   @@index([code])
   @@index([categoryId, kind])
+
+  @@map("CatalogItem")
 }
 
-model CatalogItemTranslation {
+model WorkCatalogItemTranslation {
   id          String   @id @default(cuid())
   itemId      String
   locale      Locale
@@ -149,10 +162,12 @@ model CatalogItemTranslation {
   description String?
   aliases     Json?
 
-  item        CatalogItem @relation(fields: [itemId], references: [id])
+  item        WorkCatalogItem @relation(fields: [itemId], references: [id])
 
   @@unique([itemId, locale])
   @@index([locale])
+
+  @@map("CatalogItemTranslation")
 }
 
 model TaxonomyNodeTranslation {
@@ -164,6 +179,132 @@ model TaxonomyNodeTranslation {
   taxonomyNode   TaxonomyNode @relation(fields: [taxonomyNodeId], references: [id])
 
   @@unique([taxonomyNodeId, locale])
+  @@index([locale])
+}
+
+model ServiceOperationTranslation {
+  id           String   @id @default(cuid())
+  operationId  String
+  locale       Locale
+  name         String
+  aliases      Json?
+  keywords     Json?
+  confidenceHint String?
+
+  operation    ServiceOperation @relation(fields: [operationId], references: [id])
+
+  @@unique([operationId, locale])
+  @@index([locale])
+}
+
+model PartSystem {
+  id        String   @id @default(cuid())
+  key       String   @unique
+  imageKey  String?
+  imageUrl  String?
+  createdAt DateTime @default(now())
+
+  groups    PartGroup[]
+  categories PartCategory[]
+  elements  PartElement[]
+  translations PartSystemTranslation[]
+}
+
+model PartGroup {
+  id        String   @id @default(cuid())
+  key       String
+  systemId  String
+  imageKey  String?
+  imageUrl  String?
+  createdAt DateTime @default(now())
+
+  system    PartSystem @relation(fields: [systemId], references: [id])
+  categories PartCategory[]
+  elements  PartElement[]
+  translations PartGroupTranslation[]
+
+  @@index([systemId])
+  @@unique([systemId, key])
+}
+
+model PartElement {
+  id         String   @id @default(cuid())
+  key        String   @unique
+  categoryId String
+  systemId   String?
+  groupId    String?
+  legacyId   String?
+  imageKey   String?
+  imageUrl   String?
+  createdAt  DateTime @default(now())
+
+  category   PartCategory @relation(fields: [categoryId], references: [id])
+  system     PartSystem? @relation(fields: [systemId], references: [id])
+  group      PartGroup? @relation(fields: [groupId], references: [id])
+  translations PartElementTranslation[]
+
+  @@index([categoryId])
+  @@index([systemId])
+  @@index([groupId])
+}
+
+model PartSystemTranslation {
+  id             String   @id @default(cuid())
+  systemId       String
+  locale         Locale
+  name           String
+  aliasesJson    Json?
+  keywordsJson   Json?
+  confidenceHint String?
+
+  system         PartSystem @relation(fields: [systemId], references: [id])
+
+  @@unique([systemId, locale])
+  @@index([locale])
+}
+
+model PartGroupTranslation {
+  id             String   @id @default(cuid())
+  groupId        String
+  locale         Locale
+  name           String
+  aliasesJson    Json?
+  keywordsJson   Json?
+  confidenceHint String?
+
+  group          PartGroup @relation(fields: [groupId], references: [id])
+
+  @@unique([groupId, locale])
+  @@index([locale])
+}
+
+model PartCategoryTranslation {
+  id             String   @id @default(cuid())
+  categoryId     String
+  locale         Locale
+  name           String
+  aliasesJson    Json?
+  keywordsJson   Json?
+  confidenceHint String?
+
+  category       PartCategory @relation(fields: [categoryId], references: [id])
+
+  @@unique([categoryId, locale])
+  @@index([locale])
+}
+
+model PartElementTranslation {
+  id             String   @id @default(cuid())
+  elementId      String
+  locale         Locale
+  name           String
+  aliasesJson    Json?
+  keywordsJson   Json?
+  confidenceHint String?
+
+  element        PartElement @relation(fields: [elementId], references: [id])
+
+  @@unique([elementId, locale])
   @@index([locale])
 }
 

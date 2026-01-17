@@ -1,4 +1,4 @@
-import { CatalogItemKind, Locale } from "@prisma/client";
+import { CatalogItemKind } from "@prisma/client";
 import { Router } from "express";
 import { prisma } from "../db";
 import {
@@ -101,7 +101,7 @@ catalogRouter.get("/catalog/items", async (req, res, next) => {
       });
     }
 
-    const data = await prisma.catalogItem.findMany({
+    const data = await prisma.workCatalogItem.findMany({
       where,
       include: {
         category: true,
@@ -147,7 +147,7 @@ catalogRouter.get("/catalog/lookup/item", async (req, res, next) => {
       return sendError(res, 400, "Invalid code");
     }
 
-    const item = await prisma.catalogItem.findFirst({
+    const item = await prisma.workCatalogItem.findFirst({
       where: code !== null ? { code } : { key: keyRaw ?? undefined },
       include: {
         category: true,

@@ -1,8 +1,10 @@
 import type {
-  CatalogItem,
   CatalogItemKind,
   MediaAsset,
   PartCategory,
+  PartElement,
+  PartGroup,
+  PartSystem,
   ServiceOperation,
   TaxonomyNode,
   VehicleMake,
@@ -10,6 +12,7 @@ import type {
   VehicleVariant,
   MediaType,
   TaxonomyKind,
+  WorkCatalogItem,
 } from "@prisma/client";
 import { buildMetadata } from "./metadata";
 
@@ -60,6 +63,7 @@ export type PartCategoryDto = {
   key: string;
   name: string;
   taxonomyKey?: string | null;
+  label?: string;
 } & DtoMeta;
 
 export type MediaAssetDto = {
@@ -86,6 +90,27 @@ export type CatalogItemDto = {
   keywords?: string[];
 } & DtoMeta;
 
+export type PartSystemDto = {
+  key: string;
+  label: string;
+  imageKey?: string | null;
+} & DtoMeta;
+
+export type PartGroupDto = {
+  key: string;
+  label: string;
+  systemKey: string;
+  imageKey?: string | null;
+} & DtoMeta;
+
+export type PartElementDto = {
+  key: string;
+  label: string;
+  categoryKey: string;
+  imageKey?: string | null;
+  legacyId?: string | null;
+} & DtoMeta;
+
 type VehicleModelWithMake = VehicleModel & { make: VehicleMake };
 type VehicleVariantWithModel = VehicleVariant & { model: VehicleModel };
 type TaxonomyNodeWithParent = TaxonomyNode & { parent: TaxonomyNode | null };
@@ -100,9 +125,13 @@ type MediaAssetWithRelations = MediaAsset & {
   vehicleModel: VehicleModel | null;
 };
 
-type CatalogItemWithCategory = CatalogItem & {
+type CatalogItemWithCategory = WorkCatalogItem & {
   category: TaxonomyNode;
 };
+
+type PartGroupWithSystem = PartGroup & { system: PartSystem };
+type PartCategoryWithGroup = PartCategory & { group: PartGroup | null };
+type PartElementWithCategory = PartElement & { category: PartCategory };
 
 export function toVehicleMakeDto(make: VehicleMake): VehicleMakeDto {
   return {
@@ -152,26 +181,31 @@ export function toTaxonomyNodeDto(
 }
 
 export function toServiceOperationDto(
-  operation: ServiceOperationWithTaxonomy
+  operation: ServiceOperationWithTaxonomy,
+  translatedName?: string | null
 ): ServiceOperationDto {
+  const name = translatedName ?? operation.name;
   return {
     key: operation.key,
-    name: operation.name,
+    name,
     skillKey: operation.skillKey,
     taxonomyKey: operation.taxonomyNode?.key ?? null,
     estimatedMinutes: operation.estimatedMinutes,
-    ...buildMetadata(operation.name, operation.key),
+    ...buildMetadata(name, operation.key),
   };
 }
 
 export function toPartCategoryDto(
-  category: PartCategoryWithTaxonomy
+  category: PartCategoryWithTaxonomy,
+  translatedName?: string | null
 ): PartCategoryDto {
+  const name = translatedName ?? category.name;
   return {
     key: category.key,
-    name: category.name,
+    name,
     taxonomyKey: category.taxonomyNode?.key ?? null,
-    ...buildMetadata(category.name, category.key),
+    label: name,
+    ...buildMetadata(name, category.key),
   };
 }
 
@@ -220,5 +254,47 @@ export function toCatalogItemDto(
     aliases: parseStringArray(item.aliases),
     keywords: parseStringArray(item.keywords),
     ...buildMetadata(name, item.key),
+  };
+}
+
+export function toPartSystemDto(
+  system: PartSystem,
+  translatedName?: string | null
+): PartSystemDto {
+  const label = translatedName ?? system.key;
+  return {
+    key: system.key,
+    label,
+    imageKey: system.imageKey,
+    ...buildMetadata(label, system.key),
+  };
+}
+
+export function toPartGroupDto(
+  group: PartGroupWithSystem,
+  translatedName?: string | null
+): PartGroupDto {
+  const label = translatedName ?? group.key;
+  return {
+    key: group.key,
+    label,
+    systemKey: group.system.key,
+    imageKey: group.imageKey,
+    ...buildMetadata(label, group.key),
+  };
+}
+
+export function toPartElementDto(
+  element: PartElementWithCategory,
+  translatedName?: string | null
+): PartElementDto {
+  const label = translatedName ?? element.key;
+  return {
+    key: element.key,
+    label,
+    categoryKey: element.category.key,
+    imageKey: element.imageKey,
+    legacyId: element.legacyId,
+    ...buildMetadata(label, element.key),
   };
 }

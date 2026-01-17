@@ -74,9 +74,9 @@ export function requireQuery(
 export function parseLocale(
   req: Request,
   res: Response,
-  defaultLocale: Locale = Locale.es
+  defaultLocale: Locale = Locale.en
 ) {
-  const rawLocale = safeString(req.query.locale);
+  const rawLocale = safeString(req.query.lang) ?? safeString(req.query.locale);
   if (!rawLocale) return defaultLocale;
   if (Object.values(Locale).includes(rawLocale as Locale)) {
     return rawLocale as Locale;

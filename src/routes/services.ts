@@ -5,6 +5,7 @@ import {
   buildNextCursor,
   parseCursor,
   parseLimit,
+  parseLocale,
   safeString,
 } from "./helpers";
 
@@ -12,6 +13,9 @@ export const servicesRouter = Router();
 
 servicesRouter.get("/services/operations", async (req, res, next) => {
   try {
+    const locale = parseLocale(req, res);
+    if (!locale) return;
+
     const skill = safeString(req.query.skill);
     const query = safeString(req.query.q);
 
@@ -49,12 +53,17 @@ servicesRouter.get("/services/operations", async (req, res, next) => {
 
     const data = await prisma.serviceOperation.findMany({
       where,
-      include: { taxonomyNode: true },
+      include: {
+        taxonomyNode: true,
+        translations: { where: { locale } },
+      },
       orderBy: [{ createdAt: "desc" }, { id: "desc" }],
       take: limit + 1,
     });
 
-    const items = data.slice(0, limit).map(toServiceOperationDto);
+    const items = data.slice(0, limit).map((operation) =>
+      toServiceOperationDto(operation, operation.translations[0]?.name)
+    );
     const nextCursor =
       data.length > limit && items.length
         ? buildNextCursor({

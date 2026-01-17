@@ -2,13 +2,16 @@ import { Router } from "express";
 import { prisma } from "../db";
 import {
   toPartCategoryDto,
+  toPartElementDto,
+  toPartGroupDto,
+  toPartSystemDto,
   toServiceOperationDto,
   toTaxonomyNodeDto,
   toVehicleMakeDto,
   toVehicleModelDto,
   toVehicleVariantDto,
 } from "../dto";
-import { requireQuery, safeString } from "./helpers";
+import { parseLocale, requireQuery, safeString, sendError } from "./helpers";
 
 export const lookupRouter = Router();
 
@@ -71,6 +74,9 @@ lookupRouter.get("/lookup/vehicle", async (req, res, next) => {
 
 lookupRouter.get("/lookup/service", async (req, res, next) => {
   try {
+    const locale = parseLocale(req, res);
+    if (!locale) return;
+
     const skill = requireQuery(req, res, "skill");
     const taxonomyKey = requireQuery(req, res, "taxonomyKey");
     const serviceKey = requireQuery(req, res, "serviceKey");
@@ -91,7 +97,10 @@ lookupRouter.get("/lookup/service", async (req, res, next) => {
         skillKey: skill,
         taxonomyNodeId: taxonomyNode.id,
       },
-      include: { taxonomyNode: true },
+      include: {
+        taxonomyNode: true,
+        translations: { where: { locale } },
+      },
     });
 
     if (!service) {
@@ -101,7 +110,10 @@ lookupRouter.get("/lookup/service", async (req, res, next) => {
     return res.json({
       valid: true,
       resolved: {
-        service: toServiceOperationDto(service),
+        service: toServiceOperationDto(
+          service,
+          service.translations[0]?.name
+        ),
         taxonomy: toTaxonomyNodeDto(taxonomyNode),
       },
     });
@@ -112,36 +124,82 @@ lookupRouter.get("/lookup/service", async (req, res, next) => {
 
 lookupRouter.get("/lookup/part", async (req, res, next) => {
   try {
-    const system = requireQuery(req, res, "system");
-    const categoryKey = requireQuery(req, res, "categoryKey");
-    if (!system || !categoryKey) return;
+    const locale = parseLocale(req, res);
+    if (!locale) return;
 
-    const taxonomyNode = await prisma.taxonomyNode.findUnique({
-      where: { key: system },
-      include: { parent: true },
+    const systemKey = requireQuery(req, res, "systemKey");
+    if (!systemKey) return;
+
+    const groupKey = safeString(req.query.groupKey);
+    const categoryKey = safeString(req.query.categoryKey);
+    const elementKey = safeString(req.query.elementKey);
+
+    if (categoryKey && !groupKey) {
+      return sendError(res, 400, "categoryKey requires groupKey");
+    }
+    if (elementKey && !categoryKey) {
+      return sendError(res, 400, "elementKey requires categoryKey");
+    }
+
+    const system = await prisma.partSystem.findUnique({
+      where: { key: systemKey },
+      include: { translations: { where: { locale } } },
     });
 
-    if (!taxonomyNode) {
+    if (!system) {
       return res.json({ valid: false, resolved: null });
     }
 
-    const category = await prisma.partCategory.findFirst({
-      where: {
-        key: categoryKey,
-        taxonomyNodeId: taxonomyNode.id,
-      },
-      include: { taxonomyNode: true },
-    });
+    let group = null;
+    let category = null;
+    let element = null;
 
-    if (!category) {
-      return res.json({ valid: false, resolved: null });
+    if (groupKey) {
+      group = await prisma.partGroup.findFirst({
+        where: { key: groupKey, systemId: system.id },
+        include: { system: true, translations: { where: { locale } } },
+      });
+
+      if (!group) {
+        return res.json({ valid: false, resolved: null });
+      }
+    }
+
+    if (categoryKey && group) {
+      category = await prisma.partCategory.findFirst({
+        where: { key: categoryKey, groupId: group.id },
+        include: { taxonomyNode: true, translations: { where: { locale } } },
+      });
+
+      if (!category) {
+        return res.json({ valid: false, resolved: null });
+      }
+    }
+
+    if (elementKey && category) {
+      element = await prisma.partElement.findFirst({
+        where: { key: elementKey, categoryId: category.id },
+        include: { category: true, translations: { where: { locale } } },
+      });
+
+      if (!element) {
+        return res.json({ valid: false, resolved: null });
+      }
     }
 
     return res.json({
       valid: true,
       resolved: {
-        system: toTaxonomyNodeDto(taxonomyNode),
-        category: toPartCategoryDto(category),
+        system: toPartSystemDto(system, system.translations[0]?.name),
+        group: group
+          ? toPartGroupDto(group, group.translations[0]?.name)
+          : null,
+        category: category
+          ? toPartCategoryDto(category, category.translations[0]?.name)
+          : null,
+        element: element
+          ? toPartElementDto(element, element.translations[0]?.name)
+          : null,
       },
     });
   } catch (error) {

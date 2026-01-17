@@ -8,6 +8,7 @@ import {
 } from "@prisma/client";
 import { promises as fs } from "fs";
 import path from "path";
+import xlsx from "xlsx";
 
 const prisma = new PrismaClient();
 
@@ -44,6 +45,12 @@ type MediaSeed = {
   path?: string;
   taxonomyKey?: string;
   vehicleModelKey?: string;
+};
+
+type LocaleMap = {
+  en: string;
+  es: string;
+  de: string;
 };
 
 type CatalogCategorySeed = {
@@ -86,6 +93,59 @@ function normalizeKey(value: string | undefined): string {
     .replace(/(^-|-$)/g, "");
 }
 
+function buildLocaleTranslations(
+  names: LocaleMap,
+  fallbackLocale: Locale,
+  originalLocales: Partial<Record<Locale, boolean>>
+) {
+  const build = (name: string, locale: Locale, isFallback: boolean) => ({
+    name,
+    aliasesJson: [name],
+    keywordsJson: Array.from(new Set(tokenize(name))),
+    confidenceHint: isFallback ? `fallback_from_${fallbackLocale}` : null,
+  });
+
+  const isOriginal = (locale: Locale) => originalLocales[locale] === true;
+
+  const result: Record<Locale, ReturnType<typeof build>> = {
+    [Locale.ar]: build(names.en, Locale.ar, true),
+    [Locale.de]: build(
+      names.de,
+      Locale.de,
+      !isOriginal(Locale.de)
+    ),
+    [Locale.en]: build(
+      names.en,
+      Locale.en,
+      !isOriginal(Locale.en)
+    ),
+    [Locale.es]: build(
+      names.es,
+      Locale.es,
+      !isOriginal(Locale.es)
+    ),
+    [Locale.fr]: build(names.en, Locale.fr, true),
+    [Locale.hr]: build(names.en, Locale.hr, true),
+    [Locale.it]: build(names.en, Locale.it, true),
+    [Locale.ja]: build(names.en, Locale.ja, true),
+    [Locale.nl]: build(names.en, Locale.nl, true),
+    [Locale.pl]: build(names.en, Locale.pl, true),
+    [Locale.tr]: build(names.en, Locale.tr, true),
+    [Locale.zh]: build(names.en, Locale.zh, true),
+  };
+
+  return result;
+}
+
+async function fileExists(filePath: string) {
+  try {
+    await fs.access(filePath);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
 function tokenize(value: string) {
   return value
     .toLowerCase()
@@ -98,6 +158,285 @@ function buildCatalogMeta(name: string, code: number) {
     aliases: [name, String(code)],
     keywords: Array.from(new Set(tokenize(name))),
   };
+}
+
+function buildNames(
+  enValue?: string,
+  esValue?: string,
+  deValue?: string
+): {
+  names: LocaleMap;
+  fallbackLocale: Locale;
+  originalLocales: Partial<Record<Locale, boolean>>;
+} | null {
+  const en = (enValue ?? "").trim();
+  const es = (esValue ?? "").trim();
+  const de = (deValue ?? "").trim();
+  const fallback = en || es || de;
+  if (!fallback) return null;
+  const fallbackLocale = en ? Locale.en : es ? Locale.es : Locale.de;
+  return {
+    names: {
+      en: en || fallback,
+      es: es || fallback,
+      de: de || fallback,
+    },
+    fallbackLocale,
+    originalLocales: {
+      [Locale.en]: Boolean(en),
+      [Locale.es]: Boolean(es),
+      [Locale.de]: Boolean(de),
+    },
+  };
+}
+
+function getRowValue(row: Record<string, unknown>, keys: string[]) {
+  for (const key of keys) {
+    const direct = row[key];
+    if (direct !== undefined && direct !== null && String(direct).trim()) {
+      return String(direct).trim();
+    }
+  }
+  const loweredKeys = keys.map((key) => key.toLowerCase());
+  for (const [rowKey, value] of Object.entries(row)) {
+    const normalized = rowKey.toLowerCase();
+    if (loweredKeys.some((key) => normalized.includes(key))) {
+      if (value !== undefined && value !== null && String(value).trim()) {
+        return String(value).trim();
+      }
+    }
+  }
+  return "";
+}
+
+function imageKeyFromFilename(value: string) {
+  const trimmed = value.trim();
+  if (!trimmed) return null;
+  const base = trimmed.replace(/\.[^/.]+$/, "");
+  const key = normalizeKey(base);
+  return key || null;
+}
+
+async function importPartsFromExcel() {
+  const partsPath =
+    process.env.PARTS_XLSX_PATH ??
+    path.join(datasetRoot, "parts", "biblioteca_piezas.xlsx");
+
+  if (!(await fileExists(partsPath))) {
+    console.warn(`Parts Excel not found at ${partsPath}, skipping import.`);
+    return;
+  }
+
+  const workbook = xlsx.readFile(partsPath);
+  const sheet = workbook.Sheets["00_DATA"];
+  if (!sheet) {
+    console.warn("Sheet 00_DATA not found in parts Excel.");
+    return;
+  }
+
+  const rows = xlsx.utils.sheet_to_json<Record<string, unknown>>(sheet, {
+    defval: "",
+  });
+
+  const systemMap = new Map<string, string>();
+  const groupMap = new Map<string, string>();
+  const categoryMap = new Map<string, string>();
+
+  for (const row of rows) {
+    const legacyId = getRowValue(row, ["ID", "id"]);
+
+    const systemNames = buildNames(
+      getRowValue(row, ["EN_automotive systems", "EN_automotive_systems"]),
+      getRowValue(row, ["ES_Sistemas automotrices", "ES_Sistemas_automotrices"]),
+      getRowValue(row, ["DE_Automobilsysteme"])
+    );
+
+    const groupNames = buildNames(
+      getRowValue(row, ["EN_Groups", "EN_Group"]),
+      getRowValue(row, ["ES_Groups", "ES_Group"]),
+      getRowValue(row, ["DE_Groups", "DE_Group"])
+    );
+
+    const categoryNames = buildNames(
+      getRowValue(row, ["EN_Category"]),
+      getRowValue(row, ["ES_Category"]),
+      getRowValue(row, ["DE_Category"])
+    );
+
+    const elementNames = buildNames(
+      getRowValue(row, ["EN_Element"]),
+      getRowValue(row, ["ES_Element"]),
+      getRowValue(row, ["DE_Element"])
+    );
+
+    if (!systemNames || !groupNames || !categoryNames || !elementNames) {
+      continue;
+    }
+
+    const systemKey = normalizeKey(systemNames.names.en);
+    const groupKey = normalizeKey(groupNames.names.en);
+    const categoryKey = normalizeKey(categoryNames.names.en);
+    const elementKey = legacyId.trim();
+
+    if (!systemKey || !groupKey || !categoryKey || !elementKey) {
+      console.warn(`Skipping row with empty key: ${legacyId || "unknown"}`);
+      continue;
+    }
+
+    const systemImage = imageKeyFromFilename(
+      getRowValue(row, ["Image_automotive system"])
+    );
+    const groupImage = imageKeyFromFilename(getRowValue(row, ["Image_Group2"]));
+    const elementImage = imageKeyFromFilename(
+      getRowValue(row, ["Image_Elemnt", "Image_Element"])
+    );
+
+    let systemId = systemMap.get(systemKey);
+    if (!systemId) {
+      const system = await prisma.partSystem.upsert({
+        where: { key: systemKey },
+        update: { imageKey: systemImage || null },
+        create: { key: systemKey, imageKey: systemImage || null },
+      });
+      systemId = system.id;
+      systemMap.set(systemKey, systemId);
+
+      const translations = buildLocaleTranslations(
+        systemNames.names,
+        systemNames.fallbackLocale,
+        systemNames.originalLocales
+      );
+      for (const [locale, payload] of Object.entries(translations)) {
+        await prisma.partSystemTranslation.upsert({
+          where: {
+            systemId_locale: { systemId, locale: locale as Locale },
+          },
+          update: payload,
+          create: { systemId, locale: locale as Locale, ...payload },
+        });
+      }
+    }
+
+    const groupKeyComposite = `${systemId}-${groupKey}`;
+    let groupId = groupMap.get(groupKeyComposite);
+    if (!groupId) {
+      const group = await prisma.partGroup.upsert({
+        where: {
+          systemId_key: {
+            systemId,
+            key: groupKey,
+          },
+        },
+        update: { systemId, imageKey: groupImage || null },
+        create: { key: groupKey, systemId, imageKey: groupImage || null },
+      });
+      groupId = group.id;
+      groupMap.set(groupKeyComposite, groupId);
+
+      const translations = buildLocaleTranslations(
+        groupNames.names,
+        groupNames.fallbackLocale,
+        groupNames.originalLocales
+      );
+      for (const [locale, payload] of Object.entries(translations)) {
+        await prisma.partGroupTranslation.upsert({
+          where: { groupId_locale: { groupId, locale: locale as Locale } },
+          update: payload,
+          create: { groupId, locale: locale as Locale, ...payload },
+        });
+      }
+    }
+
+    const categoryKeyComposite = `${groupId}-${categoryKey}`;
+    let categoryId = categoryMap.get(categoryKeyComposite);
+    if (!categoryId) {
+      const category = await prisma.partCategory.upsert({
+        where: {
+          groupId_key: {
+            groupId,
+            key: categoryKey,
+          },
+        },
+        update: { groupId, systemId },
+        create: {
+          key: categoryKey,
+          name: categoryNames.names.es,
+          groupId,
+          systemId,
+        },
+      });
+      categoryId = category.id;
+      categoryMap.set(categoryKeyComposite, categoryId);
+
+      const translations = buildLocaleTranslations(
+        categoryNames.names,
+        categoryNames.fallbackLocale,
+        categoryNames.originalLocales
+      );
+      for (const [locale, payload] of Object.entries(translations)) {
+        await prisma.partCategoryTranslation.upsert({
+          where: {
+            categoryId_locale: { categoryId, locale: locale as Locale },
+          },
+          update: payload,
+          create: { categoryId, locale: locale as Locale, ...payload },
+        });
+      }
+    }
+
+    const element = await prisma.partElement.upsert({
+      where: { key: elementKey },
+      update: {
+        categoryId,
+        systemId,
+        groupId,
+        legacyId: legacyId || null,
+        imageKey: elementImage || null,
+      },
+      create: {
+        key: elementKey,
+        categoryId,
+        systemId,
+        groupId,
+        legacyId: legacyId || null,
+        imageKey: elementImage || null,
+      },
+    });
+
+    const translations = buildLocaleTranslations(
+      elementNames.names,
+      elementNames.fallbackLocale,
+      elementNames.originalLocales
+    );
+    for (const [locale, payload] of Object.entries(translations)) {
+      await prisma.partElementTranslation.upsert({
+        where: {
+          elementId_locale: { elementId: element.id, locale: locale as Locale },
+        },
+        update: payload,
+        create: { elementId: element.id, locale: locale as Locale, ...payload },
+      });
+    }
+  }
+}
+
+async function logPartCounts() {
+  const systems = await prisma.partSystem.count();
+  const groups = await prisma.partGroup.count();
+  const categories = await prisma.partCategory.count();
+  const elements = await prisma.partElement.count();
+  const systemTranslations = await prisma.partSystemTranslation.count();
+  const groupTranslations = await prisma.partGroupTranslation.count();
+  const categoryTranslations = await prisma.partCategoryTranslation.count();
+  const elementTranslations = await prisma.partElementTranslation.count();
+
+  console.log("Parts import counts:");
+  console.log(
+    `systems: ${systems}, groups: ${groups}, categories: ${categories}, elements: ${elements}`
+  );
+  console.log(
+    `translations: systems ${systemTranslations}, groups ${groupTranslations}, categories ${categoryTranslations}, elements ${elementTranslations}`
+  );
 }
 
 const CATALOG_ROOT_KEY = "workshop_catalog";
@@ -1883,7 +2222,7 @@ async function upsertCatalogItemTranslations(
     { name: string }
   ][];
   for (const [locale, payload] of entries) {
-    await prisma.catalogItemTranslation.upsert({
+    await prisma.workCatalogItemTranslation.upsert({
       where: { itemId_locale: { itemId, locale } },
       update: { name: payload.name },
       create: { itemId, locale, name: payload.name },
@@ -2017,7 +2356,7 @@ async function main() {
     if (!categoryId) continue;
 
     const meta = buildCatalogMeta(item.name, item.code);
-    const record = await prisma.catalogItem.upsert({
+    const record = await prisma.workCatalogItem.upsert({
       where: { key: item.key },
       update: {
         code: item.code,
@@ -2065,7 +2404,7 @@ async function main() {
       ? taxonomyMap.get(op.taxonomyKey)
       : undefined;
 
-    await prisma.serviceOperation.upsert({
+    const record = await prisma.serviceOperation.upsert({
       where: { key: op.key },
       update: {
         name: op.name,
@@ -2083,6 +2422,27 @@ async function main() {
         source: op.source,
       },
     });
+
+    const nameMap = buildNames(op.name, op.name, op.name);
+    if (nameMap) {
+      const translations = buildLocaleTranslations(
+        nameMap.names,
+        nameMap.fallbackLocale,
+        nameMap.originalLocales
+      );
+      for (const [locale, payload] of Object.entries(translations)) {
+        await prisma.serviceOperationTranslation.upsert({
+          where: {
+            operationId_locale: {
+              operationId: record.id,
+              locale: locale as Locale,
+            },
+          },
+          update: payload,
+          create: { operationId: record.id, locale: locale as Locale, ...payload },
+        });
+      }
+    }
   }
 
   const parts: PartSeed[] = [
@@ -2105,21 +2465,52 @@ async function main() {
       ? taxonomyMap.get(part.taxonomyKey)
       : undefined;
 
-    await prisma.partCategory.upsert({
+    const existing = await prisma.partCategory.findFirst({
       where: { key: part.key },
-      update: {
-        name: part.name,
-        taxonomyNodeId: taxonomyNodeId ?? null,
-        source: part.source,
-      },
-      create: {
-        key: part.key,
-        name: part.name,
-        taxonomyNodeId: taxonomyNodeId ?? null,
-        source: part.source,
-      },
     });
+
+    const record = existing
+      ? await prisma.partCategory.update({
+          where: { id: existing.id },
+          data: {
+            name: part.name,
+            taxonomyNodeId: taxonomyNodeId ?? null,
+            source: part.source,
+          },
+        })
+      : await prisma.partCategory.create({
+          data: {
+            key: part.key,
+            name: part.name,
+            taxonomyNodeId: taxonomyNodeId ?? null,
+            source: part.source,
+          },
+        });
+
+    const nameMap = buildNames(part.name, part.name, part.name);
+    if (nameMap) {
+      const translations = buildLocaleTranslations(
+        nameMap.names,
+        nameMap.fallbackLocale,
+        nameMap.originalLocales
+      );
+      for (const [locale, payload] of Object.entries(translations)) {
+        await prisma.partCategoryTranslation.upsert({
+          where: {
+            categoryId_locale: {
+              categoryId: record.id,
+              locale: locale as Locale,
+            },
+          },
+          update: payload,
+          create: { categoryId: record.id, locale: locale as Locale, ...payload },
+        });
+      }
+    }
   }
+
+  await importPartsFromExcel();
+  await logPartCounts();
 
   const port = process.env.PORT ?? "3000";
   const assetsBaseUrl =
