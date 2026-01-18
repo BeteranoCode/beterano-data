@@ -18,7 +18,20 @@ const DEFAULT_TSV_PATH = path.join(
   "biblioteca_piezas.tsv"
 );
 
-const LOCALES = [Locale.en, Locale.es] as const;
+const LOCALES = [
+  Locale.ar,
+  Locale.de,
+  Locale.en,
+  Locale.es,
+  Locale.fr,
+  Locale.hr,
+  Locale.it,
+  Locale.ja,
+  Locale.nl,
+  Locale.pl,
+  Locale.tr,
+  Locale.zh,
+] as const;
 
 function normalizeText(value: string) {
   return value.trim().replace(/\s+/g, " ");
@@ -438,8 +451,14 @@ async function main() {
       stats.elementsCreated += 1;
     }
 
+    const elementFallback = elementNames.en || elementNames.es;
     for (const locale of LOCALES) {
-      const name = locale === Locale.en ? elementNames.en : elementNames.es;
+      const name =
+        locale === Locale.en
+          ? elementNames.en
+          : locale === Locale.es
+            ? elementNames.es
+            : elementFallback;
       const result = await upsertTranslation({
         table: "element",
         parentId: elementId,
@@ -450,8 +469,14 @@ async function main() {
       if (result === "updated") stats.translationsUpdated += 1;
     }
 
+    const categoryFallback = categoryNames.en || categoryNames.es;
     for (const locale of LOCALES) {
-      const name = locale === Locale.en ? categoryNames.en : categoryNames.es;
+      const name =
+        locale === Locale.en
+          ? categoryNames.en
+          : locale === Locale.es
+            ? categoryNames.es
+            : categoryFallback;
       const result = await upsertTranslation({
         table: "category",
         parentId: categoryId,
@@ -462,8 +487,14 @@ async function main() {
       if (result === "updated") stats.translationsUpdated += 1;
     }
 
+    const groupFallback = groupNames.en || groupNames.es;
     for (const locale of LOCALES) {
-      const name = locale === Locale.en ? groupNames.en : groupNames.es;
+      const name =
+        locale === Locale.en
+          ? groupNames.en
+          : locale === Locale.es
+            ? groupNames.es
+            : groupFallback;
       const result = await upsertTranslation({
         table: "group",
         parentId: groupId,
@@ -474,8 +505,14 @@ async function main() {
       if (result === "updated") stats.translationsUpdated += 1;
     }
 
+    const systemFallback = systemNames.en || systemNames.es;
     for (const locale of LOCALES) {
-      const name = locale === Locale.en ? systemNames.en : systemNames.es;
+      const name =
+        locale === Locale.en
+          ? systemNames.en
+          : locale === Locale.es
+            ? systemNames.es
+            : systemFallback;
       const result = await upsertTranslation({
         table: "system",
         parentId: systemId,
