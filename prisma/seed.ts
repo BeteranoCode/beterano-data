@@ -2,6 +2,7 @@ import "dotenv/config";
 import {
   CatalogItemKind,
   MediaType,
+  Prisma,
   PrismaClient,
   TaxonomyKind,
   Locale,
@@ -107,32 +108,16 @@ function buildLocaleTranslations(
 
   const isOriginal = (locale: Locale) => originalLocales[locale] === true;
 
-  const result: Record<Locale, ReturnType<typeof build>> = {
-    [Locale.ar]: build(names.en, Locale.ar, true),
-    [Locale.de]: build(
-      names.de,
-      Locale.de,
-      !isOriginal(Locale.de)
-    ),
-    [Locale.en]: build(
-      names.en,
-      Locale.en,
-      !isOriginal(Locale.en)
-    ),
-    [Locale.es]: build(
-      names.es,
-      Locale.es,
-      !isOriginal(Locale.es)
-    ),
-    [Locale.fr]: build(names.en, Locale.fr, true),
-    [Locale.hr]: build(names.en, Locale.hr, true),
-    [Locale.it]: build(names.en, Locale.it, true),
-    [Locale.ja]: build(names.en, Locale.ja, true),
-    [Locale.nl]: build(names.en, Locale.nl, true),
-    [Locale.pl]: build(names.en, Locale.pl, true),
-    [Locale.tr]: build(names.en, Locale.tr, true),
-    [Locale.zh]: build(names.en, Locale.zh, true),
+  const result: Partial<Record<Locale, ReturnType<typeof build>>> = {
+    [Locale.en]: build(names.en, Locale.en, !isOriginal(Locale.en)),
   };
+
+  if (isOriginal(Locale.es)) {
+    result[Locale.es] = build(names.es, Locale.es, false);
+  }
+  if (isOriginal(Locale.de)) {
+    result[Locale.de] = build(names.de, Locale.de, false);
+  }
 
   return result;
 }
@@ -439,6 +424,275 @@ async function logPartCounts() {
   );
 }
 
+function toNumber(value: unknown) {
+  if (typeof value === "bigint") return Number(value);
+  if (typeof value === "number") return value;
+  return Number(value);
+}
+
+function buildWhitelistSql() {
+  if (!TRANSLATION_GUARDRAIL_WHITELIST.length) {
+    return Prisma.sql`ARRAY[]::text[]`;
+  }
+  return Prisma.sql`ARRAY[${Prisma.join(TRANSLATION_GUARDRAIL_WHITELIST)}]::text[]`;
+}
+
+async function assertNoEnglishFallbackTranslations() {
+  const whitelistSql = buildWhitelistSql();
+  const checks: Array<{
+    label: string;
+    total: number;
+    bad: number;
+    ratio: number;
+  }> = [];
+
+  const [systemRow] = await prisma.$queryRaw<
+    { total: bigint | number; bad: bigint | number }[]
+  >`
+    SELECT
+      (SELECT COUNT(*) FROM "PartSystemTranslation" t WHERE t.locale <> 'en') as total,
+      (SELECT COUNT(*)
+       FROM "PartSystemTranslation" t
+       JOIN "PartSystemTranslation" en
+         ON en."systemId" = t."systemId" AND en.locale = 'en'
+       WHERE t.locale <> 'en'
+         AND lower(trim(t.name)) = lower(trim(en.name))
+         AND NOT (upper(trim(en.name)) = ANY(${whitelistSql}))
+      ) as bad
+  `;
+  checks.push({
+    label: "PartSystemTranslation",
+    total: toNumber(systemRow?.total ?? 0),
+    bad: toNumber(systemRow?.bad ?? 0),
+    ratio: 0,
+  });
+
+  const [groupRow] = await prisma.$queryRaw<
+    { total: bigint | number; bad: bigint | number }[]
+  >`
+    SELECT
+      (SELECT COUNT(*) FROM "PartGroupTranslation" t WHERE t.locale <> 'en') as total,
+      (SELECT COUNT(*)
+       FROM "PartGroupTranslation" t
+       JOIN "PartGroupTranslation" en
+         ON en."groupId" = t."groupId" AND en.locale = 'en'
+       WHERE t.locale <> 'en'
+         AND lower(trim(t.name)) = lower(trim(en.name))
+         AND NOT (upper(trim(en.name)) = ANY(${whitelistSql}))
+      ) as bad
+  `;
+  checks.push({
+    label: "PartGroupTranslation",
+    total: toNumber(groupRow?.total ?? 0),
+    bad: toNumber(groupRow?.bad ?? 0),
+    ratio: 0,
+  });
+
+  const [categoryRow] = await prisma.$queryRaw<
+    { total: bigint | number; bad: bigint | number }[]
+  >`
+    SELECT
+      (SELECT COUNT(*) FROM "PartCategoryTranslation" t WHERE t.locale <> 'en') as total,
+      (SELECT COUNT(*)
+       FROM "PartCategoryTranslation" t
+       JOIN "PartCategoryTranslation" en
+         ON en."categoryId" = t."categoryId" AND en.locale = 'en'
+       WHERE t.locale <> 'en'
+         AND lower(trim(t.name)) = lower(trim(en.name))
+         AND NOT (upper(trim(en.name)) = ANY(${whitelistSql}))
+      ) as bad
+  `;
+  checks.push({
+    label: "PartCategoryTranslation",
+    total: toNumber(categoryRow?.total ?? 0),
+    bad: toNumber(categoryRow?.bad ?? 0),
+    ratio: 0,
+  });
+
+  const [elementRow] = await prisma.$queryRaw<
+    { total: bigint | number; bad: bigint | number }[]
+  >`
+    SELECT
+      (SELECT COUNT(*) FROM "PartElementTranslation" t WHERE t.locale <> 'en') as total,
+      (SELECT COUNT(*)
+       FROM "PartElementTranslation" t
+       JOIN "PartElementTranslation" en
+         ON en."elementId" = t."elementId" AND en.locale = 'en'
+       WHERE t.locale <> 'en'
+         AND lower(trim(t.name)) = lower(trim(en.name))
+         AND NOT (upper(trim(en.name)) = ANY(${whitelistSql}))
+      ) as bad
+  `;
+  checks.push({
+    label: "PartElementTranslation",
+    total: toNumber(elementRow?.total ?? 0),
+    bad: toNumber(elementRow?.bad ?? 0),
+    ratio: 0,
+  });
+
+  const [operationRow] = await prisma.$queryRaw<
+    { total: bigint | number; bad: bigint | number }[]
+  >`
+    SELECT
+      (SELECT COUNT(*) FROM "ServiceOperationTranslation" t WHERE t.locale <> 'en') as total,
+      (SELECT COUNT(*)
+       FROM "ServiceOperationTranslation" t
+       JOIN "ServiceOperationTranslation" en
+         ON en."operationId" = t."operationId" AND en.locale = 'en'
+       WHERE t.locale <> 'en'
+         AND lower(trim(t.name)) = lower(trim(en.name))
+         AND NOT (upper(trim(en.name)) = ANY(${whitelistSql}))
+      ) as bad
+  `;
+  checks.push({
+    label: "ServiceOperationTranslation",
+    total: toNumber(operationRow?.total ?? 0),
+    bad: toNumber(operationRow?.bad ?? 0),
+    ratio: 0,
+  });
+
+  const [taxonomyRow] = await prisma.$queryRaw<
+    { total: bigint | number; bad: bigint | number }[]
+  >`
+    SELECT
+      (SELECT COUNT(*) FROM "TaxonomyNodeTranslation" t WHERE t.locale <> 'en') as total,
+      (SELECT COUNT(*)
+       FROM "TaxonomyNodeTranslation" t
+       JOIN "TaxonomyNodeTranslation" en
+         ON en."taxonomyNodeId" = t."taxonomyNodeId" AND en.locale = 'en'
+       WHERE t.locale <> 'en'
+         AND lower(trim(t.name)) = lower(trim(en.name))
+         AND NOT (upper(trim(en.name)) = ANY(${whitelistSql}))
+      ) as bad
+  `;
+  checks.push({
+    label: "TaxonomyNodeTranslation",
+    total: toNumber(taxonomyRow?.total ?? 0),
+    bad: toNumber(taxonomyRow?.bad ?? 0),
+    ratio: 0,
+  });
+
+  const [catalogRow] = await prisma.$queryRaw<
+    { total: bigint | number; bad: bigint | number }[]
+  >`
+    SELECT
+      (SELECT COUNT(*) FROM "CatalogItemTranslation" t WHERE t.locale <> 'en') as total,
+      (SELECT COUNT(*)
+       FROM "CatalogItemTranslation" t
+       JOIN "CatalogItemTranslation" en
+         ON en."itemId" = t."itemId" AND en.locale = 'en'
+       WHERE t.locale <> 'en'
+         AND lower(trim(t.name)) = lower(trim(en.name))
+         AND NOT (upper(trim(en.name)) = ANY(${whitelistSql}))
+      ) as bad
+  `;
+  checks.push({
+    label: "WorkCatalogItemTranslation",
+    total: toNumber(catalogRow?.total ?? 0),
+    bad: toNumber(catalogRow?.bad ?? 0),
+    ratio: 0,
+  });
+
+  const violations = checks
+    .map((check) => ({
+      ...check,
+      ratio: check.total ? check.bad / check.total : 0,
+    }))
+    .filter((check) => check.ratio > MAX_SAME_EN_RATIO);
+
+  if (violations.length) {
+    const details = violations
+      .map(
+        (check) =>
+          `${check.label}: ${check.bad}/${check.total} (${(
+            check.ratio * 100
+          ).toFixed(2)}%)`
+      )
+      .join("; ");
+    throw new Error(
+      `Seed guardrail failed: non-en translations matching en are not allowed. ${details}`
+    );
+  }
+}
+
+async function assertNoLoadingPlaceholders() {
+  const checks = await prisma.$queryRaw<
+    { tableName: string; count: bigint | number }[]
+  >`
+    SELECT 'PartSystemTranslation' as "tableName", COUNT(*) as count
+    FROM "PartSystemTranslation"
+    WHERE name = 'Loading...'
+    UNION ALL
+    SELECT 'PartGroupTranslation' as "tableName", COUNT(*) as count
+    FROM "PartGroupTranslation"
+    WHERE name = 'Loading...'
+    UNION ALL
+    SELECT 'PartCategoryTranslation' as "tableName", COUNT(*) as count
+    FROM "PartCategoryTranslation"
+    WHERE name = 'Loading...'
+    UNION ALL
+    SELECT 'PartElementTranslation' as "tableName", COUNT(*) as count
+    FROM "PartElementTranslation"
+    WHERE name = 'Loading...'
+  `;
+
+  const offenders = checks.filter((row) => toNumber(row.count) > 0);
+  if (offenders.length) {
+    const details = offenders
+      .map((row) => `${row.tableName}: ${toNumber(row.count)}`)
+      .join(", ");
+    throw new Error(`Seed guardrail failed: Loading... placeholders found. ${details}`);
+  }
+}
+
+async function assertNoEnglishCopiesNonHuman() {
+  const checks = await prisma.$queryRaw<
+    { tableName: string; count: bigint | number }[]
+  >`
+    SELECT 'PartSystemTranslation' as "tableName", COUNT(*) as count
+    FROM "PartSystemTranslation" t
+    JOIN "PartSystemTranslation" en
+      ON en."systemId" = t."systemId" AND en.locale = 'en'
+    WHERE t.locale <> 'en'
+      AND lower(trim(t.name)) = lower(trim(en.name))
+      AND (t."confidenceHint" IS NULL OR t."confidenceHint" <> 'human')
+    UNION ALL
+    SELECT 'PartGroupTranslation' as "tableName", COUNT(*) as count
+    FROM "PartGroupTranslation" t
+    JOIN "PartGroupTranslation" en
+      ON en."groupId" = t."groupId" AND en.locale = 'en'
+    WHERE t.locale <> 'en'
+      AND lower(trim(t.name)) = lower(trim(en.name))
+      AND (t."confidenceHint" IS NULL OR t."confidenceHint" <> 'human')
+    UNION ALL
+    SELECT 'PartCategoryTranslation' as "tableName", COUNT(*) as count
+    FROM "PartCategoryTranslation" t
+    JOIN "PartCategoryTranslation" en
+      ON en."categoryId" = t."categoryId" AND en.locale = 'en'
+    WHERE t.locale <> 'en'
+      AND lower(trim(t.name)) = lower(trim(en.name))
+      AND (t."confidenceHint" IS NULL OR t."confidenceHint" <> 'human')
+    UNION ALL
+    SELECT 'PartElementTranslation' as "tableName", COUNT(*) as count
+    FROM "PartElementTranslation" t
+    JOIN "PartElementTranslation" en
+      ON en."elementId" = t."elementId" AND en.locale = 'en'
+    WHERE t.locale <> 'en'
+      AND lower(trim(t.name)) = lower(trim(en.name))
+      AND (t."confidenceHint" IS NULL OR t."confidenceHint" <> 'human')
+  `;
+
+  const offenders = checks.filter((row) => toNumber(row.count) > 0);
+  if (offenders.length) {
+    const details = offenders
+      .map((row) => `${row.tableName}: ${toNumber(row.count)}`)
+      .join(", ");
+    throw new Error(
+      `Seed guardrail failed: non-human translations matching EN detected. ${details}`
+    );
+  }
+}
+
 const CATALOG_ROOT_KEY = "workshop_catalog";
 
 const ALL_LOCALES: Locale[] = [
@@ -455,6 +709,18 @@ const ALL_LOCALES: Locale[] = [
   Locale.tr,
   Locale.zh,
 ];
+
+const TRANSLATION_GUARDRAIL_WHITELIST = [
+  "ABS",
+  "GPS",
+  "LED",
+  "USB",
+  "OBD",
+  "VIN",
+  "OEM",
+];
+
+const MAX_SAME_EN_RATIO = 0;
 
 type LocaleNames = {
   ar: string;
@@ -2423,7 +2689,7 @@ async function main() {
       },
     });
 
-    const nameMap = buildNames(op.name, op.name, op.name);
+    const nameMap = buildNames(op.name);
     if (nameMap) {
       const translations = buildLocaleTranslations(
         nameMap.names,
@@ -2438,8 +2704,20 @@ async function main() {
               locale: locale as Locale,
             },
           },
-          update: payload,
-          create: { operationId: record.id, locale: locale as Locale, ...payload },
+          update: {
+            name: payload.name,
+            aliases: payload.aliasesJson,
+            keywords: payload.keywordsJson,
+            confidenceHint: payload.confidenceHint,
+          },
+          create: {
+            operationId: record.id,
+            locale: locale as Locale,
+            name: payload.name,
+            aliases: payload.aliasesJson,
+            keywords: payload.keywordsJson,
+            confidenceHint: payload.confidenceHint,
+          },
         });
       }
     }
@@ -2487,7 +2765,7 @@ async function main() {
           },
         });
 
-    const nameMap = buildNames(part.name, part.name, part.name);
+    const nameMap = buildNames(part.name);
     if (nameMap) {
       const translations = buildLocaleTranslations(
         nameMap.names,
@@ -2511,6 +2789,9 @@ async function main() {
 
   await importPartsFromExcel();
   await logPartCounts();
+  await assertNoEnglishFallbackTranslations();
+  await assertNoLoadingPlaceholders();
+  await assertNoEnglishCopiesNonHuman();
 
   const port = process.env.PORT ?? "3000";
   const assetsBaseUrl =

@@ -31,17 +31,16 @@ npm run prisma:migrate
 npm run prisma:seed
 ```
 
-## Parts catalog import
+## Parts catalog import (XLSX)
 
-Place `biblioteca_piezas.xlsx` under `datasets/parts/` (sheet `00_DATA`) or set:
+Place `biblioteca_piezas.xlsx` under `datasets/parts/` (sheet `00_DATA`).
 
 ```bash
 PARTS_XLSX_PATH=C:\path\to\biblioteca_piezas.xlsx
 ```
 
-The seed imports systems → groups → categories → elements and creates translations
-for `ar,de,en,es,fr,hr,it,ja,nl,pl,tr,zh`. For locales missing in Excel, it falls
-back to EN and marks a confidence hint in the translation rows.
+The XLSX import upserts systems, groups, categories, elements and their translations
+from the sheet. It does not invent translations or copy English to other locales.
 Image fields are stored as `imageKey` (slug of filename without extension).
 
 ## Run
@@ -49,6 +48,141 @@ Image fields are stored as `imageKey` (slug of filename without extension).
 ```bash
 npm run dev
 ```
+
+
+## Translation repair
+
+Fix existing non-EN rows that were seeded with English (legacy script):
+
+```bash
+npm run prisma:generate
+# Only if the schema changed
+npm run prisma:migrate
+npm run fix:translations
+```
+
+XLSX-only source (no Google Translate):
+
+```bash
+npm run fix:translations
+```
+
+Import parts and translations from XLSX:
+
+```bash
+npm run import:parts
+```
+
+## Zero Loading placeholders
+
+```bash
+npm run import:parts
+npm run fix:translations
+npm run cleanup:loading
+```
+
+```sql
+SELECT 'PartSystemTranslation' as t, COUNT(*) FROM "PartSystemTranslation" WHERE name='Loading...'
+UNION ALL
+SELECT 'PartGroupTranslation', COUNT(*) FROM "PartGroupTranslation" WHERE name='Loading...'
+UNION ALL
+SELECT 'PartCategoryTranslation', COUNT(*) FROM "PartCategoryTranslation" WHERE name='Loading...'
+UNION ALL
+SELECT 'PartElementTranslation', COUNT(*) FROM "PartElementTranslation" WHERE name='Loading...';
+```
+
+```sql
+-- Empty names by locale
+SELECT locale, COUNT(*) FROM "PartSystemTranslation" WHERE trim(name) = '' GROUP BY 1 ORDER BY 2 DESC;
+SELECT locale, COUNT(*) FROM "PartGroupTranslation" WHERE trim(name) = '' GROUP BY 1 ORDER BY 2 DESC;
+SELECT locale, COUNT(*) FROM "PartCategoryTranslation" WHERE trim(name) = '' GROUP BY 1 ORDER BY 2 DESC;
+SELECT locale, COUNT(*) FROM "PartElementTranslation" WHERE trim(name) = '' GROUP BY 1 ORDER BY 2 DESC;
+```
+
+```sql
+-- English copies (non-human)
+SELECT t.locale, COUNT(*)
+FROM "PartSystemTranslation" t
+JOIN "PartSystemTranslation" en
+  ON en."systemId" = t."systemId" AND en.locale='en'
+WHERE t.locale <> 'en'
+  AND lower(trim(t.name)) = lower(trim(en.name))
+  AND (t."confidenceHint" IS NULL OR t."confidenceHint" <> 'human')
+GROUP BY 1 ORDER BY 2 DESC;
+```
+
+## Translation repair (TSV)
+
+Use TSV as the source of truth (no machine translation). Supported formats:
+
+Format A (long):
+
+```
+entityType\tkey\tlocale\tname\taliasesJson?\tkeywordsJson?\tconfidenceHint?
+```
+
+Format B (wide):
+
+```
+entityType\tkey\ten\tes\tde\tfr\tit\tnl\tpl\thr\ttr\tar\tja\tzh
+```
+
+Commands:
+
+```bash
+# Dry-run (no writes)
+npm run translations:fix -- --tsv .\\datasets\\parts\\biblioteca_piezas.tsv --dry-run
+
+# Apply changes
+npm run translations:fix -- --tsv .\\datasets\\parts\\biblioteca_piezas.tsv --apply
+
+# Validate suspicious English copies
+npm run translations:check
+```
+
+Verification SQL examples:
+
+```sql
+-- Placeholders
+SELECT locale, COUNT(*) FROM "PartSystemTranslation"
+WHERE name = 'Loading...'
+GROUP BY 1 ORDER BY 2 DESC;
+
+SELECT locale, COUNT(*) FROM "PartGroupTranslation"
+WHERE name = 'Loading...'
+GROUP BY 1 ORDER BY 2 DESC;
+
+SELECT locale, COUNT(*) FROM "PartCategoryTranslation"
+WHERE name = 'Loading...'
+GROUP BY 1 ORDER BY 2 DESC;
+
+SELECT locale, COUNT(*) FROM "PartElementTranslation"
+WHERE name = 'Loading...'
+GROUP BY 1 ORDER BY 2 DESC;
+
+-- Part system translations that match EN (suspicious)
+SELECT t.locale, t.name, en.name AS en_name
+FROM "PartSystemTranslation" t
+JOIN "PartSystemTranslation" en
+  ON en."systemId" = t."systemId" AND en.locale = 'en'
+WHERE t.locale <> 'en'
+  AND lower(trim(t.name)) = lower(trim(en.name))
+ORDER BY t.locale
+LIMIT 50;
+
+-- Generic check: non-EN translations equal to EN for any translation table
+-- (replace table + join column)
+SELECT COUNT(*)
+FROM "PartGroupTranslation" t
+JOIN "PartGroupTranslation" en
+  ON en."groupId" = t."groupId" AND en.locale = 'en'
+WHERE t.locale <> 'en'
+  AND lower(trim(t.name)) = lower(trim(en.name));
+```
+
+UI verification:
+
+- Use Prisma Studio to confirm `locale='ar'` shows Arabic, `ja` Japanese, etc.
 
 ## Endpoints
 
@@ -124,3 +258,4 @@ Use this API as the single source of truth for catalog data and validations.
 - Catalogs: request `locale` for translated names; fallback is the base `name` field.
 
 Do not duplicate catalogs in other repos. Persist only stable references (keys), never internal IDs, and re-validate via lookup endpoints when needed.
+
