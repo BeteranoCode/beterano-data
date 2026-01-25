@@ -14,6 +14,8 @@ yarn-error.log*
 dist/
 build/
 .cache/
+datasets/_cache/
+_archiv/
 
 # Excel temporales y de respaldo
 ~$*.xls*        # evita archivos temporales de Excel (.xlsx, .xls, .xlsm, etc.)
@@ -23,4 +25,6 @@ build/
 
 # Ignorar todos los Excel excepto los que estén en /data
 *.xlsx
+*.pdf
+
 
