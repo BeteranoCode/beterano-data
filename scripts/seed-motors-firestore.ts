@@ -84,17 +84,19 @@ async function main() {
   );
 
   // 3) Vehicle brands
-  const brands = await readJson<{ id: string; name: string; country?: string }[]>(
+  const brands = await readJson<{ id?: string; key?: string; name: string; country?: string }[]>(
     'vehicles/brands.json'
   );
   await seedCollection(
     db,
     'vehicle_brands',
-    brands.map((b) => ({
-      id: b.id,
-      name: b.name,
-      country: b.country || null
-    }))
+    brands
+      .map((b) => ({
+        id: b.id || b.key,
+        name: b.name,
+        country: b.country || null
+      }))
+      .filter((entry) => entry.id)
   );
 
   // 4) Vehicle segments

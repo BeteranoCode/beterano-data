@@ -131,15 +131,17 @@ async function main() {
     console.log(`Insertados ${baseServicesLab.length} service_types`);
 
     // 4) VEHICLE BRANDS
-    const brands = await readJson<{ id: string; name: string; country?: string }[]>(
+    const brands = await readJson<{ id?: string; key?: string; name: string; country?: string }[]>(
       'vehicles/brands.json'
     );
 
     await client.query('DELETE FROM vehicle_brands;');
     for (const b of brands) {
+      const brandId = b.id || b.key;
+      if (!brandId) continue;
       await client.query(
         'INSERT INTO vehicle_brands (id, name, country) VALUES ($1, $2, $3)',
-        [b.id, b.name, b.country || null]
+        [brandId, b.name, b.country || null]
       );
     }
     console.log(`Insertadas ${brands.length} vehicle_brands`);
