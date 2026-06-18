@@ -1,0 +1,14 @@
+[
+  { "id": "restauradores", "label": "Restauradores", "color": "#1f7a5d", "icon": "fa-solid fa-screwdriver-wrench" },
+  { "id": "desguaces", "label": "Desguaces", "color": "#c94949", "icon": "fa-solid fa-car-burst" },
+  { "id": "shops", "label": "Shops", "color": "#6d6d6d", "icon": "fa-solid fa-store" },
+  { "id": "professionales", "label": "Professionales", "color": "#155eef", "icon": "fa-solid fa-user-gear" },
+  { "id": "swapistas", "label": "Swapistas", "color": "#7d52c7", "icon": "fa-solid fa-gears" },
+  { "id": "rent_space", "label": "Rent Space", "color": "#287271", "icon": "fa-solid fa-warehouse" },
+  { "id": "rent_tools", "label": "Rent Tools", "color": "#2a9d8f", "icon": "fa-solid fa-toolbox" },
+  { "id": "rent_service", "label": "Rent Service", "color": "#138a72", "icon": "fa-solid fa-truck-pickup" },
+  { "id": "rent_knowledge", "label": "Rent Knowledge", "color": "#1b9988", "icon": "fa-solid fa-graduation-cap" },
+  { "id": "abandonos", "label": "Abandonos", "color": "#7d52c7", "icon": "fa-solid fa-triangle-exclamation" },
+  { "id": "propietarios", "label": "Propietarios", "color": "#d27f23", "icon": "fa-solid fa-user" },
+  { "id": "garagex", "label": "GarageX", "color": "#8d2c2c", "icon": "fa-solid fa-car" }
+]
