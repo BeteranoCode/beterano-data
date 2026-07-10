@@ -241,11 +241,15 @@ partsRouter.get("/parts/elements", async (req, res, next) => {
     if (!locale) return;
 
     const categoryKey = safeString(req.query.categoryKey);
-    if (!categoryKey) {
-      return sendError(res, 400, "Missing required query: categoryKey");
+    const query = safeString(req.query.q);
+    // Uno de los dos es requerido: o filtramos por categoría (uso original),
+    // o buscamos globalmente por keyword (uso nuevo: clasificador de
+    // anuncios en beterano-leads que necesita "¿a qué element pertenece
+    // este título?" sin conocer la categoría a priori).
+    if (!categoryKey && !query) {
+      return sendError(res, 400, "Missing required query: categoryKey or q");
     }
 
-    const query = safeString(req.query.q);
     const limit = parseLimit(req);
     const cursor = parseCursor(req);
     const whereCursor =
@@ -261,9 +265,11 @@ partsRouter.get("/parts/elements", async (req, res, next) => {
           }
         : undefined;
 
-    const where: Record<string, any> = {
-      AND: [{ category: { key: categoryKey } }, whereCursor ?? {}],
-    };
+    const where: Record<string, any> = { AND: [whereCursor ?? {}] };
+
+    if (categoryKey) {
+      where.AND.push({ category: { key: categoryKey } });
+    }
 
     if (query) {
       where.AND.push({
@@ -281,19 +287,39 @@ partsRouter.get("/parts/elements", async (req, res, next) => {
       });
     }
 
+    // Include profundo: cuando el consumidor busca globalmente por keyword,
+    // necesita saber también a qué group y system pertenece cada element
+    // (para agrupar / navegar / clasificar). El coste extra es marginal:
+    // Prisma resuelve el join en una única query con LEFT JOINs.
     const data = await prisma.partElement.findMany({
       where,
       include: {
-        category: true,
+        category: {
+          include: {
+            group: {
+              include: { system: true },
+            },
+          },
+        },
         translations: { where: { locale } },
       },
       orderBy: [{ createdAt: "desc" }, { id: "desc" }],
       take: limit + 1,
     });
 
-    const items = data.slice(0, limit).map((element) =>
-      toPartElementDto(element, element.translations[0]?.name)
-    );
+    // El DTO estándar toPartElementDto solo expone categoryKey. Extendemos
+    // en el sitio con groupKey y systemKey (los otros dos niveles de la
+    // jerarquía autodoc) para que el consumidor no tenga que hacer 2 queries
+    // adicionales para reconstruir el breadcrumb.
+    const items = data.slice(0, limit).map((element) => {
+      const base = toPartElementDto(element, element.translations[0]?.name);
+      const el = element as any;
+      return {
+        ...base,
+        groupKey: el.category?.group?.key ?? null,
+        systemKey: el.category?.group?.system?.key ?? null,
+      };
+    });
     const nextCursor =
       data.length > limit && items.length
         ? buildNextCursor({
