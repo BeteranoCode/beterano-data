@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#ffffff"/>
+  <g fill="none" stroke="#111111" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Spark plug terminal (top) -->
+    <rect x="440" y="140" width="144" height="80" rx="10"/>
+    <!-- Insulator (ceramic ribs) -->
+    <path d="M420 220 L604 220 L604 260 L420 260 Z"/>
+    <path d="M400 260 L624 260 L624 320 L400 320 Z"/>
+    <path d="M420 320 L604 320 L604 380 L420 380 Z"/>
+    <!-- Hex nut -->
+    <path d="M370 380 L654 380 L680 460 L654 540 L370 540 L344 460 Z"/>
+    <!-- Threaded shell -->
+    <rect x="420" y="540" width="184" height="180"/>
+    <path d="M420 580 L604 580"/>
+    <path d="M420 620 L604 620"/>
+    <path d="M420 660 L604 660"/>
+    <path d="M420 700 L604 700"/>
+    <!-- Ground electrode -->
+    <path d="M420 720 L420 800 L604 800 L604 720"/>
+    <!-- Center electrode -->
+    <path d="M512 720 L512 780"/>
+    <!-- Spark bolts -->
+    <path d="M512 800 L470 860 L520 850 L490 900"/>
+    <path d="M512 800 L560 870 L510 855 L540 910"/>
+  </g>
+</svg>

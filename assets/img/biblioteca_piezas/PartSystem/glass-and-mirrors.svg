@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#ffffff"/>
+  <g fill="none" stroke="#111111" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Windshield trapezoid -->
+    <path d="M220 620 L340 260 L720 260 L840 620 Z"/>
+    <!-- Vertical divider (center pillar hint) -->
+    <path d="M530 260 L530 620"/>
+    <!-- Reflection highlight lines -->
+    <path d="M380 320 L470 500"/>
+    <path d="M620 320 L560 380"/>
+    <!-- Bottom dash line -->
+    <path d="M180 620 L880 620"/>
+    <!-- Side mirror body -->
+    <path d="M260 720 Q220 720 220 760 L220 830 Q220 870 260 870 L400 870 Q440 870 440 830 L440 760 Q440 720 400 720 Z"/>
+    <!-- Mirror reflective inner -->
+    <path d="M280 750 L380 750 L380 840 L280 840 Z"/>
+    <path d="M280 780 L380 820" stroke-width="18"/>
+    <!-- Mirror mounting arm -->
+    <path d="M440 795 L520 795"/>
+    <!-- Rear-view mirror (attached above) -->
+    <path d="M620 720 L820 720 L820 800 L620 800 Z"/>
+    <path d="M660 730 L780 780" stroke-width="18"/>
+    <path d="M720 800 L720 860"/>
+    <path d="M690 860 L750 860"/>
+  </g>
+</svg>

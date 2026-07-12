@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#ffffff"/>
+  <g fill="none" stroke="#111111" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Seat silhouette -->
+    <path d="M300 220 Q300 180 340 180 L560 180 Q600 180 600 220 L600 480"/>
+    <path d="M300 480 L600 480"/>
+    <path d="M300 220 L300 500 Q300 540 340 540 L720 540 Q760 540 760 580 L760 780"/>
+    <!-- Seat cushion front -->
+    <path d="M760 780 L340 780 Q300 780 300 740 L300 640"/>
+    <!-- Seat belt strap -->
+    <path d="M420 200 L520 780" stroke-width="36"/>
+    <!-- Seat belt buckle -->
+    <rect x="470" y="560" width="120" height="80" rx="14" fill="#ffffff"/>
+    <path d="M500 600 L560 600"/>
+    <!-- Airbag burst (star behind) -->
+    <g transform="translate(820,300)">
+      <circle cx="0" cy="0" r="90"/>
+      <path d="M-140 0 L-100 0"/>
+      <path d="M100 0 L140 0"/>
+      <path d="M0 -140 L0 -100"/>
+      <path d="M0 100 L0 140"/>
+      <path d="M-100 -100 L-70 -70"/>
+      <path d="M70 70 L100 100"/>
+      <path d="M100 -100 L70 -70"/>
+      <path d="M-100 100 L-70 70"/>
+    </g>
+  </g>
+</svg>

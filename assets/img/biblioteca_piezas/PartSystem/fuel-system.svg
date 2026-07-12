@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#ffffff"/>
+  <g fill="none" stroke="#111111" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Fuel pump body -->
+    <rect x="260" y="220" width="360" height="620" rx="20"/>
+    <!-- Display window -->
+    <rect x="320" y="290" width="240" height="140" rx="12"/>
+    <!-- Screen segments -->
+    <path d="M360 340 L520 340"/>
+    <path d="M360 380 L480 380"/>
+    <!-- Nozzle holder base -->
+    <rect x="320" y="500" width="240" height="200" rx="16"/>
+    <!-- Base plinth -->
+    <rect x="220" y="840" width="440" height="60" rx="10"/>
+    <!-- Nozzle -->
+    <path d="M620 500 L760 460 L840 460 L840 540 L760 540 Z"/>
+    <!-- Hose curve -->
+    <path d="M620 620 Q700 720 800 640"/>
+    <!-- Fuel drop -->
+    <path d="M900 620 Q940 680 900 720 Q860 680 900 620 Z"/>
+  </g>
+</svg>

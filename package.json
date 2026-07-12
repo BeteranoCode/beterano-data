@@ -18,6 +18,7 @@
     "translations:check": "ts-node scripts/translations-check.ts",
     "translations:missing": "ts-node scripts/report-missing-translations.ts",
     "cleanup:loading": "ts-node scripts/cleanup-loading-placeholders.ts",
+    "migrate:part-systems": "ts-node scripts/migrate-part-systems-canonical.ts",
     "fix:translations": "ts-node scripts/fix-translations.ts --source xlsx --file datasets/parts/biblioteca_piezas.xlsx",
     "sync": "node scripts/sync_biblioteca.js",
     "seed:lab": "ts-node scripts/seed-lab-postgres.ts",

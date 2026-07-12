@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#ffffff"/>
+  <g fill="none" stroke="#111111" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Headlight lens (D-shape) -->
+    <path d="M180 320 L440 320 Q560 320 560 460 Q560 600 440 600 L180 600 Z"/>
+    <!-- Housing back -->
+    <path d="M120 380 L180 380 L180 540 L120 540"/>
+    <!-- Reflector inner arc -->
+    <path d="M240 400 Q380 460 240 520"/>
+    <!-- Bulb dot -->
+    <circle cx="300" cy="460" r="20" fill="#111111"/>
+    <!-- Light beams -->
+    <path d="M580 380 L900 300"/>
+    <path d="M580 420 L900 400"/>
+    <path d="M580 460 L900 500"/>
+    <path d="M580 500 L900 600"/>
+    <path d="M580 540 L900 700"/>
+    <!-- Beam tick marks (dashes at end) -->
+    <path d="M860 300 L920 290"/>
+    <path d="M860 500 L920 500"/>
+    <path d="M860 700 L920 710"/>
+  </g>
+</svg>
