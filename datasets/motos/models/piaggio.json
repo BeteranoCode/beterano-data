@@ -1,0 +1,77 @@
+[
+  {
+    "id": "piaggio-boxer-boxer-1-serie",
+    "name": "Boxer (1ª serie)",
+    "type": "Naked"
+  },
+  {
+    "id": "piaggio-boxer-boxer-2",
+    "name": "Boxer 2",
+    "type": "Naked"
+  },
+  {
+    "id": "piaggio-bravo-bravo",
+    "name": "Bravo",
+    "type": "Naked"
+  },
+  {
+    "id": "piaggio-cosa-cosa-1",
+    "name": "Cosa 1",
+    "type": "Scooter"
+  },
+  {
+    "id": "piaggio-cosa-cosa-2",
+    "name": "Cosa 2",
+    "type": "Scooter"
+  },
+  {
+    "id": "piaggio-hexagon-hexagon-1-serie",
+    "name": "Hexagon (1ª serie)",
+    "type": "Scooter"
+  },
+  {
+    "id": "piaggio-hexagon-hexagon-180",
+    "name": "Hexagon 180",
+    "type": "Scooter"
+  },
+  {
+    "id": "piaggio-nrg-nrg-mc1",
+    "name": "NRG mc1",
+    "type": "Scooter"
+  },
+  {
+    "id": "piaggio-nrg-nrg-mc2",
+    "name": "NRG MC2",
+    "type": "Scooter"
+  },
+  {
+    "id": "piaggio-quartz-quartz",
+    "name": "Quartz",
+    "type": "Scooter"
+  },
+  {
+    "id": "piaggio-sfera-sfera",
+    "name": "Sfera",
+    "type": "Scooter"
+  },
+  {
+    "id": "piaggio-sfera-sfera-1-serie",
+    "name": "Sfera (1ª serie)",
+    "type": "Scooter"
+  },
+  {
+    "id": "piaggio-sfera-sfera-2-serie",
+    "name": "Sfera (2ª serie)",
+    "type": "Scooter"
+  },
+  {
+    "id": "piaggio-skipper-skipper-skr-1-serie",
+    "name": "Skipper (SKR, 1ª serie)",
+    "type": "Scooter"
+  },
+  {
+    "id": "piaggio-typhoon-typhoon",
+    "name": "Typhoon",
+    "type": "Scooter"
+  }
+]

@@ -1,18 +1,8 @@
 [
   {
-    "id": "iso-iso-125-4t-iso-125-4-tempi-a4d-gt-sport-a4e",
-    "name": "125 4T Iso 125 4 tempi (A4D-GT / Sport A4E)",
-    "type": "Moto"
-  },
-  {
     "id": "iso-fidia-fidia-s4-ghia",
     "name": "Fidia S4 (Ghia)",
     "type": "Sedan"
-  },
-  {
-    "id": "iso-furetto-furetto-65",
-    "name": "Furetto 65",
-    "type": "Moto"
   },
   {
     "id": "iso-grifo-grifo-a3-c-corsa",
@@ -33,31 +23,6 @@
     "id": "iso-isetta-isetta-iso-original-italiana",
     "name": "Isetta (Iso, original italiana)",
     "type": "Microcar"
-  },
-  {
-    "id": "iso-iso-f-150-iso-f-150",
-    "name": "Iso F/150",
-    "type": "Moto"
-  },
-  {
-    "id": "iso-iso-milano-iso-milano-diva-150",
-    "name": "Iso Milano Diva 150",
-    "type": "Moto"
-  },
-  {
-    "id": "iso-isocarro-isocarro-motocarro-3-ruedas",
-    "name": "Isocarro (motocarro 3 ruedas)",
-    "type": "Moto"
-  },
-  {
-    "id": "iso-isomoto-isomoto-125-tipo-b-gt-tipo-c",
-    "name": "Isomoto 125 (Tipo B-GT / Tipo C)",
-    "type": "Moto"
-  },
-  {
-    "id": "iso-isoscooter-isoscooter-125",
-    "name": "Isoscooter 125",
-    "type": "Moto"
   },
   {
     "id": "iso-lele-lele-bertone-gandini",

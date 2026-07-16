@@ -118,15 +118,5 @@
     "id": "lea-francis-nine-tipo-c",
     "name": "Nine Tipo C",
     "type": "Cabrio"
-  },
-  {
-    "id": "lea-francis-v-twin-jap-3-hp-495-cc",
-    "name": "V-twin JAP 3½ hp (495 cc)",
-    "type": "Moto"
-  },
-  {
-    "id": "lea-francis-v-twin-mag-5-hp-592-cc",
-    "name": "V-twin MAG 5 hp (592 cc)",
-    "type": "Moto"
   }
 ]

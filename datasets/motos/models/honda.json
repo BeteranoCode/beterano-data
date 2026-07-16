@@ -1,0 +1,72 @@
+[
+  {
+    "id": "honda-cb400f-cb400-four",
+    "name": "CB400F CB400 Four",
+    "type": "Naked"
+  },
+  {
+    "id": "honda-cb750-cb750-four-sohc",
+    "name": "CB750 Four (SOHC)",
+    "type": "Naked"
+  },
+  {
+    "id": "honda-cbr1000f-cbr1000f-sc24",
+    "name": "CBR1000F (SC24)",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "honda-cbr600f-cbr600f2-f3-pc25-pc31",
+    "name": "CBR600F2/F3 (PC25/PC31)",
+    "type": "Supersport"
+  },
+  {
+    "id": "honda-cbr900rr-cbr900rr-fireblade-sc28-sc33",
+    "name": "CBR900RR FireBlade (SC28/SC33)",
+    "type": "Supersport"
+  },
+  {
+    "id": "honda-cbx1000-cbx-sc03-sc06",
+    "name": "CBX1000 CBX (SC03/SC06)",
+    "type": "Naked"
+  },
+  {
+    "id": "honda-cx500-cx500",
+    "name": "CX500",
+    "type": "Naked"
+  },
+  {
+    "id": "honda-gold-wing-gl1000-gold-wing",
+    "name": "GL1000 Gold Wing",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "honda-gold-wing-gl1500-gold-wing",
+    "name": "GL1500 Gold Wing",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "honda-nsr250r-nsr250r",
+    "name": "NSR250R",
+    "type": "Supersport"
+  },
+  {
+    "id": "honda-dominator-nx650-dominator",
+    "name": "NX650 Dominator",
+    "type": "Enduro"
+  },
+  {
+    "id": "honda-vfr750f-vfr750f-rc24-rc36",
+    "name": "VFR750F (RC24/RC36)",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "honda-transalp-xl600v-transalp",
+    "name": "XL600V Transalp",
+    "type": "Adventure"
+  },
+  {
+    "id": "honda-africa-twin-xrv650-africa-twin",
+    "name": "XRV650 Africa Twin",
+    "type": "Adventure"
+  }
+]

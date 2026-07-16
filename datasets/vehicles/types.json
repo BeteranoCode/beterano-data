@@ -6,12 +6,6 @@
     "count": 2586
   },
   {
-    "key": "moto",
-    "name": "Moto",
-    "kind": "moto",
-    "count": 1211
-  },
-  {
     "key": "coupe",
     "name": "Coupe",
     "kind": "car",
@@ -54,12 +48,6 @@
     "count": 216
   },
   {
-    "key": "naked",
-    "name": "Naked",
-    "kind": "moto",
-    "count": 214
-  },
-  {
     "key": "suv",
     "name": "SUV",
     "kind": "car",
@@ -88,53 +76,5 @@
     "name": "Spider",
     "kind": "car",
     "count": 59
-  },
-  {
-    "key": "supersport",
-    "name": "Supersport",
-    "kind": "moto",
-    "count": 53
-  },
-  {
-    "key": "motocross",
-    "name": "Motocross",
-    "kind": "moto",
-    "count": 47
-  },
-  {
-    "key": "enduro",
-    "name": "Enduro",
-    "kind": "moto",
-    "count": 37
-  },
-  {
-    "key": "trial",
-    "name": "Trial",
-    "kind": "moto",
-    "count": 11
-  },
-  {
-    "key": "scooter",
-    "name": "Scooter",
-    "kind": "moto",
-    "count": 10
-  },
-  {
-    "key": "adventure",
-    "name": "Adventure",
-    "kind": "moto",
-    "count": 6
-  },
-  {
-    "key": "sporttourer",
-    "name": "Sporttourer",
-    "kind": "moto",
-    "count": 4
-  },
-  {
-    "key": "cruiser",
-    "name": "Cruiser",
-    "kind": "moto",
-    "count": 2
   }
 ]

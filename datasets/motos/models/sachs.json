@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sachs-125-enduro-k-125gs",
+    "name": "125 Enduro K-125GS",
+    "type": "Enduro"
+  },
+  {
+    "id": "sachs-balboa-m4-chasis-tubular",
+    "name": "Balboa M4 (chasis tubular)",
+    "type": "Naked"
+  },
+  {
+    "id": "sachs-125-scrambler-k-125-scrambler",
+    "name": "K-125 Scrambler",
+    "type": "Enduro"
+  },
+  {
+    "id": "sachs-prima-g3-g3",
+    "name": "Prima G3",
+    "type": "Naked"
+  },
+  {
+    "id": "sachs-seville-m4-505-con-engrase-separado",
+    "name": "Seville M4 (505 con engrase separado)",
+    "type": "Naked"
+  },
+  {
+    "id": "sachs-suburban-m4-ex-balboa",
+    "name": "Suburban M4 (ex-Balboa)",
+    "type": "Naked"
+  },
+  {
+    "id": "sachs-sundancer-p1-ex-westlake",
+    "name": "Sundancer P1 (ex-Westlake)",
+    "type": "Naked"
+  },
+  {
+    "id": "sachs-westlake-p1-chasis-de-chapa-estampada",
+    "name": "Westlake P1 (chasis de chapa estampada)",
+    "type": "Naked"
+  }
+]

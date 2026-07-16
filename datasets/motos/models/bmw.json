@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bmw-k100-k-series-flying-brick",
+    "name": "K100 K series (Flying Brick)",
+    "type": "Naked"
+  },
+  {
+    "id": "bmw-k75-k-series",
+    "name": "K75 K series",
+    "type": "Naked"
+  },
+  {
+    "id": "bmw-r100-airhead-serie-r",
+    "name": "R100 Airhead (serie R)",
+    "type": "Naked"
+  },
+  {
+    "id": "bmw-r80-airhead-serie-r",
+    "name": "R80 Airhead (serie R)",
+    "type": "Naked"
+  },
+  {
+    "id": "bmw-r90s-serie-6",
+    "name": "R90S Serie /6",
+    "type": "Naked"
+  }
+]

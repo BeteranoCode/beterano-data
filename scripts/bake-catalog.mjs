@@ -12,12 +12,21 @@ import XLSX from "xlsx";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const VEH = path.join(root, "datasets", "vehicles");
-const MODELS_DIR = path.join(VEH, "models");
+const MOTO = path.join(root, "datasets", "motos");
 
 const SOURCES = [
   { kind: "car", file: path.join(VEH, "world_classics.xlsx") },
-  { kind: "moto", file: path.join(root, "datasets", "motos", "world_classics_motos.xlsx") },
+  { kind: "moto", file: path.join(MOTO, "world_classics_motos.xlsx") },
 ];
+
+// Cada carpeta recibe SU brands.json/types.json/models. Una marca "both" (BMW,
+// Honda...) se emite en ambas carpetas; una moto pura solo en motos, y al reves.
+// Asi vehicles/brands.json deja de filtrar motos y los consumidores no cambian.
+const OUTPUTS = [
+  { kind: "car", dir: VEH },
+  { kind: "moto", dir: MOTO },
+];
+const wantsKind = (itemKinds, target) => itemKinds.has(target); // "both" tiene ambas
 
 const slug = (s) =>
   String(s || "")
@@ -81,35 +90,50 @@ for (const { kind, file } of SOURCES) {
   }
 }
 
-// --- Escribir brands.json ---
-const brandsOut = [...brands.values()]
-  .map((b) => ({
-    key: b.key,
-    name: b.name,
-    kind: b.kinds.size > 1 ? "both" : [...b.kinds][0],
-    types: [...b.types].sort(),
-  }))
-  .sort((a, b) => a.name.localeCompare(b.name, "es"));
-fs.writeFileSync(path.join(VEH, "brands.json"), JSON.stringify(brandsOut, null, 2) + "\n");
+for (const { kind, dir } of OUTPUTS) {
+  fs.mkdirSync(dir, { recursive: true });
 
-// --- Escribir models/<key>.json (limpia los viejos primero) ---
-fs.mkdirSync(MODELS_DIR, { recursive: true });
-for (const f of fs.readdirSync(MODELS_DIR)) {
-  if (/\.json$/i.test(f)) fs.unlinkSync(path.join(MODELS_DIR, f));
+  // --- brands.json (solo marcas de este kind; "both" entra en ambos) ---
+  const brandsOut = [...brands.values()]
+    .filter((b) => wantsKind(b.kinds, kind))
+    .map((b) => ({
+      key: b.key,
+      name: b.name,
+      kind: b.kinds.size > 1 ? "both" : [...b.kinds][0],
+      types: [...b.types].filter((t) => (types.get(slug(t))?.kinds ?? new Set()).has(kind)).sort(),
+    }))
+    .sort((a, b) => a.name.localeCompare(b.name, "es"));
+  fs.writeFileSync(path.join(dir, "brands.json"), JSON.stringify(brandsOut, null, 2) + "\n");
+
+  // --- models/<key>.json (solo modelos cuyo tipo pertenece a este kind) ---
+  const modelsDir = path.join(dir, "models");
+  fs.mkdirSync(modelsDir, { recursive: true });
+  for (const f of fs.readdirSync(modelsDir)) {
+    if (/\.json$/i.test(f)) fs.unlinkSync(path.join(modelsDir, f));
+  }
+  let modelCount = 0, brandFiles = 0;
+  for (const b of brandsOut) {
+    const mm = modelsByBrand.get(b.key);
+    if (!mm) continue;
+    const arr = [...mm.values()]
+      .filter((m) => !m.type || (types.get(slug(m.type))?.kinds ?? new Set()).has(kind))
+      .sort((a, b) => a.name.localeCompare(b.name, "es"));
+    if (!arr.length) continue;
+    modelCount += arr.length; brandFiles += 1;
+    fs.writeFileSync(path.join(modelsDir, `${b.key}.json`), JSON.stringify(arr, null, 2) + "\n");
+  }
+
+  // --- types.json (solo tipos de este kind) ---
+  const typesOut = [...types.values()]
+    .filter((t) => t.kinds.has(kind))
+    .map((t) => ({ key: t.key, name: t.name, kind: t.kinds.size > 1 ? "both" : [...t.kinds][0], count: t.count }))
+    .sort((a, b) => b.count - a.count);
+  fs.writeFileSync(path.join(dir, "types.json"), JSON.stringify(typesOut, null, 2) + "\n");
+
+  // --- segments.json (proyeccion names-only de types; lo consumen los seeders
+  // como string[] -> tabla/coleccion vehicle_segments). Se hornea para no quedar stale. ---
+  const segmentsOut = typesOut.map((t) => t.name).sort((a, b) => a.localeCompare(b, "es"));
+  fs.writeFileSync(path.join(dir, "segments.json"), JSON.stringify(segmentsOut) + "\n");
+
+  console.log(`[bake:${kind}] ${path.relative(root, dir)} -> marcas ${brandsOut.length}, modelos ${modelCount} en ${brandFiles} ficheros, tipos ${typesOut.length}, segmentos ${segmentsOut.length}`);
 }
-let modelCount = 0;
-for (const [key, mm] of modelsByBrand) {
-  const arr = [...mm.values()].sort((a, b) => a.name.localeCompare(b.name, "es"));
-  modelCount += arr.length;
-  fs.writeFileSync(path.join(MODELS_DIR, `${key}.json`), JSON.stringify(arr, null, 2) + "\n");
-}
-
-// --- Escribir types.json ---
-const typesOut = [...types.values()]
-  .map((t) => ({ key: t.key, name: t.name, kind: t.kinds.size > 1 ? "both" : [...t.kinds][0], count: t.count }))
-  .sort((a, b) => b.count - a.count);
-fs.writeFileSync(path.join(VEH, "types.json"), JSON.stringify(typesOut, null, 2) + "\n");
-
-console.log(`[bake] marcas: ${brandsOut.length} (coches+motos)`);
-console.log(`[bake] modelos: ${modelCount} en ${modelsByBrand.size} ficheros`);
-console.log(`[bake] tipos: ${typesOut.length} -> ${typesOut.map((t) => `${t.name}(${t.count})`).join(", ")}`);

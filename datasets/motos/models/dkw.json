@@ -1,0 +1,102 @@
+[
+  {
+    "id": "dkw-e206-e206",
+    "name": "E206",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-100-rt-100",
+    "name": "RT 100",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-125-rt-125-zschopau",
+    "name": "RT 125 (Zschopau)",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-125-rt-125-w-ingolstadt",
+    "name": "RT 125 W (Ingolstadt)",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-175-rt-175",
+    "name": "RT 175",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-175-rt-175-s",
+    "name": "RT 175 S",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-175-rt-175-vs",
+    "name": "RT 175 VS",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-200-rt-200",
+    "name": "RT 200",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-200-rt-200-h",
+    "name": "RT 200 H",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-200-rt-200-s",
+    "name": "RT 200 S",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-200-rt-200-vs",
+    "name": "RT 200 VS",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-200-rt-200-2",
+    "name": "RT 200/2",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-250-rt-250-h",
+    "name": "RT 250 H",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-250-rt-250-s",
+    "name": "RT 250 S",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-250-rt-250-vs",
+    "name": "RT 250 VS",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-250-rt-250-1",
+    "name": "RT 250/1",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-250-rt-250-2",
+    "name": "RT 250/2",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-350-rt-350",
+    "name": "RT 350",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-rt-350-rt-350-s",
+    "name": "RT 350 S",
+    "type": "Naked"
+  },
+  {
+    "id": "dkw-w2000-w2000-hercules-dkw",
+    "name": "W2000 (Hercules/DKW)",
+    "type": "Naked"
+  }
+]

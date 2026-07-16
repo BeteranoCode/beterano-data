@@ -1,0 +1,693 @@
+[
+  {
+    "key": "adler",
+    "name": "Adler",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "ajs",
+    "name": "AJS",
+    "kind": "moto",
+    "types": [
+      "Motocross",
+      "Naked",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "aprilia",
+    "name": "Aprilia",
+    "kind": "moto",
+    "types": [
+      "Adventure",
+      "Cruiser",
+      "Enduro",
+      "Naked",
+      "Scooter",
+      "Supersport",
+      "Trial"
+    ]
+  },
+  {
+    "key": "ariel",
+    "name": "Ariel",
+    "kind": "moto",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "benelli",
+    "name": "Benelli",
+    "kind": "moto",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "beta",
+    "name": "Beta",
+    "kind": "moto",
+    "types": [
+      "Trial"
+    ]
+  },
+  {
+    "key": "bianchi",
+    "name": "Bianchi",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "bimota",
+    "name": "Bimota",
+    "kind": "moto",
+    "types": [
+      "Naked",
+      "Sporttourer",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "bmw",
+    "name": "BMW",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "brough-superior",
+    "name": "Brough Superior",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "bsa",
+    "name": "BSA",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Naked",
+      "Scooter"
+    ]
+  },
+  {
+    "key": "bultaco",
+    "name": "Bultaco",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Motocross",
+      "Naked",
+      "Trial"
+    ]
+  },
+  {
+    "key": "cagiva",
+    "name": "Cagiva",
+    "kind": "moto",
+    "types": [
+      "Adventure",
+      "Enduro",
+      "Motocross",
+      "Naked",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "cz",
+    "name": "CZ",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Motocross",
+      "Naked",
+      "Scooter"
+    ]
+  },
+  {
+    "key": "darracq",
+    "name": "Darracq",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "dkw",
+    "name": "DKW",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "ducati",
+    "name": "Ducati",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Naked",
+      "Sporttourer",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "excelsior",
+    "name": "Excelsior",
+    "kind": "both",
+    "types": [
+      "Naked",
+      "Scooter"
+    ]
+  },
+  {
+    "key": "gasgas",
+    "name": "GasGas",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Trial"
+    ]
+  },
+  {
+    "key": "gilera",
+    "name": "Gilera",
+    "kind": "moto",
+    "types": [
+      "Cruiser",
+      "Enduro",
+      "Naked",
+      "Scooter",
+      "Supersport",
+      "Trial"
+    ]
+  },
+  {
+    "key": "glas",
+    "name": "Glas",
+    "kind": "both",
+    "types": [
+      "Scooter"
+    ]
+  },
+  {
+    "key": "greeves",
+    "name": "Greeves",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Motocross",
+      "Naked",
+      "Trial"
+    ]
+  },
+  {
+    "key": "harley-davidson",
+    "name": "Harley-Davidson",
+    "kind": "moto",
+    "types": [
+      "Cruiser",
+      "Enduro",
+      "Naked",
+      "Scooter"
+    ]
+  },
+  {
+    "key": "hercules",
+    "name": "Hercules",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Naked"
+    ]
+  },
+  {
+    "key": "hero",
+    "name": "Hero",
+    "kind": "moto",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "honda",
+    "name": "Honda",
+    "kind": "both",
+    "types": [
+      "Adventure",
+      "Enduro",
+      "Naked",
+      "Sporttourer",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "horex",
+    "name": "Horex",
+    "kind": "moto",
+    "types": [
+      "Naked",
+      "Scooter"
+    ]
+  },
+  {
+    "key": "husaberg",
+    "name": "Husaberg",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Motocross"
+    ]
+  },
+  {
+    "key": "husqvarna",
+    "name": "Husqvarna",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Motocross",
+      "Naked"
+    ]
+  },
+  {
+    "key": "ifa",
+    "name": "IFA",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "indian",
+    "name": "Indian",
+    "kind": "moto",
+    "types": [
+      "Cruiser",
+      "Naked"
+    ]
+  },
+  {
+    "key": "iso",
+    "name": "Iso",
+    "kind": "both",
+    "types": [
+      "Naked",
+      "Scooter"
+    ]
+  },
+  {
+    "key": "jawa",
+    "name": "Jawa",
+    "kind": "both",
+    "types": [
+      "Enduro",
+      "Naked"
+    ]
+  },
+  {
+    "key": "kawasaki",
+    "name": "Kawasaki",
+    "kind": "moto",
+    "types": [
+      "Cruiser",
+      "Enduro",
+      "Naked",
+      "Sporttourer",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "kreidler",
+    "name": "Kreidler",
+    "kind": "moto",
+    "types": [
+      "Naked",
+      "Scooter",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "ktm",
+    "name": "KTM",
+    "kind": "moto",
+    "types": [
+      "Adventure",
+      "Motocross",
+      "Naked"
+    ]
+  },
+  {
+    "key": "kymco",
+    "name": "Kymco",
+    "kind": "moto",
+    "types": [
+      "Scooter"
+    ]
+  },
+  {
+    "key": "laverda",
+    "name": "Laverda",
+    "kind": "moto",
+    "types": [
+      "Cruiser",
+      "Enduro",
+      "Motocross",
+      "Naked",
+      "Scooter",
+      "Sporttourer",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "lea-francis",
+    "name": "Lea-Francis",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "maico",
+    "name": "Maico",
+    "kind": "both",
+    "types": [
+      "Enduro",
+      "Motocross",
+      "Naked",
+      "Scooter"
+    ]
+  },
+  {
+    "key": "matchless",
+    "name": "Matchless",
+    "kind": "moto",
+    "types": [
+      "Motocross",
+      "Naked",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "mondial",
+    "name": "Mondial",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Motocross",
+      "Naked"
+    ]
+  },
+  {
+    "key": "montesa",
+    "name": "Montesa",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Motocross",
+      "Naked",
+      "Scooter",
+      "Trial"
+    ]
+  },
+  {
+    "key": "moretti",
+    "name": "Moretti",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "moto-guzzi",
+    "name": "Moto Guzzi",
+    "kind": "moto",
+    "types": [
+      "Adventure",
+      "Cruiser",
+      "Naked",
+      "Scooter",
+      "Sporttourer",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "moto-morini",
+    "name": "Moto Morini",
+    "kind": "moto",
+    "types": [
+      "Cruiser",
+      "Enduro",
+      "Naked",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "mv-agusta",
+    "name": "MV Agusta",
+    "kind": "moto",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "mz",
+    "name": "MZ",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Naked"
+    ]
+  },
+  {
+    "key": "norton",
+    "name": "Norton",
+    "kind": "moto",
+    "types": [
+      "Naked",
+      "Sporttourer",
+      "Supersport",
+      "Trial"
+    ]
+  },
+  {
+    "key": "nsu",
+    "name": "NSU",
+    "kind": "both",
+    "types": [
+      "Naked",
+      "Scooter"
+    ]
+  },
+  {
+    "key": "ossa",
+    "name": "Ossa",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Motocross",
+      "Naked",
+      "Scooter",
+      "Supersport",
+      "Trial"
+    ]
+  },
+  {
+    "key": "parilla",
+    "name": "Parilla",
+    "kind": "both",
+    "types": [
+      "Enduro",
+      "Naked",
+      "Scooter"
+    ]
+  },
+  {
+    "key": "piaggio",
+    "name": "Piaggio",
+    "kind": "both",
+    "types": [
+      "Naked",
+      "Scooter"
+    ]
+  },
+  {
+    "key": "pierce-arrow",
+    "name": "Pierce-Arrow",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "puch",
+    "name": "Puch",
+    "kind": "both",
+    "types": [
+      "Enduro",
+      "Motocross",
+      "Naked"
+    ]
+  },
+  {
+    "key": "rieju",
+    "name": "Rieju",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Naked"
+    ]
+  },
+  {
+    "key": "royal-enfield",
+    "name": "Royal Enfield",
+    "kind": "moto",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "rudge",
+    "name": "Rudge",
+    "kind": "moto",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "sachs",
+    "name": "Sachs",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Naked"
+    ]
+  },
+  {
+    "key": "sanglas",
+    "name": "Sanglas",
+    "kind": "moto",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "simson",
+    "name": "Simson",
+    "kind": "both",
+    "types": [
+      "Enduro",
+      "Naked",
+      "Scooter"
+    ]
+  },
+  {
+    "key": "singer",
+    "name": "Singer",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "sunbeam",
+    "name": "Sunbeam",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "suzuki",
+    "name": "Suzuki",
+    "kind": "both",
+    "types": [
+      "Naked",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "triumph",
+    "name": "Triumph",
+    "kind": "both",
+    "types": [
+      "Adventure",
+      "Naked",
+      "Sporttourer",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "trojan",
+    "name": "Trojan",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "velocette",
+    "name": "Velocette",
+    "kind": "moto",
+    "types": [
+      "Enduro",
+      "Naked",
+      "Scooter"
+    ]
+  },
+  {
+    "key": "vespa",
+    "name": "Vespa",
+    "kind": "both",
+    "types": [
+      "Scooter"
+    ]
+  },
+  {
+    "key": "vincent",
+    "name": "Vincent",
+    "kind": "moto",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "wanderer",
+    "name": "Wanderer",
+    "kind": "both",
+    "types": [
+      "Naked"
+    ]
+  },
+  {
+    "key": "yamaha",
+    "name": "Yamaha",
+    "kind": "moto",
+    "types": [
+      "Adventure",
+      "Cruiser",
+      "Enduro",
+      "Naked",
+      "Sporttourer",
+      "Supersport"
+    ]
+  },
+  {
+    "key": "zundapp",
+    "name": "Zundapp",
+    "kind": "both",
+    "types": [
+      "Enduro",
+      "Naked",
+      "Scooter"
+    ]
+  }
+]

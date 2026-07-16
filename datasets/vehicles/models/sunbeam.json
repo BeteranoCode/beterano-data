@@ -95,21 +95,6 @@
     "type": "Coupe"
   },
   {
-    "id": "sunbeam-s7-s7-tourer",
-    "name": "S7 (Tourer)",
-    "type": "Moto"
-  },
-  {
-    "id": "sunbeam-s7-de-luxe-s7-de-luxe",
-    "name": "S7 De Luxe",
-    "type": "Moto"
-  },
-  {
-    "id": "sunbeam-s8-s8",
-    "name": "S8",
-    "type": "Moto"
-  },
-  {
     "id": "sunbeam-sixteen-sixteen",
     "name": "Sixteen",
     "type": "Sedan"

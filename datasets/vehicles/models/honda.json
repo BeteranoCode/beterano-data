@@ -60,36 +60,6 @@
     "type": "Roadster"
   },
   {
-    "id": "honda-cb400f-cb400-four",
-    "name": "CB400F CB400 Four",
-    "type": "Moto"
-  },
-  {
-    "id": "honda-cb750-cb750-four-sohc",
-    "name": "CB750 Four (SOHC)",
-    "type": "Moto"
-  },
-  {
-    "id": "honda-cbr1000f-cbr1000f-sc24",
-    "name": "CBR1000F (SC24)",
-    "type": "Moto"
-  },
-  {
-    "id": "honda-cbr600f-cbr600f2-f3-pc25-pc31",
-    "name": "CBR600F2/F3 (PC25/PC31)",
-    "type": "Moto"
-  },
-  {
-    "id": "honda-cbr900rr-cbr900rr-fireblade-sc28-sc33",
-    "name": "CBR900RR FireBlade (SC28/SC33)",
-    "type": "Moto"
-  },
-  {
-    "id": "honda-cbx1000-cbx-sc03-sc06",
-    "name": "CBX1000 CBX (SC03/SC06)",
-    "type": "Moto"
-  },
-  {
     "id": "honda-city-city-1-gen-aa",
     "name": "City 1ª gen (AA)",
     "type": "Hatchback"
@@ -185,11 +155,6 @@
     "type": "SUV"
   },
   {
-    "id": "honda-cx500-cx500",
-    "name": "CX500",
-    "type": "Moto"
-  },
-  {
     "id": "honda-domani-domani-1-gen-ma",
     "name": "Domani 1ª gen (MA)",
     "type": "Sedan"
@@ -198,16 +163,6 @@
     "id": "honda-domani-domani-2-gen-mb",
     "name": "Domani 2ª gen (MB)",
     "type": "Sedan"
-  },
-  {
-    "id": "honda-gold-wing-gl1000-gold-wing",
-    "name": "GL1000 Gold Wing",
-    "type": "Moto"
-  },
-  {
-    "id": "honda-gold-wing-gl1500-gold-wing",
-    "name": "GL1500 Gold Wing",
-    "type": "Moto"
   },
   {
     "id": "honda-inspire-inspire-1-gen-cb5-cc",
@@ -263,16 +218,6 @@
     "id": "honda-n600-n600-export",
     "name": "N600 (export)",
     "type": "Hatchback"
-  },
-  {
-    "id": "honda-nsr250r-nsr250r",
-    "name": "NSR250R",
-    "type": "Moto"
-  },
-  {
-    "id": "honda-dominator-nx650-dominator",
-    "name": "NX650 Dominator",
-    "type": "Moto"
   },
   {
     "id": "honda-odyssey-odyssey-1-gen-ra",
@@ -340,24 +285,9 @@
     "type": "Hatchback"
   },
   {
-    "id": "honda-vfr750f-vfr750f-rc24-rc36",
-    "name": "VFR750F (RC24/RC36)",
-    "type": "Moto"
-  },
-  {
     "id": "honda-vigor-vigor-cb5-cc",
     "name": "Vigor (CB5/CC)",
     "type": "Sedan"
-  },
-  {
-    "id": "honda-transalp-xl600v-transalp",
-    "name": "XL600V Transalp",
-    "type": "Moto"
-  },
-  {
-    "id": "honda-africa-twin-xrv650-africa-twin",
-    "name": "XRV650 Africa Twin",
-    "type": "Moto"
   },
   {
     "id": "honda-z-z-sa-gs",

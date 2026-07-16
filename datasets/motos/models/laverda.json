@@ -1,0 +1,317 @@
+[
+  {
+    "id": "laverda-1000-1000",
+    "name": "1000",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-1000-3c",
+    "name": "1000 3C",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-1000-3cl",
+    "name": "1000 3CL",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-1000-sfc-1000-sfc",
+    "name": "1000 SFC",
+    "type": "Supersport"
+  },
+  {
+    "id": "laverda-mirage-1200-mirage",
+    "name": "1200 Mirage",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-1200-1200t",
+    "name": "1200T",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-1200-1200ts",
+    "name": "1200TS",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-mirage-1200ts-mirage",
+    "name": "1200TS Mirage",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-125-cr-125-cr",
+    "name": "125 CR",
+    "type": "Motocross"
+  },
+  {
+    "id": "laverda-125-navarro-125-navarro",
+    "name": "125 Navarro",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-125-toledo-125-toledo",
+    "name": "125 Toledo",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-200-bicilindrico-200-bicilindrico-gemini",
+    "name": "200 Bicilindrico (Gemini)",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-250-2t-r-250-2t-r",
+    "name": "250 2T/R",
+    "type": "Enduro"
+  },
+  {
+    "id": "laverda-250-chott-250-chott",
+    "name": "250 Chott",
+    "type": "Enduro"
+  },
+  {
+    "id": "laverda-250-enduro-250-enduro",
+    "name": "250 Enduro",
+    "type": "Enduro"
+  },
+  {
+    "id": "laverda-1200-30th-anniversary-1200",
+    "name": "30th Anniversary 1200",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-350-350",
+    "name": "350",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-500-sfc-500-sfc",
+    "name": "500 SFC",
+    "type": "Supersport"
+  },
+  {
+    "id": "laverda-500-500s-alpino-s",
+    "name": "500S (Alpino S)",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-500-500t-alpina-alpino-zeta",
+    "name": "500T (Alpina / Alpino / Zeta)",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-650-ghost-650-ghost-chasis-tubular",
+    "name": "650 Ghost (chasis tubular)",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-650-ghost-650-ghost-strike-chasis-bakker",
+    "name": "650 Ghost Strike (chasis Bakker)",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-650-gt-650-gt",
+    "name": "650 GT",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-650-sport-650-sport-chasis-bakker",
+    "name": "650 Sport (chasis Bakker)",
+    "type": "Supersport"
+  },
+  {
+    "id": "laverda-650-sport-650-ie-sport",
+    "name": "650 Sport 650 I.E. Sport",
+    "type": "Supersport"
+  },
+  {
+    "id": "laverda-650-sport-650-sport-formula",
+    "name": "650 Sport Formula",
+    "type": "Supersport"
+  },
+  {
+    "id": "laverda-668-black-strike-black-strike-668-cafe-racer",
+    "name": "668 Black Strike Black Strike 668 Cafe Racer",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-668-diamante-668-diamante",
+    "name": "668 Diamante",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-668-ghost-668-ghost",
+    "name": "668 Ghost",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-668-sport-668-sport",
+    "name": "668 Sport",
+    "type": "Supersport"
+  },
+  {
+    "id": "laverda-750-750-gt",
+    "name": "750 GT",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-750-750-gtl",
+    "name": "750 GTL",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-750-750-s",
+    "name": "750 S",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-750-750-sf",
+    "name": "750 SF",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-750-750-sf1",
+    "name": "750 SF1",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-750-750-sf2",
+    "name": "750 SF2",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-750-750-sf3",
+    "name": "750 SF3",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-750-sfc-750-sfc-super-freni-competizione",
+    "name": "750 SFC (Super Freni Competizione)",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-750-sport-formula-750-sport-formula",
+    "name": "750 Sport Formula",
+    "type": "Supersport"
+  },
+  {
+    "id": "laverda-750s-750s-chasis-bakker",
+    "name": "750S (chasis Bakker)",
+    "type": "Supersport"
+  },
+  {
+    "id": "laverda-cr600-cruiser-cr600-cruiser",
+    "name": "CR600 Cruiser",
+    "type": "Cruiser"
+  },
+  {
+    "id": "laverda-formula-500-formula-500",
+    "name": "Formula 500",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-mirage-formula-mirage",
+    "name": "Formula Mirage",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-jota-jota-1000-ciguenal-180",
+    "name": "Jota 1000 (ciguenal 180)",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-jota-jota-120-ciguenal-120",
+    "name": "Jota 120 (ciguenal 120)",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-lb-125-lb-125-lesmo",
+    "name": "LB 125 Lesmo",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-lb-125-lb-125-sabbia",
+    "name": "LB 125 Sabbia",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-lb-125-lb-125-sport",
+    "name": "LB 125 Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-lb-125-lb-125-uno",
+    "name": "LB 125 Uno",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-lh-125-lh-125-lh1-lh3",
+    "name": "LH 125 (LH1-LH3)",
+    "type": "Enduro"
+  },
+  {
+    "id": "laverda-lz-125-lz-125",
+    "name": "LZ 125",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-lz-175-lz-175",
+    "name": "LZ 175",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-lz-50-lz-50-pippo",
+    "name": "LZ 50 Pippo",
+    "type": "Scooter"
+  },
+  {
+    "id": "laverda-milano-taranto-75-milano-taranto-75",
+    "name": "Milano-Taranto 75",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-montjuic-montjuic-500",
+    "name": "Montjuic 500",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-motoleggera-75-motoleggera-75",
+    "name": "Motoleggera 75",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-or-50-atlas-or-50-atlas",
+    "name": "OR 50 Atlas",
+    "type": "Enduro"
+  },
+  {
+    "id": "laverda-or600-atlas-or600-atlas",
+    "name": "OR600 Atlas",
+    "type": "Enduro"
+  },
+  {
+    "id": "laverda-rga-1000-rga",
+    "name": "RGA 1000",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-rga-1000-rga-jota-special",
+    "name": "RGA 1000 RGA Jota Special",
+    "type": "Naked"
+  },
+  {
+    "id": "laverda-rgs-1000-rgs",
+    "name": "RGS 1000",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "laverda-rgs-1000-rgs-corsa",
+    "name": "RGS 1000 RGS Corsa",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "laverda-100-tip-100",
+    "name": "Tip 100",
+    "type": "Naked"
+  }
+]

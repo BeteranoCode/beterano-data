@@ -37,7 +37,6 @@
     "kind": "both",
     "types": [
       "Coupe",
-      "Naked",
       "Roadster",
       "Sedan"
     ]
@@ -57,16 +56,6 @@
     "kind": "car",
     "types": [
       "Microcar"
-    ]
-  },
-  {
-    "key": "ajs",
-    "name": "AJS",
-    "kind": "moto",
-    "types": [
-      "Motocross",
-      "Naked",
-      "Supersport"
     ]
   },
   {
@@ -142,28 +131,6 @@
     "types": [
       "Roadster",
       "Sedan"
-    ]
-  },
-  {
-    "key": "aprilia",
-    "name": "Aprilia",
-    "kind": "moto",
-    "types": [
-      "Adventure",
-      "Cruiser",
-      "Enduro",
-      "Naked",
-      "Scooter",
-      "Supersport",
-      "Trial"
-    ]
-  },
-  {
-    "key": "ariel",
-    "name": "Ariel",
-    "kind": "moto",
-    "types": [
-      "Naked"
     ]
   },
   {
@@ -304,14 +271,6 @@
     ]
   },
   {
-    "key": "benelli",
-    "name": "Benelli",
-    "kind": "moto",
-    "types": [
-      "Naked"
-    ]
-  },
-  {
     "key": "bentley",
     "name": "Bentley",
     "kind": "car",
@@ -332,14 +291,6 @@
     ]
   },
   {
-    "key": "beta",
-    "name": "Beta",
-    "kind": "moto",
-    "types": [
-      "Trial"
-    ]
-  },
-  {
     "key": "bianchi",
     "name": "Bianchi",
     "kind": "both",
@@ -347,19 +298,8 @@
       "Bus",
       "Cabrio",
       "Camion",
-      "Naked",
       "SUV",
       "Sedan"
-    ]
-  },
-  {
-    "key": "bimota",
-    "name": "Bimota",
-    "kind": "moto",
-    "types": [
-      "Naked",
-      "Sporttourer",
-      "Supersport"
     ]
   },
   {
@@ -389,7 +329,6 @@
       "Coupe",
       "Hatchback",
       "Microcar",
-      "Naked",
       "Roadster",
       "Sedan",
       "Wagon"
@@ -442,18 +381,7 @@
     "kind": "both",
     "types": [
       "Cabrio",
-      "Naked",
       "Sedan"
-    ]
-  },
-  {
-    "key": "bsa",
-    "name": "BSA",
-    "kind": "moto",
-    "types": [
-      "Enduro",
-      "Naked",
-      "Scooter"
     ]
   },
   {
@@ -478,17 +406,6 @@
     ]
   },
   {
-    "key": "bultaco",
-    "name": "Bultaco",
-    "kind": "moto",
-    "types": [
-      "Enduro",
-      "Motocross",
-      "Naked",
-      "Trial"
-    ]
-  },
-  {
     "key": "cadillac",
     "name": "Cadillac",
     "kind": "car",
@@ -496,18 +413,6 @@
       "Cabrio",
       "Coupe",
       "Sedan"
-    ]
-  },
-  {
-    "key": "cagiva",
-    "name": "Cagiva",
-    "kind": "moto",
-    "types": [
-      "Adventure",
-      "Enduro",
-      "Motocross",
-      "Naked",
-      "Supersport"
     ]
   },
   {
@@ -621,17 +526,6 @@
     ]
   },
   {
-    "key": "cz",
-    "name": "CZ",
-    "kind": "moto",
-    "types": [
-      "Enduro",
-      "Motocross",
-      "Naked",
-      "Scooter"
-    ]
-  },
-  {
     "key": "dacia",
     "name": "Dacia",
     "kind": "car",
@@ -693,7 +587,6 @@
     "kind": "both",
     "types": [
       "Microcar",
-      "Naked",
       "Roadster",
       "Sedan"
     ]
@@ -772,7 +665,6 @@
     "types": [
       "Cabrio",
       "Coupe",
-      "Naked",
       "Roadster",
       "SUV",
       "Sedan",
@@ -791,17 +683,6 @@
       "SUV",
       "Sedan",
       "Van"
-    ]
-  },
-  {
-    "key": "ducati",
-    "name": "Ducati",
-    "kind": "moto",
-    "types": [
-      "Enduro",
-      "Naked",
-      "Sporttourer",
-      "Supersport"
     ]
   },
   {
@@ -839,8 +720,6 @@
     "name": "Excelsior",
     "kind": "both",
     "types": [
-      "Naked",
-      "Scooter",
       "Sedan"
     ]
   },
@@ -941,28 +820,12 @@
     ]
   },
   {
-    "key": "gasgas",
-    "name": "GasGas",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
     "key": "gilbern",
     "name": "Gilbern",
     "kind": "car",
     "types": [
       "Coupe",
       "Wagon"
-    ]
-  },
-  {
-    "key": "gilera",
-    "name": "Gilera",
-    "kind": "moto",
-    "types": [
-      "Moto"
     ]
   },
   {
@@ -985,7 +848,6 @@
       "Cabrio",
       "Coupe",
       "Microcar",
-      "Scooter",
       "Sedan",
       "Van",
       "Wagon"
@@ -1033,14 +895,6 @@
     ]
   },
   {
-    "key": "greeves",
-    "name": "Greeves",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
     "key": "guy",
     "name": "Guy",
     "kind": "car",
@@ -1071,30 +925,6 @@
       "Pickup",
       "Sedan",
       "Van"
-    ]
-  },
-  {
-    "key": "harley-davidson",
-    "name": "Harley-Davidson",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
-    "key": "hercules",
-    "name": "Hercules",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
-    "key": "hero",
-    "name": "Hero",
-    "kind": "moto",
-    "types": [
-      "Moto"
     ]
   },
   {
@@ -1151,7 +981,6 @@
       "Coupe",
       "Hatchback",
       "Microcar",
-      "Moto",
       "Pickup",
       "Roadster",
       "SUV",
@@ -1170,14 +999,6 @@
       "Roadster",
       "SUV",
       "Sedan"
-    ]
-  },
-  {
-    "key": "horex",
-    "name": "Horex",
-    "kind": "moto",
-    "types": [
-      "Moto"
     ]
   },
   {
@@ -1225,22 +1046,6 @@
     ]
   },
   {
-    "key": "husaberg",
-    "name": "Husaberg",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
-    "key": "husqvarna",
-    "name": "Husqvarna",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
     "key": "hyundai",
     "name": "Hyundai",
     "kind": "car",
@@ -1257,7 +1062,6 @@
     "types": [
       "Bus",
       "Camion",
-      "Moto",
       "Sedan"
     ]
   },
@@ -1268,14 +1072,6 @@
     "types": [
       "Coupe",
       "Sedan"
-    ]
-  },
-  {
-    "key": "indian",
-    "name": "Indian",
-    "kind": "moto",
-    "types": [
-      "Moto"
     ]
   },
   {
@@ -1328,7 +1124,6 @@
     "types": [
       "Coupe",
       "Microcar",
-      "Moto",
       "Sedan"
     ]
   },
@@ -1378,7 +1173,6 @@
     "kind": "both",
     "types": [
       "Coupe",
-      "Moto",
       "Sedan"
     ]
   },
@@ -1428,14 +1222,6 @@
     ]
   },
   {
-    "key": "kawasaki",
-    "name": "Kawasaki",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
     "key": "kenworth",
     "name": "Kenworth",
     "kind": "car",
@@ -1459,22 +1245,6 @@
     ]
   },
   {
-    "key": "kreidler",
-    "name": "Kreidler",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
-    "key": "ktm",
-    "name": "KTM",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
     "key": "kurogane",
     "name": "Kurogane",
     "kind": "car",
@@ -1484,14 +1254,6 @@
       "Pickup",
       "Roadster",
       "Van"
-    ]
-  },
-  {
-    "key": "kymco",
-    "name": "Kymco",
-    "kind": "moto",
-    "types": [
-      "Moto"
     ]
   },
   {
@@ -1535,21 +1297,12 @@
     ]
   },
   {
-    "key": "laverda",
-    "name": "Laverda",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
     "key": "lea-francis",
     "name": "Lea-Francis",
     "kind": "both",
     "types": [
       "Cabrio",
       "Coupe",
-      "Moto",
       "Roadster",
       "Sedan",
       "Wagon"
@@ -1630,8 +1383,7 @@
     "name": "Maico",
     "kind": "both",
     "types": [
-      "Microcar",
-      "Moto"
+      "Microcar"
     ]
   },
   {
@@ -1669,14 +1421,6 @@
       "Coupe",
       "Sedan",
       "Spider"
-    ]
-  },
-  {
-    "key": "matchless",
-    "name": "Matchless",
-    "kind": "moto",
-    "types": [
-      "Moto"
     ]
   },
   {
@@ -1798,27 +1542,11 @@
     ]
   },
   {
-    "key": "mondial",
-    "name": "Mondial",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
     "key": "monica",
     "name": "Monica",
     "kind": "car",
     "types": [
       "Sedan"
-    ]
-  },
-  {
-    "key": "montesa",
-    "name": "Montesa",
-    "kind": "moto",
-    "types": [
-      "Moto"
     ]
   },
   {
@@ -1830,7 +1558,6 @@
       "Coupe",
       "Hatchback",
       "Microcar",
-      "Moto",
       "Pickup",
       "SUV",
       "Sedan",
@@ -1856,38 +1583,6 @@
       "Sedan",
       "Van",
       "Wagon"
-    ]
-  },
-  {
-    "key": "moto-guzzi",
-    "name": "Moto Guzzi",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
-    "key": "moto-morini",
-    "name": "Moto Morini",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
-    "key": "mv-agusta",
-    "name": "MV Agusta",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
-    "key": "mz",
-    "name": "MZ",
-    "kind": "moto",
-    "types": [
-      "Moto"
     ]
   },
   {
@@ -1926,20 +1621,11 @@
     ]
   },
   {
-    "key": "norton",
-    "name": "Norton",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
     "key": "nsu",
     "name": "NSU",
     "kind": "both",
     "types": [
       "Coupe",
-      "Moto",
       "Sedan",
       "Spider"
     ]
@@ -1988,14 +1674,6 @@
       "Coupe",
       "Roadster",
       "Spider"
-    ]
-  },
-  {
-    "key": "ossa",
-    "name": "Ossa",
-    "kind": "moto",
-    "types": [
-      "Moto"
     ]
   },
   {
@@ -2058,8 +1736,7 @@
     "name": "Parilla",
     "kind": "both",
     "types": [
-      "Camion",
-      "Moto"
+      "Camion"
     ]
   },
   {
@@ -2099,7 +1776,6 @@
     "name": "Piaggio",
     "kind": "both",
     "types": [
-      "Moto",
       "Van"
     ]
   },
@@ -2111,7 +1787,6 @@
       "Cabrio",
       "Camion",
       "Microcar",
-      "Moto",
       "Roadster",
       "Sedan"
     ]
@@ -2197,7 +1872,6 @@
     "types": [
       "Camion",
       "Microcar",
-      "Moto",
       "SUV",
       "Sedan",
       "Wagon"
@@ -2246,14 +1920,6 @@
     ]
   },
   {
-    "key": "rieju",
-    "name": "Rieju",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
     "key": "riley",
     "name": "Riley",
     "kind": "car",
@@ -2296,22 +1962,6 @@
     ]
   },
   {
-    "key": "royal-enfield",
-    "name": "Royal Enfield",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
-    "key": "rudge",
-    "name": "Rudge",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
     "key": "saab",
     "name": "Saab",
     "kind": "car",
@@ -2321,14 +1971,6 @@
       "Hatchback",
       "Sedan",
       "Wagon"
-    ]
-  },
-  {
-    "key": "sachs",
-    "name": "Sachs",
-    "kind": "moto",
-    "types": [
-      "Moto"
     ]
   },
   {
@@ -2348,14 +1990,6 @@
       "Coupe",
       "Roadster",
       "Sedan"
-    ]
-  },
-  {
-    "key": "sanglas",
-    "name": "Sanglas",
-    "kind": "moto",
-    "types": [
-      "Moto"
     ]
   },
   {
@@ -2434,7 +2068,6 @@
     "name": "Simson",
     "kind": "both",
     "types": [
-      "Moto",
       "Roadster",
       "Sedan"
     ]
@@ -2445,7 +2078,6 @@
     "kind": "both",
     "types": [
       "Coupe",
-      "Moto",
       "Roadster",
       "Sedan",
       "Wagon"
@@ -2553,7 +2185,6 @@
     "kind": "both",
     "types": [
       "Coupe",
-      "Moto",
       "Roadster",
       "Sedan"
     ]
@@ -2565,7 +2196,6 @@
     "types": [
       "Coupe",
       "Hatchback",
-      "Moto",
       "Pickup",
       "Roadster",
       "SUV",
@@ -2658,7 +2288,6 @@
     "types": [
       "Cabrio",
       "Coupe",
-      "Moto",
       "Roadster",
       "Sedan",
       "Van"
@@ -2670,7 +2299,6 @@
     "kind": "both",
     "types": [
       "Microcar",
-      "Moto",
       "Sedan",
       "Van"
     ]
@@ -2741,20 +2369,11 @@
     ]
   },
   {
-    "key": "velocette",
-    "name": "Velocette",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
     "key": "vespa",
     "name": "Vespa",
     "kind": "both",
     "types": [
-      "Microcar",
-      "Moto"
+      "Microcar"
     ]
   },
   {
@@ -2766,14 +2385,6 @@
       "Roadster",
       "Sedan",
       "Spider"
-    ]
-  },
-  {
-    "key": "vincent",
-    "name": "Vincent",
-    "kind": "moto",
-    "types": [
-      "Moto"
     ]
   },
   {
@@ -2827,7 +2438,6 @@
     "name": "Wanderer",
     "kind": "both",
     "types": [
-      "Moto",
       "Roadster",
       "Sedan"
     ]
@@ -2883,14 +2493,6 @@
     ]
   },
   {
-    "key": "yamaha",
-    "name": "Yamaha",
-    "kind": "moto",
-    "types": [
-      "Moto"
-    ]
-  },
-  {
     "key": "yugo",
     "name": "Yugo",
     "kind": "car",
@@ -2926,8 +2528,7 @@
     "name": "Zundapp",
     "kind": "both",
     "types": [
-      "Microcar",
-      "Moto"
+      "Microcar"
     ]
   }
 ]

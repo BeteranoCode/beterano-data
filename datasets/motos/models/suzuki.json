@@ -1,0 +1,27 @@
+[
+  {
+    "id": "suzuki-gt380-gt380",
+    "name": "GT380",
+    "type": "Naked"
+  },
+  {
+    "id": "suzuki-gt550-gt550",
+    "name": "GT550",
+    "type": "Naked"
+  },
+  {
+    "id": "suzuki-gt750-gt750",
+    "name": "GT750",
+    "type": "Naked"
+  },
+  {
+    "id": "suzuki-rg500-gamma-rg500",
+    "name": "RG500 Gamma",
+    "type": "Supersport"
+  },
+  {
+    "id": "suzuki-rgv250-gamma-rgv250-vj21-22",
+    "name": "RGV250 Gamma RGV250 (VJ21/22)",
+    "type": "Supersport"
+  }
+]

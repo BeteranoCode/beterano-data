@@ -20,11 +20,6 @@
     "type": "Van"
   },
   {
-    "id": "trojan-trobike-trobike",
-    "name": "Trobike",
-    "type": "Moto"
-  },
-  {
     "id": "trojan-200-trojan-200-heinkel-kabine",
     "name": "Trojan 200 (Heinkel Kabine)",
     "type": "Microcar"

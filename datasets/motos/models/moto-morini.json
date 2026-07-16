@@ -1,0 +1,172 @@
+[
+  {
+    "id": "moto-morini-125-h-125-h",
+    "name": "125 H",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-125-sport-125-sport",
+    "name": "125 Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-175-briscola-175-briscola",
+    "name": "175 Briscola",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-175-gt-175-gt",
+    "name": "175 GT",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-175-settebello-175-settebello",
+    "name": "175 Settebello",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-175-turismo-175-turismo",
+    "name": "175 Turismo",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-250-2c-250-2c",
+    "name": "250 2C",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-250-t-250-t-monocilindrica",
+    "name": "250 T (monocilindrica)",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-3-1-2-3-1-2-sport",
+    "name": "3 1/2 Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-3-1-2-3-1-2-strada-turismo",
+    "name": "3 1/2 Strada / Turismo",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-coguaro-350-coguaro",
+    "name": "350 Coguaro",
+    "type": "Enduro"
+  },
+  {
+    "id": "moto-morini-excalibur-350-excalibur",
+    "name": "350 Excalibur",
+    "type": "Cruiser"
+  },
+  {
+    "id": "moto-morini-350-k2-350-k2",
+    "name": "350 K2",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-kanguro-350-kanguro-x3",
+    "name": "350 Kanguro (X3)",
+    "type": "Enduro"
+  },
+  {
+    "id": "moto-morini-camel-500-camel",
+    "name": "500 Camel",
+    "type": "Enduro"
+  },
+  {
+    "id": "moto-morini-500-500-maestro",
+    "name": "500 Maestro",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-500-500-sei-v-sei-v-sport-6-vel",
+    "name": "500 Sei-V / Sei-V Sport (6 vel.)",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-500-500-sport",
+    "name": "500 Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-500-500-strada",
+    "name": "500 Strada",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-camel-501-camel",
+    "name": "501 Camel",
+    "type": "Enduro"
+  },
+  {
+    "id": "moto-morini-coguaro-501-coguaro",
+    "name": "501 Coguaro",
+    "type": "Enduro"
+  },
+  {
+    "id": "moto-morini-excalibur-501-excalibur",
+    "name": "501 Excalibur",
+    "type": "Cruiser"
+  },
+  {
+    "id": "moto-morini-corsarino-corsarino-scrambler",
+    "name": "Corsarino Scrambler",
+    "type": "Enduro"
+  },
+  {
+    "id": "moto-morini-corsarino-corsarino-z-zt",
+    "name": "Corsarino Z / ZT",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-corsarino-corsarino-zz",
+    "name": "Corsarino ZZ",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-corsaro-125-corsaro-125-1a-serie",
+    "name": "Corsaro 125 (1a serie)",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-corsaro-125-corsaro-125-veloce-sport-lusso-super-sport",
+    "name": "Corsaro 125 Veloce / Sport Lusso / Super Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-corsaro-150-corsaro-150",
+    "name": "Corsaro 150",
+    "type": "Naked"
+  },
+  {
+    "id": "moto-morini-corsaro-country-corsaro-country-125",
+    "name": "Corsaro Country 125",
+    "type": "Enduro"
+  },
+  {
+    "id": "moto-morini-corsaro-regolarita-corsaro-regolarita",
+    "name": "Corsaro Regolarita",
+    "type": "Enduro"
+  },
+  {
+    "id": "moto-morini-dart-dart-350",
+    "name": "Dart 350",
+    "type": "Supersport"
+  },
+  {
+    "id": "moto-morini-dart-dart-400",
+    "name": "Dart 400",
+    "type": "Supersport"
+  },
+  {
+    "id": "moto-morini-new-york-new-york-501",
+    "name": "New York 501",
+    "type": "Cruiser"
+  },
+  {
+    "id": "moto-morini-125-turismo-t125-turismo",
+    "name": "T125 Turismo",
+    "type": "Naked"
+  }
+]

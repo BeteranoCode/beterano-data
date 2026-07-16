@@ -1,0 +1,117 @@
+[
+  {
+    "id": "simson-425-425-gs",
+    "name": "425 GS",
+    "type": "Enduro"
+  },
+  {
+    "id": "simson-425-425-s",
+    "name": "425 S",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-425-425-t-awo-425",
+    "name": "425 T (AWO 425)",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-habicht-sr4-4",
+    "name": "Habicht SR4-4",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-kr50-kr50",
+    "name": "KR50",
+    "type": "Scooter"
+  },
+  {
+    "id": "simson-s50-s50",
+    "name": "S50",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-s51-s51",
+    "name": "S51",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-s70-s70",
+    "name": "S70",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-schwalbe-kr51",
+    "name": "Schwalbe KR51",
+    "type": "Scooter"
+  },
+  {
+    "id": "simson-schwalbe-kr51-1",
+    "name": "Schwalbe KR51/1",
+    "type": "Scooter"
+  },
+  {
+    "id": "simson-schwalbe-kr51-2",
+    "name": "Schwalbe KR51/2",
+    "type": "Scooter"
+  },
+  {
+    "id": "simson-sl1-sl1-sl1-s",
+    "name": "SL1 / SL1 S",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-spatz-sr4-1-p-k",
+    "name": "Spatz SR4-1 (P/K)",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-spatz-sr4-1sk",
+    "name": "Spatz SR4-1SK",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-sperber-sr4-3",
+    "name": "Sperber SR4-3",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-sr1-sr1",
+    "name": "SR1",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-sr2-sr2",
+    "name": "SR2",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-sr2-sr2e",
+    "name": "SR2E",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-sr50-sr50-sr50-1",
+    "name": "SR50 / SR50/1",
+    "type": "Scooter"
+  },
+  {
+    "id": "simson-sr50-sr50-1-x-serie-gamma",
+    "name": "SR50/1 X-Serie (gamma)",
+    "type": "Scooter"
+  },
+  {
+    "id": "simson-sr80-sr80-sr80-1",
+    "name": "SR80 / SR80/1",
+    "type": "Scooter"
+  },
+  {
+    "id": "simson-star-sr4-2",
+    "name": "Star SR4-2",
+    "type": "Naked"
+  },
+  {
+    "id": "simson-star-sr4-2-1",
+    "name": "Star SR4-2/1",
+    "type": "Naked"
+  }
+]

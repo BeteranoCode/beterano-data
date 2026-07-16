@@ -1,53 +1,8 @@
 [
   {
-    "id": "parilla-125-2t-125-2t",
-    "name": "125 2T",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-125-sprint-125-4t-sprint-gs",
-    "name": "125 Sprint 125 4T Sprint (GS)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-125-wildcat-125-4t-wildcat-scrambler",
-    "name": "125 Wildcat 125 4T Wildcat Scrambler",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-150-2t-150-2t",
-    "name": "150 2T",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-175-msds-msds-horquilla-earles",
-    "name": "175 MSDS MSDS (horquilla Earles)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-250-bialbero-250-dohc-bialbero",
-    "name": "250 Bialbero 250 DOHC (Bialbero)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-250-monoalbero-250-sohc-monoalbero",
-    "name": "250 Monoalbero 250 SOHC (Monoalbero)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-98-98-2t",
-    "name": "98 2T",
-    "type": "Moto"
-  },
-  {
     "id": "parilla-atlante-175-atlante-3-ruedas",
     "name": "Atlante 175 Atlante (3 ruedas)",
     "type": "Camion"
-  },
-  {
-    "id": "parilla-boxer-250-boxer-2t",
-    "name": "Boxer 250 Boxer 2T",
-    "type": "Moto"
   },
   {
     "id": "parilla-bulldog-125-bulldog-3-ruedas-motor-sobre-rueda-delantera",
@@ -60,41 +15,6 @@
     "type": "Camion"
   },
   {
-    "id": "parilla-fauno-98-fauno-phantom-en-usa",
-    "name": "Fauno 98 Fauno (Phantom en USA)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-fox-175-fox-lusso-veloce-high-cam",
-    "name": "Fox 175 Fox / Lusso Veloce (high-cam)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-grand-sport-175-gs-175",
-    "name": "Grand Sport 175 GS 175",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-grand-sport-200-gs-200",
-    "name": "Grand Sport 200 GS 200",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-grand-sport-250-gs-250",
-    "name": "Grand Sport 250 GS 250",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-levriere-125-levriere-greyhound-125",
-    "name": "Levriere 125 Levriere (Greyhound) 125",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-levriere-150-levriere-greyhound-150",
-    "name": "Levriere 150 Levriere (Greyhound) 150",
-    "type": "Moto"
-  },
-  {
     "id": "parilla-mastino-250-mastino-3-ruedas",
     "name": "Mastino 250 Mastino (3 ruedas)",
     "type": "Camion"
@@ -103,80 +23,5 @@
     "id": "parilla-motofurgone-250-motofurgone-3-ruedas",
     "name": "Motofurgone 250 Motofurgone (3 ruedas)",
     "type": "Camion"
-  },
-  {
-    "id": "parilla-olimpia-olimpia-125-2t",
-    "name": "Olimpia 125 2T",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-olimpia-olimpia-98-4t-impala-en-usa",
-    "name": "Olimpia 98 4T (Impala en USA)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-parillino-49-parillino-49-2t",
-    "name": "Parillino 49 2T",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-parillino-49-parillino-49-4t-hornet-dart-en-usa",
-    "name": "Parillino 49 4T (Hornet / Dart en USA)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-setter-250-setter-bicilindrica",
-    "name": "Setter 250 Setter (bicilindrica)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-slughi-slughi-125-2t-ramjet-en-usa",
-    "name": "Slughi 125 2T (Ramjet en USA)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-slughi-slughi-99-4t-ramjet-en-usa",
-    "name": "Slughi 99 4T (Ramjet en USA)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-super-speedster-200-speedster-200",
-    "name": "Super Speedster 200",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-tourist-250-tourist-chasis-angular",
-    "name": "Tourist 250 Tourist (chasis angular)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-trailmaster-200-trailmaster-chasis-angular-1er-a-o",
-    "name": "Trailmaster 200 Trailmaster (chasis angular, 1er año)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-trailmaster-250-trailmaster-chasis-angular",
-    "name": "Trailmaster 250 Trailmaster (chasis angular)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-veltro-350-veltro-clipper-en-usa",
-    "name": "Veltro 350 Veltro (Clipper en USA)",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-wildcat-scrambler-175-wildcat-175",
-    "name": "Wildcat Scrambler 175 Wildcat 175",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-wildcat-scrambler-200-wildcat-200",
-    "name": "Wildcat Scrambler 200 Wildcat 200",
-    "type": "Moto"
-  },
-  {
-    "id": "parilla-wildcat-scrambler-250-wildcat-250",
-    "name": "Wildcat Scrambler 250 Wildcat 250",
-    "type": "Moto"
   }
 ]

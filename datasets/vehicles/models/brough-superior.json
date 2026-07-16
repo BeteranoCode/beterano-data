@@ -1,10 +1,5 @@
 [
   {
-    "id": "brough-superior-1150-1150-jap",
-    "name": "11.50 (JAP)",
-    "type": "Naked"
-  },
-  {
     "id": "brough-superior-35-litre-3-litre",
     "name": "3.5 Litre 3½-Litre",
     "type": "Sedan"
@@ -13,45 +8,5 @@
     "id": "brough-superior-4-litre-4-litre-42",
     "name": "4 Litre 4-Litre (4.2)",
     "type": "Cabrio"
-  },
-  {
-    "id": "brough-superior-680-ohv-680-ohv-jap",
-    "name": "680 O.H.V. (JAP)",
-    "type": "Naked"
-  },
-  {
-    "id": "brough-superior-austin-four-bs4-straight-four",
-    "name": "Austin Four BS4 (Straight Four)",
-    "type": "Naked"
-  },
-  {
-    "id": "brough-superior-mark-i-mark-i-ohv",
-    "name": "Mark I O.H.V.",
-    "type": "Naked"
-  },
-  {
-    "id": "brough-superior-mark-i-mark-i-sv",
-    "name": "Mark I S.V.",
-    "type": "Naked"
-  },
-  {
-    "id": "brough-superior-ss100-ss100-jap",
-    "name": "SS100 (JAP)",
-    "type": "Naked"
-  },
-  {
-    "id": "brough-superior-ss100-ss100-matchless-bs-x2",
-    "name": "SS100 (Matchless BS/X2)",
-    "type": "Naked"
-  },
-  {
-    "id": "brough-superior-ss80-ss80-jap",
-    "name": "SS80 (JAP)",
-    "type": "Naked"
-  },
-  {
-    "id": "brough-superior-ss80-ss80-matchless",
-    "name": "SS80 (Matchless)",
-    "type": "Naked"
   }
 ]

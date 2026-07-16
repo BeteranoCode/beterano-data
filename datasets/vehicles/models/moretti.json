@@ -105,16 +105,6 @@
     "type": "SUV"
   },
   {
-    "id": "moretti-motocicletta-125-125-bialbero",
-    "name": "Motocicletta 125 125 Bialbero",
-    "type": "Moto"
-  },
-  {
-    "id": "moretti-motocicletta-250-250",
-    "name": "Motocicletta 250",
-    "type": "Moto"
-  },
-  {
     "id": "moretti-panda-rock-panda-rock-4x4",
     "name": "Panda Rock 4x4",
     "type": "SUV"

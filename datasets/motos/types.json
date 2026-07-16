@@ -1,0 +1,56 @@
+[
+  {
+    "key": "naked",
+    "name": "Naked",
+    "kind": "moto",
+    "count": 1001
+  },
+  {
+    "key": "enduro",
+    "name": "Enduro",
+    "kind": "moto",
+    "count": 137
+  },
+  {
+    "key": "supersport",
+    "name": "Supersport",
+    "kind": "moto",
+    "count": 114
+  },
+  {
+    "key": "motocross",
+    "name": "Motocross",
+    "kind": "moto",
+    "count": 108
+  },
+  {
+    "key": "scooter",
+    "name": "Scooter",
+    "kind": "moto",
+    "count": 94
+  },
+  {
+    "key": "trial",
+    "name": "Trial",
+    "kind": "moto",
+    "count": 65
+  },
+  {
+    "key": "cruiser",
+    "name": "Cruiser",
+    "kind": "moto",
+    "count": 43
+  },
+  {
+    "key": "sporttourer",
+    "name": "Sporttourer",
+    "kind": "moto",
+    "count": 20
+  },
+  {
+    "key": "adventure",
+    "name": "Adventure",
+    "kind": "moto",
+    "count": 13
+  }
+]

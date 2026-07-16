@@ -1,10 +1,5 @@
 [
   {
-    "id": "ifa-bk-350-bk-350",
-    "name": "BK 350",
-    "type": "Moto"
-  },
-  {
     "id": "ifa-f8-f8",
     "name": "F8",
     "type": "Sedan"
@@ -58,16 +53,6 @@
     "id": "ifa-l60-l60",
     "name": "L60",
     "type": "Camion"
-  },
-  {
-    "id": "ifa-rt-125-rt-125-ifa-dkw",
-    "name": "RT 125 (IFA-DKW)",
-    "type": "Moto"
-  },
-  {
-    "id": "ifa-rt-125-rt-125-1",
-    "name": "RT 125/1",
-    "type": "Moto"
   },
   {
     "id": "ifa-s4000-s4000",

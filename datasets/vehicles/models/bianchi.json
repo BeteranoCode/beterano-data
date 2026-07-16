@@ -1,25 +1,5 @@
 [
   {
-    "id": "bianchi-freccia-d-oro-250-freccia-d-oro",
-    "name": "250 Freccia d'Oro",
-    "type": "Naked"
-  },
-  {
-    "id": "bianchi-stelvio-250-stelvio",
-    "name": "250 Stelvio",
-    "type": "Naked"
-  },
-  {
-    "id": "bianchi-freccia-celeste-350-freccia-celeste",
-    "name": "350 Freccia Celeste",
-    "type": "Naked"
-  },
-  {
-    "id": "bianchi-500-m-500-m",
-    "name": "500 M",
-    "type": "Naked"
-  },
-  {
     "id": "bianchi-8-hp-8-hp",
     "name": "8 HP",
     "type": "Cabrio"

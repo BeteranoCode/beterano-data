@@ -1,0 +1,102 @@
+[
+  {
+    "id": "nsu-fox-fox-125-zdb",
+    "name": "Fox 125 ZDB",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-fox-fox-98-osb",
+    "name": "Fox 98 OSB",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-konsul-konsul-i",
+    "name": "Konsul I",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-konsul-konsul-ii",
+    "name": "Konsul II",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-max-max-251-osb-standard",
+    "name": "Max 251 OSB (Standard)",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-lux-nsu-lux-201-zb",
+    "name": "NSU Lux 201 ZB",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-maxi-nsu-maxi",
+    "name": "NSU Maxi",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-quick-50-nsu-quick-50",
+    "name": "NSU Quick 50",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-superlux-nsu-superlux-201-zb",
+    "name": "NSU Superlux 201 ZB",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-prima-prima-d",
+    "name": "Prima D",
+    "type": "Scooter"
+  },
+  {
+    "id": "nsu-prima-prima-iii",
+    "name": "Prima III",
+    "type": "Scooter"
+  },
+  {
+    "id": "nsu-prima-prima-v-f-nfstern",
+    "name": "Prima V (Fünfstern)",
+    "type": "Scooter"
+  },
+  {
+    "id": "nsu-quickly-quickly-cavallino",
+    "name": "Quickly Cavallino",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-quickly-quickly-l",
+    "name": "Quickly L",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-quickly-quickly-n",
+    "name": "Quickly N",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-quickly-quickly-s",
+    "name": "Quickly S",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-quickly-quickly-t-tt",
+    "name": "Quickly T / TT",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-max-spezialmax-251-osb",
+    "name": "Spezialmax 251 OSB",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-superfox-superfox-125-osb",
+    "name": "Superfox 125 OSB",
+    "type": "Naked"
+  },
+  {
+    "id": "nsu-supermax-supermax-251-osb",
+    "name": "Supermax 251 OSB",
+    "type": "Naked"
+  }
+]

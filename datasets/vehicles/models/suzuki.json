@@ -45,21 +45,6 @@
     "type": "Coupe"
   },
   {
-    "id": "suzuki-gt380-gt380",
-    "name": "GT380",
-    "type": "Moto"
-  },
-  {
-    "id": "suzuki-gt550-gt550",
-    "name": "GT550",
-    "type": "Moto"
-  },
-  {
-    "id": "suzuki-gt750-gt750",
-    "name": "GT750",
-    "type": "Moto"
-  },
-  {
     "id": "suzuki-jimny-lj20-lj20",
     "name": "Jimny LJ20",
     "type": "SUV"
@@ -78,16 +63,6 @@
     "id": "suzuki-mighty-boy-ss40t",
     "name": "Mighty Boy SS40T",
     "type": "Pickup"
-  },
-  {
-    "id": "suzuki-rg500-gamma-rg500",
-    "name": "RG500 Gamma",
-    "type": "Moto"
-  },
-  {
-    "id": "suzuki-rgv250-gamma-rgv250-vj21-22",
-    "name": "RGV250 Gamma RGV250 (VJ21/22)",
-    "type": "Moto"
   },
   {
     "id": "suzuki-samurai-sj413",

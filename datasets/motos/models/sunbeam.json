@@ -1,0 +1,17 @@
+[
+  {
+    "id": "sunbeam-s7-s7-tourer",
+    "name": "S7 (Tourer)",
+    "type": "Naked"
+  },
+  {
+    "id": "sunbeam-s7-de-luxe-s7-de-luxe",
+    "name": "S7 De Luxe",
+    "type": "Naked"
+  },
+  {
+    "id": "sunbeam-s8-s8",
+    "name": "S8",
+    "type": "Naked"
+  }
+]

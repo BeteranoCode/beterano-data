@@ -1,0 +1,112 @@
+[
+  {
+    "id": "triumph-bonneville-t120",
+    "name": "Bonneville T120",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-bonneville-t140",
+    "name": "Bonneville T140",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-daytona-1000-t300",
+    "name": "Daytona 1000 (T300)",
+    "type": "Supersport"
+  },
+  {
+    "id": "triumph-daytona-1200-t300",
+    "name": "Daytona 1200 (T300)",
+    "type": "Supersport"
+  },
+  {
+    "id": "triumph-daytona-750-t300",
+    "name": "Daytona 750 (T300)",
+    "type": "Supersport"
+  },
+  {
+    "id": "triumph-daytona-900-t300",
+    "name": "Daytona 900 (T300)",
+    "type": "Supersport"
+  },
+  {
+    "id": "triumph-daytona-super-iii",
+    "name": "Daytona Super III",
+    "type": "Supersport"
+  },
+  {
+    "id": "triumph-speed-triple-900-t300",
+    "name": "Speed Triple 900 (T300)",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-speed-triple-t509",
+    "name": "Speed Triple T509",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-speed-twin-5t",
+    "name": "Speed Twin 5T",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-sprint-900-t300",
+    "name": "Sprint 900 (T300)",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "triumph-thunderbird-6t",
+    "name": "Thunderbird 6T",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-tiger-100-t100",
+    "name": "Tiger 100 T100",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-tiger-90-t90",
+    "name": "Tiger 90 T90",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-tiger-900-t400-acero",
+    "name": "Tiger 900 (T400 acero)",
+    "type": "Adventure"
+  },
+  {
+    "id": "triumph-tiger-cub-t20",
+    "name": "Tiger Cub T20",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-trident-750-t300",
+    "name": "Trident 750 (T300)",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-trident-900-t300",
+    "name": "Trident 900 (T300)",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-trident-t150-t150v",
+    "name": "Trident T150 / T150V",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-trident-t160",
+    "name": "Trident T160",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-trophy-tr6",
+    "name": "Trophy TR6",
+    "type": "Naked"
+  },
+  {
+    "id": "triumph-twenty-one-3ta",
+    "name": "Twenty-One 3TA",
+    "type": "Naked"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "husqvarna-430-automatic-automatic-swedish",
+    "name": "430 Automatic Automatic (Swedish)",
+    "type": "Enduro"
+  },
+  {
+    "id": "husqvarna-510-4t-500-510-4-stroke-air-cooled-swedish",
+    "name": "510 (4T) 500/510 4-stroke air-cooled (Swedish)",
+    "type": "Enduro"
+  },
+  {
+    "id": "husqvarna-cr-250-cr-250-swedish",
+    "name": "CR 250 (Swedish)",
+    "type": "Motocross"
+  },
+  {
+    "id": "husqvarna-guldpilen-200-guldpilen-golden-arrow",
+    "name": "Guldpilen 200 Guldpilen (Golden Arrow)",
+    "type": "Naked"
+  },
+  {
+    "id": "husqvarna-silverpilen-175-silverpilen",
+    "name": "Silverpilen 175",
+    "type": "Naked"
+  },
+  {
+    "id": "husqvarna-wmx-125-wmx-125-cagiva-husqvarna",
+    "name": "WMX 125 (Cagiva-Husqvarna)",
+    "type": "Motocross"
+  },
+  {
+    "id": "husqvarna-wmx-250-wmx-250-cagiva-husqvarna",
+    "name": "WMX 250 (Cagiva-Husqvarna)",
+    "type": "Motocross"
+  },
+  {
+    "id": "husqvarna-wr-250-wr-250-swedish",
+    "name": "WR 250 (Swedish)",
+    "type": "Enduro"
+  },
+  {
+    "id": "husqvarna-wr-430-wr-430-swedish",
+    "name": "WR 430 (Swedish)",
+    "type": "Enduro"
+  }
+]

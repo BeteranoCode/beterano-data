@@ -1,0 +1,37 @@
+[
+  {
+    "id": "iso-iso-125-4t-iso-125-4-tempi-a4d-gt-sport-a4e",
+    "name": "125 4T Iso 125 4 tempi (A4D-GT / Sport A4E)",
+    "type": "Naked"
+  },
+  {
+    "id": "iso-furetto-furetto-65",
+    "name": "Furetto 65",
+    "type": "Scooter"
+  },
+  {
+    "id": "iso-iso-f-150-iso-f-150",
+    "name": "Iso F/150",
+    "type": "Scooter"
+  },
+  {
+    "id": "iso-iso-milano-iso-milano-diva-150",
+    "name": "Iso Milano Diva 150",
+    "type": "Scooter"
+  },
+  {
+    "id": "iso-isocarro-isocarro-motocarro-3-ruedas",
+    "name": "Isocarro (motocarro 3 ruedas)",
+    "type": "Scooter"
+  },
+  {
+    "id": "iso-isomoto-isomoto-125-tipo-b-gt-tipo-c",
+    "name": "Isomoto 125 (Tipo B-GT / Tipo C)",
+    "type": "Naked"
+  },
+  {
+    "id": "iso-isoscooter-isoscooter-125",
+    "name": "Isoscooter 125",
+    "type": "Scooter"
+  }
+]

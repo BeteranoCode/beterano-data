@@ -1,0 +1,72 @@
+[
+  {
+    "id": "mv-agusta-125-sport-125-sport",
+    "name": "125 Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "mv-agusta-125-125-tel-turismo",
+    "name": "125 TEL/Turismo",
+    "type": "Naked"
+  },
+  {
+    "id": "mv-agusta-150-150-rs-sport",
+    "name": "150 RS/Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "mv-agusta-175-175-css-squalo",
+    "name": "175 CSS Squalo",
+    "type": "Naked"
+  },
+  {
+    "id": "mv-agusta-175-175-cst-cstl-turismo",
+    "name": "175 CST/CSTL Turismo",
+    "type": "Naked"
+  },
+  {
+    "id": "mv-agusta-250-250-b-bicilindrica",
+    "name": "250 B (Bicilindrica)",
+    "type": "Naked"
+  },
+  {
+    "id": "mv-agusta-250-250-raid",
+    "name": "250 Raid",
+    "type": "Naked"
+  },
+  {
+    "id": "mv-agusta-350-350-b-gt-sport",
+    "name": "350 B/GT/Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "mv-agusta-350-ipotesi-350-s-ipotesi",
+    "name": "350 Ipotesi 350 S Ipotesi",
+    "type": "Naked"
+  },
+  {
+    "id": "mv-agusta-600-600-4c",
+    "name": "600 4C",
+    "type": "Naked"
+  },
+  {
+    "id": "mv-agusta-750-s-750-gt-sport",
+    "name": "750 S 750 GT/Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "mv-agusta-750-s-america-750-s-america",
+    "name": "750 S America",
+    "type": "Naked"
+  },
+  {
+    "id": "mv-agusta-98-mv-98",
+    "name": "MV 98",
+    "type": "Naked"
+  },
+  {
+    "id": "mv-agusta-pullman-pullman-125",
+    "name": "Pullman 125",
+    "type": "Naked"
+  }
+]
