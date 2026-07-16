@@ -1,0 +1,102 @@
+[
+  {
+    "id": "jeep-cherokee-sj",
+    "name": "Cherokee SJ",
+    "type": "SUV"
+  },
+  {
+    "id": "jeep-cj-cj-2a",
+    "name": "CJ-2A",
+    "type": "SUV"
+  },
+  {
+    "id": "jeep-cj-cj-3a",
+    "name": "CJ-3A",
+    "type": "SUV"
+  },
+  {
+    "id": "jeep-cj-cj-3b",
+    "name": "CJ-3B",
+    "type": "SUV"
+  },
+  {
+    "id": "jeep-cj-cj-5",
+    "name": "CJ-5",
+    "type": "SUV"
+  },
+  {
+    "id": "jeep-cj-cj-6",
+    "name": "CJ-6",
+    "type": "SUV"
+  },
+  {
+    "id": "jeep-cj-cj-7",
+    "name": "CJ-7",
+    "type": "SUV"
+  },
+  {
+    "id": "jeep-cj-8-scrambler-cj-8",
+    "name": "CJ-8 Scrambler",
+    "type": "Pickup"
+  },
+  {
+    "id": "jeep-comanche-mj",
+    "name": "Comanche MJ",
+    "type": "Pickup"
+  },
+  {
+    "id": "jeep-commando-c104",
+    "name": "Commando C104",
+    "type": "SUV"
+  },
+  {
+    "id": "jeep-forward-control-fc-150",
+    "name": "Forward Control FC-150",
+    "type": "Pickup"
+  },
+  {
+    "id": "jeep-forward-control-fc-170",
+    "name": "Forward Control FC-170",
+    "type": "Pickup"
+  },
+  {
+    "id": "jeep-gladiator-j-series-sj",
+    "name": "Gladiator / J-series SJ",
+    "type": "Pickup"
+  },
+  {
+    "id": "jeep-grand-cherokee-zj",
+    "name": "Grand Cherokee ZJ",
+    "type": "SUV"
+  },
+  {
+    "id": "jeep-grand-wagoneer-sj",
+    "name": "Grand Wagoneer SJ",
+    "type": "SUV"
+  },
+  {
+    "id": "jeep-jeepster-commando-c101",
+    "name": "Jeepster Commando C101",
+    "type": "SUV"
+  },
+  {
+    "id": "jeep-wagoneer-sj",
+    "name": "Wagoneer SJ",
+    "type": "SUV"
+  },
+  {
+    "id": "jeep-station-wagon-willys-jeep-station-wagon",
+    "name": "Willys Jeep Station Wagon",
+    "type": "Wagon"
+  },
+  {
+    "id": "jeep-jeep-truck-willys-jeep-truck",
+    "name": "Willys Jeep Truck",
+    "type": "Pickup"
+  },
+  {
+    "id": "jeep-wrangler-yj",
+    "name": "Wrangler YJ",
+    "type": "SUV"
+  }
+]

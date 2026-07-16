@@ -1,0 +1,252 @@
+[
+  {
+    "id": "cz-cz-125-motocross-cz-125-typ-511",
+    "name": "125 Motocross CZ 125 typ 511",
+    "type": "Motocross"
+  },
+  {
+    "id": "cz-cz-125-motocross-cz-125-typ-516",
+    "name": "125 Motocross CZ 125 typ 516",
+    "type": "Motocross"
+  },
+  {
+    "id": "cz-cz-125-motocross-cz-125-typ-519",
+    "name": "125 Motocross CZ 125 typ 519",
+    "type": "Motocross"
+  },
+  {
+    "id": "cz-cz-125-motocross-cz-125-typ-984",
+    "name": "125 Motocross CZ 125 typ 984",
+    "type": "Motocross"
+  },
+  {
+    "id": "cz-cz-125-motocross-cz-125-typ-996",
+    "name": "125 Motocross CZ 125 typ 996",
+    "type": "Motocross"
+  },
+  {
+    "id": "cz-cz-250-motocross-cz-250-typ-513",
+    "name": "250 Motocross CZ 250 typ 513",
+    "type": "Motocross"
+  },
+  {
+    "id": "cz-cz-250-motocross-cz-250-typ-968",
+    "name": "250 Motocross CZ 250 typ 968",
+    "type": "Motocross"
+  },
+  {
+    "id": "cz-cz-250-motocross-cz-250-typ-980",
+    "name": "250 Motocross CZ 250 typ 980",
+    "type": "Motocross"
+  },
+  {
+    "id": "cz-cz-250-motocross-cz-250-typ-997",
+    "name": "250 Motocross CZ 250 typ 997",
+    "type": "Motocross"
+  },
+  {
+    "id": "cz-cz-360-motocross-cz-360-typ-969",
+    "name": "360 Motocross CZ 360 typ 969",
+    "type": "Motocross"
+  },
+  {
+    "id": "cz-cz-400-motocross-cz-400-typ-514",
+    "name": "400 Motocross CZ 400 typ 514",
+    "type": "Motocross"
+  },
+  {
+    "id": "cz-cz-400-motocross-cz-400-typ-981",
+    "name": "400 Motocross CZ 400 typ 981",
+    "type": "Motocross"
+  },
+  {
+    "id": "cz-cz-400-motocross-cz-400-typ-998",
+    "name": "400 Motocross CZ 400 typ 998",
+    "type": "Motocross"
+  },
+  {
+    "id": "cz-cezeta-175-cz-175-501-cezeta",
+    "name": "Cezeta 175 CZ 175/501 Cezeta",
+    "type": "Scooter"
+  },
+  {
+    "id": "cz-cezeta-175-cz-175-502-cezeta",
+    "name": "Cezeta 175 CZ 175/502 Cezeta",
+    "type": "Scooter"
+  },
+  {
+    "id": "cz-cz-125-cz-125-a",
+    "name": "CZ 125 A",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-125-cz-125-b",
+    "name": "CZ 125 B",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-125-cz-125-c",
+    "name": "CZ 125 C",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-125-cz-125-t",
+    "name": "CZ 125 T",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-125-cz-125-typ-453",
+    "name": "CZ 125 typ 453",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-125-cz-125-typ-473-sport",
+    "name": "CZ 125 typ 473 Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-125-cz-125-typ-476",
+    "name": "CZ 125 typ 476",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-125-cz-125-typ-481-trail",
+    "name": "CZ 125 typ 481 Trail",
+    "type": "Enduro"
+  },
+  {
+    "id": "cz-cz-125-cz-125-typ-488",
+    "name": "CZ 125 typ 488",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-150-cz-150-c",
+    "name": "CZ 150 C",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-175-cz-175-1935-1946",
+    "name": "CZ 175 (1935-1946)",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-175-cz-175-typ-450",
+    "name": "CZ 175 typ 450",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-175-cz-175-typ-470-sport",
+    "name": "CZ 175 typ 470 Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-175-cz-175-typ-477",
+    "name": "CZ 175 typ 477",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-175-cz-175-typ-482-trail",
+    "name": "CZ 175 typ 482 Trail",
+    "type": "Enduro"
+  },
+  {
+    "id": "cz-cz-175-cz-175-typ-487",
+    "name": "CZ 175 typ 487",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-180-cz-180-typ-4873-4874",
+    "name": "CZ 180 typ 487.3 / 487.4",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-250-sport-cz-250-sport",
+    "name": "CZ 250 Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-250-tourist-cz-250-tourist",
+    "name": "CZ 250 Tourist",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-250-cz-250-typ-455",
+    "name": "CZ 250 typ 455",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-250-cz-250-typ-471",
+    "name": "CZ 250 typ 471",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-250-cz-250-typ-475-sport",
+    "name": "CZ 250 typ 475 Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-250-cz-250-typ-485",
+    "name": "CZ 250 typ 485",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-350-cz-350-tourist",
+    "name": "CZ 350 Tourist",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-350-cz-350-typ-472",
+    "name": "CZ 350 typ 472",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-500-cz-500-tourist",
+    "name": "CZ 500 Tourist",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-76-cz-76-kaktus",
+    "name": "CZ 76 Kaktus",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-98-cz-98-1933-1936",
+    "name": "CZ 98 (1933-1936)",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-98-cz-98-1937-1946",
+    "name": "CZ 98 (1937-1946)",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-roadster-125-cz-cagiva-roadster-125-typ-866",
+    "name": "CZ-Cagiva Roadster 125 typ 866",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-roadster-200-cz-cagiva-roadster-200-typ-869",
+    "name": "CZ-Cagiva Roadster 200 typ 869",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-125-jawa-cz-125-typ-351",
+    "name": "Jawa-CZ 125 typ 351",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-125-jawa-cz-125-typ-355",
+    "name": "Jawa-CZ 125 typ 355",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-150-jawa-cz-150-typ-352",
+    "name": "Jawa-CZ 150 typ 352",
+    "type": "Naked"
+  },
+  {
+    "id": "cz-cz-175-jawa-cz-175-typ-356",
+    "name": "Jawa-CZ 175 typ 356",
+    "type": "Naked"
+  }
+]

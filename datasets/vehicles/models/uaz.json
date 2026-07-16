@@ -1,0 +1,57 @@
+[
+  {
+    "id": "uaz-450d-uaz-450-1-gen-4x4",
+    "name": "450D UAZ-450 (1ª gen. 4x4)",
+    "type": "Pickup"
+  },
+  {
+    "id": "uaz-451d-uaz-451-4x2-1-serie",
+    "name": "451D UAZ-451 (4x2, 1ª serie)",
+    "type": "Pickup"
+  },
+  {
+    "id": "uaz-451dm-uaz-451m-4x2-2-serie",
+    "name": "451DM UAZ-451M (4x2, 2ª serie)",
+    "type": "Pickup"
+  },
+  {
+    "id": "uaz-452d-uaz-452-4x4",
+    "name": "452D UAZ-452 (4x4)",
+    "type": "Pickup"
+  },
+  {
+    "id": "uaz-69-gaz-69-producci-n-uaz",
+    "name": "GAZ-69 (producción UAZ)",
+    "type": "SUV"
+  },
+  {
+    "id": "uaz-450-uaz-450-1-gen-4x4",
+    "name": "UAZ-450 (1ª gen. 4x4)",
+    "type": "Van"
+  },
+  {
+    "id": "uaz-451-uaz-451-4x2-1-serie",
+    "name": "UAZ-451 (4x2, 1ª serie)",
+    "type": "Van"
+  },
+  {
+    "id": "uaz-451m-uaz-451m-4x2-2-serie",
+    "name": "UAZ-451M (4x2, 2ª serie)",
+    "type": "Van"
+  },
+  {
+    "id": "uaz-452-uaz-452-4x4-buhanka",
+    "name": "UAZ-452 (4x4, \"Buhanka\")",
+    "type": "Van"
+  },
+  {
+    "id": "uaz-469-uaz-469-militar-ejes-portal",
+    "name": "UAZ-469 (militar, ejes portal)",
+    "type": "SUV"
+  },
+  {
+    "id": "uaz-469b-uaz-469b-civil",
+    "name": "UAZ-469B (civil)",
+    "type": "SUV"
+  }
+]

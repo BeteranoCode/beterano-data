@@ -1,0 +1,92 @@
+[
+  {
+    "id": "daihatsu-applause-a101-1a-gen",
+    "name": "Applause A101 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "daihatsu-charade-g10-1a-gen",
+    "name": "Charade G10 (1a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "daihatsu-charade-g100-3a-gen",
+    "name": "Charade G100 (3a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "daihatsu-charade-g11-g30-2a-gen",
+    "name": "Charade G11/G30 (2a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "daihatsu-charade-g200-4a-gen",
+    "name": "Charade G200 (4a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "daihatsu-charmant-a35-a60",
+    "name": "Charmant A35/A60",
+    "type": "Sedan"
+  },
+  {
+    "id": "daihatsu-compagno-f-series",
+    "name": "Compagno F-series",
+    "type": "Sedan"
+  },
+  {
+    "id": "daihatsu-consorte-1a-gen",
+    "name": "Consorte 1a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "daihatsu-cuore-mira-l200-3a-gen",
+    "name": "Cuore/Mira L200 (3a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "daihatsu-cuore-mira-l500-l501-4a-gen",
+    "name": "Cuore/Mira L500/L501 (4a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "daihatsu-cuore-mira-l55-l60-1a-gen-mira",
+    "name": "Cuore/Mira L55/L60 (1a gen Mira)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "daihatsu-cuore-mira-l70-l80-2a-gen",
+    "name": "Cuore/Mira L70/L80 (2a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "daihatsu-fellow-max-l38-2a-gen",
+    "name": "Fellow Max L38 (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "daihatsu-feroza-sportrak-rocky-f300-1a-gen",
+    "name": "Feroza/Sportrak/Rocky F300 (1a gen)",
+    "type": "SUV"
+  },
+  {
+    "id": "daihatsu-hijet-s80-s82-7a-gen",
+    "name": "Hijet S80/S82 (7a gen)",
+    "type": "Van"
+  },
+  {
+    "id": "daihatsu-move-l600-l601-1a-gen",
+    "name": "Move L600/L601 (1a gen)",
+    "type": "Wagon"
+  },
+  {
+    "id": "daihatsu-rocky-rugger-fourtrak-f70-1a-gen",
+    "name": "Rocky/Rugger/Fourtrak F70 (1a gen)",
+    "type": "SUV"
+  },
+  {
+    "id": "daihatsu-rocky-rugger-fourtrak-f80-1a-gen",
+    "name": "Rocky/Rugger/Fourtrak F80 (1a gen)",
+    "type": "SUV"
+  }
+]

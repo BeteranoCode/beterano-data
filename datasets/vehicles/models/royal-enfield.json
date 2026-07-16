@@ -1,0 +1,92 @@
+[
+  {
+    "id": "royal-enfield-bullet-350-bullet-350-redditch",
+    "name": "Bullet 350 (Redditch)",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-bullet-500-bullet-500-redditch",
+    "name": "Bullet 500 (Redditch)",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-taurus-bullet-diesel-taurus-325",
+    "name": "Bullet Diesel / Taurus 325",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-constellation-constellation-700",
+    "name": "Constellation 700",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-continental-gt-continental-gt-250",
+    "name": "Continental GT 250",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-crusader-crusader-250",
+    "name": "Crusader 250",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-crusader-sports-crusader-sports-250",
+    "name": "Crusader Sports 250",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-ensign-ensign-150",
+    "name": "Ensign 150",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-explorer-explorer-50-india",
+    "name": "Explorer 50 (India)",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-flying-flea-model-re-125",
+    "name": "Flying Flea Model RE 125",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-fury-fury-175-india",
+    "name": "Fury 175 (India)",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-interceptor-interceptor-700",
+    "name": "Interceptor 700",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-interceptor-interceptor-750-series-i-mk-i",
+    "name": "Interceptor 750 Series I (Mk I)",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-interceptor-interceptor-750-series-ii-mk-ii",
+    "name": "Interceptor 750 Series II (Mk II)",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-meteor-meteor-700",
+    "name": "Meteor 700",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-meteor-minor-meteor-minor-500",
+    "name": "Meteor Minor 500",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-super-meteor-super-meteor-700",
+    "name": "Super Meteor 700",
+    "type": "Moto"
+  },
+  {
+    "id": "royal-enfield-turbo-twin-turbo-twin-250",
+    "name": "Turbo Twin 250",
+    "type": "Moto"
+  }
+]

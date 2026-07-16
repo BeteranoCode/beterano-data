@@ -1,0 +1,337 @@
+[
+  {
+    "id": "oldsmobile-442-442-1a-gen-a-body",
+    "name": "442 1a gen (A-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-442-442-2a-gen",
+    "name": "442 2a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-442-442-3a-gen-colonnade",
+    "name": "442 3a gen (Colonnade)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-442-442-4a-gen-g-body",
+    "name": "442 4a gen (G-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-442-442-5a-gen-g-body",
+    "name": "442 5a gen (G-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-442-442-6a-gen-n-body",
+    "name": "442 6a gen (N-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-88-88-10a-gen",
+    "name": "88 10a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-88-88-1a-gen",
+    "name": "88 1a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-88-88-2a-gen",
+    "name": "88 2a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-88-88-3a-gen",
+    "name": "88 3a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-88-88-4a-gen",
+    "name": "88 4a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-88-88-5a-gen",
+    "name": "88 5a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-88-88-6a-gen",
+    "name": "88 6a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-88-88-7a-gen",
+    "name": "88 7a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-88-88-8a-gen",
+    "name": "88 8a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-88-88-9a-gen",
+    "name": "88 9a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-98-98-10a-gen",
+    "name": "98 10a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-98-98-11a-gen",
+    "name": "98 11a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-98-98-12a-gen",
+    "name": "98 12a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-98-98-1a-gen",
+    "name": "98 1a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-98-98-2a-gen",
+    "name": "98 2a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-98-98-3a-gen",
+    "name": "98 3a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-98-98-4a-gen",
+    "name": "98 4a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-98-98-5a-gen",
+    "name": "98 5a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-98-98-6a-gen",
+    "name": "98 6a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-98-98-7a-gen",
+    "name": "98 7a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-98-98-8a-gen",
+    "name": "98 8a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-98-98-9a-gen",
+    "name": "98 9a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-achieva-achieva-n-body",
+    "name": "Achieva (N-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-aurora-aurora-1a-gen-g-body",
+    "name": "Aurora 1a gen (G-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-bravada-bravada-1a-gen-gmt330",
+    "name": "Bravada 1a gen (GMT330)",
+    "type": "SUV"
+  },
+  {
+    "id": "oldsmobile-curved-dash-curved-dash-runabout",
+    "name": "Curved Dash Runabout",
+    "type": "Roadster"
+  },
+  {
+    "id": "oldsmobile-custom-cruiser-custom-cruiser-1a-gen",
+    "name": "Custom Cruiser 1a gen",
+    "type": "Wagon"
+  },
+  {
+    "id": "oldsmobile-custom-cruiser-custom-cruiser-2a-gen",
+    "name": "Custom Cruiser 2a gen",
+    "type": "Wagon"
+  },
+  {
+    "id": "oldsmobile-custom-cruiser-custom-cruiser-3a-gen",
+    "name": "Custom Cruiser 3a gen",
+    "type": "Wagon"
+  },
+  {
+    "id": "oldsmobile-cutlass-cutlass-n-body-1997-1999",
+    "name": "Cutlass (N-body, 1997-1999)",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-cutlass-cutlass-1a-gen-f-85",
+    "name": "Cutlass 1a gen (F-85)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-cutlass-cutlass-2a-gen",
+    "name": "Cutlass 2a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-cutlass-cutlass-3a-gen",
+    "name": "Cutlass 3a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-cutlass-cutlass-4a-gen-colonnade",
+    "name": "Cutlass 4a gen (Colonnade)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-cutlass-cutlass-5a-gen-g-body",
+    "name": "Cutlass 5a gen (G-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-cutlass-calais-cutlass-calais-n-body",
+    "name": "Cutlass Calais (N-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-cutlass-ciera-cutlass-ciera-a-body",
+    "name": "Cutlass Ciera (A-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-cutlass-cruiser-cutlass-cruiser-a-body",
+    "name": "Cutlass Cruiser (A-body)",
+    "type": "Wagon"
+  },
+  {
+    "id": "oldsmobile-cutlass-supreme-cutlass-supreme-1a-gen",
+    "name": "Cutlass Supreme 1a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-cutlass-supreme-cutlass-supreme-2a-gen",
+    "name": "Cutlass Supreme 2a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-cutlass-supreme-cutlass-supreme-3a-gen-colonnade",
+    "name": "Cutlass Supreme 3a gen (Colonnade)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-cutlass-supreme-cutlass-supreme-4a-gen-g-body",
+    "name": "Cutlass Supreme 4a gen (G-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-cutlass-supreme-cutlass-supreme-5a-gen-w-body",
+    "name": "Cutlass Supreme 5a gen (W-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-firenza-firenza-j-body",
+    "name": "Firenza (J-body)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "oldsmobile-firenza-firenza-cruiser-j-body",
+    "name": "Firenza Cruiser (J-body)",
+    "type": "Wagon"
+  },
+  {
+    "id": "oldsmobile-hurst-olds-hurst-olds-a-body",
+    "name": "Hurst/Olds (A-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-hurst-olds-hurst-olds-g-body",
+    "name": "Hurst/Olds (G-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-jetstar-i-jetstar-i",
+    "name": "Jetstar I",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-omega-omega-1a-gen-x-body",
+    "name": "Omega 1a gen (X-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-omega-omega-2a-gen-x-body",
+    "name": "Omega 2a gen (X-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-omega-omega-3a-gen-x-body-fwd",
+    "name": "Omega 3a gen (X-body FWD)",
+    "type": "Sedan"
+  },
+  {
+    "id": "oldsmobile-silhouette-silhouette-1a-gen-u-body",
+    "name": "Silhouette 1a gen (U-body)",
+    "type": "Van"
+  },
+  {
+    "id": "oldsmobile-starfire-starfire-1a-gen",
+    "name": "Starfire 1a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-starfire-starfire-2a-gen-h-body",
+    "name": "Starfire 2a gen (H-body)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "oldsmobile-toronado-toronado-1a-gen",
+    "name": "Toronado 1a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-toronado-toronado-2a-gen",
+    "name": "Toronado 2a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-toronado-toronado-3a-gen",
+    "name": "Toronado 3a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-toronado-toronado-4a-gen",
+    "name": "Toronado 4a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "oldsmobile-vista-cruiser-vista-cruiser-1a-gen",
+    "name": "Vista Cruiser 1a gen",
+    "type": "Wagon"
+  },
+  {
+    "id": "oldsmobile-vista-cruiser-vista-cruiser-2a-gen",
+    "name": "Vista Cruiser 2a gen",
+    "type": "Wagon"
+  },
+  {
+    "id": "oldsmobile-vista-cruiser-vista-cruiser-3a-gen",
+    "name": "Vista Cruiser 3a gen",
+    "type": "Wagon"
+  }
+]

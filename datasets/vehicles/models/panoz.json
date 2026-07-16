@@ -1,0 +1,17 @@
+[
+  {
+    "id": "panoz-aiv-roadster-aiv-roadster",
+    "name": "AIV Roadster",
+    "type": "Roadster"
+  },
+  {
+    "id": "panoz-esperante-gtr-1-gtr-1-version-de-calle",
+    "name": "Esperante GTR-1 GTR-1 (version de calle)",
+    "type": "Coupe"
+  },
+  {
+    "id": "panoz-roadster-roadster-original",
+    "name": "Roadster (original)",
+    "type": "Roadster"
+  }
+]

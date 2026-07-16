@@ -1,0 +1,112 @@
+[
+  {
+    "id": "commer-8-cwt-8-cwt",
+    "name": "8 cwt",
+    "type": "Van"
+  },
+  {
+    "id": "commer-avenger-avenger-mk-ii-iii-iv",
+    "name": "Avenger Mk II / III / IV",
+    "type": "Bus"
+  },
+  {
+    "id": "commer-bf-bf-tipo-b",
+    "name": "BF / tipo B",
+    "type": "Van"
+  },
+  {
+    "id": "commer-c-series-ca-cb-cc-ce",
+    "name": "C Series CA / CB / CC / CE",
+    "type": "Camion"
+  },
+  {
+    "id": "commer-cob-cob-serie-i",
+    "name": "Cob Serie I",
+    "type": "Van"
+  },
+  {
+    "id": "commer-cob-cob-serie-ii",
+    "name": "Cob Serie II",
+    "type": "Van"
+  },
+  {
+    "id": "commer-commando-commando",
+    "name": "Commando",
+    "type": "Camion"
+  },
+  {
+    "id": "commer-express-delivery-van-mark-iii",
+    "name": "Express Delivery Van Mark III",
+    "type": "Van"
+  },
+  {
+    "id": "commer-express-delivery-van-mark-viii-viiib",
+    "name": "Express Delivery Van Mark VIII / VIIIB",
+    "type": "Van"
+  },
+  {
+    "id": "commer-fc-fc-pa",
+    "name": "FC / PA",
+    "type": "Van"
+  },
+  {
+    "id": "commer-imp-van-imp-van",
+    "name": "Imp Van",
+    "type": "Van"
+  },
+  {
+    "id": "commer-light-pick-up-mark-iii",
+    "name": "Light Pick-up Mark III",
+    "type": "Pickup"
+  },
+  {
+    "id": "commer-light-pick-up-mark-vi",
+    "name": "Light Pick-up Mark VI",
+    "type": "Pickup"
+  },
+  {
+    "id": "commer-light-pick-up-mark-viii",
+    "name": "Light Pick-up Mark VIII",
+    "type": "Pickup"
+  },
+  {
+    "id": "commer-maxiload-maxiload-gama-c",
+    "name": "Maxiload (gama C)",
+    "type": "Camion"
+  },
+  {
+    "id": "commer-n-series-n1-n6",
+    "name": "N Series N1-N6",
+    "type": "Camion"
+  },
+  {
+    "id": "commer-pb-pb",
+    "name": "PB",
+    "type": "Van"
+  },
+  {
+    "id": "commer-spacevan-spacevan",
+    "name": "SpaceVan",
+    "type": "Van"
+  },
+  {
+    "id": "commer-superpoise-serie-q",
+    "name": "Superpoise Serie Q",
+    "type": "Camion"
+  },
+  {
+    "id": "commer-superpoise-serie-qx-t",
+    "name": "Superpoise Serie QX / T",
+    "type": "Camion"
+  },
+  {
+    "id": "commer-v-series-va-vb-vc",
+    "name": "V Series VA / VB / VC",
+    "type": "Camion"
+  },
+  {
+    "id": "commer-walk-thru-walk-thru",
+    "name": "Walk-Thru",
+    "type": "Van"
+  }
+]

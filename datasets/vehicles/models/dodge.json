@@ -1,0 +1,207 @@
+[
+  {
+    "id": "dodge-400-400-k-body",
+    "name": "400 (K-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dodge-600-600-e-body",
+    "name": "600 (E-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-aries-aries-k-car",
+    "name": "Aries (K-car)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-aspen-aspen-f-body",
+    "name": "Aspen (F-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-avenger-avenger-1a-gen-fj",
+    "name": "Avenger 1a gen (FJ)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dodge-caravan-caravan-1a-gen-s-body",
+    "name": "Caravan 1a gen (S-body)",
+    "type": "Van"
+  },
+  {
+    "id": "dodge-caravan-caravan-2a-gen-as",
+    "name": "Caravan 2a gen (AS)",
+    "type": "Van"
+  },
+  {
+    "id": "dodge-caravan-caravan-3a-gen-ns",
+    "name": "Caravan 3a gen (NS)",
+    "type": "Van"
+  },
+  {
+    "id": "dodge-challenger-challenger-1a-gen-e-body",
+    "name": "Challenger 1a gen (E-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dodge-challenger-challenger-2a-gen-rebadge-mitsubishi-galant-lambda",
+    "name": "Challenger 2a gen (rebadge Mitsubishi Galant Lambda)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dodge-charger-charger-1a-gen-b-body",
+    "name": "Charger 1a gen (B-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dodge-charger-charger-2a-gen-b-body",
+    "name": "Charger 2a gen (B-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dodge-charger-charger-3a-gen-b-body",
+    "name": "Charger 3a gen (B-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dodge-charger-charger-4a-gen-cordoba-base",
+    "name": "Charger 4a gen (Cordoba base)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dodge-colt-colt-rebadge-mitsubishi-mirage",
+    "name": "Colt (rebadge Mitsubishi Mirage)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "dodge-coronet-coronet-b-body-ultima-serie",
+    "name": "Coronet (B-body, ultima serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-coronet-coronet-super-bee-b-body",
+    "name": "Coronet Super Bee (B-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dodge-d-series-d-w-series-3a-gen-previo-al-ram",
+    "name": "D Series D/W Series (3a gen, previo al Ram)",
+    "type": "Pickup"
+  },
+  {
+    "id": "dodge-dakota-dakota-1a-gen",
+    "name": "Dakota 1a gen",
+    "type": "Pickup"
+  },
+  {
+    "id": "dodge-dart-dart-a-body-compacto",
+    "name": "Dart A-body (compacto)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-daytona-daytona-g-body",
+    "name": "Daytona (G-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dodge-diplomat-diplomat-m-body",
+    "name": "Diplomat (M-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-dynasty-dynasty-c-body",
+    "name": "Dynasty (C-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-intrepid-intrepid-1a-gen-lh",
+    "name": "Intrepid 1a gen (LH)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-lancer-lancer-h-body",
+    "name": "Lancer (H-body)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "dodge-magnum-magnum-xe-b-body",
+    "name": "Magnum XE (B-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dodge-mirada-mirada-j-body",
+    "name": "Mirada (J-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dodge-monaco-monaco-eagle-premier-base",
+    "name": "Monaco (Eagle Premier base)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-monaco-monaco-full-size-c-body",
+    "name": "Monaco full-size (C-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-neon-neon-1a-gen",
+    "name": "Neon 1a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-omni-omni-l-body",
+    "name": "Omni (L-body)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "dodge-polara-polara-full-size",
+    "name": "Polara full-size",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-ram-ram-1a-gen-d-w",
+    "name": "Ram 1a gen (D/W)",
+    "type": "Pickup"
+  },
+  {
+    "id": "dodge-ram-50-ram-50-rebadge-mitsubishi-forte-mighty-max",
+    "name": "Ram 50 (rebadge Mitsubishi Forte/Mighty Max)",
+    "type": "Pickup"
+  },
+  {
+    "id": "dodge-ramcharger-ramcharger-1a-gen",
+    "name": "Ramcharger 1a gen",
+    "type": "SUV"
+  },
+  {
+    "id": "dodge-ramcharger-ramcharger-2a-gen",
+    "name": "Ramcharger 2a gen",
+    "type": "SUV"
+  },
+  {
+    "id": "dodge-shadow-shadow-p-body",
+    "name": "Shadow (P-body)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "dodge-spirit-spirit-aa-body",
+    "name": "Spirit (AA-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-st-regis-st-regis-r-body",
+    "name": "St. Regis (R-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dodge-stealth-stealth",
+    "name": "Stealth",
+    "type": "Coupe"
+  },
+  {
+    "id": "dodge-stratus-stratus-1a-gen-ja",
+    "name": "Stratus 1a gen (JA)",
+    "type": "Sedan"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "id": "pierce-arrow-arrow-arrow",
+    "name": "Arrow",
+    "type": "Roadster"
+  },
+  {
+    "id": "pierce-arrow-great-arrow-great-arrow-24-28-hp",
+    "name": "Great Arrow 24/28 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "pierce-arrow-great-arrow-great-arrow-28-32-hp",
+    "name": "Great Arrow 28/32 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "pierce-arrow-great-arrow-great-arrow-40-45-hp",
+    "name": "Great Arrow 40/45 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "pierce-arrow-model-1236-model-1236",
+    "name": "Model 1236",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1240-model-1240-1240a",
+    "name": "Model 1240 / 1240A",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1242-model-1242",
+    "name": "Model 1242",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1245-model-1245",
+    "name": "Model 1245",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1247-model-1247",
+    "name": "Model 1247",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1248a-model-1248a",
+    "name": "Model 1248A",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1255-model-1255",
+    "name": "Model 1255",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-133-model-133",
+    "name": "Model 133",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-143-model-143",
+    "name": "Model 143",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1601-model-1601",
+    "name": "Model 1601",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1602-model-1602",
+    "name": "Model 1602",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1603-model-1603",
+    "name": "Model 1603",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1701-model-1701",
+    "name": "Model 1701",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1702-model-1702",
+    "name": "Model 1702",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1703-model-1703",
+    "name": "Model 1703",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1801-model-1801",
+    "name": "Model 1801",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1802-model-1802",
+    "name": "Model 1802",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-1803-model-1803",
+    "name": "Model 1803",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-36-model-36-36-hp",
+    "name": "Model 36 (36 HP)",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-38-model-38-38-hp",
+    "name": "Model 38 (38 HP)",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-41-model-41",
+    "name": "Model 41",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-42-model-42",
+    "name": "Model 42",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-43-model-43",
+    "name": "Model 43",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-48-model-48-48-hp",
+    "name": "Model 48 (48 HP)",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-51-model-51",
+    "name": "Model 51",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-52-model-52",
+    "name": "Model 52",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-53-model-53",
+    "name": "Model 53",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-54-model-54",
+    "name": "Model 54",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-66-model-66-66-hp",
+    "name": "Model 66 (66 HP)",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-836-model-836",
+    "name": "Model 836",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-836a-model-836a",
+    "name": "Model 836A",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-840-model-840-840a",
+    "name": "Model 840 / 840A",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-845-model-845",
+    "name": "Model 845",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-a-model-a",
+    "name": "Model A",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-b-model-b",
+    "name": "Model B",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-c-model-c",
+    "name": "Model C",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-model-r-model-r-x-1-r-5",
+    "name": "Model R (X-1 / R-5)",
+    "type": "Camion"
+  },
+  {
+    "id": "pierce-arrow-motorette-motorette",
+    "name": "Motorette",
+    "type": "Microcar"
+  },
+  {
+    "id": "pierce-arrow-pierce-four-pierce-four",
+    "name": "Pierce Four",
+    "type": "Moto"
+  },
+  {
+    "id": "pierce-arrow-series-31-series-31",
+    "name": "Series 31",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-series-32-series-32",
+    "name": "Series 32",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-series-33-series-33",
+    "name": "Series 33",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-series-36-series-36",
+    "name": "Series 36",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-series-80-series-80",
+    "name": "Series 80",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-series-81-series-81",
+    "name": "Series 81",
+    "type": "Sedan"
+  },
+  {
+    "id": "pierce-arrow-silver-arrow-silver-arrow-show-car-5-unidades",
+    "name": "Silver Arrow (show car, 5 unidades)",
+    "type": "Sedan"
+  }
+]

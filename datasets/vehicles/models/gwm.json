@@ -1,0 +1,17 @@
+[
+  {
+    "id": "gwm-cc1020-cc1020-clon-nissan-cedric-y30",
+    "name": "CC1020 (clon Nissan Cedric Y30)",
+    "type": "Sedan"
+  },
+  {
+    "id": "gwm-cc1020s-cc1020s-clon-toyota-crown-s130",
+    "name": "CC1020S (clon Toyota Crown S130)",
+    "type": "Sedan"
+  },
+  {
+    "id": "gwm-cc6490-cc6490-cc6470-familiar",
+    "name": "CC6490/CC6470 (familiar)",
+    "type": "Wagon"
+  }
+]

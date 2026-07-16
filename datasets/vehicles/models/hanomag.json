@@ -1,0 +1,122 @@
+[
+  {
+    "id": "hanomag-1-3-liter-1-3-liter-stahlhelm",
+    "name": "1,3 Liter (Stahlhelm)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hanomag-3-16-ps-typ-53",
+    "name": "3/16 PS Typ 53",
+    "type": "Sedan"
+  },
+  {
+    "id": "hanomag-3-16-ps-typ-p",
+    "name": "3/16 PS Typ P",
+    "type": "Sedan"
+  },
+  {
+    "id": "hanomag-3-17-ps-3-17-ps",
+    "name": "3/17 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "hanomag-3-18-ps-3-18-ps",
+    "name": "3/18 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "hanomag-4-20-ps-typ-63",
+    "name": "4/20 PS Typ 63",
+    "type": "Sedan"
+  },
+  {
+    "id": "hanomag-4-23-ps-4-23-ps",
+    "name": "4/23 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "hanomag-f20-f25-f30-f35-harburger-transporter",
+    "name": "F20 / F25 / F30 / F35 Harburger Transporter",
+    "type": "Van"
+  },
+  {
+    "id": "hanomag-f20-f25-f30-f35-harburger-transporter-kleinbus",
+    "name": "F20 / F25 / F30 / F35 Harburger Transporter Kleinbus",
+    "type": "Bus"
+  },
+  {
+    "id": "hanomag-f20-f25-f30-f35-harburger-transporter-pritsche",
+    "name": "F20 / F25 / F30 / F35 Harburger Transporter Pritsche",
+    "type": "Pickup"
+  },
+  {
+    "id": "hanomag-f45-f-reihe",
+    "name": "F45 F-Reihe",
+    "type": "Camion"
+  },
+  {
+    "id": "hanomag-f75-f76-f-reihe",
+    "name": "F75 / F76 F-Reihe",
+    "type": "Camion"
+  },
+  {
+    "id": "hanomag-f85-f86-f-reihe",
+    "name": "F85 / F86 F-Reihe",
+    "type": "Camion"
+  },
+  {
+    "id": "hanomag-garant-garant-transporter",
+    "name": "Garant (Transporter)",
+    "type": "Camion"
+  },
+  {
+    "id": "hanomag-garant-typ-11-4",
+    "name": "Garant Typ 11/4",
+    "type": "Sedan"
+  },
+  {
+    "id": "hanomag-2-10-ps-kommissbrot-2-10-ps",
+    "name": "Kommissbrot (2/10 PS)",
+    "type": "Microcar"
+  },
+  {
+    "id": "hanomag-kurier-kurier-transporter",
+    "name": "Kurier (Transporter)",
+    "type": "Camion"
+  },
+  {
+    "id": "hanomag-kurier-typ-11-k",
+    "name": "Kurier Typ 11 K",
+    "type": "Sedan"
+  },
+  {
+    "id": "hanomag-l-28-l-28",
+    "name": "L 28",
+    "type": "Camion"
+  },
+  {
+    "id": "hanomag-markant-markant",
+    "name": "Markant",
+    "type": "Camion"
+  },
+  {
+    "id": "hanomag-rekord-rekord-6-32-ps",
+    "name": "Rekord (6/32 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hanomag-rekord-rekord-diesel",
+    "name": "Rekord Diesel",
+    "type": "Sedan"
+  },
+  {
+    "id": "hanomag-sturm-typ-22-k",
+    "name": "Sturm Typ 22 K",
+    "type": "Sedan"
+  },
+  {
+    "id": "hanomag-sturm-typ-23-k",
+    "name": "Sturm Typ 23 K",
+    "type": "Cabrio"
+  }
+]

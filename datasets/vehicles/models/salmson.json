@@ -1,0 +1,72 @@
+[
+  {
+    "id": "salmson-2300-s-2300-sport",
+    "name": "2300 Sport",
+    "type": "Coupe"
+  },
+  {
+    "id": "salmson-grand-sport-gs",
+    "name": "Grand Sport GS",
+    "type": "Roadster"
+  },
+  {
+    "id": "salmson-grand-sport-gs8",
+    "name": "Grand Sport GS8",
+    "type": "Roadster"
+  },
+  {
+    "id": "salmson-randonnee-e-72-13-cv",
+    "name": "Randonnee E-72 (13 CV)",
+    "type": "Sedan"
+  },
+  {
+    "id": "salmson-randonnee-g-72-13-cv",
+    "name": "Randonnee G-72 (13 CV)",
+    "type": "Sedan"
+  },
+  {
+    "id": "salmson-s4-s4-7-cv",
+    "name": "S4 (7 CV)",
+    "type": "Sedan"
+  },
+  {
+    "id": "salmson-s4-s4-c-8-cv",
+    "name": "S4 C (8 CV)",
+    "type": "Sedan"
+  },
+  {
+    "id": "salmson-s4-s4-d-9-10-cv",
+    "name": "S4 D (9/10 CV)",
+    "type": "Sedan"
+  },
+  {
+    "id": "salmson-s4-s4-da-10-cv",
+    "name": "S4 DA (10 CV)",
+    "type": "Sedan"
+  },
+  {
+    "id": "salmson-s4-s4-e-13-cv",
+    "name": "S4 E (13 CV)",
+    "type": "Sedan"
+  },
+  {
+    "id": "salmson-s4-s4-61-10-cv",
+    "name": "S4-61 (10 CV)",
+    "type": "Sedan"
+  },
+  {
+    "id": "salmson-al-type-al",
+    "name": "Type AL",
+    "type": "Roadster"
+  },
+  {
+    "id": "salmson-d-type-d",
+    "name": "Type D",
+    "type": "Roadster"
+  },
+  {
+    "id": "salmson-val3-type-val3",
+    "name": "Type VAL3",
+    "type": "Roadster"
+  }
+]

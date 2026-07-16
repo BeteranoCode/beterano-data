@@ -1,0 +1,147 @@
+[
+  {
+    "id": "peugeot-104-104",
+    "name": "104",
+    "type": "Hatchback"
+  },
+  {
+    "id": "peugeot-104-104-coup",
+    "name": "104 Coupé",
+    "type": "Coupe"
+  },
+  {
+    "id": "peugeot-202-202",
+    "name": "202",
+    "type": "Sedan"
+  },
+  {
+    "id": "peugeot-203-203",
+    "name": "203",
+    "type": "Sedan"
+  },
+  {
+    "id": "peugeot-204-204",
+    "name": "204",
+    "type": "Sedan"
+  },
+  {
+    "id": "peugeot-205-205",
+    "name": "205",
+    "type": "Hatchback"
+  },
+  {
+    "id": "peugeot-205-205-cabriolet",
+    "name": "205 Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "peugeot-205-205-gti",
+    "name": "205 GTI",
+    "type": "Hatchback"
+  },
+  {
+    "id": "peugeot-304-304",
+    "name": "304",
+    "type": "Sedan"
+  },
+  {
+    "id": "peugeot-304-304-coup-cabriolet",
+    "name": "304 Coupé/Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "peugeot-305-305",
+    "name": "305",
+    "type": "Sedan"
+  },
+  {
+    "id": "peugeot-305-305-break",
+    "name": "305 Break",
+    "type": "Wagon"
+  },
+  {
+    "id": "peugeot-309-309",
+    "name": "309",
+    "type": "Hatchback"
+  },
+  {
+    "id": "peugeot-309-309-gti",
+    "name": "309 GTI",
+    "type": "Hatchback"
+  },
+  {
+    "id": "peugeot-403-403",
+    "name": "403",
+    "type": "Sedan"
+  },
+  {
+    "id": "peugeot-404-404",
+    "name": "404",
+    "type": "Sedan"
+  },
+  {
+    "id": "peugeot-405-405",
+    "name": "405",
+    "type": "Sedan"
+  },
+  {
+    "id": "peugeot-405-405-break",
+    "name": "405 Break",
+    "type": "Wagon"
+  },
+  {
+    "id": "peugeot-405-405-mi16",
+    "name": "405 Mi16",
+    "type": "Sedan"
+  },
+  {
+    "id": "peugeot-504-504",
+    "name": "504",
+    "type": "Sedan"
+  },
+  {
+    "id": "peugeot-504-504-coup-cabriolet",
+    "name": "504 Coupé/Cabriolet",
+    "type": "Coupe"
+  },
+  {
+    "id": "peugeot-504-504-pick-up",
+    "name": "504 Pick-up",
+    "type": "Pickup"
+  },
+  {
+    "id": "peugeot-505-505",
+    "name": "505",
+    "type": "Sedan"
+  },
+  {
+    "id": "peugeot-505-505-break",
+    "name": "505 Break",
+    "type": "Wagon"
+  },
+  {
+    "id": "peugeot-604-604",
+    "name": "604",
+    "type": "Sedan"
+  },
+  {
+    "id": "peugeot-605-605",
+    "name": "605",
+    "type": "Sedan"
+  },
+  {
+    "id": "peugeot-j5-j5-serie-1",
+    "name": "J5 (Serie 1)",
+    "type": "Van"
+  },
+  {
+    "id": "peugeot-j7-j7",
+    "name": "J7",
+    "type": "Van"
+  },
+  {
+    "id": "peugeot-j9-j9",
+    "name": "J9",
+    "type": "Van"
+  }
+]

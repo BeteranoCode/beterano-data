@@ -1,0 +1,107 @@
+[
+  {
+    "id": "sanglas-100-100-sport",
+    "name": "100 Sport",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-295-295",
+    "name": "295",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-295-295-1",
+    "name": "295/1",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-350-350-n-1-serie",
+    "name": "350 N 1ª Serie",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-350-350-n-2-serie-350-a",
+    "name": "350 N 2ª Serie (350/A)",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-350-350-1",
+    "name": "350/1",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-350-350-2",
+    "name": "350/2",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-350-350-3",
+    "name": "350/3",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-350-350-4",
+    "name": "350/4",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-350-350-4-2",
+    "name": "350/4/2",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-400-400-e",
+    "name": "400 E",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-400-400-f",
+    "name": "400 F",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-400-400-t",
+    "name": "400 T",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-400-y-400-y",
+    "name": "400 Y",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-50-50-ciclomotor",
+    "name": "50 Ciclomotor",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-500-s-500-s",
+    "name": "500 S",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-500-s-500-s2",
+    "name": "500 S2",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-500-s-500-s2-v5",
+    "name": "500 S2 V5",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-500-500-1",
+    "name": "500/1",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-500-500-2",
+    "name": "500/2",
+    "type": "Moto"
+  },
+  {
+    "id": "sanglas-500-500-3",
+    "name": "500/3",
+    "type": "Moto"
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "id": "volvo-140-series-142-144",
+    "name": "140 Series 142/144",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-140-series-145",
+    "name": "140 Series 145",
+    "type": "Wagon"
+  },
+  {
+    "id": "volvo-164-164",
+    "name": "164",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-240-240-200-series",
+    "name": "240 (200 Series)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-240-245-200-series",
+    "name": "240 245 (200 Series)",
+    "type": "Wagon"
+  },
+  {
+    "id": "volvo-240-240-diesel",
+    "name": "240 Diesel",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-240-240-turbo",
+    "name": "240 Turbo",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-260-260-200-series",
+    "name": "260 (200 Series)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-340-300-series",
+    "name": "340 300 Series",
+    "type": "Hatchback"
+  },
+  {
+    "id": "volvo-340-300-series-diesel",
+    "name": "340 300 Series Diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "volvo-360-300-series",
+    "name": "360 300 Series",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-440-400-series",
+    "name": "440 400 Series",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-460-400-series",
+    "name": "460 400 Series",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-460-400-series-diesel",
+    "name": "460 400 Series Diesel",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-480-480",
+    "name": "480",
+    "type": "Coupe"
+  },
+  {
+    "id": "volvo-480-480-turbo",
+    "name": "480 Turbo",
+    "type": "Coupe"
+  },
+  {
+    "id": "volvo-66-66",
+    "name": "66",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-740-700-series",
+    "name": "740 700 Series",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-740-700-series-turbo",
+    "name": "740 700 Series Turbo",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-740-745-diesel",
+    "name": "740 745 Diesel",
+    "type": "Wagon"
+  },
+  {
+    "id": "volvo-760-700-series",
+    "name": "760 700 Series",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-780-700-series-bertone",
+    "name": "780 700 Series (Bertone)",
+    "type": "Coupe"
+  },
+  {
+    "id": "volvo-850-850",
+    "name": "850",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-850-850-estate",
+    "name": "850 Estate",
+    "type": "Wagon"
+  },
+  {
+    "id": "volvo-850-850-t5-t-5r",
+    "name": "850 T5 / T-5R",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-850-850-tdi",
+    "name": "850 TDI",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-940-900-series",
+    "name": "940 900 Series",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-940-900-series-diesel",
+    "name": "940 900 Series Diesel",
+    "type": "Wagon"
+  },
+  {
+    "id": "volvo-960-900-series",
+    "name": "960 900 Series",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-amazon-120-p120",
+    "name": "Amazon 120 (P120)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-amazon-220-p220",
+    "name": "Amazon 220 (P220)",
+    "type": "Wagon"
+  },
+  {
+    "id": "volvo-duett-p210",
+    "name": "Duett P210",
+    "type": "Wagon"
+  },
+  {
+    "id": "volvo-p1800-1800-1800s-1800e",
+    "name": "P1800 1800 / 1800S / 1800E",
+    "type": "Coupe"
+  },
+  {
+    "id": "volvo-p1800-1800es",
+    "name": "P1800 1800ES",
+    "type": "Wagon"
+  },
+  {
+    "id": "volvo-pv444-pv444",
+    "name": "PV444",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-pv544-pv544",
+    "name": "PV544",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-s70-s70-gen-1",
+    "name": "S70 (gen 1)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-s70-s70-t5",
+    "name": "S70 T5",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-s70-s70-v70-tdi",
+    "name": "S70/V70 TDI",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-s90-960-90-series",
+    "name": "S90 960/90 Series",
+    "type": "Sedan"
+  },
+  {
+    "id": "volvo-v70-v70-gen-1",
+    "name": "V70 (gen 1)",
+    "type": "Wagon"
+  },
+  {
+    "id": "volvo-v70-xc-v70-xc-gen-1",
+    "name": "V70 XC (gen 1)",
+    "type": "SUV"
+  },
+  {
+    "id": "volvo-v90-960-90-series",
+    "name": "V90 960/90 Series",
+    "type": "Wagon"
+  }
+]

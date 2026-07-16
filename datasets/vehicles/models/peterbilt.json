@@ -1,0 +1,87 @@
+[
+  {
+    "id": "peterbilt-351-281-351-coe",
+    "name": "281/351 COE",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-351-281-351-conventional",
+    "name": "281/351 Conventional",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-352-282-352-coe",
+    "name": "282/352 COE",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-358-288-358-conventional",
+    "name": "288/358 Conventional",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-310-310-319-lcf-coe",
+    "name": "310/319 LCF COE",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-341-341-conventional",
+    "name": "341 Conventional",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-346-346-conventional",
+    "name": "346 Conventional",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-348-348-conventional",
+    "name": "348 Conventional",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-349-349-conventional",
+    "name": "349 Conventional",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-352-352h-coe",
+    "name": "352H COE",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-353-353-conventional",
+    "name": "353 Conventional",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-359-359-conventional",
+    "name": "359 Conventional",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-372-372-coe",
+    "name": "372 COE",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-375-375-conventional",
+    "name": "375 Conventional",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-377-377-conventional",
+    "name": "377 Conventional",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-cb300-cb300-lcf-coe",
+    "name": "CB300 LCF COE",
+    "type": "Camion"
+  },
+  {
+    "id": "peterbilt-200-mid-ranger-200",
+    "name": "Mid-Ranger (200)",
+    "type": "Camion"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "allard-clipper-clipper",
+    "name": "Clipper",
+    "type": "Microcar"
+  },
+  {
+    "id": "allard-gt-coupe-gt-coupe",
+    "name": "GT Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "allard-j1-j1",
+    "name": "J1",
+    "type": "Roadster"
+  },
+  {
+    "id": "allard-j2-j2",
+    "name": "J2",
+    "type": "Roadster"
+  },
+  {
+    "id": "allard-j2x-j2x-extended",
+    "name": "J2X (extended)",
+    "type": "Roadster"
+  },
+  {
+    "id": "allard-j2x-j2x-le-mans",
+    "name": "J2X Le Mans",
+    "type": "Roadster"
+  },
+  {
+    "id": "allard-jr-jr",
+    "name": "JR",
+    "type": "Roadster"
+  },
+  {
+    "id": "allard-k1-k1",
+    "name": "K1",
+    "type": "Roadster"
+  },
+  {
+    "id": "allard-k2-k2",
+    "name": "K2",
+    "type": "Roadster"
+  },
+  {
+    "id": "allard-k3-k3",
+    "name": "K3",
+    "type": "Roadster"
+  },
+  {
+    "id": "allard-l-l-type",
+    "name": "L Type",
+    "type": "Cabrio"
+  },
+  {
+    "id": "allard-m-m-type",
+    "name": "M Type",
+    "type": "Cabrio"
+  },
+  {
+    "id": "allard-m2x-m2x",
+    "name": "M2X",
+    "type": "Cabrio"
+  },
+  {
+    "id": "allard-p1-p1",
+    "name": "P1",
+    "type": "Sedan"
+  },
+  {
+    "id": "allard-p2-p2-monte-carlo",
+    "name": "P2 Monte Carlo",
+    "type": "Sedan"
+  },
+  {
+    "id": "allard-p2-p2-safari",
+    "name": "P2 Safari",
+    "type": "Wagon"
+  },
+  {
+    "id": "allard-palm-beach-palm-beach-mk1",
+    "name": "Palm Beach Mk1",
+    "type": "Roadster"
+  },
+  {
+    "id": "allard-palm-beach-palm-beach-mk2",
+    "name": "Palm Beach Mk2",
+    "type": "Roadster"
+  }
+]

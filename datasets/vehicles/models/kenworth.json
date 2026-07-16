@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kenworth-hustler-hustler-low-cab-coe",
+    "name": "Hustler (low-cab COE)",
+    "type": "Camion"
+  },
+  {
+    "id": "kenworth-k100-k100-1a-gen-cabover",
+    "name": "K100 (1a gen, cabover)",
+    "type": "Camion"
+  },
+  {
+    "id": "kenworth-k100-k100c-cabover",
+    "name": "K100C (cabover)",
+    "type": "Camion"
+  },
+  {
+    "id": "kenworth-l700-l700-coe-vocacional",
+    "name": "L700 (COE vocacional)",
+    "type": "Camion"
+  },
+  {
+    "id": "kenworth-mid-ranger-k130-k220-k300-cabina-vw",
+    "name": "Mid-Ranger K130/K220/K300 (cabina VW)",
+    "type": "Camion"
+  },
+  {
+    "id": "kenworth-pacific-school-coach-model-t-pacific",
+    "name": "Pacific School Coach Model T (Pacific)",
+    "type": "Bus"
+  },
+  {
+    "id": "kenworth-pd-pd-cabover-clase-7",
+    "name": "PD (cabover Clase 7)",
+    "type": "Camion"
+  },
+  {
+    "id": "kenworth-t400-t400-t450-vocacional-clase-8",
+    "name": "T400/T450 (vocacional Clase 8)",
+    "type": "Camion"
+  },
+  {
+    "id": "kenworth-w900-w900-narrow-hood-1a-gen",
+    "name": "W900 (narrow hood, 1a gen)",
+    "type": "Camion"
+  },
+  {
+    "id": "kenworth-w900-w900a-wide-hood",
+    "name": "W900A (wide hood)",
+    "type": "Camion"
+  }
+]

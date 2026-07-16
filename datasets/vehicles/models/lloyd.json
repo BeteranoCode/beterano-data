@@ -1,0 +1,97 @@
+[
+  {
+    "id": "lloyd-lloyd-alexander-alexander",
+    "name": "Alexander",
+    "type": "Sedan"
+  },
+  {
+    "id": "lloyd-lloyd-alexander-frua-alexander-frua",
+    "name": "Alexander Frua",
+    "type": "Coupe"
+  },
+  {
+    "id": "lloyd-lloyd-alexander-ts-alexander-ts",
+    "name": "Alexander TS",
+    "type": "Sedan"
+  },
+  {
+    "id": "lloyd-lloyd-arabella-arabella-lp-900",
+    "name": "Arabella (LP 900)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lloyd-lloyd-300-lc-300",
+    "name": "LC 300",
+    "type": "Coupe"
+  },
+  {
+    "id": "lloyd-lloyd-400-lc-400",
+    "name": "LC 400",
+    "type": "Cabrio"
+  },
+  {
+    "id": "lloyd-lloyd-600-lc-600",
+    "name": "LC 600",
+    "type": "Cabrio"
+  },
+  {
+    "id": "lloyd-lloyd-300-lk-300",
+    "name": "LK 300",
+    "type": "Van"
+  },
+  {
+    "id": "lloyd-lloyd-400-lk-400",
+    "name": "LK 400",
+    "type": "Van"
+  },
+  {
+    "id": "lloyd-lloyd-600-lk-600",
+    "name": "LK 600",
+    "type": "Van"
+  },
+  {
+    "id": "lloyd-lloyd-250-lp-250",
+    "name": "LP 250",
+    "type": "Sedan"
+  },
+  {
+    "id": "lloyd-lloyd-300-lp-300",
+    "name": "LP 300",
+    "type": "Sedan"
+  },
+  {
+    "id": "lloyd-lloyd-400-lp-400",
+    "name": "LP 400",
+    "type": "Sedan"
+  },
+  {
+    "id": "lloyd-lloyd-600-lp-600",
+    "name": "LP 600",
+    "type": "Sedan"
+  },
+  {
+    "id": "lloyd-lloyd-300-ls-300",
+    "name": "LS 300",
+    "type": "Wagon"
+  },
+  {
+    "id": "lloyd-lloyd-400-ls-400",
+    "name": "LS 400",
+    "type": "Wagon"
+  },
+  {
+    "id": "lloyd-lloyd-600-ls-600",
+    "name": "LS 600",
+    "type": "Wagon"
+  },
+  {
+    "id": "lloyd-lloyd-lt-500-lt-500",
+    "name": "LT 500",
+    "type": "Van"
+  },
+  {
+    "id": "lloyd-lloyd-lt-600-lt-600",
+    "name": "LT 600",
+    "type": "Van"
+  }
+]

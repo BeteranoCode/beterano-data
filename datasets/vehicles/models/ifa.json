@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ifa-bk-350-bk-350",
+    "name": "BK 350",
+    "type": "Moto"
+  },
+  {
+    "id": "ifa-f8-f8",
+    "name": "F8",
+    "type": "Sedan"
+  },
+  {
+    "id": "ifa-f9-f9",
+    "name": "F9",
+    "type": "Sedan"
+  },
+  {
+    "id": "ifa-g5-g5-g5-1-y-g5-2",
+    "name": "G5 (G5/1 y G5/2)",
+    "type": "Camion"
+  },
+  {
+    "id": "ifa-h3b-h3b",
+    "name": "H3B",
+    "type": "Bus"
+  },
+  {
+    "id": "ifa-h3s-h3s",
+    "name": "H3S",
+    "type": "Camion"
+  },
+  {
+    "id": "ifa-h6-h6",
+    "name": "H6",
+    "type": "Camion"
+  },
+  {
+    "id": "ifa-h6b-h6b",
+    "name": "H6B",
+    "type": "Bus"
+  },
+  {
+    "id": "ifa-h6-h6z",
+    "name": "H6Z",
+    "type": "Camion"
+  },
+  {
+    "id": "ifa-h3-horch-h3",
+    "name": "Horch H3",
+    "type": "Camion"
+  },
+  {
+    "id": "ifa-h3a-horch-h3a",
+    "name": "Horch H3A",
+    "type": "Camion"
+  },
+  {
+    "id": "ifa-l60-l60",
+    "name": "L60",
+    "type": "Camion"
+  },
+  {
+    "id": "ifa-rt-125-rt-125-ifa-dkw",
+    "name": "RT 125 (IFA-DKW)",
+    "type": "Moto"
+  },
+  {
+    "id": "ifa-rt-125-rt-125-1",
+    "name": "RT 125/1",
+    "type": "Moto"
+  },
+  {
+    "id": "ifa-s4000-s4000",
+    "name": "S4000",
+    "type": "Camion"
+  },
+  {
+    "id": "ifa-s4000-1-s4000-1",
+    "name": "S4000-1",
+    "type": "Camion"
+  },
+  {
+    "id": "ifa-w50-w50-inyeccion-directa",
+    "name": "W50 (inyeccion directa)",
+    "type": "Camion"
+  },
+  {
+    "id": "ifa-w50-w50-primera-serie",
+    "name": "W50 (primera serie)",
+    "type": "Camion"
+  }
+]

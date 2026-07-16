@@ -1,0 +1,147 @@
+[
+  {
+    "id": "hercules-k-125-bw-k-125-bw-version-1",
+    "name": "K 125 BW Version 1",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-k-125-bw-k-125-bw-version-2",
+    "name": "K 125 BW Version 2",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-k-125-k-125-s",
+    "name": "K 125 S",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-k-125-k-125-t",
+    "name": "K 125 T",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-k-125-k-125-x",
+    "name": "K 125 X",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-k-180-bw-k-180-bw",
+    "name": "K 180 BW",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-k-50-rl-k-50-rl",
+    "name": "K 50 RL",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-mf-3-mf-3",
+    "name": "MF 3",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-mk-1-mk1-50-s",
+    "name": "MK 1 MK1 50 S",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-mk-2-mk2-50-s",
+    "name": "MK 2 MK2 50 S",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-mk-3-mk3-50-m",
+    "name": "MK 3 MK3 50 M",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-mk-3-mk3-50-x",
+    "name": "MK 3 MK3 50 X",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-mk-4-mk4-50-m",
+    "name": "MK 4 MK4 50 M",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-mk-4-mk4-50-x",
+    "name": "MK 4 MK4 50 X",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-optima-3-optima-50-3",
+    "name": "Optima 3 Optima 50 3",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-p3-p3-50",
+    "name": "P3 50",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-prima-gt-prima-gt",
+    "name": "Prima GT",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-rx-9-rx-9-80-ac",
+    "name": "RX 9 80 AC",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-rx-9-rx-9-80-lc",
+    "name": "RX 9 80 LC",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-supra-4-supra-50-4-enduro",
+    "name": "Supra 4 Supra 50 4 Enduro",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-supra-4-supra-50-4-gp",
+    "name": "Supra 4 Supra 50 4 GP",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-313-tipo-313",
+    "name": "Tipo 313",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-316-tipo-316",
+    "name": "Tipo 316",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-ultra-50-k-50-ultra-i-lc",
+    "name": "Ultra 50 K 50 Ultra I LC",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-ultra-50-k-50-ultra-ii-lc",
+    "name": "Ultra 50 K 50 Ultra II LC",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-ultra-80-ultra-80-ac",
+    "name": "Ultra 80 AC",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-ultra-80-ultra-80-lc",
+    "name": "Ultra 80 LC",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-w-2000-w-2000-wankel",
+    "name": "W 2000 (Wankel)",
+    "type": "Moto"
+  },
+  {
+    "id": "hercules-xe-9-xe-9-80-ac",
+    "name": "XE 9 80 AC",
+    "type": "Moto"
+  }
+]

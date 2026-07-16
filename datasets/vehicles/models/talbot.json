@@ -1,0 +1,82 @@
+[
+  {
+    "id": "talbot-alpine-alpine-1510",
+    "name": "Alpine / 1510",
+    "type": "Hatchback"
+  },
+  {
+    "id": "talbot-avenger-avenger",
+    "name": "Avenger",
+    "type": "Sedan"
+  },
+  {
+    "id": "talbot-avenger-avenger-estate",
+    "name": "Avenger Estate",
+    "type": "Wagon"
+  },
+  {
+    "id": "talbot-express-express-sevel-serie-1-y-2",
+    "name": "Express (Sevel, Serie 1 y 2)",
+    "type": "Van"
+  },
+  {
+    "id": "talbot-horizon-horizon",
+    "name": "Horizon",
+    "type": "Hatchback"
+  },
+  {
+    "id": "talbot-minx-minx-alpine-rebadge",
+    "name": "Minx (Alpine rebadge)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "talbot-rapier-rapier-alpine-rebadge",
+    "name": "Rapier (Alpine rebadge)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "talbot-samba-samba",
+    "name": "Samba",
+    "type": "Hatchback"
+  },
+  {
+    "id": "talbot-samba-samba-cabriolet-pininfarina",
+    "name": "Samba Cabriolet (Pininfarina)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "talbot-samba-samba-rallye",
+    "name": "Samba Rallye",
+    "type": "Hatchback"
+  },
+  {
+    "id": "talbot-solara-solara",
+    "name": "Solara",
+    "type": "Sedan"
+  },
+  {
+    "id": "talbot-sunbeam-sunbeam",
+    "name": "Sunbeam",
+    "type": "Hatchback"
+  },
+  {
+    "id": "talbot-sunbeam-sunbeam-lotus",
+    "name": "Sunbeam Lotus",
+    "type": "Hatchback"
+  },
+  {
+    "id": "talbot-tagora-tagora",
+    "name": "Tagora",
+    "type": "Sedan"
+  },
+  {
+    "id": "talbot-matra-murena-talbot-matra-murena",
+    "name": "Talbot Matra Murena",
+    "type": "Coupe"
+  },
+  {
+    "id": "talbot-matra-rancho-talbot-matra-rancho",
+    "name": "Talbot Matra Rancho",
+    "type": "SUV"
+  }
+]

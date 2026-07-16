@@ -1,0 +1,147 @@
+[
+  {
+    "id": "albion-a10-a10-3-ton",
+    "name": "A10 (3 ton)",
+    "type": "Camion"
+  },
+  {
+    "id": "albion-aberdonian-aberdonian-mr11",
+    "name": "Aberdonian MR11",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-albion-12-albion-12-hp",
+    "name": "Albion 12 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "albion-albion-15-albion-15-hp",
+    "name": "Albion 15 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "albion-albion-16-albion-16-hp-a3",
+    "name": "Albion 16 hp (A3)",
+    "type": "Sedan"
+  },
+  {
+    "id": "albion-albion-24-30-albion-24-30-hp",
+    "name": "Albion 24/30 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "albion-albion-8-albion-8-hp",
+    "name": "Albion 8 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "albion-chieftain-chieftain-cx-ft-posguerra",
+    "name": "Chieftain (CX/FT posguerra)",
+    "type": "Camion"
+  },
+  {
+    "id": "albion-claymore-claymore-cl-motor-bajo-el-piso",
+    "name": "Claymore CL (motor bajo el piso)",
+    "type": "Camion"
+  },
+  {
+    "id": "albion-claymore-claymore-cl3-cl5",
+    "name": "Claymore CL3/CL5",
+    "type": "Camion"
+  },
+  {
+    "id": "albion-clydesdale-clydesdale-chasis-de-autobus",
+    "name": "Clydesdale (chasis de autobus)",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-clydesdale-clydesdale-cd21",
+    "name": "Clydesdale CD21",
+    "type": "Camion"
+  },
+  {
+    "id": "albion-cx22s-cx22s-tractor-de-artilleria-pesada-6x4",
+    "name": "CX22S (tractor de artilleria pesada 6x4)",
+    "type": "Camion"
+  },
+  {
+    "id": "albion-lowlander-lowlander-lr1-lr3-lr5-lr7-2-pisos",
+    "name": "Lowlander LR1/LR3/LR5/LR7 (2 pisos)",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-nimbus-nimbus-mr9n",
+    "name": "Nimbus MR9N",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-nimbus-nimbus-ns3an",
+    "name": "Nimbus NS3AN",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-nimbus-nimbus-ns3n",
+    "name": "Nimbus NS3N",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-reiver-reiver-ft111k-6x2",
+    "name": "Reiver FT111K (6x2)",
+    "type": "Camion"
+  },
+  {
+    "id": "albion-reiver-super-reiver",
+    "name": "Super Reiver",
+    "type": "Camion"
+  },
+  {
+    "id": "albion-valkyrie-cx-valkyrie-cx-cx13",
+    "name": "Valkyrie CX (CX13)",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-venturer-venturer-preguerra-2-pisos",
+    "name": "Venturer (preguerra, 2 pisos)",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-venturer-cx-venturer-cx-cx19-2-pisos",
+    "name": "Venturer CX (CX19, 2 pisos)",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-victor-victor-preguerra",
+    "name": "Victor (preguerra)",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-victor-ft-victor-ft39",
+    "name": "Victor FT39",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-victor-vt-victor-vt15",
+    "name": "Victor VT15",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-victor-vt-victor-vt17",
+    "name": "Victor VT17",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-victor-vt-victor-vt17b",
+    "name": "Victor VT17B",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-viking-vk-viking-vk41-motor-delantero",
+    "name": "Viking VK41 (motor delantero)",
+    "type": "Bus"
+  },
+  {
+    "id": "albion-viking-vk-viking-vk43-motor-trasero",
+    "name": "Viking VK43 (motor trasero)",
+    "type": "Bus"
+  }
+]

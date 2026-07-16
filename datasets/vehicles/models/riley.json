@@ -1,0 +1,162 @@
+[
+  {
+    "id": "riley-12-4-1-litre-12-4",
+    "name": "12/4 (1½-Litre)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-12-6-12-6-six",
+    "name": "12/6 (Six)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-14-6-14-6-six",
+    "name": "14/6 (Six)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-15-6-15-6-six",
+    "name": "15/6 (Six)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-16-big-four-riley-16",
+    "name": "16 (Big Four) Riley 16",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-4-seventy-two-4-72-farina",
+    "name": "4/Seventy-Two 4/72 (Farina)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-4-sixty-eight-4-68-farina",
+    "name": "4/Sixty-Eight 4/68 (Farina)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-8-90-8-90-v8",
+    "name": "8/90 (V8)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-eleven-eleven-108-hp",
+    "name": "Eleven (10.8 hp)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-eleven-redwing-redwing-108-hp",
+    "name": "Eleven Redwing Redwing (10.8 hp)",
+    "type": "Roadster"
+  },
+  {
+    "id": "riley-elf-elf-mk-i",
+    "name": "Elf Mk I",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-elf-elf-mk-ii",
+    "name": "Elf Mk II",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-elf-elf-mk-iii",
+    "name": "Elf Mk III",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-kestrel-kestrel-1100-ado16-mk-i",
+    "name": "Kestrel 1100 (ADO16 Mk I)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-kestrel-kestrel-1300-ado16-mk-i",
+    "name": "Kestrel 1300 (ADO16 Mk I)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-mph-mph",
+    "name": "MPH",
+    "type": "Roadster"
+  },
+  {
+    "id": "riley-brooklands-nine-brooklands",
+    "name": "Nine Brooklands",
+    "type": "Roadster"
+  },
+  {
+    "id": "riley-imp-nine-imp",
+    "name": "Nine Imp",
+    "type": "Roadster"
+  },
+  {
+    "id": "riley-one-point-five-one-point-five",
+    "name": "One-Point-Five",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-1300-riley-1300-mk-ii-ado16",
+    "name": "Riley 1300 Mk II (ADO16)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-nine-riley-nine",
+    "name": "Riley Nine",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-rma-rma-1-litre",
+    "name": "RMA (1½-Litre)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-rmb-rmb-2-litre",
+    "name": "RMB (2½-Litre)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-rmc-rmc-roadster",
+    "name": "RMC Roadster",
+    "type": "Roadster"
+  },
+  {
+    "id": "riley-rmd-rmd-drophead",
+    "name": "RMD Drophead",
+    "type": "Cabrio"
+  },
+  {
+    "id": "riley-rme-rme-1-litre",
+    "name": "RME (1½-Litre)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-rmf-rmf-2-litre",
+    "name": "RMF (2½-Litre)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-pathfinder-rmh-pathfinder",
+    "name": "RMH Pathfinder",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-sprite-sprite-12-4",
+    "name": "Sprite (12/4)",
+    "type": "Roadster"
+  },
+  {
+    "id": "riley-twelve-1-litre-riley-12-1939",
+    "name": "Twelve (1½-Litre) Riley 12 (1939)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-twelve-twelve-side-valve",
+    "name": "Twelve (side-valve)",
+    "type": "Sedan"
+  },
+  {
+    "id": "riley-two-point-six-two-point-six",
+    "name": "Two-Point-Six",
+    "type": "Sedan"
+  }
+]

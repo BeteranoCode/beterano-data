@@ -1,0 +1,27 @@
+[
+  {
+    "id": "duesenberg-model-a-model-a",
+    "name": "Model A",
+    "type": "Sedan"
+  },
+  {
+    "id": "duesenberg-model-j-model-j",
+    "name": "Model J",
+    "type": "Sedan"
+  },
+  {
+    "id": "duesenberg-model-sj-model-sj-sobrealimentado",
+    "name": "Model SJ (sobrealimentado)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "duesenberg-model-ssj-model-ssj-batalla-corta",
+    "name": "Model SSJ (batalla corta)",
+    "type": "Roadster"
+  },
+  {
+    "id": "duesenberg-model-x-model-x",
+    "name": "Model X",
+    "type": "Sedan"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "armstrong-siddeley-12-plus-12-plus",
+    "name": "12 Plus",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-20-25-20-25-hp",
+    "name": "20/25 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-eighteen-18-hp",
+    "name": "Eighteen 18 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-eighteen-18-50-18-mk-ii",
+    "name": "Eighteen 18/50 (18 Mk II)",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-fifteen-15-hp",
+    "name": "Fifteen 15 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-fifteen-15-6",
+    "name": "Fifteen 15/6",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-fourteen-four-fourteen",
+    "name": "Four-Fourteen",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-fourteen-14-hp",
+    "name": "Fourteen 14 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-hurricane-hurricane-16",
+    "name": "Hurricane 16",
+    "type": "Cabrio"
+  },
+  {
+    "id": "armstrong-siddeley-hurricane-hurricane-18",
+    "name": "Hurricane 18",
+    "type": "Cabrio"
+  },
+  {
+    "id": "armstrong-siddeley-lancaster-lancaster-16",
+    "name": "Lancaster 16",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-lancaster-lancaster-18",
+    "name": "Lancaster 18",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-sapphire-234-sapphire-234",
+    "name": "Sapphire 234",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-sapphire-236-sapphire-236",
+    "name": "Sapphire 236",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-sapphire-346-sapphire-346",
+    "name": "Sapphire 346",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-seventeen-long-17",
+    "name": "Seventeen Long 17",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-seventeen-short-17",
+    "name": "Seventeen Short 17",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-siddeley-special-siddeley-special",
+    "name": "Siddeley Special",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-sixteen-16-hp",
+    "name": "Sixteen 16 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-star-sapphire-star-sapphire",
+    "name": "Star Sapphire",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-thirty-30-hp",
+    "name": "Thirty 30 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-twelve-12-hp",
+    "name": "Twelve 12 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-twenty-20-hp",
+    "name": "Twenty 20 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "armstrong-siddeley-typhoon-typhoon-16",
+    "name": "Typhoon 16",
+    "type": "Coupe"
+  },
+  {
+    "id": "armstrong-siddeley-typhoon-typhoon-18",
+    "name": "Typhoon 18",
+    "type": "Coupe"
+  },
+  {
+    "id": "armstrong-siddeley-whitley-whitley-18",
+    "name": "Whitley 18",
+    "type": "Sedan"
+  }
+]

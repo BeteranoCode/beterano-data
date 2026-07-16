@@ -1,0 +1,322 @@
+[
+  {
+    "id": "bsa-a10-golden-flash-a10-pre-unit",
+    "name": "A10 Golden Flash A10 (pre-unit)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-a10-road-rocket-a10-pre-unit",
+    "name": "A10 Road Rocket A10 (pre-unit)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-a10-spitfire-scrambler-a10-pre-unit",
+    "name": "A10 Spitfire Scrambler A10 (pre-unit)",
+    "type": "Enduro"
+  },
+  {
+    "id": "bsa-a10-super-flash-a10-pre-unit",
+    "name": "A10 Super Flash A10 (pre-unit)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-a10-super-rocket-a10-pre-unit",
+    "name": "A10 Super Rocket A10 (pre-unit)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-a50-a50-unit-twin",
+    "name": "A50 (unit twin)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-a50-cyclone-a50-unit-twin",
+    "name": "A50 Cyclone A50 (unit twin)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-a50-wasp-a50-unit-twin",
+    "name": "A50 Wasp A50 (unit twin)",
+    "type": "Enduro"
+  },
+  {
+    "id": "bsa-a65-a65-unit-twin",
+    "name": "A65 (unit twin)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-a65-firebird-scrambler-a65-unit-twin",
+    "name": "A65 Firebird Scrambler A65 (unit twin)",
+    "type": "Enduro"
+  },
+  {
+    "id": "bsa-a65-hornet-a65-unit-twin",
+    "name": "A65 Hornet A65 (unit twin)",
+    "type": "Enduro"
+  },
+  {
+    "id": "bsa-a65-lightning-a65-unit-twin",
+    "name": "A65 Lightning A65 (unit twin)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-a65-rocket-a65-unit-twin",
+    "name": "A65 Rocket A65 (unit twin)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-a65-spitfire-a65-unit-twin",
+    "name": "A65 Spitfire A65 (unit twin)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-a7-a7-pre-unit",
+    "name": "A7 (pre-unit)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-a70-lightning-a70l",
+    "name": "A70 Lightning A70L",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-b1-b3-b-series-pre-guerra",
+    "name": "B1-B3 B Series (pre-guerra)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-b25-b25-unit-single",
+    "name": "B25 (unit single)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-b31-b31",
+    "name": "B31",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-b33-b33",
+    "name": "B33",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-b40-b40-unit-single",
+    "name": "B40 (unit single)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-b44-b44-unit-single",
+    "name": "B44 (unit single)",
+    "type": "Enduro"
+  },
+  {
+    "id": "bsa-b50-b50-unit-single",
+    "name": "B50 (unit single)",
+    "type": "Enduro"
+  },
+  {
+    "id": "bsa-bantam-bantam-d1",
+    "name": "Bantam D1",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-bantam-bantam-d10",
+    "name": "Bantam D10",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-bantam-bantam-d14-4",
+    "name": "Bantam D14/4",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-bantam-bantam-d175-b175",
+    "name": "Bantam D175 / B175",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-bantam-bantam-d3-major",
+    "name": "Bantam D3 Major",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-bantam-bantam-d5-super",
+    "name": "Bantam D5 Super",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-bantam-bantam-d7-super",
+    "name": "Bantam D7 Super",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-beagle-beagle-75",
+    "name": "Beagle 75",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-c10-c10",
+    "name": "C10",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-c10l-c10l",
+    "name": "C10L",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-c11-c11-c11g",
+    "name": "C11 / C11G",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-c12-c12",
+    "name": "C12",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-c15-star-c15-unit-single",
+    "name": "C15 Star C15 (unit single)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-dandy-dandy-70",
+    "name": "Dandy 70",
+    "type": "Scooter"
+  },
+  {
+    "id": "bsa-g14-g14-v-twin",
+    "name": "G14 V-Twin",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-g30-g35-g-series-v-twin",
+    "name": "G30-G35 G Series V-Twin",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-gold-star-bb32",
+    "name": "Gold Star BB32",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-gold-star-bb34",
+    "name": "Gold Star BB34",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-gold-star-cb32",
+    "name": "Gold Star CB32",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-gold-star-cb34",
+    "name": "Gold Star CB34",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-gold-star-db32",
+    "name": "Gold Star DB32",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-gold-star-db34",
+    "name": "Gold Star DB34",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-gold-star-dbd34",
+    "name": "Gold Star DBD34",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-gold-star-zb32",
+    "name": "Gold Star ZB32",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-gold-star-zb34",
+    "name": "Gold Star ZB34",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-j12-j-series-v-twin",
+    "name": "J12 J Series V-Twin",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-m10-m-series-pre-guerra",
+    "name": "M10 M Series (pre-guerra)",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-m20-m20",
+    "name": "M20",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-m21-m21",
+    "name": "M21",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-m23-m24-m-series-ohv",
+    "name": "M23 / M24 M Series OHV",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-gold-star-m24-gold-star",
+    "name": "M24 Gold Star",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-model-e-model-e-v-twin",
+    "name": "Model E V-Twin",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-r4-r5-r-series",
+    "name": "R4-R5 R Series",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-rocket-3-a75-a75r",
+    "name": "Rocket 3 A75 / A75R",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-rocket-gold-star-a10-rgs",
+    "name": "Rocket Gold Star A10 RGS",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-sloper-sloper-s-l-series",
+    "name": "Sloper S/L Series",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-sunbeam-scooter-sunbeam-b1-b2",
+    "name": "Sunbeam Scooter Sunbeam B1 / B2",
+    "type": "Scooter"
+  },
+  {
+    "id": "bsa-sunbeam-scooter-sunbeam-b2-b2s",
+    "name": "Sunbeam Scooter Sunbeam B2 / B2S",
+    "type": "Scooter"
+  },
+  {
+    "id": "bsa-winged-wheel-w1-winged-wheel",
+    "name": "W1 Winged Wheel",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-w6-w9-w-series",
+    "name": "W6-W9 W Series",
+    "type": "Naked"
+  },
+  {
+    "id": "bsa-y13-y13-v-twin",
+    "name": "Y13 V-Twin",
+    "type": "Naked"
+  }
+]

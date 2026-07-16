@@ -1,0 +1,140 @@
+[
+  {
+    "key": "sedan",
+    "name": "Sedan",
+    "kind": "car",
+    "count": 2586
+  },
+  {
+    "key": "moto",
+    "name": "Moto",
+    "kind": "moto",
+    "count": 1211
+  },
+  {
+    "key": "coupe",
+    "name": "Coupe",
+    "kind": "car",
+    "count": 1073
+  },
+  {
+    "key": "hatchback",
+    "name": "Hatchback",
+    "kind": "car",
+    "count": 443
+  },
+  {
+    "key": "roadster",
+    "name": "Roadster",
+    "kind": "car",
+    "count": 352
+  },
+  {
+    "key": "camion",
+    "name": "Camion",
+    "kind": "car",
+    "count": 337
+  },
+  {
+    "key": "van",
+    "name": "Van",
+    "kind": "car",
+    "count": 234
+  },
+  {
+    "key": "wagon",
+    "name": "Wagon",
+    "kind": "car",
+    "count": 221
+  },
+  {
+    "key": "cabrio",
+    "name": "Cabrio",
+    "kind": "car",
+    "count": 216
+  },
+  {
+    "key": "naked",
+    "name": "Naked",
+    "kind": "moto",
+    "count": 214
+  },
+  {
+    "key": "suv",
+    "name": "SUV",
+    "kind": "car",
+    "count": 204
+  },
+  {
+    "key": "pickup",
+    "name": "Pickup",
+    "kind": "car",
+    "count": 145
+  },
+  {
+    "key": "bus",
+    "name": "Bus",
+    "kind": "car",
+    "count": 144
+  },
+  {
+    "key": "microcar",
+    "name": "Microcar",
+    "kind": "car",
+    "count": 83
+  },
+  {
+    "key": "spider",
+    "name": "Spider",
+    "kind": "car",
+    "count": 59
+  },
+  {
+    "key": "supersport",
+    "name": "Supersport",
+    "kind": "moto",
+    "count": 53
+  },
+  {
+    "key": "motocross",
+    "name": "Motocross",
+    "kind": "moto",
+    "count": 47
+  },
+  {
+    "key": "enduro",
+    "name": "Enduro",
+    "kind": "moto",
+    "count": 37
+  },
+  {
+    "key": "trial",
+    "name": "Trial",
+    "kind": "moto",
+    "count": 11
+  },
+  {
+    "key": "scooter",
+    "name": "Scooter",
+    "kind": "moto",
+    "count": 10
+  },
+  {
+    "key": "adventure",
+    "name": "Adventure",
+    "kind": "moto",
+    "count": 6
+  },
+  {
+    "key": "sporttourer",
+    "name": "Sporttourer",
+    "kind": "moto",
+    "count": 4
+  },
+  {
+    "key": "cruiser",
+    "name": "Cruiser",
+    "kind": "moto",
+    "count": 2
+  }
+]

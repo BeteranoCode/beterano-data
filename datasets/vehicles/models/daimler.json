@@ -1,0 +1,237 @@
+[
+  {
+    "id": "daimler-2-litre-v8-2-litre-v8-base-jaguar-mk-2",
+    "name": "2½-litre V8 (base Jaguar Mk 2)",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-daimler-36-daimler-xj40",
+    "name": "3.6 Daimler XJ40",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-daimler-40-daimler-xj40",
+    "name": "4.0 Daimler XJ40",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-conquest-century-conquest-century-dj256",
+    "name": "Conquest Century DJ256",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-conquest-conquest-dj250",
+    "name": "Conquest DJ250",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-conquest-conquest-drophead-coupe",
+    "name": "Conquest Drophead Coupe",
+    "type": "Cabrio"
+  },
+  {
+    "id": "daimler-conquest-roadster-conquest-roadster-dj254",
+    "name": "Conquest Roadster DJ254",
+    "type": "Roadster"
+  },
+  {
+    "id": "daimler-cv-cvg6",
+    "name": "CVG6",
+    "type": "Bus"
+  },
+  {
+    "id": "daimler-cw-cw-utility-tiempo-de-guerra",
+    "name": "CW (utility, tiempo de guerra)",
+    "type": "Bus"
+  },
+  {
+    "id": "daimler-daimler-six-daimler-six-x300",
+    "name": "Daimler Six X300",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-db18-db18",
+    "name": "DB18",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-consort-db18-consort",
+    "name": "DB18 Consort",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-de-27-de",
+    "name": "DE 27",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-de-36-de",
+    "name": "DE 36",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-double-six-double-six-30",
+    "name": "Double-Six 30",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-double-six-double-six-53",
+    "name": "Double-Six 5.3",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-double-six-double-six-50",
+    "name": "Double-Six 50",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-double-six-double-six-65",
+    "name": "Double-Six 6.5",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-double-six-coupe-double-six-xj-c-serie-2-2-puertas",
+    "name": "Double-Six Coupe Double-Six XJ-C Serie 2 (2 puertas)",
+    "type": "Coupe"
+  },
+  {
+    "id": "daimler-double-six-double-six-x305",
+    "name": "Double-Six X305",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-double-six-double-six-xj-serie-1",
+    "name": "Double-Six XJ Serie 1",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-double-six-double-six-xj-serie-2",
+    "name": "Double-Six XJ Serie 2",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-double-six-double-six-xj-serie-3",
+    "name": "Double-Six XJ Serie 3",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-double-six-double-six-xj81",
+    "name": "Double-Six XJ81",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-dr450-dr450-limousine",
+    "name": "DR450 Limousine",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-ds420-ds420-limousine",
+    "name": "DS420 Limousine",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-fifteen-fifteen-18",
+    "name": "Fifteen (1.8)",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-fifteen-fifteen-20",
+    "name": "Fifteen (2.0)",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-fifteen-fifteen-22",
+    "name": "Fifteen (2.2)",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-fleetline-fleetline-crg6-marca-daimler",
+    "name": "Fleetline CRG6 (marca Daimler)",
+    "type": "Bus"
+  },
+  {
+    "id": "daimler-freeline-freeline",
+    "name": "Freeline",
+    "type": "Bus"
+  },
+  {
+    "id": "daimler-majestic-majestic-df316",
+    "name": "Majestic DF316",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-majestic-major-majestic-major-dq450",
+    "name": "Majestic Major DQ450",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-new-fifteen-new-fifteen",
+    "name": "New Fifteen",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-one-o-four-one-o-four-df310",
+    "name": "One-O-Four DF310",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-regency-regency-df300",
+    "name": "Regency DF300",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-regency-regency-mk-ii-df304",
+    "name": "Regency Mk II DF304",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-regency-regency-mk-ii-df305",
+    "name": "Regency Mk II DF305",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-roadliner-roadliner",
+    "name": "Roadliner",
+    "type": "Bus"
+  },
+  {
+    "id": "daimler-sovereign-sovereign-420",
+    "name": "Sovereign 420",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-sovereign-coupe-sovereign-xj-c-serie-2-2-puertas",
+    "name": "Sovereign Coupe Sovereign XJ-C Serie 2 (2 puertas)",
+    "type": "Coupe"
+  },
+  {
+    "id": "daimler-sovereign-daimler-xj-serie-3",
+    "name": "Sovereign Daimler XJ Serie 3",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-sovereign-sovereign-xj-serie-1",
+    "name": "Sovereign XJ Serie 1",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-sovereign-sovereign-xj-serie-2",
+    "name": "Sovereign XJ Serie 2",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-sp250-sp250-dart",
+    "name": "SP250 (Dart)",
+    "type": "Roadster"
+  },
+  {
+    "id": "daimler-sportsman-sportsman-mulliners",
+    "name": "Sportsman (Mulliners)",
+    "type": "Sedan"
+  },
+  {
+    "id": "daimler-v8-250-v8-250-base-jaguar-mk-2",
+    "name": "V8-250 (base Jaguar Mk 2)",
+    "type": "Sedan"
+  }
+]

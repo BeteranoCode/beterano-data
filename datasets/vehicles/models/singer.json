@@ -1,0 +1,332 @@
+[
+  {
+    "id": "singer-1-litre-le-mans-six-sohc-1933-37",
+    "name": "1½ Litre Le Mans Six SOHC (1933-37)",
+    "type": "Roadster"
+  },
+  {
+    "id": "singer-2-litre-six-sohc-1933",
+    "name": "2-litre Six SOHC (1933)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-bantam-bantam-nine-1074-1938-40",
+    "name": "Bantam Nine 1074 (1938-40)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-bantam-bantam-nine-972-1936-38",
+    "name": "Bantam Nine 972 (1936-38)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-chamois-chamois-1964-70",
+    "name": "Chamois (1964-70)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-chamois-chamois-coupe",
+    "name": "Chamois Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "singer-chamois-chamois-sport",
+    "name": "Chamois Sport",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-eight-junior-eight-junior-1927-32",
+    "name": "Eight Junior (1927-32)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-eight-ten-craig-2-cil-1905",
+    "name": "Eight/Ten Craig 2-cil. (1905)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-eleven-airstream-airstream-1934-36",
+    "name": "Eleven Airstream Airstream (1934-36)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-eleven-eleven-fluidrive-1934-37",
+    "name": "Eleven Fluidrive (1934-37)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-fifteen-4-cil-26-1911-14",
+    "name": "Fifteen 4-cil. 2.6 (1911-14)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-fifteen-six-20-1921-25",
+    "name": "Fifteen Six 2.0 (1921-25)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-fourteen-4-cil-24-1912-14",
+    "name": "Fourteen 4-cil. 2.4 (1912-14)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-fourteen-six-six-16-1933",
+    "name": "Fourteen Six Six 1.6 (1933)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-gazelle-series-i",
+    "name": "Gazelle Series I",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-gazelle-series-ii",
+    "name": "Gazelle Series II",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-gazelle-series-iia",
+    "name": "Gazelle Series IIA",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-gazelle-series-iii",
+    "name": "Gazelle Series III",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-gazelle-series-iiia",
+    "name": "Gazelle Series IIIA",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-gazelle-series-iiib",
+    "name": "Gazelle Series IIIB",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-gazelle-series-iiic",
+    "name": "Gazelle Series IIIC",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-gazelle-series-v",
+    "name": "Gazelle Series V",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-gazelle-series-vi",
+    "name": "Gazelle Series VI",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-hunter-hunter-1954-56",
+    "name": "Hunter (1954-56)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-hunter-hunter-75-1955-56",
+    "name": "Hunter 75 (1955-56)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-junior-junior-1926-35",
+    "name": "Junior (1926-35)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-singer-motorcycle-299-cc-side-valve",
+    "name": "Motorcycle 299 cc Side-Valve",
+    "type": "Moto"
+  },
+  {
+    "id": "singer-singer-motorcycle-346-cc-two-stroke",
+    "name": "Motorcycle 346 cc Two-Stroke",
+    "type": "Moto"
+  },
+  {
+    "id": "singer-singer-motorcycle-535-cc-side-valve",
+    "name": "Motorcycle 535 cc Side-Valve",
+    "type": "Moto"
+  },
+  {
+    "id": "singer-gazelle-new-gazelle-series-vii",
+    "name": "New Gazelle (Series VII)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-vogue-new-vogue",
+    "name": "New Vogue",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-vogue-new-vogue-estate",
+    "name": "New Vogue Estate",
+    "type": "Wagon"
+  },
+  {
+    "id": "singer-nine-nine-1933-37",
+    "name": "Nine (1933-37)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-nine-nine-1074-1938-47",
+    "name": "Nine 1074 (1938-47)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-nine-le-mans-le-mans-1933-37",
+    "name": "Nine Le Mans Le Mans (1933-37)",
+    "type": "Roadster"
+  },
+  {
+    "id": "singer-nine-roadster-9-roadster-1939-49",
+    "name": "Nine Roadster 9 Roadster (1939-49)",
+    "type": "Roadster"
+  },
+  {
+    "id": "singer-nine-roadster-series-4a",
+    "name": "Nine Roadster Series 4A",
+    "type": "Roadster"
+  },
+  {
+    "id": "singer-nine-roadster-series-4ab",
+    "name": "Nine Roadster Series 4AB",
+    "type": "Roadster"
+  },
+  {
+    "id": "singer-nine-roadster-series-4ac",
+    "name": "Nine Roadster Series 4AC",
+    "type": "Roadster"
+  },
+  {
+    "id": "singer-nine-special-speed-special-speed-1935",
+    "name": "Nine Special Speed Special Speed (1935)",
+    "type": "Roadster"
+  },
+  {
+    "id": "singer-senior-senior-16-1927-30",
+    "name": "Senior 1.6 (1927-30)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-senior-six-light-six-1930-31",
+    "name": "Senior Six Light Six (1930-31)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-seven-nine-white-poppe-2-cil",
+    "name": "Seven/Nine White & Poppe 2-cil.",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-silent-six-silent-six-22-1934",
+    "name": "Silent Six 2.2 (1934)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-sm-roadster-series-4ad",
+    "name": "SM Roadster Series 4AD",
+    "type": "Roadster"
+  },
+  {
+    "id": "singer-sm1500-sm1500-1948-51",
+    "name": "SM1500 (1948-51)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-sm1500-sm1500-1951-54",
+    "name": "SM1500 (1951-54)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-super-six-super-six-1930-31",
+    "name": "Super Six (1930-31)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-super-ten-super-ten-1938-48",
+    "name": "Super Ten (1938-48)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-super-twelve-super-twelve-1947-49",
+    "name": "Super Twelve (1947-49)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-ten-ten-1912-16",
+    "name": "Ten (1912-16)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-ten-ten-1919-23",
+    "name": "Ten (1919-23)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-ten-ten-13-1927-32",
+    "name": "Ten 1.3 (1927-32)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-ten-ten-1193-1938-48",
+    "name": "Ten 1193 (1938-48)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-ten-twenty-six-ohv-13-1925-27",
+    "name": "Ten/Twenty-six OHV 1.3 (1925-27)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-twelve-twelve-14-1933-35",
+    "name": "Twelve 1.4 (1933-35)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-twelve-twelve-15-1937-39",
+    "name": "Twelve 1.5 (1937-39)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-twelve-fourteen-4-cil-18-1906-10",
+    "name": "Twelve/Fourteen 4-cil. 1.8 (1906-10)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-twenty-4-cil-33-1911-15",
+    "name": "Twenty 4-cil. 3.3 (1911-15)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-twenty-five-4-cil-41-1913-14",
+    "name": "Twenty-five 4-cil. 4.1 (1913-14)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-twenty-twenty-five-4-cil-35-1908-10",
+    "name": "Twenty/Twenty-five 4-cil. 3.5 (1908-10)",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-vogue-series-i",
+    "name": "Vogue Series I",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-vogue-series-ii",
+    "name": "Vogue Series II",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-vogue-series-iii",
+    "name": "Vogue Series III",
+    "type": "Sedan"
+  },
+  {
+    "id": "singer-vogue-series-iv",
+    "name": "Vogue Series IV",
+    "type": "Sedan"
+  }
+]

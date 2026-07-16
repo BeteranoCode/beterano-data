@@ -1,0 +1,62 @@
+[
+  {
+    "id": "borgward-b-611-b-611",
+    "name": "B 611",
+    "type": "Camion"
+  },
+  {
+    "id": "borgward-hansa-1500-hansa-1500",
+    "name": "Hansa 1500",
+    "type": "Sedan"
+  },
+  {
+    "id": "borgward-hansa-1800-hansa-1800",
+    "name": "Hansa 1800",
+    "type": "Sedan"
+  },
+  {
+    "id": "borgward-hansa-1800-hansa-1800-d",
+    "name": "Hansa 1800 D",
+    "type": "Sedan"
+  },
+  {
+    "id": "borgward-hansa-2400-hansa-2400-fastback",
+    "name": "Hansa 2400 (fastback)",
+    "type": "Sedan"
+  },
+  {
+    "id": "borgward-hansa-2400-hansa-2400-pullman",
+    "name": "Hansa 2400 Pullman",
+    "type": "Sedan"
+  },
+  {
+    "id": "borgward-isabella-isabella",
+    "name": "Isabella",
+    "type": "Sedan"
+  },
+  {
+    "id": "borgward-isabella-isabella-cabriolet",
+    "name": "Isabella Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "borgward-isabella-isabella-combi",
+    "name": "Isabella Combi",
+    "type": "Wagon"
+  },
+  {
+    "id": "borgward-isabella-isabella-coupe",
+    "name": "Isabella Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "borgward-isabella-isabella-ts",
+    "name": "Isabella TS",
+    "type": "Sedan"
+  },
+  {
+    "id": "borgward-p100-p100-big-six",
+    "name": "P100 (Big Six)",
+    "type": "Sedan"
+  }
+]

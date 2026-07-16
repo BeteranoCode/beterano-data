@@ -1,0 +1,147 @@
+[
+  {
+    "id": "hudson-big-boy-big-boy-series-58",
+    "name": "Big Boy Series 58",
+    "type": "Pickup"
+  },
+  {
+    "id": "hudson-big-boy-big-boy-series-98",
+    "name": "Big Boy Series 98",
+    "type": "Pickup"
+  },
+  {
+    "id": "hudson-commodore-commodore-1a-gen",
+    "name": "Commodore (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-commodore-commodore-2a-gen",
+    "name": "Commodore (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-commodore-commodore-3a-gen-step-down",
+    "name": "Commodore (3a gen, step-down)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-hornet-hornet-1a-gen-step-down",
+    "name": "Hornet (1a gen, step-down)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-hornet-hornet-2a-gen-amc",
+    "name": "Hornet (2a gen, AMC)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-112-hudson-112-series-89-90",
+    "name": "Hudson 112 (Series 89/90)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-eight-hudson-eight-1a-serie",
+    "name": "Hudson Eight (1a serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-eight-hudson-eight-2a-serie",
+    "name": "Hudson Eight (2a serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-rambler-hudson-rambler",
+    "name": "Hudson Rambler",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-terraplane-hudson-terraplane-series-80-81-82",
+    "name": "Hudson Terraplane (Series 80/81/82)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-italia-italia-touring-carrozzeria",
+    "name": "Italia (Touring / Carrozzeria)",
+    "type": "Coupe"
+  },
+  {
+    "id": "hudson-jet-jet",
+    "name": "Jet",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-metropolitan-metropolitan-1200-series-i-ii",
+    "name": "Metropolitan 1200 (Series I/II)",
+    "type": "Coupe"
+  },
+  {
+    "id": "hudson-metropolitan-metropolitan-1500-series-iii",
+    "name": "Metropolitan 1500 (Series III)",
+    "type": "Coupe"
+  },
+  {
+    "id": "hudson-model-20-model-20",
+    "name": "Model 20",
+    "type": "Roadster"
+  },
+  {
+    "id": "hudson-pacemaker-pacemaker-1939",
+    "name": "Pacemaker (1939)",
+    "type": "Coupe"
+  },
+  {
+    "id": "hudson-pacemaker-pacemaker-step-down",
+    "name": "Pacemaker (step-down)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-super-six-super-six-1a-gen",
+    "name": "Super Six (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-super-six-super-six-2a-gen-f-head",
+    "name": "Super Six (2a gen, F-head)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-super-six-super-six-3a-gen",
+    "name": "Super Six (3a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-super-six-super-six-4a-gen-postguerra",
+    "name": "Super Six (4a gen, postguerra)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-super-six-super-six-4a-gen-preguerra",
+    "name": "Super Six (4a gen, preguerra)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-super-six-super-six-step-down",
+    "name": "Super Six (step-down)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-wasp-super-wasp-step-down",
+    "name": "Super Wasp (step-down)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-six-traveler-deluxe-six-series-40t-20p",
+    "name": "Traveler / DeLuxe Six (Series 40T / 20P)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-wasp-wasp-1a-gen-step-down",
+    "name": "Wasp (1a gen, step-down)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hudson-wasp-wasp-2a-gen-amc",
+    "name": "Wasp (2a gen, AMC)",
+    "type": "Sedan"
+  }
+]

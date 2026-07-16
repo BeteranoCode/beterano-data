@@ -1,0 +1,162 @@
+[
+  {
+    "id": "seat-1200-sport-1200-1430-sport-bocanegra",
+    "name": "1200 Sport 1200/1430 Sport (Bocanegra)",
+    "type": "Coupe"
+  },
+  {
+    "id": "seat-124-124",
+    "name": "124",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-124-124-sport-coupe",
+    "name": "124 Sport Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "seat-127-127",
+    "name": "127",
+    "type": "Hatchback"
+  },
+  {
+    "id": "seat-128-128-3p",
+    "name": "128 3P",
+    "type": "Coupe"
+  },
+  {
+    "id": "seat-131-131",
+    "name": "131",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-132-132",
+    "name": "132",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-132-132-diesel",
+    "name": "132 Diesel",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-133-133",
+    "name": "133",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-1400-1400-a-b-c",
+    "name": "1400 A/B/C",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-1430-1430",
+    "name": "1430",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-1500-1500",
+    "name": "1500",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-600-600-n-d-e-l",
+    "name": "600 (N/D/E/L)",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-800-800",
+    "name": "800",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-850-850-2-4-puertas",
+    "name": "850 (2/4 puertas)",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-850-850-coupe",
+    "name": "850 Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "seat-850-850-spider",
+    "name": "850 Spider",
+    "type": "Spider"
+  },
+  {
+    "id": "seat-fura-fura",
+    "name": "Fura",
+    "type": "Hatchback"
+  },
+  {
+    "id": "seat-ibiza-ibiza-mk1",
+    "name": "Ibiza Mk1",
+    "type": "Hatchback"
+  },
+  {
+    "id": "seat-ibiza-ibiza-mk1-diesel",
+    "name": "Ibiza Mk1 Diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "seat-malaga-malaga",
+    "name": "Malaga",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-malaga-malaga-diesel",
+    "name": "Malaga Diesel",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-marbella-marbella",
+    "name": "Marbella",
+    "type": "Hatchback"
+  },
+  {
+    "id": "seat-panda-panda",
+    "name": "Panda",
+    "type": "Hatchback"
+  },
+  {
+    "id": "seat-ritmo-ritmo",
+    "name": "Ritmo",
+    "type": "Hatchback"
+  },
+  {
+    "id": "seat-ronda-ronda",
+    "name": "Ronda",
+    "type": "Hatchback"
+  },
+  {
+    "id": "seat-ronda-ronda-diesel",
+    "name": "Ronda Diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "seat-terra-terra",
+    "name": "Terra",
+    "type": "Van"
+  },
+  {
+    "id": "seat-terra-terra-diesel",
+    "name": "Terra Diesel",
+    "type": "Van"
+  },
+  {
+    "id": "seat-toledo-toledo-mk1-1l",
+    "name": "Toledo Mk1 (1L)",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-toledo-toledo-mk1-gti",
+    "name": "Toledo Mk1 GTI",
+    "type": "Sedan"
+  },
+  {
+    "id": "seat-toledo-toledo-mk1-tdi",
+    "name": "Toledo Mk1 TDI",
+    "type": "Sedan"
+  }
+]

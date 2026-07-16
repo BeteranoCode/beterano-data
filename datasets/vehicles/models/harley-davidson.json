@@ -1,0 +1,107 @@
+[
+  {
+    "id": "harley-davidson-big-twin-flathead-u-ul-74ci",
+    "name": "Big Twin Flathead U / UL (74ci)",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-big-twin-flathead-uh-ulh-80ci",
+    "name": "Big Twin Flathead UH / ULH (80ci)",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-big-twin-flathead-v-vl-74ci",
+    "name": "Big Twin Flathead V / VL (74ci)",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-electra-glide-shovelhead-74ci",
+    "name": "Electra Glide Shovelhead 74ci",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-electra-glide-shovelhead-80ci",
+    "name": "Electra Glide Shovelhead 80ci",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-fxr-super-glide-evolution-big-twin",
+    "name": "FXR Super Glide Evolution Big Twin",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-hummer-125-165-ligera-2t-s-125-165-hummer",
+    "name": "Hummer / 125-165 Ligera 2T (S-125/165/Hummer)",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-knucklehead-ohv-61ci",
+    "name": "Knucklehead OHV 61ci",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-knucklehead-ohv-74ci",
+    "name": "Knucklehead OHV 74ci",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-model-k-k-45ci-flathead",
+    "name": "Model K K (45ci flathead)",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-model-kh-kh-54ci-flathead",
+    "name": "Model KH KH (54ci flathead)",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-panhead-el-61ci",
+    "name": "Panhead EL 61ci",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-panhead-fl-flh-hydra-glide-duo-glide-electra-glide",
+    "name": "Panhead FL / FLH (Hydra-Glide/Duo-Glide/Electra Glide)",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-rapido-sx-ss-aermacchi-2t-monocilindrica",
+    "name": "Rapido / SX / SS Aermacchi 2T monocilindrica",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-servi-car-g-series-triciclo",
+    "name": "Servi-Car G-series (triciclo)",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-sportster-ironhead-1000-xlh-xlch",
+    "name": "Sportster Ironhead 1000 (XLH/XLCH)",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-sportster-ironhead-883-xl-xlh-xlch",
+    "name": "Sportster Ironhead 883 (XL/XLH/XLCH)",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-sprint-aermacchi-ohv-monocilindrica",
+    "name": "Sprint Aermacchi OHV monocilindrica",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-super-glide-fx-shovelhead",
+    "name": "Super Glide FX Shovelhead",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-topper-scooter-au-ah",
+    "name": "Topper Scooter AU/AH",
+    "type": "Moto"
+  },
+  {
+    "id": "harley-davidson-wl-45-w-series-45-solo",
+    "name": "WL 45 W-series (45 solo)",
+    "type": "Moto"
+  }
+]

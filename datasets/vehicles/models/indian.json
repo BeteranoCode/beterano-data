@@ -1,0 +1,77 @@
+[
+  {
+    "id": "indian-scout-101-scout",
+    "name": "101 Scout",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-arrow-arrow",
+    "name": "Arrow",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-brave-brave",
+    "name": "Brave",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-chief-chief-big-chief",
+    "name": "Chief / Big Chief",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-chief-chief-80-blackhawk",
+    "name": "Chief 80 (Blackhawk)",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-four-four-401-402-upside-down",
+    "name": "Four (401/402/upside-down)",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-scout-junior-scout-pony-thirty-fifty",
+    "name": "Junior Scout (Pony/Thirty-Fifty)",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-model-741-model-741-military-scout",
+    "name": "Model 741 (Military Scout)",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-model-841-model-841",
+    "name": "Model 841",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-scout-original-scout",
+    "name": "Original Scout",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-powerplus-powerplus",
+    "name": "Powerplus",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-scout-vertical-249-scout",
+    "name": "Scout (vertical) 249 Scout",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-scout-sport-scout",
+    "name": "Sport Scout",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-scout-standard-scout",
+    "name": "Standard Scout",
+    "type": "Moto"
+  },
+  {
+    "id": "indian-warrior-warrior-warrior-tt",
+    "name": "Warrior / Warrior TT",
+    "type": "Moto"
+  }
+]

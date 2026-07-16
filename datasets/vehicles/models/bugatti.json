@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bugatti-eb110-eb110-gt",
+    "name": "EB110 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "bugatti-eb110-eb110-ss",
+    "name": "EB110 SS",
+    "type": "Coupe"
+  },
+  {
+    "id": "bugatti-type-101-type-101",
+    "name": "Type 101",
+    "type": "Coupe"
+  },
+  {
+    "id": "bugatti-type-13-type-13-brescia",
+    "name": "Type 13 Brescia",
+    "type": "Roadster"
+  },
+  {
+    "id": "bugatti-type-35-type-35",
+    "name": "Type 35",
+    "type": "Roadster"
+  },
+  {
+    "id": "bugatti-type-41-type-41-royale",
+    "name": "Type 41 Royale",
+    "type": "Sedan"
+  },
+  {
+    "id": "bugatti-type-57-type-57",
+    "name": "Type 57",
+    "type": "Coupe"
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "id": "jawa-100-robot-100-robot",
+    "name": "100 Robot",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-175-175-special",
+    "name": "175 Special",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-175-175-villiers",
+    "name": "175 Villiers",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-250-bizon-250-623-bizon",
+    "name": "250 Bizon 250/623 Bizon",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-250-250-duplex-blok",
+    "name": "250 Duplex-Blok",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-250-kyvacka-250-353",
+    "name": "250 Kyvacka 250/353",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-250-panelka-250-559",
+    "name": "250 Panelka 250/559",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-250-panelka-250-592",
+    "name": "250 Panelka 250/592",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-250-perak-250-perak-typ-11",
+    "name": "250 Perak (typ 11)",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-250-250-special",
+    "name": "250 Special",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-250-sport-250-590",
+    "name": "250 Sport 250/590",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-250-ur-250-623-ur",
+    "name": "250 UR 250/623 UR",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-350-bizon-350-633-bizon",
+    "name": "350 Bizon 350/633 Bizon",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-350-californian-350-362-californian",
+    "name": "350 Californian 350/362 Californian",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-350-kyvacka-350-354",
+    "name": "350 Kyvacka 350/354",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-350-ohv-350-ohv",
+    "name": "350 OHV",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-350-panelka-350-360",
+    "name": "350 Panelka 350/360",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-350-perak-350-perak-typ-12",
+    "name": "350 Perak (typ 12)",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-350-sport-350-361-sport",
+    "name": "350 Sport 350/361 Sport",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-350-sv-350-sv",
+    "name": "350 SV",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-350-350-634",
+    "name": "350/634",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-350-350-638",
+    "name": "350/638",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-350-350-639",
+    "name": "350/639",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-50-jawetta-50-551-jawetta",
+    "name": "50 Jawetta 50/551 Jawetta",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-50-mustang-50-23-mustang-jawa-223200-desde-1977",
+    "name": "50 Mustang 50/23 Mustang (JAWA 223.200 desde 1977)",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-50-mustang-50-23a-mustang",
+    "name": "50 Mustang 50/23A Mustang",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-50-pionyr-50-05",
+    "name": "50 Pionyr 50/05",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-50-pionyr-50-20-jawa-220100-desde-1977",
+    "name": "50 Pionyr 50/20 (JAWA 220.100 desde 1977)",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-50-pionyr-50-550-parez",
+    "name": "50 Pionyr 50/550 (Parez)",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-50-pionyr-50-555",
+    "name": "50 Pionyr 50/555",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-50-sport-50-21-sport-jawa-221-desde-1977",
+    "name": "50 Sport 50/21 Sport (JAWA 221 desde 1977)",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-500-ohc-500-ohc-typ-15",
+    "name": "500 OHC (typ 15)",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-500-ohv-500-ohv-rumpal",
+    "name": "500 OHV (Rumpal)",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-90-90-cross-trail-sk-90",
+    "name": "90 Cross/Trail (SK-90)",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-90-90-roadster-sk-90",
+    "name": "90 Roadster (SK-90)",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-babetta-babetta-typ-207-210",
+    "name": "Babetta (typ 207/210)",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-700-jawa-700-licencia-dkw-f2",
+    "name": "Jawa 700 (licencia DKW F2)",
+    "type": "Sedan"
+  },
+  {
+    "id": "jawa-750-jawa-750-sport",
+    "name": "Jawa 750 Sport",
+    "type": "Coupe"
+  },
+  {
+    "id": "jawa-minor-jawa-minor-600",
+    "name": "Jawa Minor (600)",
+    "type": "Sedan"
+  },
+  {
+    "id": "jawa-125-jawa-cz-125-355",
+    "name": "Jawa-CZ 125/355",
+    "type": "Moto"
+  },
+  {
+    "id": "jawa-175-jawa-cz-175-356-mala-kyvacka",
+    "name": "Jawa-CZ 175/356 (mala kyvacka)",
+    "type": "Moto"
+  }
+]

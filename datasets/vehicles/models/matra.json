@@ -1,0 +1,62 @@
+[
+  {
+    "id": "matra-bagheera-bagheera-serie-1-matra-simca",
+    "name": "Bagheera Serie 1 (Matra-Simca)",
+    "type": "Coupe"
+  },
+  {
+    "id": "matra-bagheera-bagheera-serie-2-matra-simca-talbot-matra",
+    "name": "Bagheera Serie 2 (Matra-Simca / Talbot-Matra)",
+    "type": "Coupe"
+  },
+  {
+    "id": "matra-djet-jet-6",
+    "name": "Djet Jet 6",
+    "type": "Coupe"
+  },
+  {
+    "id": "matra-djet-djet-v-jet-5",
+    "name": "Djet V / Jet 5",
+    "type": "Coupe"
+  },
+  {
+    "id": "matra-djet-djet-v-s-jet-5-s",
+    "name": "Djet V S / Jet 5 S",
+    "type": "Coupe"
+  },
+  {
+    "id": "matra-530-m530",
+    "name": "M530",
+    "type": "Coupe"
+  },
+  {
+    "id": "matra-530-m530-a",
+    "name": "M530 A",
+    "type": "Coupe"
+  },
+  {
+    "id": "matra-530-m530-lx",
+    "name": "M530 LX",
+    "type": "Coupe"
+  },
+  {
+    "id": "matra-530-m530-sx",
+    "name": "M530 SX",
+    "type": "Coupe"
+  },
+  {
+    "id": "matra-rancho-matra-simca-rancho",
+    "name": "Matra-Simca Rancho",
+    "type": "SUV"
+  },
+  {
+    "id": "matra-murena-talbot-matra-murena",
+    "name": "Talbot-Matra Murena",
+    "type": "Coupe"
+  },
+  {
+    "id": "matra-rancho-talbot-matra-rancho",
+    "name": "Talbot-Matra Rancho",
+    "type": "SUV"
+  }
+]

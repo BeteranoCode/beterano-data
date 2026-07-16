@@ -1,0 +1,57 @@
+[
+  {
+    "id": "fuso-aero-bus-1a-gen-ms",
+    "name": "Aero Bus 1a gen (MS)",
+    "type": "Bus"
+  },
+  {
+    "id": "fuso-aero-star-1a-gen-mp",
+    "name": "Aero Star 1a gen (MP)",
+    "type": "Bus"
+  },
+  {
+    "id": "fuso-canter-5a-gen-fe",
+    "name": "Canter 5a gen (FE)",
+    "type": "Camion"
+  },
+  {
+    "id": "fuso-canter-t200-3a-gen",
+    "name": "Canter T200 (3a gen)",
+    "type": "Camion"
+  },
+  {
+    "id": "fuso-canter-t720-1a-gen",
+    "name": "Canter T720 (1a gen)",
+    "type": "Camion"
+  },
+  {
+    "id": "fuso-canter-t90-2a-gen",
+    "name": "Canter T90 (2a gen)",
+    "type": "Camion"
+  },
+  {
+    "id": "fuso-f-series-fu-fv-ft-pre-the-great-heavy",
+    "name": "F-Series (FU/FV/FT) Pre-'The Great' (heavy)",
+    "type": "Camion"
+  },
+  {
+    "id": "fuso-canter-fe-golden-canter-4a-gen",
+    "name": "FE 'Golden Canter' (4a gen)",
+    "type": "Camion"
+  },
+  {
+    "id": "fuso-fighter-fk-fm-1a-gen",
+    "name": "Fighter FK/FM (1a gen)",
+    "type": "Camion"
+  },
+  {
+    "id": "fuso-rosa-2a-gen",
+    "name": "Rosa 2a gen",
+    "type": "Bus"
+  },
+  {
+    "id": "fuso-rosa-3a-gen-be4",
+    "name": "Rosa 3a gen (BE4)",
+    "type": "Bus"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cagiva-alazzurra-350-alazzurra",
+    "name": "Alazzurra 350",
+    "type": "Supersport"
+  },
+  {
+    "id": "cagiva-alazzurra-650-alazzurra",
+    "name": "Alazzurra 650",
+    "type": "Supersport"
+  },
+  {
+    "id": "cagiva-elefant-125-elefant",
+    "name": "Elefant 125",
+    "type": "Enduro"
+  },
+  {
+    "id": "cagiva-elefant-350-elefant",
+    "name": "Elefant 350",
+    "type": "Adventure"
+  },
+  {
+    "id": "cagiva-elefant-650-elefant",
+    "name": "Elefant 650",
+    "type": "Adventure"
+  },
+  {
+    "id": "cagiva-elefant-750-elefant",
+    "name": "Elefant 750",
+    "type": "Adventure"
+  },
+  {
+    "id": "cagiva-elefant-900-elefant",
+    "name": "Elefant 900",
+    "type": "Adventure"
+  },
+  {
+    "id": "cagiva-gran-canyon-900-gran-canyon",
+    "name": "Gran Canyon 900",
+    "type": "Adventure"
+  },
+  {
+    "id": "cagiva-sst-125-sst",
+    "name": "SST 125",
+    "type": "Naked"
+  },
+  {
+    "id": "cagiva-sst-250-sst",
+    "name": "SST 250",
+    "type": "Naked"
+  },
+  {
+    "id": "cagiva-sst-350-sst",
+    "name": "SST 350",
+    "type": "Naked"
+  },
+  {
+    "id": "cagiva-sxt-125-sxt",
+    "name": "SXT 125",
+    "type": "Enduro"
+  },
+  {
+    "id": "cagiva-sxt-250-sxt",
+    "name": "SXT 250",
+    "type": "Enduro"
+  },
+  {
+    "id": "cagiva-sxt-350-sxt",
+    "name": "SXT 350",
+    "type": "Enduro"
+  },
+  {
+    "id": "cagiva-t4-350-t4",
+    "name": "T4 350",
+    "type": "Enduro"
+  },
+  {
+    "id": "cagiva-t4-500-t4",
+    "name": "T4 500",
+    "type": "Enduro"
+  },
+  {
+    "id": "cagiva-w12-w12",
+    "name": "W12",
+    "type": "Enduro"
+  },
+  {
+    "id": "cagiva-wmx-125-wmx",
+    "name": "WMX 125",
+    "type": "Motocross"
+  }
+]

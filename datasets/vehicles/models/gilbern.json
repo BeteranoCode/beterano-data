@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gilbern-genie-genie",
+    "name": "Genie",
+    "type": "Coupe"
+  },
+  {
+    "id": "gilbern-gt-gt-1800",
+    "name": "GT 1800",
+    "type": "Coupe"
+  },
+  {
+    "id": "gilbern-gt-gt-mk1",
+    "name": "GT Mk1",
+    "type": "Coupe"
+  },
+  {
+    "id": "gilbern-invader-invader-estate",
+    "name": "Invader Estate",
+    "type": "Wagon"
+  },
+  {
+    "id": "gilbern-invader-invader-mk1",
+    "name": "Invader Mk1",
+    "type": "Coupe"
+  },
+  {
+    "id": "gilbern-invader-invader-mk2",
+    "name": "Invader Mk2",
+    "type": "Coupe"
+  },
+  {
+    "id": "gilbern-invader-invader-mk3",
+    "name": "Invader Mk3",
+    "type": "Coupe"
+  }
+]

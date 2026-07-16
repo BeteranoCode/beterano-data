@@ -1,0 +1,47 @@
+[
+  {
+    "id": "alpine-a106-a106",
+    "name": "A106",
+    "type": "Coupe"
+  },
+  {
+    "id": "alpine-a108-a108-berlinette",
+    "name": "A108 Berlinette",
+    "type": "Coupe"
+  },
+  {
+    "id": "alpine-a108-a108-cabriolet",
+    "name": "A108 Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "alpine-a110-a110-berlinette",
+    "name": "A110 Berlinette",
+    "type": "Coupe"
+  },
+  {
+    "id": "alpine-a310-a310-4-cyl",
+    "name": "A310 (4 cyl)",
+    "type": "Coupe"
+  },
+  {
+    "id": "alpine-a310-a310-v6",
+    "name": "A310 V6",
+    "type": "Coupe"
+  },
+  {
+    "id": "alpine-a610-a610",
+    "name": "A610",
+    "type": "Coupe"
+  },
+  {
+    "id": "alpine-gta-gta-v6-gt",
+    "name": "GTA (V6 GT)",
+    "type": "Coupe"
+  },
+  {
+    "id": "alpine-gta-gta-v6-turbo",
+    "name": "GTA (V6 Turbo)",
+    "type": "Coupe"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "amilcar-compound-compound-b38",
+    "name": "Compound B38",
+    "type": "Sedan"
+  },
+  {
+    "id": "amilcar-compound-compound-b38-ohv",
+    "name": "Compound B38 OHV",
+    "type": "Sedan"
+  },
+  {
+    "id": "amilcar-pegase-pegase-12cv",
+    "name": "Pegase 12CV",
+    "type": "Sedan"
+  },
+  {
+    "id": "amilcar-pegase-pegase-14cv",
+    "name": "Pegase 14CV",
+    "type": "Sedan"
+  },
+  {
+    "id": "amilcar-c4-type-c4",
+    "name": "Type C4",
+    "type": "Roadster"
+  },
+  {
+    "id": "amilcar-c6-type-c6-voiturette",
+    "name": "Type C6 (Voiturette)",
+    "type": "Roadster"
+  },
+  {
+    "id": "amilcar-c8-type-c8",
+    "name": "Type C8",
+    "type": "Sedan"
+  },
+  {
+    "id": "amilcar-c8-bis-cs8-type-c8-bis-cs8",
+    "name": "Type C8 bis / CS8",
+    "type": "Sedan"
+  },
+  {
+    "id": "amilcar-cc-type-cc",
+    "name": "Type CC",
+    "type": "Roadster"
+  },
+  {
+    "id": "amilcar-cgs-type-cgs-grand-sport",
+    "name": "Type CGS (Grand Sport)",
+    "type": "Roadster"
+  },
+  {
+    "id": "amilcar-cgss-type-cgss-grand-sport-surbaisse",
+    "name": "Type CGSS (Grand Sport Surbaisse)",
+    "type": "Roadster"
+  },
+  {
+    "id": "amilcar-cs-type-cs",
+    "name": "Type CS",
+    "type": "Roadster"
+  },
+  {
+    "id": "amilcar-m-type-m",
+    "name": "Type M",
+    "type": "Sedan"
+  },
+  {
+    "id": "amilcar-m2-type-m2",
+    "name": "Type M2",
+    "type": "Sedan"
+  },
+  {
+    "id": "amilcar-m3-type-m3",
+    "name": "Type M3",
+    "type": "Sedan"
+  },
+  {
+    "id": "amilcar-m4-type-m4",
+    "name": "Type M4",
+    "type": "Sedan"
+  }
+]

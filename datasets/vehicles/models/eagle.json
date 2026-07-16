@@ -1,0 +1,52 @@
+[
+  {
+    "id": "eagle-2000gtx-2000gtx-mitsubishi-galant",
+    "name": "2000GTX (Mitsubishi Galant)",
+    "type": "Sedan"
+  },
+  {
+    "id": "eagle-medallion-medallion-renault-21",
+    "name": "Medallion (Renault 21)",
+    "type": "Sedan"
+  },
+  {
+    "id": "eagle-premier-premier-renault-amc",
+    "name": "Premier (Renault/AMC)",
+    "type": "Sedan"
+  },
+  {
+    "id": "eagle-summit-summit-1a-gen",
+    "name": "Summit 1a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "eagle-summit-summit-2a-gen",
+    "name": "Summit 2a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "eagle-summit-wagon-summit-wagon-mitsubishi-expo",
+    "name": "Summit Wagon (Mitsubishi Expo)",
+    "type": "Wagon"
+  },
+  {
+    "id": "eagle-talon-talon-1g",
+    "name": "Talon 1G",
+    "type": "Coupe"
+  },
+  {
+    "id": "eagle-talon-talon-2g",
+    "name": "Talon 2G",
+    "type": "Coupe"
+  },
+  {
+    "id": "eagle-vision-vision-lh",
+    "name": "Vision (LH)",
+    "type": "Sedan"
+  },
+  {
+    "id": "eagle-vista-vista-mitsubishi-mirage-colt",
+    "name": "Vista (Mitsubishi Mirage/Colt)",
+    "type": "Hatchback"
+  }
+]

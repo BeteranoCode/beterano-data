@@ -1,0 +1,157 @@
+[
+  {
+    "id": "stutz-bearcat-bearcat-1979",
+    "name": "Bearcat (1979)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "stutz-bearcat-bearcat-1980-1986",
+    "name": "Bearcat (1980-1986)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "stutz-bearcat-bearcat-dv-32-1931-1933",
+    "name": "Bearcat DV-32 (1931-1933)",
+    "type": "Roadster"
+  },
+  {
+    "id": "stutz-bearcat-ii-bearcat-ii-1987-1995",
+    "name": "Bearcat II (1987-1995)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "stutz-bearcat-series-4e-4f-1914-1916",
+    "name": "Bearcat Series 4E/4F (1914-1916)",
+    "type": "Roadster"
+  },
+  {
+    "id": "stutz-bearcat-series-a-b-1912-1913",
+    "name": "Bearcat Series A/B (1912-1913)",
+    "type": "Roadster"
+  },
+  {
+    "id": "stutz-bearcat-series-g-h-1919-1920",
+    "name": "Bearcat Series G/H (1919-1920)",
+    "type": "Roadster"
+  },
+  {
+    "id": "stutz-bearcat-series-k-kldh-1920-1922",
+    "name": "Bearcat Series K / KLDH (1920-1922)",
+    "type": "Roadster"
+  },
+  {
+    "id": "stutz-bearcat-series-s-1917-1918",
+    "name": "Bearcat Series S (1917-1918)",
+    "type": "Roadster"
+  },
+  {
+    "id": "stutz-blackhawk-blackhawk-1977-1979",
+    "name": "Blackhawk (1977-1979)",
+    "type": "Coupe"
+  },
+  {
+    "id": "stutz-blackhawk-blackhawk-1980-1987",
+    "name": "Blackhawk (1980-1987)",
+    "type": "Coupe"
+  },
+  {
+    "id": "stutz-blackhawk-blackhawk-l-6-1929-1930",
+    "name": "Blackhawk L-6 (1929-1930)",
+    "type": "Coupe"
+  },
+  {
+    "id": "stutz-blackhawk-blackhawk-l-8-1929-1930",
+    "name": "Blackhawk L-8 (1929-1930)",
+    "type": "Coupe"
+  },
+  {
+    "id": "stutz-blackhawk-blackhawk-serie-i-1971-1976",
+    "name": "Blackhawk Serie I (1971-1976)",
+    "type": "Coupe"
+  },
+  {
+    "id": "stutz-defender-defender-1984-1995",
+    "name": "Defender (1984-1995)",
+    "type": "SUV"
+  },
+  {
+    "id": "stutz-diplomatica-diplomatica-1981-1985",
+    "name": "Diplomatica (1981-1985)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stutz-duplex-duplex-limousine-1972-1974",
+    "name": "Duplex / Limousine (1972-1974)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stutz-dv-32-dv-32-1931-1935",
+    "name": "DV-32 (1931-1935)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stutz-iv-porte-iv-porte-1979-1981",
+    "name": "IV-Porte (1979-1981)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stutz-model-m-m-ma-mb-1929-1930",
+    "name": "Model M M / MA / MB (1929-1930)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stutz-pak-age-car-pak-age-car-1933-1935",
+    "name": "Pak-Age-Car (1933-1935)",
+    "type": "Van"
+  },
+  {
+    "id": "stutz-pak-age-car-pak-age-car-1936-1938",
+    "name": "Pak-Age-Car (1936-1938)",
+    "type": "Van"
+  },
+  {
+    "id": "stutz-royale-royale-1979-1987",
+    "name": "Royale (1979-1987)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stutz-special-six-special-six-1923-1924",
+    "name": "Special Six (1923-1924)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stutz-speedway-four-speedway-four-1923-1924",
+    "name": "Speedway Four (1923-1924)",
+    "type": "Roadster"
+  },
+  {
+    "id": "stutz-speedway-six-speedway-six-1924",
+    "name": "Speedway Six (1924)",
+    "type": "Roadster"
+  },
+  {
+    "id": "stutz-super-bearcat-super-bearcat-1933-1934",
+    "name": "Super Bearcat (1933-1934)",
+    "type": "Roadster"
+  },
+  {
+    "id": "stutz-sv-16-sv-16-1931-1935",
+    "name": "SV-16 (1931-1935)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stutz-vertical-eight-aa-1926-1927",
+    "name": "Vertical Eight AA (1926-1927)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stutz-vertical-eight-bb-1928",
+    "name": "Vertical Eight BB (1928)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stutz-victoria-victoria-1981-1987",
+    "name": "Victoria (1981-1987)",
+    "type": "Sedan"
+  }
+]

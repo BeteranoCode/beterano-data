@@ -1,0 +1,12 @@
+[
+  {
+    "id": "brabus-c-v8-w202",
+    "name": "C V8 W202",
+    "type": "Sedan"
+  },
+  {
+    "id": "brabus-e-v12-w124",
+    "name": "E V12 W124",
+    "type": "Sedan"
+  }
+]

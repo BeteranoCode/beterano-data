@@ -1,0 +1,267 @@
+[
+  {
+    "id": "triumph-1300-1300-1300-tc",
+    "name": "1300 / 1300 TC",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-1500-1500-1500-tc",
+    "name": "1500 / 1500 TC",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-1800-2000-roadster-roadster",
+    "name": "1800/2000 Roadster",
+    "type": "Roadster"
+  },
+  {
+    "id": "triumph-2500-25-pi-2500-tc-s",
+    "name": "2.5 PI / 2500 TC-S",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-2000-mk1-mk2",
+    "name": "2000 Mk1 / Mk2",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-acclaim-acclaim",
+    "name": "Acclaim",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-bonneville-t120",
+    "name": "Bonneville T120",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-bonneville-t140",
+    "name": "Bonneville T140",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-courier-courier",
+    "name": "Courier",
+    "type": "Van"
+  },
+  {
+    "id": "triumph-daytona-1000-t300",
+    "name": "Daytona 1000 (T300)",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-daytona-1200-t300",
+    "name": "Daytona 1200 (T300)",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-daytona-750-t300",
+    "name": "Daytona 750 (T300)",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-daytona-900-t300",
+    "name": "Daytona 900 (T300)",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-daytona-super-iii",
+    "name": "Daytona Super III",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-dolomite-1300-1500",
+    "name": "Dolomite 1300 / 1500",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-dolomite-1850",
+    "name": "Dolomite 1850",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-dolomite-sprint",
+    "name": "Dolomite Sprint",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-gt6-mk1-mk2-mk3",
+    "name": "GT6 Mk1/Mk2/Mk3",
+    "type": "Coupe"
+  },
+  {
+    "id": "triumph-herald-1200-12-50-13-60",
+    "name": "Herald 1200 / 12-50 / 13-60",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-herald-948",
+    "name": "Herald 948",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-italia-italia-2000-gt",
+    "name": "Italia 2000 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "triumph-mayflower-mayflower",
+    "name": "Mayflower",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-renown-razoredge-tda-tdb-tdc",
+    "name": "Renown Razoredge (TDA/TDB/TDC)",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-speed-triple-900-t300",
+    "name": "Speed Triple 900 (T300)",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-speed-triple-t509",
+    "name": "Speed Triple T509",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-speed-twin-5t",
+    "name": "Speed Twin 5T",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-spitfire-1500",
+    "name": "Spitfire 1500",
+    "type": "Cabrio"
+  },
+  {
+    "id": "triumph-spitfire-mk-i-mk-ii",
+    "name": "Spitfire Mk I / Mk II",
+    "type": "Cabrio"
+  },
+  {
+    "id": "triumph-spitfire-mk-iii",
+    "name": "Spitfire Mk III",
+    "type": "Cabrio"
+  },
+  {
+    "id": "triumph-spitfire-mk-iv",
+    "name": "Spitfire Mk IV",
+    "type": "Cabrio"
+  },
+  {
+    "id": "triumph-sprint-900-t300",
+    "name": "Sprint 900 (T300)",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-stag-stag",
+    "name": "Stag",
+    "type": "Cabrio"
+  },
+  {
+    "id": "triumph-thunderbird-6t",
+    "name": "Thunderbird 6T",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-tiger-100-t100",
+    "name": "Tiger 100 T100",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-tiger-90-t90",
+    "name": "Tiger 90 T90",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-tiger-900-t400-acero",
+    "name": "Tiger 900 (T400 acero)",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-tiger-cub-t20",
+    "name": "Tiger Cub T20",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-toledo-toledo",
+    "name": "Toledo",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-tr2-tr2",
+    "name": "TR2",
+    "type": "Roadster"
+  },
+  {
+    "id": "triumph-tr3-tr3-tr3a",
+    "name": "TR3 / TR3A",
+    "type": "Roadster"
+  },
+  {
+    "id": "triumph-tr4-tr4-tr4a",
+    "name": "TR4 / TR4A",
+    "type": "Roadster"
+  },
+  {
+    "id": "triumph-tr5-tr5-pi-tr250",
+    "name": "TR5 PI / TR250",
+    "type": "Roadster"
+  },
+  {
+    "id": "triumph-tr6-tr6",
+    "name": "TR6",
+    "type": "Roadster"
+  },
+  {
+    "id": "triumph-tr7-tr7",
+    "name": "TR7",
+    "type": "Coupe"
+  },
+  {
+    "id": "triumph-tr8-tr8",
+    "name": "TR8",
+    "type": "Coupe"
+  },
+  {
+    "id": "triumph-trident-750-t300",
+    "name": "Trident 750 (T300)",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-trident-900-t300",
+    "name": "Trident 900 (T300)",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-trident-t150-t150v",
+    "name": "Trident T150 / T150V",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-trident-t160",
+    "name": "Trident T160",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-trophy-tr6",
+    "name": "Trophy TR6",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-twenty-one-3ta",
+    "name": "Twenty-One 3TA",
+    "type": "Moto"
+  },
+  {
+    "id": "triumph-vitesse-2-litre-mk2",
+    "name": "Vitesse 2-litre / Mk2",
+    "type": "Cabrio"
+  },
+  {
+    "id": "triumph-vitesse-6-1600",
+    "name": "Vitesse 6 (1600)",
+    "type": "Cabrio"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "jac-hf130-hf130",
+    "name": "HF130",
+    "type": "Camion"
+  },
+  {
+    "id": "jac-hf131-hf131",
+    "name": "HF131",
+    "type": "Camion"
+  },
+  {
+    "id": "jac-hf140-hf140",
+    "name": "HF140",
+    "type": "Camion"
+  },
+  {
+    "id": "jac-hf142-hf142",
+    "name": "HF142",
+    "type": "Camion"
+  },
+  {
+    "id": "jac-hf144a-hf144a",
+    "name": "HF144A",
+    "type": "Camion"
+  }
+]

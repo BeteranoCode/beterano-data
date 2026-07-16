@@ -1,0 +1,182 @@
+[
+  {
+    "id": "alvis-10-30-10-30",
+    "name": "10/30",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-11-40-11-40",
+    "name": "11/40",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-12-40-12-40",
+    "name": "12/40",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-12-50-12-50-sa-sb-sc",
+    "name": "12/50 SA/SB/SC",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-12-50-12-50-te-tf",
+    "name": "12/50 TE/TF",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-12-50-12-50-tg-th-sd",
+    "name": "12/50 TG/TH/SD",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-12-50-12-50-tj",
+    "name": "12/50 TJ",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-12-60-12-60-tk-tl",
+    "name": "12/60 TK/TL",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-12-70-12-70",
+    "name": "12/70",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-12-75-fwd-12-75-front-wheel-drive",
+    "name": "12/75 FWD 12/75 (Front Wheel Drive)",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-12-80-12-80",
+    "name": "12/80",
+    "type": "Coupe"
+  },
+  {
+    "id": "alvis-1475-1475",
+    "name": "14.75",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-43-litre-43-litre",
+    "name": "4.3 Litre",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-crested-eagle-crested-eagle",
+    "name": "Crested Eagle",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-firebird-firebird",
+    "name": "Firebird",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-firefly-firefly",
+    "name": "Firefly",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-fourteen-ta-14",
+    "name": "Fourteen TA 14",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-fourteen-tb-14",
+    "name": "Fourteen TB 14",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-silver-crest-silver-crest",
+    "name": "Silver Crest",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-silver-eagle-silver-eagle-sa-tb-se",
+    "name": "Silver Eagle SA/TB/SE",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-silver-eagle-silver-eagle-sd",
+    "name": "Silver Eagle SD",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-silver-eagle-silver-eagle-sf-sg",
+    "name": "Silver Eagle SF/SG",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-speed-20-speed-20-sa",
+    "name": "Speed 20 SA",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-speed-20-speed-20-sb",
+    "name": "Speed 20 SB",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-speed-20-speed-20-sc",
+    "name": "Speed 20 SC",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-speed-20-speed-20-sd",
+    "name": "Speed 20 SD",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-speed-25-speed-25",
+    "name": "Speed 25",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-three-litre-ta-21",
+    "name": "Three Litre TA 21",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-three-litre-tb-21",
+    "name": "Three Litre TB 21",
+    "type": "Roadster"
+  },
+  {
+    "id": "alvis-three-litre-tc-108g",
+    "name": "Three Litre TC 108G",
+    "type": "Coupe"
+  },
+  {
+    "id": "alvis-three-litre-tc-21",
+    "name": "Three Litre TC 21",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-three-litre-tc-21-100",
+    "name": "Three Litre TC 21/100",
+    "type": "Sedan"
+  },
+  {
+    "id": "alvis-three-litre-td-21-series-i",
+    "name": "Three Litre TD 21 Series I",
+    "type": "Coupe"
+  },
+  {
+    "id": "alvis-three-litre-td-21-series-ii",
+    "name": "Three Litre TD 21 Series II",
+    "type": "Coupe"
+  },
+  {
+    "id": "alvis-three-litre-te-21-series-iii",
+    "name": "Three Litre TE 21 (Series III)",
+    "type": "Coupe"
+  },
+  {
+    "id": "alvis-three-litre-tf-21-series-iv",
+    "name": "Three Litre TF 21 (Series IV)",
+    "type": "Coupe"
+  }
+]

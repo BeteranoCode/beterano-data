@@ -1,0 +1,237 @@
+[
+  {
+    "id": "amc-ambassador-ambassador-1a-gen",
+    "name": "Ambassador (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-ambassador-ambassador-2a-gen",
+    "name": "Ambassador (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-ambassador-ambassador-3a-gen",
+    "name": "Ambassador (3a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-ambassador-ambassador-4a-gen",
+    "name": "Ambassador (4a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-ambassador-ambassador-5a-gen",
+    "name": "Ambassador (5a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-ambassador-ambassador-6a-gen",
+    "name": "Ambassador (6a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-ambassador-ambassador-7a-gen",
+    "name": "Ambassador (7a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-ambassador-ambassador-8a-gen",
+    "name": "Ambassador (8a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-ambassador-ambassador-wagon-7a-gen",
+    "name": "Ambassador Wagon (7a gen)",
+    "type": "Wagon"
+  },
+  {
+    "id": "amc-amx-amx-biplaza",
+    "name": "AMX biplaza",
+    "type": "Coupe"
+  },
+  {
+    "id": "amc-concord-concord",
+    "name": "Concord",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-concord-concord-hatchback",
+    "name": "Concord Hatchback",
+    "type": "Hatchback"
+  },
+  {
+    "id": "amc-concord-concord-wagon",
+    "name": "Concord Wagon",
+    "type": "Wagon"
+  },
+  {
+    "id": "amc-eagle-eagle-coupe-serie-30",
+    "name": "Eagle Coupe (Serie 30)",
+    "type": "Coupe"
+  },
+  {
+    "id": "amc-eagle-kammback-eagle-serie-50",
+    "name": "Eagle Kammback Eagle Serie 50",
+    "type": "Coupe"
+  },
+  {
+    "id": "amc-eagle-eagle-sedan-serie-30",
+    "name": "Eagle Sedan (Serie 30)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-eagle-sx-4-eagle-serie-50",
+    "name": "Eagle SX/4 Eagle Serie 50",
+    "type": "Hatchback"
+  },
+  {
+    "id": "amc-eagle-eagle-wagon-serie-30",
+    "name": "Eagle Wagon (Serie 30)",
+    "type": "Wagon"
+  },
+  {
+    "id": "amc-gremlin-gremlin",
+    "name": "Gremlin",
+    "type": "Hatchback"
+  },
+  {
+    "id": "amc-hornet-hornet",
+    "name": "Hornet",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-hornet-amx-hornet-hatchback",
+    "name": "Hornet AMX Hornet Hatchback",
+    "type": "Hatchback"
+  },
+  {
+    "id": "amc-hornet-hornet-hatchback",
+    "name": "Hornet Hatchback",
+    "type": "Hatchback"
+  },
+  {
+    "id": "amc-hornet-sportabout-hornet",
+    "name": "Hornet Sportabout",
+    "type": "Wagon"
+  },
+  {
+    "id": "amc-javelin-javelin-1a-gen",
+    "name": "Javelin (1a gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "amc-javelin-javelin-2a-gen",
+    "name": "Javelin (2a gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "amc-marlin-marlin-1a-gen-plataforma-classic",
+    "name": "Marlin (1a gen, plataforma Classic)",
+    "type": "Coupe"
+  },
+  {
+    "id": "amc-marlin-marlin-2a-gen-plataforma-ambassador",
+    "name": "Marlin (2a gen, plataforma Ambassador)",
+    "type": "Coupe"
+  },
+  {
+    "id": "amc-matador-matador-1a-gen",
+    "name": "Matador (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-matador-matador-2a-gen",
+    "name": "Matador (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-matador-coupe-matador-coupe-2a-gen",
+    "name": "Matador Coupe (2a gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "amc-matador-matador-wagon-1a-gen",
+    "name": "Matador Wagon (1a gen)",
+    "type": "Wagon"
+  },
+  {
+    "id": "amc-matador-matador-wagon-2a-gen",
+    "name": "Matador Wagon (2a gen)",
+    "type": "Wagon"
+  },
+  {
+    "id": "amc-pacer-pacer-coupe",
+    "name": "Pacer Coupe",
+    "type": "Hatchback"
+  },
+  {
+    "id": "amc-pacer-pacer-wagon",
+    "name": "Pacer Wagon",
+    "type": "Wagon"
+  },
+  {
+    "id": "amc-rambler-american-american-1a-gen",
+    "name": "Rambler American American (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-rambler-american-american-2a-gen",
+    "name": "Rambler American American (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-rambler-american-american-3a-gen",
+    "name": "Rambler American American (3a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-rambler-classic-classic-1a-gen",
+    "name": "Rambler Classic Classic (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-rambler-classic-classic-2a-gen",
+    "name": "Rambler Classic Classic (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-rambler-classic-classic-3a-gen",
+    "name": "Rambler Classic Classic (3a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-rebel-rebel",
+    "name": "Rebel",
+    "type": "Sedan"
+  },
+  {
+    "id": "amc-rebel-rebel-convertible",
+    "name": "Rebel Convertible",
+    "type": "Cabrio"
+  },
+  {
+    "id": "amc-rebel-rebel-hardtop",
+    "name": "Rebel Hardtop",
+    "type": "Coupe"
+  },
+  {
+    "id": "amc-rebel-machine-rebel",
+    "name": "Rebel Machine",
+    "type": "Coupe"
+  },
+  {
+    "id": "amc-rebel-rebel-wagon",
+    "name": "Rebel Wagon",
+    "type": "Wagon"
+  },
+  {
+    "id": "amc-spirit-spirit-liftback",
+    "name": "Spirit Liftback",
+    "type": "Hatchback"
+  },
+  {
+    "id": "amc-spirit-spirit-sedan-kammback",
+    "name": "Spirit Sedan (Kammback)",
+    "type": "Coupe"
+  }
+]

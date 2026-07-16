@@ -1,0 +1,152 @@
+[
+  {
+    "id": "jaguar-24-34-litre-mark-1",
+    "name": "2.4/3.4 Litre Mark 1",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-240-240",
+    "name": "240",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-340-340",
+    "name": "340",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-420-420",
+    "name": "420",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-e-type-series-1",
+    "name": "E-Type Series 1",
+    "type": "Roadster"
+  },
+  {
+    "id": "jaguar-e-type-series-2",
+    "name": "E-Type Series 2",
+    "type": "Roadster"
+  },
+  {
+    "id": "jaguar-e-type-series-3",
+    "name": "E-Type Series 3",
+    "type": "Roadster"
+  },
+  {
+    "id": "jaguar-mark-2-mark-2",
+    "name": "Mark 2",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-mark-ix-mark-ix",
+    "name": "Mark IX",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-mark-vii-mark-vii-vii-m",
+    "name": "Mark VII / VII M",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-mark-viii-mark-viii",
+    "name": "Mark VIII",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-mark-x-mark-x",
+    "name": "Mark X",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-mark-x-420g-mark-x-42-420g",
+    "name": "Mark X / 420G Mark X 4.2 / 420G",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-s-type-s-type-1963",
+    "name": "S-Type (1963)",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-xjs-xj-s-xjs",
+    "name": "XJ-S / XJS",
+    "type": "Coupe"
+  },
+  {
+    "id": "jaguar-xj12-series-1",
+    "name": "XJ12 Series 1",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-xj12-series-2",
+    "name": "XJ12 Series 2",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-xj12-series-3",
+    "name": "XJ12 Series 3",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-xj12-x305",
+    "name": "XJ12 X305",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-xj220-xj220",
+    "name": "XJ220",
+    "type": "Coupe"
+  },
+  {
+    "id": "jaguar-xj6-series-1",
+    "name": "XJ6 Series 1",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-xj6-series-2",
+    "name": "XJ6 Series 2",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-xj6-series-3",
+    "name": "XJ6 Series 3",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-xj6-x300",
+    "name": "XJ6 X300",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-xj6-xj40",
+    "name": "XJ6 XJ40",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-xjr-x300",
+    "name": "XJR X300",
+    "type": "Sedan"
+  },
+  {
+    "id": "jaguar-xjs-xjs-facelift",
+    "name": "XJS facelift",
+    "type": "Coupe"
+  },
+  {
+    "id": "jaguar-xk120-xk120",
+    "name": "XK120",
+    "type": "Roadster"
+  },
+  {
+    "id": "jaguar-xk140-xk140",
+    "name": "XK140",
+    "type": "Roadster"
+  },
+  {
+    "id": "jaguar-xk150-xk150",
+    "name": "XK150",
+    "type": "Roadster"
+  }
+]

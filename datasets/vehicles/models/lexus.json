@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lexus-es-250-es250-vzv21-v20",
+    "name": "ES 250 ES250 (VZV21 / V20)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lexus-es-300-es300-xv10",
+    "name": "ES 300 ES300 (XV10)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lexus-gs-300-gs300-s140-jzs147",
+    "name": "GS 300 GS300 (S140 / JZS147)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lexus-ls-400-ls400-xf10-ucf10",
+    "name": "LS 400 LS400 (XF10 / UCF10)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lexus-ls-400-ls400-xf20-ucf20",
+    "name": "LS 400 LS400 (XF20 / UCF20)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lexus-lx-450-lx450-j80-fzj80",
+    "name": "LX 450 LX450 (J80 / FZJ80)",
+    "type": "SUV"
+  },
+  {
+    "id": "lexus-sc-300-sc300-z30-jzz30",
+    "name": "SC 300 SC300 (Z30 / JZZ30)",
+    "type": "Coupe"
+  },
+  {
+    "id": "lexus-sc-400-sc400-z30-uzz30",
+    "name": "SC 400 SC400 (Z30 / UZZ30)",
+    "type": "Coupe"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "checker-aerobus-aerobus-a12e-a12w",
+    "name": "Aerobus (A12E/A12W)",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-marathon-marathon-a11-a12",
+    "name": "Marathon (A11/A12)",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-marathon-deluxe-deluxe-a12e",
+    "name": "Marathon DeLuxe DeLuxe (A12E)",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-marathon-marathon-station-wagon-a12w",
+    "name": "Marathon Station Wagon (A12W)",
+    "type": "Wagon"
+  },
+  {
+    "id": "checker-marathon-town-custom-town-custom-deluxe-a12e",
+    "name": "Marathon Town Custom Town Custom / DeLuxe (A12E)",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-marathon-town-custom-town-custom-deluxe-a19e-luego-a12e",
+    "name": "Marathon Town Custom Town Custom / DeLuxe (A19E, luego A12E)",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-a-model-a",
+    "name": "Model A",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-a2-model-a2-a3",
+    "name": "Model A2 / A3",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-a4-model-a4-a5",
+    "name": "Model A4 / A5",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-a6-model-a6-a7",
+    "name": "Model A6 / A7",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-a8-model-a8",
+    "name": "Model A8",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-a9-model-a9",
+    "name": "Model A9",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-c-model-c",
+    "name": "Model C",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-e-model-e",
+    "name": "Model E",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-f-model-f",
+    "name": "Model F",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-g-model-g-4",
+    "name": "Model G-4",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-g-model-g-6",
+    "name": "Model G-6",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-h-model-h-h-2",
+    "name": "Model H / H-2",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-k-model-k",
+    "name": "Model K",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-m-model-m",
+    "name": "Model M",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-t-model-t",
+    "name": "Model T",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-y-model-y-6",
+    "name": "Model Y-6",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-model-y-model-y-8",
+    "name": "Model Y-8",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-series-e-series-e",
+    "name": "Series E",
+    "type": "Bus"
+  },
+  {
+    "id": "checker-superba-superba-a10",
+    "name": "Superba (A10)",
+    "type": "Sedan"
+  },
+  {
+    "id": "checker-superba-superba-station-wagon-a10",
+    "name": "Superba Station Wagon (A10)",
+    "type": "Wagon"
+  }
+]

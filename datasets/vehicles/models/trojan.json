@@ -1,0 +1,47 @@
+[
+  {
+    "id": "trojan-15cwt-15cwt-posguerra",
+    "name": "15cwt (posguerra)",
+    "type": "Van"
+  },
+  {
+    "id": "trojan-dt-dt-20-25cwt",
+    "name": "DT 20/25cwt",
+    "type": "Van"
+  },
+  {
+    "id": "trojan-re-re-rear-engine",
+    "name": "RE (Rear Engine)",
+    "type": "Sedan"
+  },
+  {
+    "id": "trojan-senior-senior-12-15cwt",
+    "name": "Senior 12/15cwt",
+    "type": "Van"
+  },
+  {
+    "id": "trojan-trobike-trobike",
+    "name": "Trobike",
+    "type": "Moto"
+  },
+  {
+    "id": "trojan-200-trojan-200-heinkel-kabine",
+    "name": "Trojan 200 (Heinkel Kabine)",
+    "type": "Microcar"
+  },
+  {
+    "id": "trojan-utility-car-utility-car-croydon",
+    "name": "Utility Car (Croydon)",
+    "type": "Sedan"
+  },
+  {
+    "id": "trojan-utility-car-utility-car-leyland-kingston",
+    "name": "Utility Car (Leyland, Kingston)",
+    "type": "Sedan"
+  },
+  {
+    "id": "trojan-wayfarer-wayfarer",
+    "name": "Wayfarer",
+    "type": "Sedan"
+  }
+]

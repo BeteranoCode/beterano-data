@@ -1,0 +1,82 @@
+[
+  {
+    "id": "graham-paige-custom-eight-custom-eight-127-1-serie-1930",
+    "name": "Custom Eight 127 (1ª serie 1930)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-custom-eight-custom-eight-137-1-serie-1930",
+    "name": "Custom Eight 137 (1ª serie 1930)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-model-610-model-610-1-serie",
+    "name": "Model 610 (1ª serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-model-612-model-612-2-serie-1929",
+    "name": "Model 612 (2ª serie 1929)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-model-614-model-614-1-serie",
+    "name": "Model 614 (1ª serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-model-615-model-615-2-serie-1929",
+    "name": "Model 615 (2ª serie 1929)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-model-619-model-619-1-serie",
+    "name": "Model 619 (1ª serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-model-621-model-621-2-serie-1929",
+    "name": "Model 621 (2ª serie 1929)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-model-629-model-629-1-serie",
+    "name": "Model 629 (1ª serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-model-827-model-827-2-serie-1929",
+    "name": "Model 827 (2ª serie 1929)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-model-835-model-835-1-serie",
+    "name": "Model 835 (1ª serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-model-837-model-837-2-serie-1929",
+    "name": "Model 837 (2ª serie 1929)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-special-eight-special-eight-1-serie-1930",
+    "name": "Special Eight (1ª serie 1930)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-special-six-special-six-1-serie-1930",
+    "name": "Special Six (1ª serie 1930)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-standard-eight-standard-eight-1-serie-1930",
+    "name": "Standard Eight (1ª serie 1930)",
+    "type": "Sedan"
+  },
+  {
+    "id": "graham-paige-standard-six-standard-six-1-serie-1930",
+    "name": "Standard Six (1ª serie 1930)",
+    "type": "Sedan"
+  }
+]

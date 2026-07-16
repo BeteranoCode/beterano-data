@@ -1,1 +1,202 @@
-[{"id":"m3","name":"M3"}]
+[
+  {
+    "id": "bmw-2002-02-series-e10",
+    "name": "2002 02 Series (E10)",
+    "type": "Coupe"
+  },
+  {
+    "id": "bmw-2002-turbo-02-series-e10",
+    "name": "2002 turbo 02 Series (E10)",
+    "type": "Coupe"
+  },
+  {
+    "id": "bmw-2800-cs-30-cs-e9",
+    "name": "2800 CS / 3.0 CS E9",
+    "type": "Coupe"
+  },
+  {
+    "id": "bmw-3-series-compact-e36-5",
+    "name": "3 Series Compact E36/5",
+    "type": "Hatchback"
+  },
+  {
+    "id": "bmw-3-series-e21",
+    "name": "3 Series E21",
+    "type": "Sedan"
+  },
+  {
+    "id": "bmw-3-series-e30",
+    "name": "3 Series E30",
+    "type": "Sedan"
+  },
+  {
+    "id": "bmw-3-series-e30-cabrio",
+    "name": "3 Series E30 Cabrio",
+    "type": "Cabrio"
+  },
+  {
+    "id": "bmw-3-series-e30-touring",
+    "name": "3 Series E30 Touring",
+    "type": "Wagon"
+  },
+  {
+    "id": "bmw-3-series-e36",
+    "name": "3 Series E36",
+    "type": "Sedan"
+  },
+  {
+    "id": "bmw-3-series-e36-cabrio",
+    "name": "3 Series E36 Cabrio",
+    "type": "Cabrio"
+  },
+  {
+    "id": "bmw-3-series-e36-coupe",
+    "name": "3 Series E36 Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "bmw-3-series-e36-touring",
+    "name": "3 Series E36 Touring",
+    "type": "Wagon"
+  },
+  {
+    "id": "bmw-5-series-e12",
+    "name": "5 Series E12",
+    "type": "Sedan"
+  },
+  {
+    "id": "bmw-5-series-e28",
+    "name": "5 Series E28",
+    "type": "Sedan"
+  },
+  {
+    "id": "bmw-5-series-e34",
+    "name": "5 Series E34",
+    "type": "Sedan"
+  },
+  {
+    "id": "bmw-5-series-e34-touring",
+    "name": "5 Series E34 Touring",
+    "type": "Wagon"
+  },
+  {
+    "id": "bmw-501-502-501-502-barockengel",
+    "name": "501/502 (Barockengel)",
+    "type": "Sedan"
+  },
+  {
+    "id": "bmw-503-503",
+    "name": "503",
+    "type": "Coupe"
+  },
+  {
+    "id": "bmw-507-507",
+    "name": "507",
+    "type": "Roadster"
+  },
+  {
+    "id": "bmw-6-series-e24",
+    "name": "6 Series E24",
+    "type": "Coupe"
+  },
+  {
+    "id": "bmw-600-600",
+    "name": "600",
+    "type": "Microcar"
+  },
+  {
+    "id": "bmw-7-series-e23",
+    "name": "7 Series E23",
+    "type": "Sedan"
+  },
+  {
+    "id": "bmw-7-series-e32",
+    "name": "7 Series E32",
+    "type": "Sedan"
+  },
+  {
+    "id": "bmw-700-700",
+    "name": "700",
+    "type": "Coupe"
+  },
+  {
+    "id": "bmw-8-series-e31",
+    "name": "8 Series E31",
+    "type": "Coupe"
+  },
+  {
+    "id": "bmw-isetta-isetta-250-300",
+    "name": "Isetta 250/300",
+    "type": "Microcar"
+  },
+  {
+    "id": "bmw-k100-k-series-flying-brick",
+    "name": "K100 K series (Flying Brick)",
+    "type": "Naked"
+  },
+  {
+    "id": "bmw-k75-k-series",
+    "name": "K75 K series",
+    "type": "Naked"
+  },
+  {
+    "id": "bmw-m1-e26",
+    "name": "M1 E26",
+    "type": "Coupe"
+  },
+  {
+    "id": "bmw-m3-e30",
+    "name": "M3 E30",
+    "type": "Coupe"
+  },
+  {
+    "id": "bmw-m3-e36",
+    "name": "M3 E36",
+    "type": "Coupe"
+  },
+  {
+    "id": "bmw-m5-e28",
+    "name": "M5 E28",
+    "type": "Sedan"
+  },
+  {
+    "id": "bmw-m5-e34",
+    "name": "M5 E34",
+    "type": "Sedan"
+  },
+  {
+    "id": "bmw-m6-m635csi-e24",
+    "name": "M6 / M635CSi E24",
+    "type": "Coupe"
+  },
+  {
+    "id": "bmw-new-class-1500-1800-2000-neue-klasse",
+    "name": "New Class 1500/1800/2000 (Neue Klasse)",
+    "type": "Sedan"
+  },
+  {
+    "id": "bmw-new-six-e3-2500-2800-30",
+    "name": "New Six E3 (2500/2800/3.0)",
+    "type": "Sedan"
+  },
+  {
+    "id": "bmw-r100-airhead-serie-r",
+    "name": "R100 Airhead (serie R)",
+    "type": "Naked"
+  },
+  {
+    "id": "bmw-r80-airhead-serie-r",
+    "name": "R80 Airhead (serie R)",
+    "type": "Naked"
+  },
+  {
+    "id": "bmw-r90s-serie-6",
+    "name": "R90S Serie /6",
+    "type": "Naked"
+  },
+  {
+    "id": "bmw-z1-z1",
+    "name": "Z1",
+    "type": "Roadster"
+  }
+]

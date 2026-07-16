@@ -1,0 +1,72 @@
+[
+  {
+    "id": "acura-cl-cl-1st-gen-ya1",
+    "name": "CL 1st gen (YA1)",
+    "type": "Coupe"
+  },
+  {
+    "id": "acura-el-el-1st-gen-canada",
+    "name": "EL 1st gen (Canada)",
+    "type": "Sedan"
+  },
+  {
+    "id": "acura-integra-integra-1st-gen-da",
+    "name": "Integra 1st gen (DA)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "acura-integra-integra-2nd-gen-da-db",
+    "name": "Integra 2nd gen (DA/DB)",
+    "type": "Coupe"
+  },
+  {
+    "id": "acura-integra-integra-2nd-gen-db",
+    "name": "Integra 2nd gen (DB)",
+    "type": "Sedan"
+  },
+  {
+    "id": "acura-integra-integra-2nd-gen-db2",
+    "name": "Integra 2nd gen (DB2)",
+    "type": "Coupe"
+  },
+  {
+    "id": "acura-legend-legend-1st-gen-ka1-ka2",
+    "name": "Legend 1st gen (KA1/KA2)",
+    "type": "Sedan"
+  },
+  {
+    "id": "acura-legend-legend-1st-gen-ka3-ka4",
+    "name": "Legend 1st gen (KA3/KA4)",
+    "type": "Sedan"
+  },
+  {
+    "id": "acura-legend-legend-2nd-gen-ka7",
+    "name": "Legend 2nd gen (KA7)",
+    "type": "Sedan"
+  },
+  {
+    "id": "acura-legend-legend-coupe-1st-gen",
+    "name": "Legend Coupe 1st gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "acura-legend-legend-coupe-2nd-gen-ka8",
+    "name": "Legend Coupe 2nd gen (KA8)",
+    "type": "Coupe"
+  },
+  {
+    "id": "acura-slx-slx-rebadge-isuzu-trooper",
+    "name": "SLX (rebadge Isuzu Trooper)",
+    "type": "SUV"
+  },
+  {
+    "id": "acura-tl-tl-1st-gen-ua",
+    "name": "TL 1st gen (UA)",
+    "type": "Sedan"
+  },
+  {
+    "id": "acura-vigor-vigor-cc",
+    "name": "Vigor (CC)",
+    "type": "Sedan"
+  }
+]

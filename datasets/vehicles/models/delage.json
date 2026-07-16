@@ -1,0 +1,142 @@
+[
+  {
+    "id": "delage-co-co",
+    "name": "CO",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-co2-co2",
+    "name": "CO2",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-d6-d6-3-litre",
+    "name": "D6 (3-Litre)",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-d6-d6-3-litre-posguerra",
+    "name": "D6 3-Litre (posguerra)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "delage-d6-d6-11",
+    "name": "D6-11",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-d6-d6-11-s",
+    "name": "D6-11 S",
+    "type": "Coupe"
+  },
+  {
+    "id": "delage-d6-d6-60",
+    "name": "D6-60",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-d6-d6-65",
+    "name": "D6-65",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-d6-d6-70",
+    "name": "D6-70",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-d6-d6-75",
+    "name": "D6-75",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-d6-d6-80",
+    "name": "D6-80",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-d8-d8-normale",
+    "name": "D8 Normale",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-d8-d8-s",
+    "name": "D8 S",
+    "type": "Roadster"
+  },
+  {
+    "id": "delage-d8-d8-100",
+    "name": "D8-100",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-d8-d8-105",
+    "name": "D8-105",
+    "type": "Coupe"
+  },
+  {
+    "id": "delage-d8-d8-120",
+    "name": "D8-120",
+    "type": "Cabrio"
+  },
+  {
+    "id": "delage-d8-d8-15",
+    "name": "D8-15",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-d8-d8-85",
+    "name": "D8-85",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-de-de",
+    "name": "DE",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-di-di",
+    "name": "DI",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-di-di-s",
+    "name": "DI S",
+    "type": "Coupe"
+  },
+  {
+    "id": "delage-di-di-ss",
+    "name": "DI SS",
+    "type": "Roadster"
+  },
+  {
+    "id": "delage-dm-dm",
+    "name": "DM",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-dm-dms",
+    "name": "DMS",
+    "type": "Coupe"
+  },
+  {
+    "id": "delage-dr-dr-65",
+    "name": "DR 65",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-dr-dr-70",
+    "name": "DR 70",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-gl-gl-40-50",
+    "name": "GL 40/50",
+    "type": "Sedan"
+  },
+  {
+    "id": "delage-type-a-type-a",
+    "name": "Type A",
+    "type": "Sedan"
+  }
+]

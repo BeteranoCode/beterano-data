@@ -1,0 +1,17 @@
+[
+  {
+    "id": "monica-350-monica-350-prototipo",
+    "name": "Monica 350 (prototipo)",
+    "type": "Sedan"
+  },
+  {
+    "id": "monica-560-monica-560",
+    "name": "Monica 560",
+    "type": "Sedan"
+  },
+  {
+    "id": "monica-590-monica-590",
+    "name": "Monica 590",
+    "type": "Sedan"
+  }
+]

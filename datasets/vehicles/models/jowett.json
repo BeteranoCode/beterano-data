@@ -1,0 +1,62 @@
+[
+  {
+    "id": "jowett-6-hp-6-hp",
+    "name": "6 hp",
+    "type": "Roadster"
+  },
+  {
+    "id": "jowett-bradford-bradford",
+    "name": "Bradford",
+    "type": "Van"
+  },
+  {
+    "id": "jowett-eight-eight",
+    "name": "Eight",
+    "type": "Sedan"
+  },
+  {
+    "id": "jowett-flying-fox-flying-fox-long-seven",
+    "name": "Flying Fox (Long Seven)",
+    "type": "Roadster"
+  },
+  {
+    "id": "jowett-javelin-javelin-pa-pe",
+    "name": "Javelin (PA-PE)",
+    "type": "Sedan"
+  },
+  {
+    "id": "jowett-jupiter-jupiter-mk1-sa",
+    "name": "Jupiter Mk1 (SA)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "jowett-jupiter-jupiter-mk1a-sc",
+    "name": "Jupiter Mk1a (SC)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "jowett-kestrel-kestrel-long-seven",
+    "name": "Kestrel (Long Seven)",
+    "type": "Sedan"
+  },
+  {
+    "id": "jowett-long-seven-long-seven",
+    "name": "Long Seven",
+    "type": "Sedan"
+  },
+  {
+    "id": "jowett-seven-seven-short-seven",
+    "name": "Seven (Short Seven)",
+    "type": "Sedan"
+  },
+  {
+    "id": "jowett-ten-ten",
+    "name": "Ten",
+    "type": "Sedan"
+  },
+  {
+    "id": "jowett-weasel-weasel-long-seven",
+    "name": "Weasel (Long Seven)",
+    "type": "Roadster"
+  }
+]

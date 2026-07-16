@@ -1,0 +1,217 @@
+[
+  {
+    "id": "desoto-desoto-1961-1961-sin-designacion-de-serie",
+    "name": "(1961) 1961 (sin designacion de serie)",
+    "type": "Coupe"
+  },
+  {
+    "id": "desoto-adventurer-adventurer-1956",
+    "name": "Adventurer 1956",
+    "type": "Coupe"
+  },
+  {
+    "id": "desoto-adventurer-adventurer-1957",
+    "name": "Adventurer 1957",
+    "type": "Coupe"
+  },
+  {
+    "id": "desoto-adventurer-adventurer-1958",
+    "name": "Adventurer 1958",
+    "type": "Coupe"
+  },
+  {
+    "id": "desoto-adventurer-adventurer-1959",
+    "name": "Adventurer 1959",
+    "type": "Coupe"
+  },
+  {
+    "id": "desoto-adventurer-adventurer-1960",
+    "name": "Adventurer 1960",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-airflow-series-s-2",
+    "name": "Airflow Series S-2",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-airflow-series-se",
+    "name": "Airflow Series SE",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-airflow-series-sg",
+    "name": "Airflow Series SG",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-airstream-series-s-1",
+    "name": "Airstream Series S-1",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-airstream-series-sf",
+    "name": "Airstream Series SF",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-custom-s-11",
+    "name": "Custom S-11",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-custom-s-13-s-14",
+    "name": "Custom S-13 / S-14",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-custom-s-15",
+    "name": "Custom S-15",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-custom-suburban-s-11-s-13-s-14-s-15",
+    "name": "Custom Suburban S-11 / S-13 / S-14 / S-15",
+    "type": "Wagon"
+  },
+  {
+    "id": "desoto-deluxe-s-11",
+    "name": "DeLuxe S-11",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-deluxe-s-13-s-14",
+    "name": "DeLuxe S-13 / S-14",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-deluxe-s-15",
+    "name": "DeLuxe S-15",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-diplomat-sp-15-base-plymouth-p15-exportacion",
+    "name": "Diplomat SP-15 (base Plymouth P15, exportacion)",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-eight-series-cf",
+    "name": "Eight Series CF",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-firedome-1a-gen-1952-1954",
+    "name": "Firedome 1a gen (1952-1954)",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-firedome-2a-gen-1955-1956",
+    "name": "Firedome 2a gen (1955-1956)",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-firedome-3a-gen-1957-1959",
+    "name": "Firedome 3a gen (1957-1959)",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-fireflite-fireflite-1955",
+    "name": "Fireflite 1955",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-fireflite-fireflite-1956",
+    "name": "Fireflite 1956",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-fireflite-fireflite-1957-1958",
+    "name": "Fireflite 1957-1958",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-fireflite-fireflite-1959-1960",
+    "name": "Fireflite 1959-1960",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-firesweep-firesweep-1957",
+    "name": "Firesweep 1957",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-firesweep-firesweep-1958",
+    "name": "Firesweep 1958",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-firesweep-firesweep-1959",
+    "name": "Firesweep 1959",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-firesweep-shopper-explorer-firesweep-1957-1959",
+    "name": "Firesweep Shopper/Explorer Firesweep 1957-1959",
+    "type": "Wagon"
+  },
+  {
+    "id": "desoto-powermaster-powermaster-1953-1954",
+    "name": "Powermaster (1953-1954)",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-series-s-10-s-10",
+    "name": "Series S-10",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-series-s-3-s-3",
+    "name": "Series S-3",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-series-s-5-s-5",
+    "name": "Series S-5",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-series-s-6-s-6",
+    "name": "Series S-6",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-series-s-7-s-7",
+    "name": "Series S-7",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-series-s-8-s-8",
+    "name": "Series S-8",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-six-series-ck",
+    "name": "Six Series CK",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-six-series-k",
+    "name": "Six Series K",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-six-series-sa",
+    "name": "Six Series SA",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-six-series-sc",
+    "name": "Six Series SC",
+    "type": "Sedan"
+  },
+  {
+    "id": "desoto-six-series-sd",
+    "name": "Six Series SD",
+    "type": "Sedan"
+  }
+]

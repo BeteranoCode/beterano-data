@@ -1,0 +1,217 @@
+[
+  {
+    "id": "nissan-100nx-b13",
+    "name": "100NX B13",
+    "type": "Coupe"
+  },
+  {
+    "id": "nissan-180sx-rs13",
+    "name": "180SX RS13",
+    "type": "Coupe"
+  },
+  {
+    "id": "nissan-200sx-s13-europa",
+    "name": "200SX S13 (Europa)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nissan-200sx-s14-europa",
+    "name": "200SX S14 (Europa)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nissan-240sx-s13-norteam-rica",
+    "name": "240SX S13 (Norteamérica)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nissan-240sx-s14-norteam-rica",
+    "name": "240SX S14 (Norteamérica)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nissan-300zx-z31-1-gen",
+    "name": "300ZX Z31 (1ª gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nissan-300zx-z32-2-gen",
+    "name": "300ZX Z32 (2ª gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nissan-almera-n15-1-gen",
+    "name": "Almera N15 (1ª gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "nissan-almera-n15-gti",
+    "name": "Almera N15 GTI",
+    "type": "Hatchback"
+  },
+  {
+    "id": "nissan-be-1-pike-bk10",
+    "name": "Be-1 Pike (BK10)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "nissan-bluebird-t12-t72-europa",
+    "name": "Bluebird T12/T72 (Europa)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "nissan-bluebird-u11",
+    "name": "Bluebird U11",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-bluebird-u12",
+    "name": "Bluebird U12",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-bluebird-u13",
+    "name": "Bluebird U13",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-cedric-gloria-y31",
+    "name": "Cedric / Gloria Y31",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-cedric-gloria-y32",
+    "name": "Cedric / Gloria Y32",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-cedric-gloria-y33",
+    "name": "Cedric / Gloria Y33",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-cefiro-a31-1-gen",
+    "name": "Cefiro A31 (1ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-cefiro-a32-2-gen",
+    "name": "Cefiro A32 (2ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-figaro-pike-fk10",
+    "name": "Figaro Pike (FK10)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "nissan-laurel-c33-7-gen",
+    "name": "Laurel C33 (7ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-laurel-c34-8-gen",
+    "name": "Laurel C34 (8ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-maxima-j30-3-gen",
+    "name": "Maxima J30 (3ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-micra-k10-1-gen-march",
+    "name": "Micra K10 (1ª gen / March)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "nissan-pao-pike-pk10",
+    "name": "Pao Pike (PK10)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "nissan-patrol-160-260-3-gen",
+    "name": "Patrol 160/260 (3ª gen)",
+    "type": "SUV"
+  },
+  {
+    "id": "nissan-patrol-gr-y60-4-gen",
+    "name": "Patrol GR Y60 (4ª gen)",
+    "type": "SUV"
+  },
+  {
+    "id": "nissan-primera-p10-1-gen",
+    "name": "Primera P10 (1ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-pulsar-gti-r-n14-sunny-gti-r",
+    "name": "Pulsar GTI-R N14 (Sunny GTI-R)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "nissan-s-cargo-pike-g20",
+    "name": "S-Cargo Pike (G20)",
+    "type": "Van"
+  },
+  {
+    "id": "nissan-serena-c23-1-gen",
+    "name": "Serena C23 (1ª gen)",
+    "type": "Van"
+  },
+  {
+    "id": "nissan-silvia-s13-5-gen",
+    "name": "Silvia S13 (5ª gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nissan-silvia-s14-6-gen",
+    "name": "Silvia S14 (6ª gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nissan-skyline-r32-9-gen",
+    "name": "Skyline R32 (9ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-skyline-r33-10-gen",
+    "name": "Skyline R33 (10ª gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nissan-sunny-b11-5-gen",
+    "name": "Sunny B11 (5ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-sunny-b12-6-gen",
+    "name": "Sunny B12 (6ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-sunny-b13-7-gen",
+    "name": "Sunny B13 (7ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-sunny-b14-8-gen",
+    "name": "Sunny B14 (8ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nissan-sunny-n13-pulsar-europa",
+    "name": "Sunny N13 (Pulsar / Europa)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "nissan-sunny-n14-pulsar-europa",
+    "name": "Sunny N14 (Pulsar / Europa)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "nissan-terrano-pathfinder-wd21-1-gen",
+    "name": "Terrano / Pathfinder WD21 (1ª gen)",
+    "type": "SUV"
+  }
+]

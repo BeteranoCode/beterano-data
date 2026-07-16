@@ -1,0 +1,107 @@
+[
+  {
+    "id": "osca-mt4-mt4-1100-monoarbol",
+    "name": "MT4 1100 (monoarbol)",
+    "type": "Roadster"
+  },
+  {
+    "id": "osca-mt4-mt4-1350-monoarbol",
+    "name": "MT4 1350 (monoarbol)",
+    "type": "Roadster"
+  },
+  {
+    "id": "osca-mt4-tipo-s-1500-tn",
+    "name": "MT4 Tipo S-1500 TN",
+    "type": "Spider"
+  },
+  {
+    "id": "osca-mt4-mt4-tn-1500-tn",
+    "name": "MT4 TN-1500 TN",
+    "type": "Roadster"
+  },
+  {
+    "id": "osca-mt4-mt4-2ad-1100",
+    "name": "MT4-2AD 1100",
+    "type": "Roadster"
+  },
+  {
+    "id": "osca-mt4-mt4-2ad-1350",
+    "name": "MT4-2AD 1350",
+    "type": "Roadster"
+  },
+  {
+    "id": "osca-mt4-mt4-2ad-1450",
+    "name": "MT4-2AD 1450",
+    "type": "Roadster"
+  },
+  {
+    "id": "osca-mt4-mt4-2ad-1500",
+    "name": "MT4-2AD 1500",
+    "type": "Roadster"
+  },
+  {
+    "id": "osca-1600-gt-tipo-1600-gt",
+    "name": "Tipo 1600 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "osca-1600-gt-tipo-1600-gt2",
+    "name": "Tipo 1600 GT2",
+    "type": "Coupe"
+  },
+  {
+    "id": "osca-1600-gt-tipo-1600-gts",
+    "name": "Tipo 1600 GTS",
+    "type": "Coupe"
+  },
+  {
+    "id": "osca-1600-gt-tipo-1600-gtv",
+    "name": "Tipo 1600 GTV",
+    "type": "Coupe"
+  },
+  {
+    "id": "osca-1600-sp-tipo-1600-sp",
+    "name": "Tipo 1600 SP",
+    "type": "Coupe"
+  },
+  {
+    "id": "osca-2000-s-tipo-2000-s",
+    "name": "Tipo 2000 S",
+    "type": "Spider"
+  },
+  {
+    "id": "osca-fs-372-tipo-fs-372",
+    "name": "Tipo FS-372",
+    "type": "Spider"
+  },
+  {
+    "id": "osca-tipo-s-tipo-s-187",
+    "name": "Tipo S-187",
+    "type": "Spider"
+  },
+  {
+    "id": "osca-tipo-s-tipo-s-187-n",
+    "name": "Tipo S-187 N",
+    "type": "Spider"
+  },
+  {
+    "id": "osca-tipo-s-tipo-s-273",
+    "name": "Tipo S-273",
+    "type": "Spider"
+  },
+  {
+    "id": "osca-tipo-s-tipo-s-498",
+    "name": "Tipo S-498",
+    "type": "Spider"
+  },
+  {
+    "id": "osca-tipo-s-tipo-s-498-ds",
+    "name": "Tipo S-498 DS",
+    "type": "Spider"
+  },
+  {
+    "id": "osca-tipo-s-tipo-s-950",
+    "name": "Tipo S-950",
+    "type": "Spider"
+  }
+]

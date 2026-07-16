@@ -1,0 +1,172 @@
+[
+  {
+    "id": "nsu-fox-fox-125-zdb",
+    "name": "Fox 125 ZDB",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-fox-fox-98-osb",
+    "name": "Fox 98 OSB",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-konsul-konsul-i",
+    "name": "Konsul I",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-konsul-konsul-ii",
+    "name": "Konsul II",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-max-max-251-osb-standard",
+    "name": "Max 251 OSB (Standard)",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-1200-nsu-1200-ex-typ-110",
+    "name": "NSU 1200 (ex Typ 110)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nsu-lux-nsu-lux-201-zb",
+    "name": "NSU Lux 201 ZB",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-maxi-nsu-maxi",
+    "name": "NSU Maxi",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-quick-50-nsu-quick-50",
+    "name": "NSU Quick 50",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-ro-80-nsu-ro-80",
+    "name": "NSU Ro 80",
+    "type": "Sedan"
+  },
+  {
+    "id": "nsu-superlux-nsu-superlux-201-zb",
+    "name": "NSU Superlux 201 ZB",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-tt-nsu-tt-1200-tt",
+    "name": "NSU TT (1200 TT)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nsu-tts-nsu-tts",
+    "name": "NSU TTS",
+    "type": "Sedan"
+  },
+  {
+    "id": "nsu-wankel-spider-nsu-wankel-spider",
+    "name": "NSU Wankel Spider",
+    "type": "Spider"
+  },
+  {
+    "id": "nsu-prima-prima-d",
+    "name": "Prima D",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-prima-prima-iii",
+    "name": "Prima III",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-prima-prima-v-f-nfstern",
+    "name": "Prima V (Fünfstern)",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-prinz-1000-nsu-1000-typ-67",
+    "name": "Prinz 1000 / NSU 1000 Typ 67",
+    "type": "Sedan"
+  },
+  {
+    "id": "nsu-prinz-1000-tt-typ-67-tt",
+    "name": "Prinz 1000 TT Typ 67 TT",
+    "type": "Sedan"
+  },
+  {
+    "id": "nsu-prinz-prinz-30-typ-40",
+    "name": "Prinz 30 (Typ 40)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nsu-prinz-4-prinz-4-typ-47",
+    "name": "Prinz 4 (Typ 47)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nsu-prinz-prinz-i-typ-40",
+    "name": "Prinz I (Typ 40)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nsu-prinz-prinz-ii-typ-40",
+    "name": "Prinz II (Typ 40)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nsu-prinz-prinz-iii-typ-40",
+    "name": "Prinz III (Typ 40)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nsu-quickly-quickly-cavallino",
+    "name": "Quickly Cavallino",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-quickly-quickly-l",
+    "name": "Quickly L",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-quickly-quickly-n",
+    "name": "Quickly N",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-quickly-quickly-s",
+    "name": "Quickly S",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-quickly-quickly-t-tt",
+    "name": "Quickly T / TT",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-max-spezialmax-251-osb",
+    "name": "Spezialmax 251 OSB",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-sport-prinz-sport-prinz-bertone",
+    "name": "Sport Prinz (Bertone)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nsu-superfox-superfox-125-osb",
+    "name": "Superfox 125 OSB",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-supermax-supermax-251-osb",
+    "name": "Supermax 251 OSB",
+    "type": "Moto"
+  },
+  {
+    "id": "nsu-typ-110-typ-110",
+    "name": "Typ 110",
+    "type": "Sedan"
+  }
+]

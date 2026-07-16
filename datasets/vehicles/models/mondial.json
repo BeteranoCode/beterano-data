@@ -1,0 +1,147 @@
+[
+  {
+    "id": "mondial-125-bialbero-125-bialbero-gran-premio",
+    "name": "125 Bialbero (Gran Premio)",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-125-champion-125-champion",
+    "name": "125 Champion",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-125-monoalbero-125-monoalbero",
+    "name": "125 Monoalbero",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-125-125-prima-serie",
+    "name": "125 Prima Serie",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-125-touring-125-touring-motore-minarelli",
+    "name": "125 Touring (motore Minarelli)",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-160-160-prima-serie",
+    "name": "160 (prima serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-160-sprint-160-sprint",
+    "name": "160 Sprint",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-175-gran-sport-175-gran-sport",
+    "name": "175 Gran Sport",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-175-regolarita-175-regolarita",
+    "name": "175 Regolarita",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-175-sprint-175-sprint",
+    "name": "175 Sprint",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-175-super-sprint-175-super-sprint",
+    "name": "175 Super Sprint",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-175-super-turismo-175-super-turismo",
+    "name": "175 Super Turismo",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-175-tv-175-tv-tv-sport",
+    "name": "175 TV / TV Sport",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-200-200-200-lusso",
+    "name": "200 / 200 Lusso",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-200-comfort-200-comfort",
+    "name": "200 Comfort",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-200-extra-lusso-200-extra-lusso",
+    "name": "200 Extra Lusso",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-200-sport-200-sport",
+    "name": "200 Sport",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-250-sport-250-sport",
+    "name": "250 Sport",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-48-record-48-record-prima-serie",
+    "name": "48 Record (prima serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-48-sport-v3-48-sport-v3",
+    "name": "48 Sport V3",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-48-sport-v4-48-sport-v4",
+    "name": "48 Sport V4",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-48-ss-3m-48-ss-3m",
+    "name": "48 SS 3M",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-48-ss-v4-special-48-ss-v4-special",
+    "name": "48 SS V4 Special",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-50-cross-special-50-cross-special",
+    "name": "50 Cross Special",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-50-cross-v5-radial-50-cross-v5-radial",
+    "name": "50 Cross V5 Radial",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-88-sport-88-sport",
+    "name": "88 Sport",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-98-extra-98-extra",
+    "name": "98 Extra",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-mondialino-49-mondialino-49",
+    "name": "Mondialino 49",
+    "type": "Moto"
+  },
+  {
+    "id": "mondial-sogno-160-sogno-160",
+    "name": "Sogno 160",
+    "type": "Moto"
+  }
+]

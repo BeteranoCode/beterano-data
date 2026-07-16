@@ -1,0 +1,82 @@
+[
+  {
+    "id": "shelby-shelby-charger-glh-s-charger-glh-s",
+    "name": "Charger GLH-S",
+    "type": "Coupe"
+  },
+  {
+    "id": "shelby-shelby-charger-l-body",
+    "name": "Charger L-body",
+    "type": "Coupe"
+  },
+  {
+    "id": "shelby-cobra-daytona-daytona-coupe",
+    "name": "Cobra Daytona Daytona Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "shelby-cobra-cobra-mk1-260",
+    "name": "Cobra Mk1 (260)",
+    "type": "Roadster"
+  },
+  {
+    "id": "shelby-cobra-cobra-mk2-289",
+    "name": "Cobra Mk2 (289)",
+    "type": "Roadster"
+  },
+  {
+    "id": "shelby-cobra-cobra-mk3-427",
+    "name": "Cobra Mk3 (427)",
+    "type": "Roadster"
+  },
+  {
+    "id": "shelby-shelby-csx-csx-shadow-based",
+    "name": "CSX (Shadow-based)",
+    "type": "Coupe"
+  },
+  {
+    "id": "shelby-shelby-dakota-dakota-shelby",
+    "name": "Dakota (Shelby)",
+    "type": "Pickup"
+  },
+  {
+    "id": "shelby-gt350-gt350-1965-1967",
+    "name": "GT350 (1965-1967)",
+    "type": "Coupe"
+  },
+  {
+    "id": "shelby-gt350-gt350-1968-1970",
+    "name": "GT350 (1968-1970)",
+    "type": "Coupe"
+  },
+  {
+    "id": "shelby-gt500-gt500-1967-1968",
+    "name": "GT500 (1967-1968)",
+    "type": "Coupe"
+  },
+  {
+    "id": "shelby-gt500-gt500-1969-1970",
+    "name": "GT500 (1969-1970)",
+    "type": "Coupe"
+  },
+  {
+    "id": "shelby-gt500-gt500-kr-1968",
+    "name": "GT500 KR (1968)",
+    "type": "Coupe"
+  },
+  {
+    "id": "shelby-shelby-lancer-lancer-shelby-built",
+    "name": "Lancer (Shelby-built)",
+    "type": "Sedan"
+  },
+  {
+    "id": "shelby-shelby-glh-s-omni-glh-s",
+    "name": "Omni GLH-S",
+    "type": "Hatchback"
+  },
+  {
+    "id": "shelby-series-1-series-1",
+    "name": "Series 1",
+    "type": "Roadster"
+  }
+]

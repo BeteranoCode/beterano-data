@@ -1,0 +1,47 @@
+[
+  {
+    "id": "maybach-typ-dsh-w6-dsh-doppel-sechs-halbe",
+    "name": "Typ DSH W6 DSH (Doppel-Sechs-Halbe)",
+    "type": "Sedan"
+  },
+  {
+    "id": "maybach-typ-sw35-sw35-schwingachswagen",
+    "name": "Typ SW35 SW35 (Schwingachswagen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "maybach-typ-sw38-sw38-schwingachswagen",
+    "name": "Typ SW38 SW38 (Schwingachswagen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "maybach-typ-sw42-sw42-schwingachswagen",
+    "name": "Typ SW42 SW42 (Schwingachswagen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "maybach-typ-w3-w3",
+    "name": "Typ W3",
+    "type": "Sedan"
+  },
+  {
+    "id": "maybach-typ-w5-w5-w5-sg",
+    "name": "Typ W5 W5 / W5 SG",
+    "type": "Sedan"
+  },
+  {
+    "id": "maybach-typ-w6-w6-w6-dsg",
+    "name": "Typ W6 W6 / W6 DSG",
+    "type": "Sedan"
+  },
+  {
+    "id": "maybach-zeppelin-ds7-ds7-doppel-sechs-7l",
+    "name": "Zeppelin DS7 DS7 (Doppel-Sechs 7L)",
+    "type": "Sedan"
+  },
+  {
+    "id": "maybach-zeppelin-ds8-ds8-doppel-sechs-8l",
+    "name": "Zeppelin DS8 DS8 (Doppel-Sechs 8L)",
+    "type": "Sedan"
+  }
+]

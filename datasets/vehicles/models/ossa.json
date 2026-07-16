@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ossa-125-125-fuelles",
+    "name": "125 \"Fuelles\"",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-125-a-125-a-patillos",
+    "name": "125 A \"Patillos\"",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-125-b-125-b",
+    "name": "125 B",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-125-c-125-c-c2",
+    "name": "125 C / C2",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-150-b5-b6-b7",
+    "name": "150 B5 / B6 / B7",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-160-b10",
+    "name": "160 B10",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-160-gt-b10",
+    "name": "160 GT B10",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-160-t-b20",
+    "name": "160 T B20",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-160-t2-b21-1a-serie",
+    "name": "160 T2 B21 (1a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-160-t2-72-b21-2a-serie",
+    "name": "160 T2/72 B21 (2a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-175-gt-b8",
+    "name": "175 GT B8",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-175-se-b15",
+    "name": "175 SE B15",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-175-sport-b15-1a-serie",
+    "name": "175 Sport B15 (1a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-230-sport-b28-1a-serie",
+    "name": "230 Sport B28 (1a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-250-copa-79-b69",
+    "name": "250 Copa/79 B69",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-250-formula-3-b78",
+    "name": "250 Formula 3 B78",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-250-sport-b28-2a-serie",
+    "name": "250 Sport B28 (2a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-250-sport-72-b28-3a-serie",
+    "name": "250 Sport/72 B28 (3a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-250-t-b14",
+    "name": "250 T B14",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-250-t-77-b66",
+    "name": "250 T/77 B66",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-250-te-b75",
+    "name": "250 TE B75",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-250-te-83-b30",
+    "name": "250 TE/83 B30",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-desert-250-b11",
+    "name": "Desert 250 B11",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-desert-250-79-b67",
+    "name": "Desert 250/79 B67",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-desert-350-b74",
+    "name": "Desert 350 B74",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-desert-phantom-250-b18",
+    "name": "Desert Phantom 250 B18",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-desert-tt-b60-2a-serie",
+    "name": "Desert TT B60 (2a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-enduro-230-b25-1a-serie",
+    "name": "Enduro 230 B25 (1a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-enduro-250-b25-2a-serie",
+    "name": "Enduro 250 B25 (2a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-enduro-250-e-73-b38",
+    "name": "Enduro 250 E 73 B38",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-enduro-250-e-ae-71-b30-1a-serie",
+    "name": "Enduro 250 E/AE 71 B30 (1a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-enduro-250-e-ae-72-b30-2a-serie",
+    "name": "Enduro 250 E/AE 72 B30 (2a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-enduro-350-b12",
+    "name": "Enduro 350 B12",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-enduro-phantom-125-b54",
+    "name": "Enduro Phantom 125 B54",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-explorer-250-b33",
+    "name": "Explorer 250 B33",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-explorer-350-b55",
+    "name": "Explorer 350 B55",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-mar-250-b34-1a-serie",
+    "name": "MAR 250 B34 (1a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-mar-250-74-b22-2a-serie",
+    "name": "MAR 250/74 B22 (2a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-mar-350-b24-1a-serie",
+    "name": "MAR 350 B24 (1a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-mar-350-76-b24-2a-serie",
+    "name": "MAR 350/76 B24 (2a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-motopedal-50-a-c50",
+    "name": "Motopedal 50 A C50",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-motopedal-50-b-c50",
+    "name": "Motopedal 50 B C50",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-motopedal-50-c-c50",
+    "name": "Motopedal 50 C C50",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-motopedal-50-d-c50",
+    "name": "Motopedal 50 D C50",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-ossita-50-c25",
+    "name": "Ossita 50 C25",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-phantom-125-b16",
+    "name": "Phantom 125 B16",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-phantom-175-b17",
+    "name": "Phantom 175 B17",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-phantom-250-as-74-b18",
+    "name": "Phantom 250 AS 74 B18",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-phantom-250-as-75-b19",
+    "name": "Phantom 250 AS 75 B19",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-phantom-250-as-76-b46",
+    "name": "Phantom 250 AS 76 B46",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-phantom-250-as-77-b60-1a-serie",
+    "name": "Phantom 250 AS 77 B60 (1a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-pioneer-175-5v-b36",
+    "name": "Pioneer 175 5V B36",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-pluma-230-b27-1a-serie",
+    "name": "Pluma 230 B27 (1a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-pluma-250-b27-2a-serie",
+    "name": "Pluma 250 B27 (2a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-stiletto-175-b15",
+    "name": "Stiletto 175 B15",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-stiletto-230-b26-1a-serie",
+    "name": "Stiletto 230 B26 (1a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-stiletto-250-b26-2a-serie",
+    "name": "Stiletto 250 B26 (2a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-stiletto-250-tt-b37",
+    "name": "Stiletto 250 TT B37",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-stiletto-mx-175-b35",
+    "name": "Stiletto MX 175 B35",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-stiletto-mx-250-b32",
+    "name": "Stiletto MX 250 B32",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-super-pioneer-250-b31-1a-serie",
+    "name": "Super Pioneer 250 B31 (1a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-super-pioneer-250-78-b31-2a-serie",
+    "name": "Super Pioneer 250/78 B31 (2a serie)",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-super-pioneer-350-b53",
+    "name": "Super Pioneer 350 B53",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-tr-80-250-b76",
+    "name": "TR 80 250 B76",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-tr-80-350-b73",
+    "name": "TR 80 350 B73",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-trial-250-77-b72",
+    "name": "Trial 250/77 B72",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-trial-303-b120",
+    "name": "Trial 303 B120",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-trial-350-77-b71",
+    "name": "Trial 350/77 B71",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-tu-yo-250-b9",
+    "name": "TU-YO 250 B9",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-tu-yo-350-b79",
+    "name": "TU-YO 350 B79",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-urbe-b77",
+    "name": "Urbe B77",
+    "type": "Moto"
+  },
+  {
+    "id": "ossa-yankee-500-b51",
+    "name": "Yankee 500 B51",
+    "type": "Moto"
+  }
+]

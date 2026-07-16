@@ -1,0 +1,107 @@
+[
+  {
+    "id": "warszawa-warszawa-200",
+    "name": "Warszawa 200",
+    "type": "Sedan"
+  },
+  {
+    "id": "warszawa-warszawa-200p",
+    "name": "Warszawa 200P",
+    "type": "Pickup"
+  },
+  {
+    "id": "warszawa-warszawa-201",
+    "name": "Warszawa 201",
+    "type": "Sedan"
+  },
+  {
+    "id": "warszawa-warszawa-201f",
+    "name": "Warszawa 201F",
+    "type": "Van"
+  },
+  {
+    "id": "warszawa-warszawa-201p",
+    "name": "Warszawa 201P",
+    "type": "Pickup"
+  },
+  {
+    "id": "warszawa-warszawa-202",
+    "name": "Warszawa 202",
+    "type": "Sedan"
+  },
+  {
+    "id": "warszawa-warszawa-203",
+    "name": "Warszawa 203",
+    "type": "Sedan"
+  },
+  {
+    "id": "warszawa-warszawa-203-k",
+    "name": "Warszawa 203-K",
+    "type": "Wagon"
+  },
+  {
+    "id": "warszawa-warszawa-203f",
+    "name": "Warszawa 203F",
+    "type": "Van"
+  },
+  {
+    "id": "warszawa-warszawa-203p",
+    "name": "Warszawa 203P",
+    "type": "Pickup"
+  },
+  {
+    "id": "warszawa-warszawa-204",
+    "name": "Warszawa 204",
+    "type": "Sedan"
+  },
+  {
+    "id": "warszawa-warszawa-204-k",
+    "name": "Warszawa 204-K",
+    "type": "Wagon"
+  },
+  {
+    "id": "warszawa-warszawa-204f",
+    "name": "Warszawa 204F",
+    "type": "Van"
+  },
+  {
+    "id": "warszawa-warszawa-204p",
+    "name": "Warszawa 204P",
+    "type": "Pickup"
+  },
+  {
+    "id": "warszawa-warszawa-223",
+    "name": "Warszawa 223",
+    "type": "Sedan"
+  },
+  {
+    "id": "warszawa-warszawa-223-k",
+    "name": "Warszawa 223-K",
+    "type": "Wagon"
+  },
+  {
+    "id": "warszawa-warszawa-223p",
+    "name": "Warszawa 223P",
+    "type": "Pickup"
+  },
+  {
+    "id": "warszawa-warszawa-224",
+    "name": "Warszawa 224",
+    "type": "Sedan"
+  },
+  {
+    "id": "warszawa-warszawa-224-k",
+    "name": "Warszawa 224-K",
+    "type": "Wagon"
+  },
+  {
+    "id": "warszawa-warszawa-224p",
+    "name": "Warszawa 224P",
+    "type": "Pickup"
+  },
+  {
+    "id": "warszawa-warszawa-m20",
+    "name": "Warszawa M20",
+    "type": "Sedan"
+  }
+]

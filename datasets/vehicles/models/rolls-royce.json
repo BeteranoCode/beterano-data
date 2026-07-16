@@ -1,0 +1,182 @@
+[
+  {
+    "id": "rolls-royce-20-25-20-25",
+    "name": "20/25",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-25-30-25-30",
+    "name": "25/30",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-40-50-silver-ghost-silver-ghost",
+    "name": "40/50 Silver Ghost",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-camargue-camargue",
+    "name": "Camargue",
+    "type": "Coupe"
+  },
+  {
+    "id": "rolls-royce-corniche-corniche-i",
+    "name": "Corniche I",
+    "type": "Coupe"
+  },
+  {
+    "id": "rolls-royce-corniche-corniche-ii",
+    "name": "Corniche II",
+    "type": "Cabrio"
+  },
+  {
+    "id": "rolls-royce-corniche-corniche-iii",
+    "name": "Corniche III",
+    "type": "Cabrio"
+  },
+  {
+    "id": "rolls-royce-corniche-corniche-iv",
+    "name": "Corniche IV",
+    "type": "Cabrio"
+  },
+  {
+    "id": "rolls-royce-corniche-corniche-s",
+    "name": "Corniche S",
+    "type": "Cabrio"
+  },
+  {
+    "id": "rolls-royce-silver-spirit-new-silver-spirit-mk-iv",
+    "name": "New Silver Spirit (Mk IV)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-spur-new-silver-spur-mk-iv",
+    "name": "New Silver Spur (Mk IV)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-park-ward-park-ward-limousine",
+    "name": "Park Ward Limousine",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-phantom-phantom-i",
+    "name": "Phantom I",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-phantom-phantom-ii",
+    "name": "Phantom II",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-phantom-phantom-iii",
+    "name": "Phantom III",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-phantom-phantom-iv",
+    "name": "Phantom IV",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-phantom-phantom-v",
+    "name": "Phantom V",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-phantom-phantom-vi",
+    "name": "Phantom VI",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-cloud-silver-cloud-i",
+    "name": "Silver Cloud I",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-cloud-silver-cloud-ii",
+    "name": "Silver Cloud II",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-cloud-silver-cloud-iii",
+    "name": "Silver Cloud III",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-dawn-silver-dawn-1a-gen",
+    "name": "Silver Dawn (1a gen.)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-dawn-silver-dawn-revival",
+    "name": "Silver Dawn (revival)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-shadow-silver-shadow-i",
+    "name": "Silver Shadow I",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-shadow-silver-shadow-ii",
+    "name": "Silver Shadow II",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-spirit-silver-spirit-i",
+    "name": "Silver Spirit I",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-spirit-silver-spirit-ii",
+    "name": "Silver Spirit II",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-spirit-silver-spirit-iii",
+    "name": "Silver Spirit III",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-flying-spur-silver-spur-flying-spur",
+    "name": "Silver Spur (Flying Spur)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-spur-silver-spur-i",
+    "name": "Silver Spur I",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-spur-silver-spur-ii",
+    "name": "Silver Spur II",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-spur-silver-spur-iii",
+    "name": "Silver Spur III",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-wraith-silver-wraith",
+    "name": "Silver Wraith",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-silver-wraith-ii-silver-wraith-ii",
+    "name": "Silver Wraith II",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-twenty-20-hp",
+    "name": "Twenty 20 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "rolls-royce-wraith-wraith",
+    "name": "Wraith",
+    "type": "Sedan"
+  }
+]

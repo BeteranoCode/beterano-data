@@ -1,0 +1,132 @@
+[
+  {
+    "id": "velocette-gtp-gtp",
+    "name": "GTP",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-kss-kss-mk-i",
+    "name": "KSS Mk I",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-kss-kss-mk-ii",
+    "name": "KSS Mk II",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-kts-kts",
+    "name": "KTS",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-ktt-ktt-mk-i",
+    "name": "KTT Mk I",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-ktt-ktt-mk-ii-iv",
+    "name": "KTT Mk II-IV",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-ktt-ktt-mk-v",
+    "name": "KTT Mk V",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-ktt-ktt-mk-vii",
+    "name": "KTT Mk VII",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-ktt-ktt-mk-viii",
+    "name": "KTT Mk VIII",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-le-le-mk-i",
+    "name": "LE Mk I",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-le-le-mk-ii",
+    "name": "LE Mk II",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-le-le-mk-iii",
+    "name": "LE Mk III",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-mac-mac",
+    "name": "MAC",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-mov-mov",
+    "name": "MOV",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-mss-mss-carrera-larga",
+    "name": "MSS (carrera larga)",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-mss-mss-cuadrado",
+    "name": "MSS (cuadrado)",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-valiant-valiant",
+    "name": "Valiant",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-venom-venom",
+    "name": "Venom",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-venom-venom-clubman",
+    "name": "Venom Clubman",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-venom-venom-endurance",
+    "name": "Venom Endurance",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-venom-venom-scrambler",
+    "name": "Venom Scrambler",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-thruxton-venom-thruxton",
+    "name": "Venom Thruxton",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-viceroy-viceroy",
+    "name": "Viceroy",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-viper-viper",
+    "name": "Viper",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-viper-viper-clubman",
+    "name": "Viper Clubman",
+    "type": "Moto"
+  },
+  {
+    "id": "velocette-vogue-vogue",
+    "name": "Vogue",
+    "type": "Moto"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "cadillac-allante-1987-1993",
+    "name": "Allante (1987-1993)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "cadillac-brougham-1987-1992",
+    "name": "Brougham (1987-1992)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-calais-1965-1970",
+    "name": "Calais (1965-1970)",
+    "type": "Coupe"
+  },
+  {
+    "id": "cadillac-calais-1971-1976",
+    "name": "Calais (1971-1976)",
+    "type": "Coupe"
+  },
+  {
+    "id": "cadillac-cimarron-1982-1988",
+    "name": "Cimarron (1982-1988)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-deville-1a-gen-1959-1960",
+    "name": "DeVille 1a gen (1959-1960)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-deville-2a-gen-1961-1964",
+    "name": "DeVille 2a gen (1961-1964)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-deville-3a-gen-1965-1970",
+    "name": "DeVille 3a gen (1965-1970)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-deville-4a-gen-1971-1976",
+    "name": "DeVille 4a gen (1971-1976)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-deville-5a-gen-1977-1984",
+    "name": "DeVille 5a gen (1977-1984)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-deville-6a-gen-1985-1993",
+    "name": "DeVille 6a gen (1985-1993)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-deville-7a-gen-1994-1999",
+    "name": "DeVille 7a gen (1994-1999)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-eldorado-1959-1966-biarritz",
+    "name": "Eldorado (1959-1966) Biarritz",
+    "type": "Cabrio"
+  },
+  {
+    "id": "cadillac-eldorado-1967-1970-fwd",
+    "name": "Eldorado (1967-1970) FWD",
+    "type": "Coupe"
+  },
+  {
+    "id": "cadillac-eldorado-1971-1978",
+    "name": "Eldorado (1971-1978)",
+    "type": "Coupe"
+  },
+  {
+    "id": "cadillac-eldorado-1979-1985",
+    "name": "Eldorado (1979-1985)",
+    "type": "Coupe"
+  },
+  {
+    "id": "cadillac-eldorado-1986-1991",
+    "name": "Eldorado (1986-1991)",
+    "type": "Coupe"
+  },
+  {
+    "id": "cadillac-eldorado-1a-serie-1953-1958",
+    "name": "Eldorado 1a serie (1953-1958)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "cadillac-eldorado-brougham-1957-1960",
+    "name": "Eldorado Brougham (1957-1960)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-fleetwood-brougham-d-body-1979-1985",
+    "name": "Fleetwood Brougham D-body (1979-1985)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-fleetwood-brougham-d-body-rwd-1977-1986",
+    "name": "Fleetwood Brougham D-body RWD (1977-1986)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-fleetwood-fwd-c-body-1985-1993",
+    "name": "Fleetwood FWD C-body (1985-1993)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-fleetwood-rwd-d-body-1993",
+    "name": "Fleetwood RWD D-body (1993)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-fleetwood-rwd-d-body-1994-1996",
+    "name": "Fleetwood RWD D-body (1994-1996)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-sixty-special-fleetwood-sixty-special-1938-1970",
+    "name": "Fleetwood Sixty Special (1938-1970)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-fleetwood-sixty-special-fwd-1987-1993",
+    "name": "Fleetwood Sixty Special FWD (1987-1993)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-series-61-1939-1951",
+    "name": "Series 61 (1939-1951)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-series-62-l-head-1940-1948",
+    "name": "Series 62 L-head (1940-1948)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-series-62-ohv-v8-1949-1964",
+    "name": "Series 62 OHV V8 (1949-1964)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-seville-1a-gen-1975-1979",
+    "name": "Seville 1a gen (1975-1979)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-seville-1a-gen-1978-1979",
+    "name": "Seville 1a gen (1978-1979)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-seville-2a-gen-1980-1985",
+    "name": "Seville 2a gen (1980-1985)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-seville-3a-gen-1986-1991",
+    "name": "Seville 3a gen (1986-1991)",
+    "type": "Sedan"
+  },
+  {
+    "id": "cadillac-seville-4a-gen-1992-1997",
+    "name": "Seville 4a gen (1992-1997)",
+    "type": "Sedan"
+  }
+]

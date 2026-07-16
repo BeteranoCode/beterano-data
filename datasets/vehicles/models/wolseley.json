@@ -1,0 +1,207 @@
+[
+  {
+    "id": "wolseley-1100-1100-mk-i-ado16",
+    "name": "1100 Mk I (ADO16)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-1100-1100-mk-ii-ado16",
+    "name": "1100 Mk II (ADO16)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-12-48-series-ii-series-iii",
+    "name": "12/48 Series II / Series III",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-1300-1300-mk-i-ado16",
+    "name": "1300 Mk I (ADO16)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-1300-1300-mk-ii-ado16",
+    "name": "1300 Mk II (ADO16)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-14-56-series-ii",
+    "name": "14/56 Series II",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-14-60-series-iii",
+    "name": "14/60 Series III",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-15-50-15-50-base-mg-magnette-zb",
+    "name": "15/50 (base MG Magnette ZB)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-15-60-15-60-farina-ado9",
+    "name": "15/60 (Farina, ADO9)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-1500-1500-mk-i",
+    "name": "1500 Mk I",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-1500-1500-mk-ii",
+    "name": "1500 Mk II",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-1500-1500-mk-iii",
+    "name": "1500 Mk III",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-16-60-16-60-farina-ado9",
+    "name": "16/60 (Farina, ADO9)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-16-65-series-iii",
+    "name": "16/65 Series III",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-18-85-18-85-mk-i-ado17",
+    "name": "18/85 Mk I (ADO17)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-18-85-18-85-mk-ii-ado17",
+    "name": "18/85 Mk II (ADO17)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-18-85-series-iii-1938-1948",
+    "name": "18/85 Series III (1938-1948)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-21-series-iii",
+    "name": "21 Series III",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-24-80-24-80-mk-i-australia",
+    "name": "24/80 Mk I (Australia)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-24-80-24-80-mk-ii-australia",
+    "name": "24/80 Mk II (Australia)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-25-series-iii",
+    "name": "25 Series III",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-4-44-4-44-palmer",
+    "name": "4/44 (Palmer)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-4-50-4-50-base-morris-oxford-mo",
+    "name": "4/50 (base Morris Oxford MO)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-6-110-6-110-mk-i",
+    "name": "6/110 Mk I",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-6-110-6-110-mk-ii",
+    "name": "6/110 Mk II",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-6-80-6-80-base-morris-six-ms",
+    "name": "6/80 (base Morris Six MS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-6-90-6-90-series-i",
+    "name": "6/90 Series I",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-6-90-6-90-series-ii",
+    "name": "6/90 Series II",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-6-90-6-90-series-iii",
+    "name": "6/90 Series III",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-6-99-6-99-farina-ado10",
+    "name": "6/99 (Farina, ADO10)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-hornet-hornet-mk-i-mini-ado15",
+    "name": "Hornet Mk I (Mini, ADO15)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-hornet-hornet-mk-ii-mini-ado15",
+    "name": "Hornet Mk II (Mini, ADO15)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-hornet-hornet-mk-iii-mini-ado15",
+    "name": "Hornet Mk III (Mini, ADO15)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-hornet-hornet-six-1271-cc",
+    "name": "Hornet Six (1271 cc)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-hornet-hornet-six-1378-cc",
+    "name": "Hornet Six (1378 cc)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-hornet-special-hornet-special-1271-cc",
+    "name": "Hornet Special (1271 cc)",
+    "type": "Roadster"
+  },
+  {
+    "id": "wolseley-hornet-special-hornet-special-1604-cc",
+    "name": "Hornet Special (1604 cc)",
+    "type": "Roadster"
+  },
+  {
+    "id": "wolseley-eight-series-iii-eight",
+    "name": "Series III Eight",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-ten-series-iii-ten",
+    "name": "Series III Ten",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-six-six-ado17-mk-iii",
+    "name": "Six (ADO17 Mk III)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wolseley-six-18-22-series-ado71-wedge",
+    "name": "Six 18-22 Series (ADO71 'Wedge')",
+    "type": "Sedan"
+  }
+]

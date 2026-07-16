@@ -1,0 +1,77 @@
+[
+  {
+    "id": "hyundai-accent-accent-x3",
+    "name": "Accent (X3)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "hyundai-excel-excel-pony-x1-fwd",
+    "name": "Excel/Pony X1 (FWD)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "hyundai-excel-excel-pony-x2-fwd",
+    "name": "Excel/Pony X2 (FWD)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "hyundai-grandeur-grandeur-1a-gen-l",
+    "name": "Grandeur (1a gen, L)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hyundai-lantra-lantra-elantra-j1",
+    "name": "Lantra/Elantra (J1)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hyundai-lantra-lantra-elantra-j2-rd",
+    "name": "Lantra/Elantra (J2/RD)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hyundai-marcia-marcia",
+    "name": "Marcia",
+    "type": "Sedan"
+  },
+  {
+    "id": "hyundai-pony-pony-1a-gen-rwd",
+    "name": "Pony (1a gen, RWD)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hyundai-pony-pony-ii-rwd",
+    "name": "Pony II (RWD)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "hyundai-scoupe-scoupe-slc",
+    "name": "Scoupe (SLC)",
+    "type": "Coupe"
+  },
+  {
+    "id": "hyundai-sonata-sonata-y1",
+    "name": "Sonata (Y1)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hyundai-sonata-sonata-y2",
+    "name": "Sonata (Y2)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hyundai-sonata-sonata-y3",
+    "name": "Sonata (Y3)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hyundai-stellar-stellar",
+    "name": "Stellar",
+    "type": "Sedan"
+  },
+  {
+    "id": "hyundai-stellar-stellar-ii",
+    "name": "Stellar II",
+    "type": "Sedan"
+  }
+]

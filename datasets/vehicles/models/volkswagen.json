@@ -1,0 +1,202 @@
+[
+  {
+    "id": "volkswagen-1500-1600-type-3-type-3-notchback-fastback",
+    "name": "1500/1600 (Type 3) Type 3 Notchback/Fastback",
+    "type": "Sedan"
+  },
+  {
+    "id": "volkswagen-1600-variant-type-3-type-3-variant",
+    "name": "1600 Variant (Type 3) Type 3 Variant",
+    "type": "Wagon"
+  },
+  {
+    "id": "volkswagen-181-kurierwagen-the-thing-type-181",
+    "name": "181 (Kurierwagen / The Thing) Type 181",
+    "type": "SUV"
+  },
+  {
+    "id": "volkswagen-411-412-type-4-type-4",
+    "name": "411/412 (Type 4)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volkswagen-beetle-type-1-kafer",
+    "name": "Beetle Type 1 (Kafer)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volkswagen-beetle-type-1-cabriolet-karmann",
+    "name": "Beetle Type 1 Cabriolet (Karmann)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "volkswagen-brasilia-brasilia-brasil",
+    "name": "Brasilia (Brasil)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "volkswagen-caddy-caddy-mk1-type-14",
+    "name": "Caddy Mk1 (Type 14)",
+    "type": "Pickup"
+  },
+  {
+    "id": "volkswagen-corrado-corrado",
+    "name": "Corrado",
+    "type": "Coupe"
+  },
+  {
+    "id": "volkswagen-derby-derby-mk1",
+    "name": "Derby Mk1",
+    "type": "Sedan"
+  },
+  {
+    "id": "volkswagen-golf-golf-mk1",
+    "name": "Golf Mk1",
+    "type": "Hatchback"
+  },
+  {
+    "id": "volkswagen-golf-golf-mk1-cabriolet",
+    "name": "Golf Mk1 Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "volkswagen-golf-golf-mk2",
+    "name": "Golf Mk2",
+    "type": "Hatchback"
+  },
+  {
+    "id": "volkswagen-golf-golf-mk3",
+    "name": "Golf Mk3",
+    "type": "Hatchback"
+  },
+  {
+    "id": "volkswagen-golf-golf-mk3-variant",
+    "name": "Golf Mk3 Variant",
+    "type": "Wagon"
+  },
+  {
+    "id": "volkswagen-iltis-iltis-type-183",
+    "name": "Iltis (Type 183)",
+    "type": "SUV"
+  },
+  {
+    "id": "volkswagen-jetta-jetta-mk1-a1",
+    "name": "Jetta Mk1 (A1)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volkswagen-jetta-jetta-mk2-a2",
+    "name": "Jetta Mk2 (A2)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volkswagen-k70-type-48",
+    "name": "K70 Type 48",
+    "type": "Sedan"
+  },
+  {
+    "id": "volkswagen-karmann-ghia-type-14",
+    "name": "Karmann Ghia Type 14",
+    "type": "Coupe"
+  },
+  {
+    "id": "volkswagen-karmann-ghia-type-14-cabriolet",
+    "name": "Karmann Ghia Type 14 Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "volkswagen-karmann-ghia-type-34",
+    "name": "Karmann Ghia Type 34",
+    "type": "Coupe"
+  },
+  {
+    "id": "volkswagen-lt-lt-mk1",
+    "name": "LT Mk1",
+    "type": "Van"
+  },
+  {
+    "id": "volkswagen-passat-passat-b1-type-32",
+    "name": "Passat B1 (Type 32)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volkswagen-passat-passat-b2-type-32b",
+    "name": "Passat B2 (Type 32B)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volkswagen-passat-passat-b3-type-35i",
+    "name": "Passat B3 (Type 35i)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volkswagen-passat-passat-b4",
+    "name": "Passat B4",
+    "type": "Sedan"
+  },
+  {
+    "id": "volkswagen-passat-passat-b4-variant",
+    "name": "Passat B4 Variant",
+    "type": "Wagon"
+  },
+  {
+    "id": "volkswagen-polo-polo-mk1-type-86",
+    "name": "Polo Mk1 (Type 86)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "volkswagen-polo-polo-mk2-type-86c",
+    "name": "Polo Mk2 (Type 86C)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "volkswagen-polo-polo-mk2-coupe",
+    "name": "Polo Mk2 Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "volkswagen-santana-santana-passat-b2-notchback",
+    "name": "Santana (Passat B2 notchback)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volkswagen-scirocco-scirocco-mk1",
+    "name": "Scirocco Mk1",
+    "type": "Coupe"
+  },
+  {
+    "id": "volkswagen-scirocco-scirocco-mk2",
+    "name": "Scirocco Mk2",
+    "type": "Coupe"
+  },
+  {
+    "id": "volkswagen-sp2-sp2-brasil",
+    "name": "SP2 (Brasil)",
+    "type": "Coupe"
+  },
+  {
+    "id": "volkswagen-transporter-type-2-t1-split",
+    "name": "Transporter Type 2 T1 (Split)",
+    "type": "Van"
+  },
+  {
+    "id": "volkswagen-transporter-type-2-t2-bay",
+    "name": "Transporter Type 2 T2 (Bay)",
+    "type": "Van"
+  },
+  {
+    "id": "volkswagen-transporter-type-2-t3-vanagon",
+    "name": "Transporter Type 2 T3 (Vanagon)",
+    "type": "Van"
+  },
+  {
+    "id": "volkswagen-beetle-type-1-1302-1303-super-beetle",
+    "name": "Type 1 1302/1303 (Super Beetle)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volkswagen-vento-vento-jetta-a3",
+    "name": "Vento (Jetta A3)",
+    "type": "Sedan"
+  }
+]

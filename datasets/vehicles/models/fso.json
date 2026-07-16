@@ -1,0 +1,52 @@
+[
+  {
+    "id": "fso-125p-125p-kombi",
+    "name": "125p Kombi",
+    "type": "Wagon"
+  },
+  {
+    "id": "fso-125p-125p-pickup",
+    "name": "125p Pickup",
+    "type": "Pickup"
+  },
+  {
+    "id": "fso-polonez-polonez-1a-gen",
+    "name": "Polonez (1a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fso-125p-polski-fiat-fso-125p",
+    "name": "Polski Fiat / FSO 125p",
+    "type": "Sedan"
+  },
+  {
+    "id": "fso-syrena-100-101-102-103",
+    "name": "Syrena 100/101/102/103",
+    "type": "Sedan"
+  },
+  {
+    "id": "fso-syrena-104-105-fso",
+    "name": "Syrena 104/105 (FSO)",
+    "type": "Sedan"
+  },
+  {
+    "id": "fso-warszawa-203-223-ohv",
+    "name": "Warszawa 203/223 (OHV)",
+    "type": "Sedan"
+  },
+  {
+    "id": "fso-warszawa-224p",
+    "name": "Warszawa 224P",
+    "type": "Pickup"
+  },
+  {
+    "id": "fso-warszawa-kombi-223-k-224-k",
+    "name": "Warszawa Kombi 223-K/224-K",
+    "type": "Wagon"
+  },
+  {
+    "id": "fso-warszawa-m20-sidevalve",
+    "name": "Warszawa M20 (sidevalve)",
+    "type": "Sedan"
+  }
+]

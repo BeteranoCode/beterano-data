@@ -1,0 +1,152 @@
+[
+  {
+    "id": "maserati-228-228-am334",
+    "name": "228 (AM334)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-3500-gt-3500-gt-touring",
+    "name": "3500 GT (Touring)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-3500-gt-3500-gt-spyder-vignale",
+    "name": "3500 GT Spyder (Vignale)",
+    "type": "Spider"
+  },
+  {
+    "id": "maserati-430-430-am332",
+    "name": "430 (AM332)",
+    "type": "Sedan"
+  },
+  {
+    "id": "maserati-5000-gt-5000-gt",
+    "name": "5000 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-a6-a6-1500",
+    "name": "A6 1500",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-a6-a6g-54-2000",
+    "name": "A6G/54 2000",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-biturbo-biturbo-am331",
+    "name": "Biturbo (AM331)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-biturbo-222-224v",
+    "name": "Biturbo 222 / 2.24v",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-biturbo-berlina-420-425",
+    "name": "Biturbo Berlina 420 / 425",
+    "type": "Sedan"
+  },
+  {
+    "id": "maserati-biturbo-spyder-spyder-am333-zagato",
+    "name": "Biturbo Spyder Spyder (AM333, Zagato)",
+    "type": "Spider"
+  },
+  {
+    "id": "maserati-bora-bora-am117",
+    "name": "Bora (AM117)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-ghibli-ghibli-i-am115",
+    "name": "Ghibli I (AM115)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-ghibli-ghibli-i-spyder-am115",
+    "name": "Ghibli I Spyder (AM115)",
+    "type": "Spider"
+  },
+  {
+    "id": "maserati-ghibli-ghibli-ii-am336",
+    "name": "Ghibli II (AM336)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-indy-indy-am116",
+    "name": "Indy (AM116)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-karif-karif-am339",
+    "name": "Karif (AM339)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-khamsin-khamsin-am120",
+    "name": "Khamsin (AM120)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-kyalami-kyalami-am129",
+    "name": "Kyalami (AM129)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-merak-merak-am122",
+    "name": "Merak (AM122)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-merak-merak-ss-am122",
+    "name": "Merak SS (AM122)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-mexico-mexico-am112",
+    "name": "Mexico (AM112)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-mistral-mistral-coupe",
+    "name": "Mistral Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-mistral-mistral-spyder",
+    "name": "Mistral Spyder",
+    "type": "Spider"
+  },
+  {
+    "id": "maserati-quattroporte-quattroporte-i-am107",
+    "name": "Quattroporte I (AM107)",
+    "type": "Sedan"
+  },
+  {
+    "id": "maserati-quattroporte-quattroporte-ii-am123",
+    "name": "Quattroporte II (AM123)",
+    "type": "Sedan"
+  },
+  {
+    "id": "maserati-quattroporte-quattroporte-iii-am330",
+    "name": "Quattroporte III (AM330)",
+    "type": "Sedan"
+  },
+  {
+    "id": "maserati-racing-racing-am331",
+    "name": "Racing (AM331)",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-sebring-sebring",
+    "name": "Sebring",
+    "type": "Coupe"
+  },
+  {
+    "id": "maserati-shamal-shamal-am339",
+    "name": "Shamal (AM339)",
+    "type": "Coupe"
+  }
+]

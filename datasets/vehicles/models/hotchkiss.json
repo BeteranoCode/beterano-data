@@ -1,0 +1,137 @@
+[
+  {
+    "id": "hotchkiss-411-serie-400",
+    "name": "411 Serie 400",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-413-serie-400",
+    "name": "413 Serie 400",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-486-pl-486-pl-pll",
+    "name": "486 PL / PLL",
+    "type": "Camion"
+  },
+  {
+    "id": "hotchkiss-486-serie-400",
+    "name": "486 Serie 400",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-615-serie-600",
+    "name": "615 Serie 600",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-617-serie-600",
+    "name": "617 Serie 600",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-620-serie-600",
+    "name": "620 Serie 600",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-680-serie-600",
+    "name": "680 Serie 600",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-686-grand-sport-serie-600",
+    "name": "686 Grand Sport Serie 600",
+    "type": "Coupe"
+  },
+  {
+    "id": "hotchkiss-686-serie-600",
+    "name": "686 Serie 600",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-864-s49-13-cv",
+    "name": "864 S49 (13 CV)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-am-am-12-cv",
+    "name": "AM (12 CV)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-am-2-am-2",
+    "name": "AM 2",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-am-73-am-73",
+    "name": "AM 73",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-am-80-am-80",
+    "name": "AM 80",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-anjou-1350-anjou",
+    "name": "Anjou 1350",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-anjou-2050-anjou",
+    "name": "Anjou 2050",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-antheor-anjou-1350-2050",
+    "name": "Antheor Anjou 1350 / 2050",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hotchkiss-gregoire-hotchkiss-gregoire",
+    "name": "Hotchkiss-Gregoire",
+    "type": "Sedan"
+  },
+  {
+    "id": "hotchkiss-m201-jeep-m201",
+    "name": "M201 (Jeep)",
+    "type": "SUV"
+  },
+  {
+    "id": "hotchkiss-pl-dh-60-80-serie-pl-dh",
+    "name": "PL/DH 60-80 Serie PL/DH",
+    "type": "Camion"
+  },
+  {
+    "id": "hotchkiss-pl20-pl20",
+    "name": "PL20",
+    "type": "Camion"
+  },
+  {
+    "id": "hotchkiss-pl25-pl25",
+    "name": "PL25",
+    "type": "Camion"
+  },
+  {
+    "id": "hotchkiss-pl26-pl25-pl26",
+    "name": "PL25 / PL26",
+    "type": "Camion"
+  },
+  {
+    "id": "hotchkiss-pl50-pl50",
+    "name": "PL50",
+    "type": "Camion"
+  },
+  {
+    "id": "hotchkiss-pl50-diesel-pl50",
+    "name": "PL50 Diesel",
+    "type": "Camion"
+  },
+  {
+    "id": "hotchkiss-pl50-6-pl50",
+    "name": "PL50-6",
+    "type": "Camion"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ducati-1000-mille-mhr-s2-mille-bevel",
+    "name": "1000 Mille MHR / S2 Mille (bevel)",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-250-monocilindrica-carter-ancho",
+    "name": "250 Monocilindrica (carter ancho)",
+    "type": "Naked"
+  },
+  {
+    "id": "ducati-350-monocilindrica-carter-ancho",
+    "name": "350 Monocilindrica (carter ancho)",
+    "type": "Naked"
+  },
+  {
+    "id": "ducati-450-monocilindrica-carter-ancho",
+    "name": "450 Monocilindrica (carter ancho)",
+    "type": "Naked"
+  },
+  {
+    "id": "ducati-750-f1-750-f1",
+    "name": "750 F1",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-750-gt-750-bevel",
+    "name": "750 GT 750 (bevel)",
+    "type": "Naked"
+  },
+  {
+    "id": "ducati-750-paso-paso",
+    "name": "750 Paso",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "ducati-750-sport-750-bevel",
+    "name": "750 Sport 750 (bevel)",
+    "type": "Naked"
+  },
+  {
+    "id": "ducati-750-ss-750-bevel",
+    "name": "750 SS 750 (bevel)",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-750-ss-supersport-carburacion",
+    "name": "750 SS SuperSport (carburacion)",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-851-851-superbike",
+    "name": "851 (Superbike)",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-860-gt-860-bevel",
+    "name": "860 GT 860 (bevel)",
+    "type": "Naked"
+  },
+  {
+    "id": "ducati-888-888-superbike",
+    "name": "888 (Superbike)",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-900-s2-900-s2-bevel",
+    "name": "900 S2 (bevel)",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-900-sd-darmah-darmah-bevel",
+    "name": "900 SD Darmah Darmah (bevel)",
+    "type": "Naked"
+  },
+  {
+    "id": "ducati-900-ss-900-bevel",
+    "name": "900 SS 900 (bevel)",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-900-ss-supersport-carburacion",
+    "name": "900 SS SuperSport (carburacion)",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-900-superlight-900-sl-superlight",
+    "name": "900 Superlight 900 SL Superlight",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-906-paso-paso",
+    "name": "906 Paso",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "ducati-907-ie-907-ie-paso",
+    "name": "907 i.e. (Paso)",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "ducati-916-916-superbike",
+    "name": "916 (Superbike)",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-916-sps-916-sps",
+    "name": "916 SPS",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-mike-hailwood-replica-mhr-bevel",
+    "name": "Mike Hailwood Replica MHR (bevel)",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-monster-900-monster-m900-carburacion",
+    "name": "Monster 900 Monster M900 (carburacion)",
+    "type": "Naked"
+  },
+  {
+    "id": "ducati-pantah-500-sl-pantah",
+    "name": "Pantah 500 SL",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-pantah-600-sl-pantah",
+    "name": "Pantah 600 SL",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-pantah-650-sl-pantah",
+    "name": "Pantah 650 SL",
+    "type": "Supersport"
+  },
+  {
+    "id": "ducati-scrambler-scrambler-monocilindrica",
+    "name": "Scrambler monocilindrica",
+    "type": "Enduro"
+  }
+]

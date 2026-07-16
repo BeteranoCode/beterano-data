@@ -1,0 +1,47 @@
+[
+  {
+    "id": "iveco-daily-daily-1a-gen-fiat-daily",
+    "name": "Daily 1a gen (Fiat Daily)",
+    "type": "Van"
+  },
+  {
+    "id": "iveco-daily-daily-1a-gen-turbodaily",
+    "name": "Daily 1a gen (TurboDaily)",
+    "type": "Van"
+  },
+  {
+    "id": "iveco-t-series-iveco-t-110-190",
+    "name": "T-Series Iveco T (110-190)",
+    "type": "Camion"
+  },
+  {
+    "id": "iveco-t-series-iveco-t-190",
+    "name": "T-Series Iveco T (190)",
+    "type": "Camion"
+  },
+  {
+    "id": "iveco-turbostar-turbostar-190-36-190-42",
+    "name": "TurboStar (190-36/190-42)",
+    "type": "Camion"
+  },
+  {
+    "id": "iveco-turbostar-turbostar-190-42-190-48",
+    "name": "TurboStar (190-42/190-48)",
+    "type": "Camion"
+  },
+  {
+    "id": "iveco-turbotech-turbotech",
+    "name": "TurboTech",
+    "type": "Camion"
+  },
+  {
+    "id": "iveco-zeta-turbozeta",
+    "name": "TurboZeta",
+    "type": "Camion"
+  },
+  {
+    "id": "iveco-zeta-zeta",
+    "name": "Zeta",
+    "type": "Camion"
+  }
+]

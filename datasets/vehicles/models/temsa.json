@@ -1,0 +1,12 @@
+[
+  {
+    "id": "temsa-maraton-maraton-1a-gen-mitsubishi-fuso-aero",
+    "name": "Maraton (1a gen, Mitsubishi Fuso Aero)",
+    "type": "Bus"
+  },
+  {
+    "id": "temsa-prenses-prenses-facelift-del-maraton",
+    "name": "Prenses (facelift del Maraton)",
+    "type": "Bus"
+  }
+]

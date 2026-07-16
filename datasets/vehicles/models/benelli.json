@@ -1,0 +1,47 @@
+[
+  {
+    "id": "benelli-250-2c-2c",
+    "name": "250 2C",
+    "type": "Naked"
+  },
+  {
+    "id": "benelli-254-254-250-quattro",
+    "name": "254 (250 Quattro)",
+    "type": "Naked"
+  },
+  {
+    "id": "benelli-350-350-quattro-rs",
+    "name": "350 Quattro / RS",
+    "type": "Naked"
+  },
+  {
+    "id": "benelli-500-quattro-quattro",
+    "name": "500 Quattro",
+    "type": "Naked"
+  },
+  {
+    "id": "benelli-650-tornado-tornado-tornado-s",
+    "name": "650 Tornado Tornado / Tornado S",
+    "type": "Naked"
+  },
+  {
+    "id": "benelli-654-654-quattro",
+    "name": "654 Quattro",
+    "type": "Naked"
+  },
+  {
+    "id": "benelli-654-654-sport",
+    "name": "654 Sport",
+    "type": "Naked"
+  },
+  {
+    "id": "benelli-750-sei-sei-750",
+    "name": "750 Sei Sei 750",
+    "type": "Naked"
+  },
+  {
+    "id": "benelli-900-sei-sei-900",
+    "name": "900 Sei Sei 900",
+    "type": "Naked"
+  }
+]

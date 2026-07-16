@@ -1,0 +1,67 @@
+[
+  {
+    "id": "vanden-plas-15-mk-3",
+    "name": "1.5 Mk 3",
+    "type": "Sedan"
+  },
+  {
+    "id": "vanden-plas-17-mk-3",
+    "name": "1.7 Mk 3",
+    "type": "Sedan"
+  },
+  {
+    "id": "vanden-plas-1500-mk-1",
+    "name": "1500 Mk 1",
+    "type": "Sedan"
+  },
+  {
+    "id": "vanden-plas-1500-mk-2",
+    "name": "1500 Mk 2",
+    "type": "Sedan"
+  },
+  {
+    "id": "vanden-plas-princess-1100-mk-i",
+    "name": "Princess 1100 Mk I",
+    "type": "Sedan"
+  },
+  {
+    "id": "vanden-plas-princess-1100-mk-ii",
+    "name": "Princess 1100 Mk II",
+    "type": "Sedan"
+  },
+  {
+    "id": "vanden-plas-princess-1300-mk-i",
+    "name": "Princess 1300 Mk I",
+    "type": "Sedan"
+  },
+  {
+    "id": "vanden-plas-princess-1300-mk-ii",
+    "name": "Princess 1300 Mk II",
+    "type": "Sedan"
+  },
+  {
+    "id": "vanden-plas-princess-1300-mk-iii",
+    "name": "Princess 1300 Mk III",
+    "type": "Sedan"
+  },
+  {
+    "id": "vanden-plas-princess-3-litre-mk-i",
+    "name": "Princess 3-Litre Mk I",
+    "type": "Sedan"
+  },
+  {
+    "id": "vanden-plas-princess-3-litre-mk-ii",
+    "name": "Princess 3-Litre Mk II",
+    "type": "Sedan"
+  },
+  {
+    "id": "vanden-plas-princess-4-litre-limousine-dm4",
+    "name": "Princess 4-Litre Limousine DM4",
+    "type": "Sedan"
+  },
+  {
+    "id": "vanden-plas-princess-4-litre-r-4-litre-r",
+    "name": "Princess 4-Litre R",
+    "type": "Sedan"
+  }
+]

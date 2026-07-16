@@ -1,0 +1,107 @@
+[
+  {
+    "id": "crosley-crosley-convertible-cc-four",
+    "name": "Convertible CC Four",
+    "type": "Cabrio"
+  },
+  {
+    "id": "crosley-crosley-convertible-cd-four",
+    "name": "Convertible CD Four",
+    "type": "Cabrio"
+  },
+  {
+    "id": "crosley-crosley-convertible-coupe-prewar-c1a-c2a-cb41-cb42",
+    "name": "Convertible Coupe Prewar (C1A/C2A/CB41/CB42)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "crosley-crosley-convertible-sedan-prewar-c1a-c2a-cb41-cb42",
+    "name": "Convertible Sedan Prewar (C1A/C2A/CB41/CB42)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "crosley-crosley-covered-wagon-prewar-cb41-cb42",
+    "name": "Covered Wagon Prewar (CB41/CB42)",
+    "type": "Wagon"
+  },
+  {
+    "id": "crosley-crosley-farm-o-road-farm-o-road",
+    "name": "Farm-O-Road",
+    "type": "SUV"
+  },
+  {
+    "id": "crosley-crosley-hotshot-vc-roadster",
+    "name": "Hotshot VC (Roadster)",
+    "type": "Roadster"
+  },
+  {
+    "id": "crosley-crosley-liberty-sedan-prewar-cb42",
+    "name": "Liberty Sedan Prewar (CB42)",
+    "type": "Sedan"
+  },
+  {
+    "id": "crosley-crosley-panel-delivery-cc-four",
+    "name": "Panel Delivery CC Four",
+    "type": "Van"
+  },
+  {
+    "id": "crosley-crosley-panel-delivery-cd-four",
+    "name": "Panel Delivery CD Four",
+    "type": "Van"
+  },
+  {
+    "id": "crosley-crosley-panel-delivery-prewar-cb41-cb42",
+    "name": "Panel Delivery Prewar (CB41/CB42)",
+    "type": "Van"
+  },
+  {
+    "id": "crosley-crosley-parkway-delivery-prewar-c2a-cb41-cb42",
+    "name": "Parkway Delivery Prewar (C2A/CB41/CB42)",
+    "type": "Van"
+  },
+  {
+    "id": "crosley-crosley-pickup-cc-four",
+    "name": "Pickup CC Four",
+    "type": "Pickup"
+  },
+  {
+    "id": "crosley-crosley-pickup-cd-four",
+    "name": "Pickup CD Four",
+    "type": "Pickup"
+  },
+  {
+    "id": "crosley-crosley-pickup-prewar-cb41-cb42",
+    "name": "Pickup Prewar (CB41/CB42)",
+    "type": "Pickup"
+  },
+  {
+    "id": "crosley-crosley-sedan-cc-four",
+    "name": "Sedan CC Four",
+    "type": "Sedan"
+  },
+  {
+    "id": "crosley-crosley-sedan-cd-four",
+    "name": "Sedan CD Four",
+    "type": "Sedan"
+  },
+  {
+    "id": "crosley-crosley-station-wagon-cc-four",
+    "name": "Station Wagon CC Four",
+    "type": "Wagon"
+  },
+  {
+    "id": "crosley-crosley-station-wagon-cd-four",
+    "name": "Station Wagon CD Four",
+    "type": "Wagon"
+  },
+  {
+    "id": "crosley-crosley-station-wagon-prewar-c2a-cb41-cb42",
+    "name": "Station Wagon Prewar (C2A/CB41/CB42)",
+    "type": "Wagon"
+  },
+  {
+    "id": "crosley-crosley-super-sports-vc-roadster",
+    "name": "Super Sports VC (Roadster)",
+    "type": "Roadster"
+  }
+]

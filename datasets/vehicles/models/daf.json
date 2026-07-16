@@ -1,0 +1,102 @@
+[
+  {
+    "id": "daf-2600-daf-2600-f218",
+    "name": "DAF 2600 (F218)",
+    "type": "Camion"
+  },
+  {
+    "id": "daf-2800-daf-2800-f241",
+    "name": "DAF 2800 (F241)",
+    "type": "Camion"
+  },
+  {
+    "id": "daf-33-daf-33",
+    "name": "DAF 33",
+    "type": "Sedan"
+  },
+  {
+    "id": "daf-3300-daf-3300-f241",
+    "name": "DAF 3300 (F241)",
+    "type": "Camion"
+  },
+  {
+    "id": "daf-3600-daf-3600-f241",
+    "name": "DAF 3600 (F241)",
+    "type": "Camion"
+  },
+  {
+    "id": "daf-44-daf-44",
+    "name": "DAF 44",
+    "type": "Sedan"
+  },
+  {
+    "id": "daf-45-daf-45",
+    "name": "DAF 45",
+    "type": "Camion"
+  },
+  {
+    "id": "daf-46-daf-46",
+    "name": "DAF 46",
+    "type": "Sedan"
+  },
+  {
+    "id": "daf-55-daf-55",
+    "name": "DAF 55",
+    "type": "Sedan"
+  },
+  {
+    "id": "daf-55-daf-55-ligero",
+    "name": "DAF 55 (ligero)",
+    "type": "Camion"
+  },
+  {
+    "id": "daf-55-daf-55-coupe",
+    "name": "DAF 55 Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "daf-600-daf-600",
+    "name": "DAF 600",
+    "type": "Sedan"
+  },
+  {
+    "id": "daf-65-daf-65",
+    "name": "DAF 65",
+    "type": "Camion"
+  },
+  {
+    "id": "daf-66-daf-66",
+    "name": "DAF 66",
+    "type": "Sedan"
+  },
+  {
+    "id": "daf-66-daf-66-coupe",
+    "name": "DAF 66 Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "daf-75-daf-75",
+    "name": "DAF 75",
+    "type": "Camion"
+  },
+  {
+    "id": "daf-750-daf-750",
+    "name": "DAF 750",
+    "type": "Sedan"
+  },
+  {
+    "id": "daf-85-daf-85",
+    "name": "DAF 85",
+    "type": "Camion"
+  },
+  {
+    "id": "daf-95-daf-95",
+    "name": "DAF 95",
+    "type": "Camion"
+  },
+  {
+    "id": "daf-daffodil-daffodil-30-31-32",
+    "name": "Daffodil (30/31/32)",
+    "type": "Sedan"
+  }
+]

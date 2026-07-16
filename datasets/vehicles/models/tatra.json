@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tatra-600-tatraplan-t600",
+    "name": "600 Tatraplan T600",
+    "type": "Sedan"
+  },
+  {
+    "id": "tatra-111-t111",
+    "name": "T111",
+    "type": "Camion"
+  },
+  {
+    "id": "tatra-138-t138",
+    "name": "T138",
+    "type": "Camion"
+  },
+  {
+    "id": "tatra-148-t148",
+    "name": "T148",
+    "type": "Camion"
+  },
+  {
+    "id": "tatra-57-t57-t57a-t57b",
+    "name": "T57 / T57A / T57B",
+    "type": "Sedan"
+  },
+  {
+    "id": "tatra-603-t603-t603-1-t2-603",
+    "name": "T603 (T603-1 / T2-603)",
+    "type": "Sedan"
+  },
+  {
+    "id": "tatra-613-t613",
+    "name": "T613",
+    "type": "Sedan"
+  },
+  {
+    "id": "tatra-700-t700",
+    "name": "T700",
+    "type": "Sedan"
+  },
+  {
+    "id": "tatra-77-t77-t77a",
+    "name": "T77 / T77a",
+    "type": "Sedan"
+  },
+  {
+    "id": "tatra-805-t805",
+    "name": "T805",
+    "type": "Camion"
+  },
+  {
+    "id": "tatra-813-t813-kolos",
+    "name": "T813 Kolos",
+    "type": "Camion"
+  },
+  {
+    "id": "tatra-87-t87",
+    "name": "T87",
+    "type": "Sedan"
+  },
+  {
+    "id": "tatra-97-t97",
+    "name": "T97",
+    "type": "Sedan"
+  }
+]

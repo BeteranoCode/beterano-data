@@ -1,0 +1,427 @@
+[
+  {
+    "id": "plymouth-acclaim-acclaim-1989-1995-aa-body",
+    "name": "Acclaim (1989-1995) AA-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-arrow-arrow-1976-1980",
+    "name": "Arrow (1976-1980)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "plymouth-arrow-truck-arrow-truck-1979-1982",
+    "name": "Arrow Truck (1979-1982)",
+    "type": "Pickup"
+  },
+  {
+    "id": "plymouth-barracuda-barracuda-1a-gen-1964-1966-a-body",
+    "name": "Barracuda 1a gen (1964-1966) A-body",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-barracuda-barracuda-2a-gen-1967-1969",
+    "name": "Barracuda 2a gen (1967-1969)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-barracuda-barracuda-3a-gen-1970-1974-e-body",
+    "name": "Barracuda 3a gen (1970-1974) E-body",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-belvedere-belvedere-1954-1956",
+    "name": "Belvedere (1954-1956)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-belvedere-belvedere-1957-1959",
+    "name": "Belvedere (1957-1959)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-belvedere-belvedere-1960-1961",
+    "name": "Belvedere (1960-1961)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-belvedere-belvedere-1962-1964-b-body",
+    "name": "Belvedere (1962-1964) B-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-belvedere-belvedere-1965-1967",
+    "name": "Belvedere (1965-1967)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-belvedere-belvedere-1968-1970",
+    "name": "Belvedere (1968-1970)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-breeze-breeze-1996-2000-ja",
+    "name": "Breeze (1996-2000) JA",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-cambridge-cambridge-p22-p24",
+    "name": "Cambridge (P22/P24)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-caravelle-caravelle-1985-1988-e-body",
+    "name": "Caravelle (1985-1988) E-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-champ-champ-1979-1982",
+    "name": "Champ (1979-1982)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "plymouth-colt-colt-1974-1978",
+    "name": "Colt (1974-1978)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-colt-colt-4a-gen-1979-1984",
+    "name": "Colt 4a gen (1979-1984)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "plymouth-colt-colt-5a-gen-1985-1988",
+    "name": "Colt 5a gen (1985-1988)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "plymouth-colt-colt-6a-gen-1989-1992",
+    "name": "Colt 6a gen (1989-1992)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "plymouth-colt-colt-7a-gen-1993-1994",
+    "name": "Colt 7a gen (1993-1994)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-colt-vista-colt-vista-1a-gen-1984-1991",
+    "name": "Colt Vista 1a gen (1984-1991)",
+    "type": "Wagon"
+  },
+  {
+    "id": "plymouth-colt-vista-colt-vista-2a-gen-1992-1994",
+    "name": "Colt Vista 2a gen (1992-1994)",
+    "type": "Wagon"
+  },
+  {
+    "id": "plymouth-concord-concord-p22",
+    "name": "Concord (P22)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-conquest-conquest-1984-1986",
+    "name": "Conquest (1984-1986)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-cranbrook-cranbrook-p23-p24",
+    "name": "Cranbrook (P23/P24)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-cricket-cricket-1971-1973",
+    "name": "Cricket (1971-1973)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-de-luxe-de-luxe-pd-pe-p1-p12",
+    "name": "De Luxe (PD/PE/P1-P12)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-de-luxe-de-luxe-p15",
+    "name": "De Luxe P15",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-duster-duster-1970-1976-a-body",
+    "name": "Duster (1970-1976) A-body",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-fury-fury-1956-1958",
+    "name": "Fury (1956-1958)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-fury-fury-1959",
+    "name": "Fury (1959)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-fury-fury-1960-1961",
+    "name": "Fury (1960-1961)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-fury-fury-1962-1964-b-body",
+    "name": "Fury (1962-1964) B-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-fury-fury-1965-1968-c-body",
+    "name": "Fury (1965-1968) C-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-fury-fury-1969-1973-c-body",
+    "name": "Fury (1969-1973) C-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-fury-fury-1974-c-body",
+    "name": "Fury (1974) C-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-fury-fury-1975-1978-b-body",
+    "name": "Fury (1975-1978) B-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-gran-fury-gran-fury-1a-gen-1975-1977-c-body",
+    "name": "Gran Fury 1a gen (1975-1977) C-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-gran-fury-gran-fury-2a-gen-1980-1981-r-body",
+    "name": "Gran Fury 2a gen (1980-1981) R-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-gran-fury-gran-fury-3a-gen-1982-1989-m-body",
+    "name": "Gran Fury 3a gen (1982-1989) M-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-grand-voyager-grand-voyager-1a-gen-1987-1990",
+    "name": "Grand Voyager 1a gen (1987-1990)",
+    "type": "Van"
+  },
+  {
+    "id": "plymouth-grand-voyager-grand-voyager-2a-gen-1991-1995-as",
+    "name": "Grand Voyager 2a gen (1991-1995) AS",
+    "type": "Van"
+  },
+  {
+    "id": "plymouth-grand-voyager-grand-voyager-3a-gen-1996-2000-ns",
+    "name": "Grand Voyager 3a gen (1996-2000) NS",
+    "type": "Van"
+  },
+  {
+    "id": "plymouth-gtx-gtx-1967-1971-b-body",
+    "name": "GTX (1967-1971) B-body",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-horizon-horizon-1978-1990-l-body",
+    "name": "Horizon (1978-1990) L-body",
+    "type": "Hatchback"
+  },
+  {
+    "id": "plymouth-tc3-horizon-tc3-1979-1982",
+    "name": "Horizon TC3 (1979-1982)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-laser-laser-1990-1994",
+    "name": "Laser (1990-1994)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-neon-neon-1a-gen-1995-1999-pl",
+    "name": "Neon 1a gen (1995-1999) PL",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-plaza-plaza-1954-1956",
+    "name": "Plaza (1954-1956)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-plaza-plaza-1957-1958",
+    "name": "Plaza (1957-1958)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-prowler-prowler-1997-2000-pr",
+    "name": "Prowler (1997-2000) PR",
+    "type": "Roadster"
+  },
+  {
+    "id": "plymouth-pt-pt-50-pt-57-pt-81-pt-105",
+    "name": "PT-50 / PT-57 / PT-81 / PT-105",
+    "type": "Pickup"
+  },
+  {
+    "id": "plymouth-reliant-reliant-k-1981-1989",
+    "name": "Reliant K (1981-1989)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-reliant-reliant-k-coupe-1981-1989",
+    "name": "Reliant K Coupe (1981-1989)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-reliant-reliant-k-wagon-1981-1988",
+    "name": "Reliant K Wagon (1981-1988)",
+    "type": "Wagon"
+  },
+  {
+    "id": "plymouth-road-runner-road-runner-1a-gen-1968-1970",
+    "name": "Road Runner 1a gen (1968-1970)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-road-runner-road-runner-2a-gen-1971-1974",
+    "name": "Road Runner 2a gen (1971-1974)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-road-runner-road-runner-3a-gen-1975-b-body",
+    "name": "Road Runner 3a gen (1975) B-body",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-sapporo-sapporo-1978-1983",
+    "name": "Sapporo (1978-1983)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-satellite-satellite-1a-gen-1965-1967-b-body",
+    "name": "Satellite 1a gen (1965-1967) B-body",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-satellite-satellite-2a-gen-1968-1970",
+    "name": "Satellite 2a gen (1968-1970)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-satellite-satellite-3a-gen-1971-1974",
+    "name": "Satellite 3a gen (1971-1974)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-savoy-savoy-1954-1956",
+    "name": "Savoy (1954-1956)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-savoy-savoy-1957-1959",
+    "name": "Savoy (1957-1959)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-savoy-savoy-1960-1964",
+    "name": "Savoy (1960-1964)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-scamp-scamp-1983-l-body",
+    "name": "Scamp (1983) L-body",
+    "type": "Pickup"
+  },
+  {
+    "id": "plymouth-suburban-suburban-1954-1956",
+    "name": "Suburban (1954-1956)",
+    "type": "Wagon"
+  },
+  {
+    "id": "plymouth-suburban-suburban-1957-1961",
+    "name": "Suburban (1957-1961)",
+    "type": "Wagon"
+  },
+  {
+    "id": "plymouth-suburban-suburban-p17-p25",
+    "name": "Suburban (P17-P25)",
+    "type": "Wagon"
+  },
+  {
+    "id": "plymouth-sundance-sundance-1987-1994-p-body",
+    "name": "Sundance (1987-1994) P-body",
+    "type": "Hatchback"
+  },
+  {
+    "id": "plymouth-superbird-superbird-1970",
+    "name": "Superbird (1970)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-trail-duster-trail-duster-1974-1981",
+    "name": "Trail Duster (1974-1981)",
+    "type": "SUV"
+  },
+  {
+    "id": "plymouth-turismo-turismo-1983-1987-l-body",
+    "name": "Turismo (1983-1987) L-body",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-valiant-valiant-1a-gen-1960-1962",
+    "name": "Valiant 1a gen (1960-1962)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-valiant-valiant-2a-gen-1963-1966",
+    "name": "Valiant 2a gen (1963-1966)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-valiant-valiant-3a-gen-1967-1973",
+    "name": "Valiant 3a gen (1967-1973)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-valiant-valiant-4a-gen-1974-1976",
+    "name": "Valiant 4a gen (1974-1976)",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-scamp-valiant-scamp-1971-1976",
+    "name": "Valiant Scamp (1971-1976)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-volare-volare-1976-1980-f-body",
+    "name": "Volare (1976-1980) F-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "plymouth-road-runner-volare-road-runner-1976-1980",
+    "name": "Volare Road Runner (1976-1980)",
+    "type": "Coupe"
+  },
+  {
+    "id": "plymouth-voyager-voyager-1a-gen-1984-1990-s",
+    "name": "Voyager 1a gen (1984-1990) S",
+    "type": "Van"
+  },
+  {
+    "id": "plymouth-voyager-voyager-2a-gen-1991-1995-as",
+    "name": "Voyager 2a gen (1991-1995) AS",
+    "type": "Van"
+  },
+  {
+    "id": "plymouth-voyager-voyager-3a-gen-1996-2000-ns",
+    "name": "Voyager 3a gen (1996-2000) NS",
+    "type": "Van"
+  },
+  {
+    "id": "plymouth-voyager-voyager-b-body-full-size-1974-1983",
+    "name": "Voyager B-body full-size (1974-1983)",
+    "type": "Van"
+  }
+]

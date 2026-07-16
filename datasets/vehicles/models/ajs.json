@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ajs-7r-7r-boy-racer",
+    "name": "7R \"Boy Racer\"",
+    "type": "Supersport"
+  },
+  {
+    "id": "ajs-7r3-7r3-tres-valvulas",
+    "name": "7R3 tres valvulas",
+    "type": "Supersport"
+  },
+  {
+    "id": "ajs-big-port-big-port-350-ohv-b3-e6-e7",
+    "name": "Big Port 350 OHV (B3/E6/E7)",
+    "type": "Naked"
+  },
+  {
+    "id": "ajs-k10-m10-ohc-500-racer",
+    "name": "K10 / M10 OHC 500 racer",
+    "type": "Naked"
+  },
+  {
+    "id": "ajs-k7-m7-ohc-350-racer",
+    "name": "K7 / M7 OHC 350 racer",
+    "type": "Naked"
+  },
+  {
+    "id": "ajs-model-14-lightweight-250-14-14csr-scrambler",
+    "name": "Model 14 Lightweight 250 (14 / 14CSR / Scrambler)",
+    "type": "Naked"
+  },
+  {
+    "id": "ajs-model-16-model-16-16m-16ms",
+    "name": "Model 16 / 16M / 16MS",
+    "type": "Naked"
+  },
+  {
+    "id": "ajs-model-18-model-18-18s-18cs-18csr",
+    "name": "Model 18 / 18S / 18CS / 18CSR",
+    "type": "Naked"
+  },
+  {
+    "id": "ajs-model-20-model-20-springtwin",
+    "name": "Model 20 (Springtwin)",
+    "type": "Naked"
+  },
+  {
+    "id": "ajs-model-30-model-30-30-30cs-30csr",
+    "name": "Model 30 (30 / 30CS / 30CSR)",
+    "type": "Naked"
+  },
+  {
+    "id": "ajs-model-31-model-31-31-31cs-31csr",
+    "name": "Model 31 (31 / 31CS / 31CSR)",
+    "type": "Naked"
+  },
+  {
+    "id": "ajs-model-33-model-33-m33-mk2-33cs-33csr",
+    "name": "Model 33 (M33 Mk2 / 33CS / 33CSR)",
+    "type": "Naked"
+  },
+  {
+    "id": "ajs-model-8-lightweight-350",
+    "name": "Model 8 Lightweight 350",
+    "type": "Naked"
+  },
+  {
+    "id": "ajs-porcupine-e90s",
+    "name": "Porcupine E90S",
+    "type": "Supersport"
+  },
+  {
+    "id": "ajs-porcupine-e95",
+    "name": "Porcupine E95",
+    "type": "Supersport"
+  },
+  {
+    "id": "ajs-s3-s3-v-twin-transversal",
+    "name": "S3 V-twin transversal",
+    "type": "Naked"
+  },
+  {
+    "id": "ajs-stormer-370-y5-370",
+    "name": "Stormer 370 Y5 (370)",
+    "type": "Motocross"
+  },
+  {
+    "id": "ajs-stormer-410-stormer-410",
+    "name": "Stormer 410",
+    "type": "Motocross"
+  },
+  {
+    "id": "ajs-y4-stormer-250-y4-250",
+    "name": "Y4 / Stormer 250 Y4 (250)",
+    "type": "Motocross"
+  }
+]

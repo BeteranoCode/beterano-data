@@ -1,0 +1,42 @@
+[
+  {
+    "id": "vignale-850-vignale-850-vignale-berlina-serie-1-2",
+    "name": "850 Vignale Berlina (Serie 1-2)",
+    "type": "Sedan"
+  },
+  {
+    "id": "vignale-850-vignale-850-vignale-berlina-serie-3",
+    "name": "850 Vignale Berlina (Serie 3)",
+    "type": "Sedan"
+  },
+  {
+    "id": "vignale-850-vignale-850-vignale-coupe-2-2",
+    "name": "850 Vignale Coupe 2+2",
+    "type": "Coupe"
+  },
+  {
+    "id": "vignale-850-vignale-850-vignale-spider-2-2",
+    "name": "850 Vignale Spider 2+2",
+    "type": "Spider"
+  },
+  {
+    "id": "vignale-eveline-eveline-base-fiat-124-special",
+    "name": "Eveline (base Fiat 124 Special)",
+    "type": "Coupe"
+  },
+  {
+    "id": "vignale-eveline-eveline-base-fiat-124",
+    "name": "Eveline (base Fiat 124)",
+    "type": "Coupe"
+  },
+  {
+    "id": "vignale-gamine-gamine-base-fiat-500f",
+    "name": "Gamine (base Fiat 500F)",
+    "type": "Roadster"
+  },
+  {
+    "id": "vignale-samantha-samantha-base-fiat-125-s",
+    "name": "Samantha (base Fiat 125 S)",
+    "type": "Coupe"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "authi-austin-1100-ado16",
+    "name": "Austin 1100 ADO16",
+    "type": "Sedan"
+  },
+  {
+    "id": "authi-austin-1300-ado16",
+    "name": "Austin 1300 ADO16",
+    "type": "Sedan"
+  },
+  {
+    "id": "authi-austin-de-luxe-ado16",
+    "name": "Austin de Luxe ADO16",
+    "type": "Sedan"
+  },
+  {
+    "id": "authi-austin-victoria-victoria-ado16-michelotti",
+    "name": "Austin Victoria Victoria (ADO16 Michelotti)",
+    "type": "Sedan"
+  },
+  {
+    "id": "authi-mg-1100-ado16",
+    "name": "MG 1100 ADO16",
+    "type": "Sedan"
+  },
+  {
+    "id": "authi-mg-1300-ado16",
+    "name": "MG 1300 ADO16",
+    "type": "Sedan"
+  },
+  {
+    "id": "authi-mini-1000-ado15",
+    "name": "Mini 1000 ADO15",
+    "type": "Sedan"
+  },
+  {
+    "id": "authi-mini-1275-c-ado15",
+    "name": "Mini 1275 C ADO15",
+    "type": "Sedan"
+  },
+  {
+    "id": "authi-mini-1275-gt-ado15",
+    "name": "Mini 1275 GT ADO15",
+    "type": "Sedan"
+  },
+  {
+    "id": "authi-mini-850-ado15",
+    "name": "Mini 850 ADO15",
+    "type": "Sedan"
+  },
+  {
+    "id": "authi-mini-cooper-1300-ado15",
+    "name": "Mini Cooper 1300 ADO15",
+    "type": "Sedan"
+  },
+  {
+    "id": "authi-morris-1100-ado16",
+    "name": "Morris 1100 ADO16",
+    "type": "Sedan"
+  },
+  {
+    "id": "authi-morris-1100-traveller-ado16",
+    "name": "Morris 1100 Traveller ADO16",
+    "type": "Wagon"
+  },
+  {
+    "id": "authi-morris-1300-ado16",
+    "name": "Morris 1300 ADO16",
+    "type": "Sedan"
+  }
+]

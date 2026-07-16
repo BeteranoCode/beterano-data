@@ -1,0 +1,192 @@
+[
+  {
+    "id": "mercedes-benz-190-sl-w121-bii",
+    "name": "190 SL W121 BII",
+    "type": "Roadster"
+  },
+  {
+    "id": "mercedes-benz-190-w201",
+    "name": "190 W201",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-300-adenauer-w186-w189",
+    "name": "300 (Adenauer) W186 / W189",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-300-sl-gullwing-w198",
+    "name": "300 SL Gullwing W198",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercedes-benz-300-sl-roadster-w198",
+    "name": "300 SL Roadster W198",
+    "type": "Roadster"
+  },
+  {
+    "id": "mercedes-benz-600-grosser-w100",
+    "name": "600 (Grosser) W100",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-c-class-w202",
+    "name": "C-Class W202",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-clk-gtr-w297",
+    "name": "CLK GTR W297",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercedes-benz-e-class-mid-size-w123",
+    "name": "E-Class / mid-size W123",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-e-class-mid-size-w124",
+    "name": "E-Class / mid-size W124",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-e-class-cabriolet-w124-a124",
+    "name": "E-Class Cabriolet W124 (A124)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "mercedes-benz-e-class-coupe-w123-c123",
+    "name": "E-Class Coupe W123 (C123)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercedes-benz-e-class-coupe-w124-c124",
+    "name": "E-Class Coupe W124 (C124)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercedes-benz-e-class-estate-t-w123-s123",
+    "name": "E-Class Estate (T) W123 (S123)",
+    "type": "Wagon"
+  },
+  {
+    "id": "mercedes-benz-e-class-estate-w124-s124",
+    "name": "E-Class Estate W124 (S124)",
+    "type": "Wagon"
+  },
+  {
+    "id": "mercedes-benz-g-class-w460",
+    "name": "G-Class W460",
+    "type": "SUV"
+  },
+  {
+    "id": "mercedes-benz-heckflosse-fintail-w111",
+    "name": "Heckflosse (Fintail) W111",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-heckflosse-fintail-w112",
+    "name": "Heckflosse (Fintail) W112",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-kleine-heckflosse-w110",
+    "name": "Kleine Heckflosse W110",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-mb100-mb100",
+    "name": "MB100",
+    "type": "Van"
+  },
+  {
+    "id": "mercedes-benz-ponton-6-cil-w180",
+    "name": "Ponton (6-cil.) W180",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-ponton-coupe-w180",
+    "name": "Ponton Coupe W180",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercedes-benz-ponton-w120",
+    "name": "Ponton W120",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-ponton-w121",
+    "name": "Ponton W121",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-s-class-coupe-sec-c126",
+    "name": "S-Class Coupe (SEC) C126",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercedes-benz-s-class-coupe-cl-c140",
+    "name": "S-Class Coupe / CL C140",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercedes-benz-s-class-w116",
+    "name": "S-Class W116",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-s-class-w126",
+    "name": "S-Class W126",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-s-class-w140",
+    "name": "S-Class W140",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-sl-pagoda-w113",
+    "name": "SL Pagoda W113",
+    "type": "Roadster"
+  },
+  {
+    "id": "mercedes-benz-sl-r107",
+    "name": "SL R107",
+    "type": "Roadster"
+  },
+  {
+    "id": "mercedes-benz-slc-c107",
+    "name": "SLC C107",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercedes-benz-strichacht-coupe-w114-c114",
+    "name": "Strichacht Coupe W114 (C114)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercedes-benz-strichacht-w114",
+    "name": "Strichacht W114",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-strichacht-w115",
+    "name": "Strichacht W115",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercedes-benz-t1-tn-t1",
+    "name": "T1 (TN)",
+    "type": "Van"
+  },
+  {
+    "id": "mercedes-benz-w111-cabriolet-w111",
+    "name": "W111 Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "mercedes-benz-w111-coupe-w111",
+    "name": "W111 Coupe",
+    "type": "Coupe"
+  }
+]

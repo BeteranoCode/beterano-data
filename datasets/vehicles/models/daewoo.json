@@ -1,0 +1,62 @@
+[
+  {
+    "id": "daewoo-arcadia-arcadia-honda-legend-2a-gen",
+    "name": "Arcadia (Honda Legend 2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "daewoo-brougham-brougham-familia-prince",
+    "name": "Brougham (familia Prince)",
+    "type": "Sedan"
+  },
+  {
+    "id": "daewoo-espero-espero",
+    "name": "Espero",
+    "type": "Sedan"
+  },
+  {
+    "id": "daewoo-imperial-imperial-v-car",
+    "name": "Imperial (V-car)",
+    "type": "Sedan"
+  },
+  {
+    "id": "daewoo-lemans-lemans-1a-gen",
+    "name": "LeMans 1a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "daewoo-lemans-lemans-racer-1a-gen",
+    "name": "LeMans/Racer 1a gen",
+    "type": "Hatchback"
+  },
+  {
+    "id": "daewoo-maepsy-maepsy-na",
+    "name": "Maepsy-Na",
+    "type": "Sedan"
+  },
+  {
+    "id": "daewoo-prince-prince",
+    "name": "Prince",
+    "type": "Sedan"
+  },
+  {
+    "id": "daewoo-royale-royale-diesel",
+    "name": "Royale Diesel",
+    "type": "Sedan"
+  },
+  {
+    "id": "daewoo-royale-royale-prince",
+    "name": "Royale Prince",
+    "type": "Sedan"
+  },
+  {
+    "id": "daewoo-royale-royale-salon-super-salon",
+    "name": "Royale Salon / Super Salon",
+    "type": "Sedan"
+  },
+  {
+    "id": "daewoo-royale-royale-xq-duke",
+    "name": "Royale XQ / Duke",
+    "type": "Sedan"
+  }
+]

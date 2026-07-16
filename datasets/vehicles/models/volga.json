@@ -1,0 +1,67 @@
+[
+  {
+    "id": "volga-gaz-21-gaz-21-serie-i",
+    "name": "GAZ-21 Serie I",
+    "type": "Sedan"
+  },
+  {
+    "id": "volga-gaz-21-gaz-21-serie-ii",
+    "name": "GAZ-21 Serie II",
+    "type": "Sedan"
+  },
+  {
+    "id": "volga-gaz-21-gaz-21-serie-iii",
+    "name": "GAZ-21 Serie III",
+    "type": "Sedan"
+  },
+  {
+    "id": "volga-gaz-22-gaz-22-base-gaz-21",
+    "name": "GAZ-22 (base GAZ-21)",
+    "type": "Wagon"
+  },
+  {
+    "id": "volga-gaz-23-gaz-23-base-gaz-21",
+    "name": "GAZ-23 (base GAZ-21)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volga-gaz-24-gaz-24-1a-serie",
+    "name": "GAZ-24 (1a serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "volga-gaz-24-gaz-24-02",
+    "name": "GAZ-24-02",
+    "type": "Wagon"
+  },
+  {
+    "id": "volga-gaz-24-gaz-24-10",
+    "name": "GAZ-24-10",
+    "type": "Sedan"
+  },
+  {
+    "id": "volga-gaz-24-gaz-24-12",
+    "name": "GAZ-24-12",
+    "type": "Wagon"
+  },
+  {
+    "id": "volga-gaz-24-gaz-24-24",
+    "name": "GAZ-24-24",
+    "type": "Sedan"
+  },
+  {
+    "id": "volga-gaz-24-gaz-24-34",
+    "name": "GAZ-24-34",
+    "type": "Sedan"
+  },
+  {
+    "id": "volga-gaz-31029-gaz-31029",
+    "name": "GAZ-31029",
+    "type": "Sedan"
+  },
+  {
+    "id": "volga-gaz-3105-gaz-3105",
+    "name": "GAZ-3105",
+    "type": "Sedan"
+  }
+]

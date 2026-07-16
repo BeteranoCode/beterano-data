@@ -1,0 +1,147 @@
+[
+  {
+    "id": "lincoln-capri-1a-generacion",
+    "name": "Capri 1a generacion",
+    "type": "Coupe"
+  },
+  {
+    "id": "lincoln-capri-2a-generacion",
+    "name": "Capri 2a generacion",
+    "type": "Coupe"
+  },
+  {
+    "id": "lincoln-capri-3a-generacion",
+    "name": "Capri 3a generacion",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-continental-1a-generacion",
+    "name": "Continental 1a generacion",
+    "type": "Coupe"
+  },
+  {
+    "id": "lincoln-continental-3a-generacion",
+    "name": "Continental 3a generacion",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-continental-4a-generacion",
+    "name": "Continental 4a generacion",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-continental-4a-generacion-convertible",
+    "name": "Continental 4a generacion (convertible)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "lincoln-continental-5a-generacion",
+    "name": "Continental 5a generacion",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-continental-6a-generacion",
+    "name": "Continental 6a generacion",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-continental-7a-generacion",
+    "name": "Continental 7a generacion",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-continental-8a-generacion",
+    "name": "Continental 8a generacion",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-continental-mark-ii-mark-ii",
+    "name": "Continental Mark II",
+    "type": "Coupe"
+  },
+  {
+    "id": "lincoln-mark-iii-continental-mark-iii",
+    "name": "Continental Mark III",
+    "type": "Coupe"
+  },
+  {
+    "id": "lincoln-mark-iv-continental-mark-iv",
+    "name": "Continental Mark IV",
+    "type": "Coupe"
+  },
+  {
+    "id": "lincoln-mark-v-continental-mark-v",
+    "name": "Continental Mark V",
+    "type": "Coupe"
+  },
+  {
+    "id": "lincoln-mark-vi-continental-mark-vi",
+    "name": "Continental Mark VI",
+    "type": "Coupe"
+  },
+  {
+    "id": "lincoln-mark-vii-continental-mark-vii",
+    "name": "Continental Mark VII",
+    "type": "Coupe"
+  },
+  {
+    "id": "lincoln-cosmopolitan-cosmopolitan-1a-serie",
+    "name": "Cosmopolitan (1a serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-cosmopolitan-cosmopolitan-2a-serie",
+    "name": "Cosmopolitan (2a serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-mark-viii-lincoln-mark-viii",
+    "name": "Lincoln Mark VIII",
+    "type": "Coupe"
+  },
+  {
+    "id": "lincoln-zephyr-lincoln-zephyr",
+    "name": "Lincoln-Zephyr",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-model-k-model-k-ka",
+    "name": "Model K / KA",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-model-k-model-kb",
+    "name": "Model KB",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-model-l-model-l",
+    "name": "Model L",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-premiere-1a-generacion",
+    "name": "Premiere 1a generacion",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-premiere-2a-generacion",
+    "name": "Premiere 2a generacion",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-town-car-1a-generacion",
+    "name": "Town Car 1a generacion",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-town-car-2a-generacion",
+    "name": "Town Car 2a generacion",
+    "type": "Sedan"
+  },
+  {
+    "id": "lincoln-versailles-versailles",
+    "name": "Versailles",
+    "type": "Sedan"
+  }
+]

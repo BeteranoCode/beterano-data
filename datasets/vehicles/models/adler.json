@@ -1,0 +1,177 @@
+[
+  {
+    "id": "adler-10-50-ps-10-50-ps",
+    "name": "10/50 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-12-34-ps-12-34-ps",
+    "name": "12/34 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-18-60-ps-18-60-ps",
+    "name": "18/60 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-18-80-ps-18-80-ps",
+    "name": "18/80 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-2-liter-2-liter",
+    "name": "2 Liter",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-25-liter-25-liter-typ-10-autobahn-adler",
+    "name": "2.5 Liter Typ 10 (Autobahn Adler)",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-25-liter-25-liter-typ-10-sport-limousine",
+    "name": "2.5 Liter Typ 10 Sport-Limousine",
+    "type": "Coupe"
+  },
+  {
+    "id": "adler-24-28-ps-24-28-ps",
+    "name": "24/28 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-6-22-ps-6-22-ps",
+    "name": "6/22 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-6-25-ps-6-25-ps",
+    "name": "6/25 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-9-24-ps-9-24-ps",
+    "name": "9/24 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-diplomat-diplomat-1a-serie",
+    "name": "Diplomat (1a serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-diplomat-diplomat-2a-serie",
+    "name": "Diplomat (2a serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-favorit-favorit",
+    "name": "Favorit",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-m-100-m-100",
+    "name": "M 100",
+    "type": "Naked"
+  },
+  {
+    "id": "adler-m-200-m-200",
+    "name": "M 200",
+    "type": "Naked"
+  },
+  {
+    "id": "adler-m-250-m-250",
+    "name": "M 250",
+    "type": "Naked"
+  },
+  {
+    "id": "adler-mb-200-mb-200",
+    "name": "MB 200",
+    "type": "Naked"
+  },
+  {
+    "id": "adler-mb-250-mb-250",
+    "name": "MB 250",
+    "type": "Naked"
+  },
+  {
+    "id": "adler-primus-primus-15-liter",
+    "name": "Primus 1.5 Liter",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-primus-primus-17-liter",
+    "name": "Primus 1.7 Liter",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-primus-primus-17e",
+    "name": "Primus 1.7E",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-standard-6-standard-6-3u-recarrozado",
+    "name": "Standard 6 - 3U (recarrozado)",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-standard-6-standard-6-6a-12-50",
+    "name": "Standard 6 - 6A 12/50",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-standard-6-standard-6-6n-10-45",
+    "name": "Standard 6 - 6N 10/45",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-standard-6-standard-6-6s-12-50",
+    "name": "Standard 6 - 6S 12/50",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-standard-8-standard-8-15-70-15-80-ps",
+    "name": "Standard 8 (15/70 - 15/80 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-trumpf-trumpf-15-liter",
+    "name": "Trumpf 1.5 Liter",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-trumpf-trumpf-17-ev",
+    "name": "Trumpf 1.7 EV",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-trumpf-trumpf-17-liter",
+    "name": "Trumpf 1.7 Liter",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-trumpf-junior-trumpf-junior-1e-jupiter",
+    "name": "Trumpf Junior 1E (Jupiter)",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-trumpf-junior-trumpf-junior-1g",
+    "name": "Trumpf Junior 1G",
+    "type": "Sedan"
+  },
+  {
+    "id": "adler-trumpf-junior-trumpf-junior-sport-roadster",
+    "name": "Trumpf Junior Sport Roadster",
+    "type": "Roadster"
+  },
+  {
+    "id": "adler-trumpf-trumpf-sport",
+    "name": "Trumpf Sport",
+    "type": "Roadster"
+  },
+  {
+    "id": "adler-vis-a-vis-vis-a-vis-primer-adler",
+    "name": "Vis-a-Vis (primer Adler)",
+    "type": "Sedan"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "excelsior-adex-adex-belgica",
+    "name": "Adex (Belgica)",
+    "type": "Sedan"
+  },
+  {
+    "id": "excelsior-adex-adex-mark-ii-belgica",
+    "name": "Adex Mark II (Belgica)",
+    "type": "Sedan"
+  },
+  {
+    "id": "excelsior-albert-i-albert-1er-belgica",
+    "name": "Albert I Albert 1er (Belgica)",
+    "type": "Sedan"
+  },
+  {
+    "id": "excelsior-auto-cycle-single-excelsior-single-chicago",
+    "name": "Auto Cycle (Single) Excelsior Single (Chicago)",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-autobyk-autobyk-posguerra",
+    "name": "Autobyk (posguerra)",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-autobyk-autobyk-preguerra",
+    "name": "Autobyk (preguerra)",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-big-x-model-bigx-big-twin-chicago",
+    "name": "Big X Model BigX / Big Twin (Chicago)",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-consort-consort-ca8-f4f",
+    "name": "Consort CA8 / F4F",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-consort-consort-f4",
+    "name": "Consort F4",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-consort-consort-f6-f6s",
+    "name": "Consort F6 / F6S",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-courier-courier-c1-c2",
+    "name": "Courier C1/C2",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-manxman-manxman-250",
+    "name": "Manxman 250",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-manxman-manxman-350",
+    "name": "Manxman 350",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-manxman-manxman-500-g14-g15",
+    "name": "Manxman 500 (G14/G15)",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-monarch-monarch",
+    "name": "Monarch",
+    "type": "Scooter"
+  },
+  {
+    "id": "excelsior-roadmaster-roadmaster-r1-r2",
+    "name": "Roadmaster R1/R2",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-roadmaster-roadmaster-r10-r11",
+    "name": "Roadmaster R10/R11",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-autobyk-super-autobyk-autobyk-de-luxe",
+    "name": "Super Autobyk / Autobyk de Luxe",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-super-x-super-x-1-serie-chicago",
+    "name": "Super X (1ª serie, Chicago)",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-super-x-super-x-streamline-chicago",
+    "name": "Super X Streamline (Chicago)",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-talisman-twin-super-talisman-s8",
+    "name": "Talisman Twin Super Talisman S8",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-talisman-twin-talisman-twin-tt1",
+    "name": "Talisman Twin TT1",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-talisman-twin-talisman-twin-tt2-tt3-tt4-y-sports-stt",
+    "name": "Talisman Twin TT2/TT3/TT4 (y Sports STT)",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-universal-universal-preguerra",
+    "name": "Universal (preguerra)",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-universal-universal-u1-posguerra",
+    "name": "Universal U1 (posguerra)",
+    "type": "Naked"
+  },
+  {
+    "id": "excelsior-welbike-welbike",
+    "name": "Welbike",
+    "type": "Naked"
+  }
+]

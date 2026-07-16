@@ -1,0 +1,197 @@
+[
+  {
+    "id": "humber-hawk-hawk-mk-i-mk-ii",
+    "name": "Hawk Mk I / Mk II",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-hawk-hawk-mk-iii",
+    "name": "Hawk Mk III",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-hawk-hawk-mk-iv",
+    "name": "Hawk Mk IV",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-hawk-hawk-mk-v",
+    "name": "Hawk Mk V",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-hawk-hawk-mk-vi-via",
+    "name": "Hawk Mk VI / VIA",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-hawk-hawk-series-i",
+    "name": "Hawk Series I",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-hawk-hawk-series-ia",
+    "name": "Hawk Series IA",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-hawk-hawk-series-ii",
+    "name": "Hawk Series II",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-hawk-hawk-series-iii",
+    "name": "Hawk Series III",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-hawk-hawk-series-iv",
+    "name": "Hawk Series IV",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-hawk-hawk-series-iva",
+    "name": "Hawk Series IVA",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-humberette-humberette-cyclecar",
+    "name": "Humberette (cyclecar)",
+    "type": "Microcar"
+  },
+  {
+    "id": "humber-imperial-imperial-1964-67",
+    "name": "Imperial (1964-67)",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-pullman-pullman-1930-35",
+    "name": "Pullman (1930-35)",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-pullman-pullman-1936-40",
+    "name": "Pullman (1936-40)",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-pullman-pullman-mk-ii",
+    "name": "Pullman Mk II",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-pullman-pullman-mk-iii",
+    "name": "Pullman Mk III",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-pullman-pullman-imperial-mk-iv",
+    "name": "Pullman/Imperial Mk IV",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-sceptre-sceptre-mk-i",
+    "name": "Sceptre Mk I",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-sceptre-sceptre-mk-ii",
+    "name": "Sceptre Mk II",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-sceptre-sceptre-mk-iii-rootes-arrow",
+    "name": "Sceptre Mk III (Rootes Arrow)",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-sceptre-sceptre-mk-iii-estate",
+    "name": "Sceptre Mk III Estate",
+    "type": "Wagon"
+  },
+  {
+    "id": "humber-snipe-snipe-1936-37",
+    "name": "Snipe (1936-37)",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-snipe-snipe-1938-40",
+    "name": "Snipe (1938-40)",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-snipe-snipe-1945-48",
+    "name": "Snipe (1945-48)",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-snipe-snipe-80",
+    "name": "Snipe 80",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-imperial-snipe-imperial-1939-40",
+    "name": "Snipe Imperial (1939-40)",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-super-snipe-super-snipe-pre-guerra",
+    "name": "Super Snipe (pre-guerra)",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-super-snipe-super-snipe-mk-i",
+    "name": "Super Snipe Mk I",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-super-snipe-super-snipe-mk-ii",
+    "name": "Super Snipe Mk II",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-super-snipe-super-snipe-mk-iii",
+    "name": "Super Snipe Mk III",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-super-snipe-super-snipe-mk-iv-iva-ivb",
+    "name": "Super Snipe Mk IV / IVA / IVB",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-super-snipe-super-snipe-series-i",
+    "name": "Super Snipe Series I",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-super-snipe-super-snipe-series-ii",
+    "name": "Super Snipe Series II",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-super-snipe-super-snipe-series-iii",
+    "name": "Super Snipe Series III",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-super-snipe-super-snipe-series-iv",
+    "name": "Super Snipe Series IV",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-super-snipe-super-snipe-series-v-va",
+    "name": "Super Snipe Series V / Va",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-twelve-humber-12-1933-34",
+    "name": "Twelve Humber 12 (1933-34)",
+    "type": "Sedan"
+  },
+  {
+    "id": "humber-twelve-humber-12-1935-37",
+    "name": "Twelve Humber 12 (1935-37)",
+    "type": "Sedan"
+  }
+]

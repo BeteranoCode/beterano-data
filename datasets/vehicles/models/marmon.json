@@ -1,0 +1,102 @@
+[
+  {
+    "id": "marmon-big-eight-big-eight-primera-serie",
+    "name": "Big Eight (primera serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-little-marmon-little-marmon",
+    "name": "Little Marmon",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-sixteen-marmon-sixteen",
+    "name": "Marmon Sixteen",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-model-125-serie-125",
+    "name": "Model 125 Serie 125",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-model-32-model-32",
+    "name": "Model 32",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-model-34-model-34-34b",
+    "name": "Model 34 / 34B",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-model-41-model-41",
+    "name": "Model 41",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-model-48-model-48",
+    "name": "Model 48",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-roosevelt-model-68-roosevelt",
+    "name": "Model 68 Roosevelt",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-model-68-serie-68",
+    "name": "Model 68 Serie 68",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-model-69-model-8-69",
+    "name": "Model 69 Model 8-69",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-model-70-model-70-segunda-serie",
+    "name": "Model 70 (segunda serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-model-74-model-d-74",
+    "name": "Model 74 Model D-74",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-model-75-model-e-75",
+    "name": "Model 75 Model E-75",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-model-78-serie-78",
+    "name": "Model 78 Serie 78",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-model-79-model-8-79",
+    "name": "Model 79 Model 8-79",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-model-88-model-88-segunda-serie-big-eight",
+    "name": "Model 88 (segunda serie Big Eight)",
+    "type": "Sedan"
+  },
+  {
+    "id": "marmon-marmon-125-serie-125-convencional-125-d-125-p",
+    "name": "Serie 125 (convencional, 125-D / 125-P)",
+    "type": "Camion"
+  },
+  {
+    "id": "marmon-marmon-57-serie-57-convencional",
+    "name": "Serie 57 (convencional)",
+    "type": "Camion"
+  },
+  {
+    "id": "marmon-marmon-86-serie-86-coe-86-f-86-p",
+    "name": "Serie 86 COE (86-F / 86-P)",
+    "type": "Camion"
+  }
+]

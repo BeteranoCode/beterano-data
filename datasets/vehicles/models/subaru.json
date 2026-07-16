@@ -1,0 +1,112 @@
+[
+  {
+    "id": "subaru-1000-1000",
+    "name": "1000",
+    "type": "Sedan"
+  },
+  {
+    "id": "subaru-360-360",
+    "name": "360",
+    "type": "Microcar"
+  },
+  {
+    "id": "subaru-svx-alcyone-svx",
+    "name": "Alcyone SVX",
+    "type": "Coupe"
+  },
+  {
+    "id": "subaru-brat-brat-brumby",
+    "name": "BRAT / Brumby",
+    "type": "Pickup"
+  },
+  {
+    "id": "subaru-domingo-domingo-libero-sumo",
+    "name": "Domingo / Libero / Sumo",
+    "type": "Van"
+  },
+  {
+    "id": "subaru-ff-1-ff-1-star",
+    "name": "FF-1 / Star",
+    "type": "Sedan"
+  },
+  {
+    "id": "subaru-impreza-impreza-1-gen-gc-gf",
+    "name": "Impreza 1ª gen (GC/GF)",
+    "type": "Sedan"
+  },
+  {
+    "id": "subaru-impreza-impreza-1-gen-gc8",
+    "name": "Impreza 1ª gen (GC8)",
+    "type": "Sedan"
+  },
+  {
+    "id": "subaru-justy-justy-1-gen-kad",
+    "name": "Justy 1ª gen (KAD)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "subaru-legacy-legacy-1-gen-bc-bf",
+    "name": "Legacy 1ª gen (BC/BF)",
+    "type": "Sedan"
+  },
+  {
+    "id": "subaru-legacy-legacy-2-gen-bd-bg",
+    "name": "Legacy 2ª gen (BD/BG)",
+    "type": "Sedan"
+  },
+  {
+    "id": "subaru-legacy-legacy-2-gen-bg",
+    "name": "Legacy 2ª gen (BG)",
+    "type": "Wagon"
+  },
+  {
+    "id": "subaru-leone-leone-1-gen",
+    "name": "Leone 1ª gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "subaru-leone-leone-2-gen",
+    "name": "Leone 2ª gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "subaru-leone-leone-3-gen",
+    "name": "Leone 3ª gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "subaru-r-2-r-2",
+    "name": "R-2",
+    "type": "Microcar"
+  },
+  {
+    "id": "subaru-rex-rex-1-2-gen-2t",
+    "name": "Rex 1ª/2ª gen (2T)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "subaru-rex-rex-3-gen",
+    "name": "Rex 3ª gen",
+    "type": "Hatchback"
+  },
+  {
+    "id": "subaru-sambar-sambar-4-gen",
+    "name": "Sambar 4ª gen",
+    "type": "Van"
+  },
+  {
+    "id": "subaru-sambar-sambar-5-gen",
+    "name": "Sambar 5ª gen",
+    "type": "Van"
+  },
+  {
+    "id": "subaru-vivio-vivio",
+    "name": "Vivio",
+    "type": "Hatchback"
+  },
+  {
+    "id": "subaru-xt-xt-alcyone",
+    "name": "XT / Alcyone",
+    "type": "Coupe"
+  }
+]

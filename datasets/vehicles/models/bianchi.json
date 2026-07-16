@@ -1,0 +1,87 @@
+[
+  {
+    "id": "bianchi-freccia-d-oro-250-freccia-d-oro",
+    "name": "250 Freccia d'Oro",
+    "type": "Naked"
+  },
+  {
+    "id": "bianchi-stelvio-250-stelvio",
+    "name": "250 Stelvio",
+    "type": "Naked"
+  },
+  {
+    "id": "bianchi-freccia-celeste-350-freccia-celeste",
+    "name": "350 Freccia Celeste",
+    "type": "Naked"
+  },
+  {
+    "id": "bianchi-500-m-500-m",
+    "name": "500 M",
+    "type": "Naked"
+  },
+  {
+    "id": "bianchi-8-hp-8-hp",
+    "name": "8 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "bianchi-mediolanum-mediolanum-36",
+    "name": "Mediolanum 36",
+    "type": "Camion"
+  },
+  {
+    "id": "bianchi-miles-miles",
+    "name": "Miles",
+    "type": "Camion"
+  },
+  {
+    "id": "bianchi-miles-miles-autobus",
+    "name": "Miles (autobus)",
+    "type": "Bus"
+  },
+  {
+    "id": "bianchi-s4-s-4",
+    "name": "S4 S/4",
+    "type": "Sedan"
+  },
+  {
+    "id": "bianchi-s5-s-5-13",
+    "name": "S5 S/5 (1.3)",
+    "type": "Sedan"
+  },
+  {
+    "id": "bianchi-s5-s-5-15",
+    "name": "S5 S/5 (1.5)",
+    "type": "Sedan"
+  },
+  {
+    "id": "bianchi-s6-s-6",
+    "name": "S6 S/6",
+    "type": "Sedan"
+  },
+  {
+    "id": "bianchi-s8-s-8-27",
+    "name": "S8 S/8 (2.7)",
+    "type": "Sedan"
+  },
+  {
+    "id": "bianchi-s8-s-8-29",
+    "name": "S8 S/8 (2.9)",
+    "type": "Sedan"
+  },
+  {
+    "id": "bianchi-s9-s-9",
+    "name": "S9 S/9",
+    "type": "Sedan"
+  },
+  {
+    "id": "bianchi-supermil-500-supermil-500-mcu",
+    "name": "Supermil 500 (MCU)",
+    "type": "Camion"
+  },
+  {
+    "id": "bianchi-vm-6c-vm-6c",
+    "name": "VM 6C",
+    "type": "SUV"
+  }
+]

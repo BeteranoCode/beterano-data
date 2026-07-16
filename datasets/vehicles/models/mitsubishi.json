@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mitsubishi-3000gt-3000gt-gto-z15a",
+    "name": "3000GT / GTO (Z15A)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mitsubishi-3000gt-3000gt-gto-z16a",
+    "name": "3000GT / GTO (Z16A)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mitsubishi-cordia-cordia-a21x",
+    "name": "Cordia (A21x)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mitsubishi-debonair-debonair-1g-a30",
+    "name": "Debonair 1G (A30)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mitsubishi-debonair-debonair-2g-s10",
+    "name": "Debonair 2G (S10)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mitsubishi-debonair-debonair-3g-s20",
+    "name": "Debonair 3G (S20)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mitsubishi-l300-delica-l300-3g",
+    "name": "Delica / L300 3G",
+    "type": "Van"
+  },
+  {
+    "id": "mitsubishi-diamante-diamante-1g-f10",
+    "name": "Diamante 1G (F10)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mitsubishi-eclipse-eclipse-1g-d21a",
+    "name": "Eclipse 1G (D21A)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mitsubishi-eclipse-eclipse-2g-d32a",
+    "name": "Eclipse 2G (D32A)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mitsubishi-fto-fto-de",
+    "name": "FTO (DE)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mitsubishi-galant-galant-iv",
+    "name": "Galant IV",
+    "type": "Sedan"
+  },
+  {
+    "id": "mitsubishi-galant-galant-v",
+    "name": "Galant V",
+    "type": "Sedan"
+  },
+  {
+    "id": "mitsubishi-galant-galant-vi-e10",
+    "name": "Galant VI (E10)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mitsubishi-galant-galant-vii-e50",
+    "name": "Galant VII (E50)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mitsubishi-l200-l200-1g-forte",
+    "name": "L200 1G (Forte)",
+    "type": "Pickup"
+  },
+  {
+    "id": "mitsubishi-l200-l200-2g",
+    "name": "L200 2G",
+    "type": "Pickup"
+  },
+  {
+    "id": "mitsubishi-lancer-lancer-1g-a70",
+    "name": "Lancer 1G (A70)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mitsubishi-lancer-evolution-evolution-i-iii-cd9a-ce9a",
+    "name": "Lancer Evolution Evolution I-III (CD9A/CE9A)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mitsubishi-lancer-evolution-evolution-iv-v-cn9a-cp9a",
+    "name": "Lancer Evolution Evolution IV-V (CN9A/CP9A)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mitsubishi-lancer-lancer-ex-2g-a150",
+    "name": "Lancer EX 2G (A150)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mitsubishi-mirage-mirage-colt-1g",
+    "name": "Mirage/Colt 1G",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mitsubishi-mirage-mirage-colt-2g",
+    "name": "Mirage/Colt 2G",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mitsubishi-mirage-mirage-colt-3g",
+    "name": "Mirage/Colt 3G",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mitsubishi-mirage-mirage-colt-4g",
+    "name": "Mirage/Colt 4G",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mitsubishi-pajero-pajero-1g-l040",
+    "name": "Pajero 1G (L040)",
+    "type": "SUV"
+  },
+  {
+    "id": "mitsubishi-pajero-pajero-2g-v20",
+    "name": "Pajero 2G (V20)",
+    "type": "SUV"
+  },
+  {
+    "id": "mitsubishi-sapporo-sapporo-a12x",
+    "name": "Sapporo (A12x)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mitsubishi-sigma-sigma-f10-export-diamante",
+    "name": "Sigma (F10, export Diamante)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mitsubishi-space-wagon-chariot-1g-d0xw",
+    "name": "Space Wagon Chariot 1G (D0xW)",
+    "type": "Van"
+  },
+  {
+    "id": "mitsubishi-space-wagon-chariot-2g-n3xw",
+    "name": "Space Wagon Chariot 2G (N3xW)",
+    "type": "Van"
+  },
+  {
+    "id": "mitsubishi-starion-starion-a18x-wide-body",
+    "name": "Starion (A18x, wide-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mitsubishi-starion-starion-a18x",
+    "name": "Starion (A18x)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mitsubishi-tredia-tredia-a21x",
+    "name": "Tredia (A21x)",
+    "type": "Sedan"
+  }
+]

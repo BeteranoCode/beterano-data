@@ -1,0 +1,347 @@
+[
+  {
+    "id": "auburn-12-160-12-160-12-160a-1932",
+    "name": "12-160 / 12-160A (1932)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-12-161-12-161-12-161a-1933",
+    "name": "12-161 / 12-161A (1933)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-12-165-12-165-salon-1933-1934",
+    "name": "12-165 Salon (1933-1934)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-union-4-36-4-34-union-1916-1917",
+    "name": "4-36 / 4-34 Union (1916-1917)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-beauty-six-6-39-beauty-six-1919-1921",
+    "name": "6-39 Beauty Six (1919-1921)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-beauty-six-6-51-beauty-six-1922",
+    "name": "6-51 Beauty Six (1922)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-653-6-653-1935",
+    "name": "6-653 (1935)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-654-6-654-1936",
+    "name": "6-654 (1936)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-652-652x-652y-1934",
+    "name": "652X / 652Y (1934)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-8-100-8-100-8-100a-1932",
+    "name": "8-100 / 8-100A (1932)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-8-101-8-101-8-101a-8-105-1933",
+    "name": "8-101 / 8-101A / 8-105 (1933)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-851-8-851-atmosferico-1935",
+    "name": "8-851 atmosferico (1935)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-852-8-852-atmosferico-1936",
+    "name": "8-852 atmosferico (1936)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-8-88-8-88-1926-1927",
+    "name": "8-88 (1926-1927)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-8-88-8-88-1928-1929",
+    "name": "8-88 (1928-1929)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-8-88-8-88-eight-in-line-1925",
+    "name": "8-88 Eight-in-Line (1925)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-8-98-8-98-8-98a-1931",
+    "name": "8-98 / 8-98A (1931)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-850-850x-850y-8-50x-8-50y-1934",
+    "name": "850X / 850Y (8-50X / 8-50Y, 1934)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-851-speedster-8-851-sc-boattail-speedster-1935",
+    "name": "851 Speedster 8-851 SC Boattail Speedster (1935)",
+    "type": "Roadster"
+  },
+  {
+    "id": "auburn-852-speedster-8-852-sc-boattail-speedster-1936",
+    "name": "852 Speedster 8-852 SC Boattail Speedster (1936)",
+    "type": "Roadster"
+  },
+  {
+    "id": "auburn-30l-model-30l-1912",
+    "name": "Model 30L (1912)",
+    "type": "Roadster"
+  },
+  {
+    "id": "auburn-33l-model-33l-33m-1913",
+    "name": "Model 33L / 33M (1913)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-35l-model-35l-1912",
+    "name": "Model 35L (1912)",
+    "type": "Roadster"
+  },
+  {
+    "id": "auburn-37l-model-37l-1913",
+    "name": "Model 37L (1913)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-4-36-model-4-36-1915-1917",
+    "name": "Model 4-36 (1915-1917)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-4-38-model-4-38-1916-1917",
+    "name": "Model 4-38 (1916-1917)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-4-40-model-4-40-4-41-1914",
+    "name": "Model 4-40 / 4-41 (1914)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-4-43-model-4-43-1915",
+    "name": "Model 4-43 (1915)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-4-44-model-4-44-1926",
+    "name": "Model 4-44 (1926)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-40-model-40-40a-40l-1913",
+    "name": "Model 40 / 40A / 40L (1913)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-6-38-model-6-38-1916",
+    "name": "Model 6-38 (1916)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-6-39-model-6-39-1917",
+    "name": "Model 6-39 (1917)",
+    "type": "Roadster"
+  },
+  {
+    "id": "auburn-6-39-model-6-39-1918",
+    "name": "Model 6-39 (1918)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-6-40-model-6-40-1915-1916",
+    "name": "Model 6-40 (1915-1916)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-6-43-model-6-43-1923-1925",
+    "name": "Model 6-43 (1923-1925)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-6-44-model-6-44-1917-1918",
+    "name": "Model 6-44 (1917-1918)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-6-45-model-6-45-6-46-1913-1914",
+    "name": "Model 6-45 / 6-46 (1913-1914)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-6-47-model-6-47-1915",
+    "name": "Model 6-47 (1915)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-6-50-model-6-50-1912-1913",
+    "name": "Model 6-50 (1912-1913)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-6-51-model-6-51-1923",
+    "name": "Model 6-51 (1923)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-6-63-model-6-63-1923-1924",
+    "name": "Model 6-63 (1923-1924)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-6-66-model-6-66-1925-1927",
+    "name": "Model 6-66 (1925-1927)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-6-76-model-6-76-1928-1929",
+    "name": "Model 6-76 (1928-1929)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-6-80-model-6-80-1929",
+    "name": "Model 6-80 (1929)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-6-85-model-6-85-1930",
+    "name": "Model 6-85 (1930)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-8-115-model-8-115-1928-1929",
+    "name": "Model 8-115 (1928-1929)",
+    "type": "Roadster"
+  },
+  {
+    "id": "auburn-8-120-model-8-120-boattail-speedster-1929",
+    "name": "Model 8-120 Boattail Speedster (1929)",
+    "type": "Roadster"
+  },
+  {
+    "id": "auburn-8-125-model-8-125-speedster-1930",
+    "name": "Model 8-125 Speedster (1930)",
+    "type": "Roadster"
+  },
+  {
+    "id": "auburn-8-63-model-8-63-1925",
+    "name": "Model 8-63 (1925)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-8-77-model-8-77-1927-1928",
+    "name": "Model 8-77 (1927-1928)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-8-90-model-8-90-1929",
+    "name": "Model 8-90 (1929)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-8-95-model-8-95-1930",
+    "name": "Model 8-95 (1930)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auburn-model-a-model-a-tonneau-touring-10-hp",
+    "name": "Model A Tonneau/Touring (10 hp)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-model-a-model-a-tonneau-touring-6-hp",
+    "name": "Model A Tonneau/Touring (6 hp)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-model-b-model-b-touring-2-cil",
+    "name": "Model B Touring (2-cil.)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-model-b-model-b-c-touring-4-cil-106in",
+    "name": "Model B/C Touring (4-cil., 106in)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-model-c-model-c-touring-2-cil",
+    "name": "Model C Touring (2-cil.)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-model-d-model-d-roadster-4-cil",
+    "name": "Model D Roadster (4-cil.)",
+    "type": "Roadster"
+  },
+  {
+    "id": "auburn-model-d-model-d-e-touring-2-cil",
+    "name": "Model D/E Touring (2-cil.)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-model-f-model-f-roadster-2-cil",
+    "name": "Model F Roadster (2-cil.)",
+    "type": "Roadster"
+  },
+  {
+    "id": "auburn-model-g-model-g-touring-2-cil",
+    "name": "Model G Touring (2-cil.)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-model-h-model-h-close-coupled-touring-2-cil",
+    "name": "Model H Close-coupled Touring (2-cil.)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-model-k-model-k-roadster-2-cil",
+    "name": "Model K Roadster (2-cil.)",
+    "type": "Roadster"
+  },
+  {
+    "id": "auburn-model-l-model-f-l-touring-4-cil-112in",
+    "name": "Model L Model F/L Touring (4-cil., 112in)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-runabout-runabout-1-cil-10-hp",
+    "name": "Runabout 1-cil. (10 hp)",
+    "type": "Roadster"
+  },
+  {
+    "id": "auburn-runabout-runabout-1-cil-6-hp",
+    "name": "Runabout 1-cil. (6 hp)",
+    "type": "Roadster"
+  },
+  {
+    "id": "auburn-serie-40-serie-m-n-t-y-4-cil-3181-ci",
+    "name": "Serie 40 Serie M/N/T/Y (4-cil. 318.1 ci)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-serie-40-serie-r-s-x-4-cil-3181-ci",
+    "name": "Serie 40 Serie R/S/X (4-cil. 318.1 ci)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "auburn-40-serie-40h-40m-40n-1912",
+    "name": "Serie 40H/40M/40N (1912)",
+    "type": "Cabrio"
+  }
+]

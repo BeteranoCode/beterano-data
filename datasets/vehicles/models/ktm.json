@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ktm-360-sx-360-sx-mxc-2t",
+    "name": "360 SX/MXC (2T)",
+    "type": "Moto"
+  },
+  {
+    "id": "ktm-550-mx-550-mx-mxc-open-class-2t",
+    "name": "550 MX/MXC (open-class 2T)",
+    "type": "Moto"
+  },
+  {
+    "id": "ktm-620-adventure-620-lc4-egs-adventure",
+    "name": "620 Adventure 620 LC4 (EGS/Adventure)",
+    "type": "Moto"
+  },
+  {
+    "id": "ktm-duke-duke-i-620-640",
+    "name": "Duke I (620/640)",
+    "type": "Moto"
+  }
+]

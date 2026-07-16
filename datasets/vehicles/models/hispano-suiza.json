@@ -1,0 +1,162 @@
+[
+  {
+    "id": "hispano-suiza-12-15-hp-12-15-hp",
+    "name": "12-15 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-14-hp-14-hp",
+    "name": "14 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-15-20-hp-15-20-hp",
+    "name": "15-20 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-16-hp-tipo-30-t30",
+    "name": "16 HP Tipo 30 (T30)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-20-hp-20-24-hp",
+    "name": "20 HP 20-24 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-20-30-hp-20-30-hp-38l",
+    "name": "20-30 HP (3.8L)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-20-30-hp-20-30-hp-41l",
+    "name": "20-30 HP (4.1L)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-30-hp-espana-tipo-32-t32",
+    "name": "30 HP Espana Tipo 32 (T32)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-30-40-hp-30-40-hp",
+    "name": "30-40 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-40-hp-40-hp",
+    "name": "40 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-40-50-hp-40-50-hp",
+    "name": "40-50 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-60-75-hp-60-75-hp",
+    "name": "60-75 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-66g-tipo-66-g",
+    "name": "66G Tipo 66 G",
+    "type": "Camion"
+  },
+  {
+    "id": "hispano-suiza-alfonso-xiii-16v-tipo-26-t26",
+    "name": "Alfonso XIII 16v Tipo 26 (T26)",
+    "type": "Roadster"
+  },
+  {
+    "id": "hispano-suiza-alfonso-xiii-tipo-45-t45",
+    "name": "Alfonso XIII Tipo 45 (T45)",
+    "type": "Roadster"
+  },
+  {
+    "id": "hispano-suiza-j12-tipo-68-t68",
+    "name": "J12 Tipo 68 (T68)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hispano-suiza-j12-tipo-68-bis-t68-bis",
+    "name": "J12 Tipo 68 Bis (T68 bis)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hispano-suiza-junior-tipo-64-t64-hs26",
+    "name": "Junior Tipo 64 (T64 / HS26)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hispano-suiza-k6-tipo-70-t70",
+    "name": "K6 Tipo 70 (T70)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hispano-suiza-t48-tipo-48",
+    "name": "T48 Tipo 48",
+    "type": "Sedan"
+  },
+  {
+    "id": "hispano-suiza-t49-tipo-49",
+    "name": "T49 Tipo 49",
+    "type": "Sedan"
+  },
+  {
+    "id": "hispano-suiza-t60-tipo-60",
+    "name": "T60 Tipo 60",
+    "type": "Sedan"
+  },
+  {
+    "id": "hispano-suiza-t60-tipo-60-rl-rla",
+    "name": "T60 Tipo 60 RL / RLA",
+    "type": "Sedan"
+  },
+  {
+    "id": "hispano-suiza-tipo-21-tipo-21-15-hp-de-luxe",
+    "name": "Tipo 21 15 HP de Luxe",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-tipo-22-tipo-22-18-hp-de-luxe",
+    "name": "Tipo 22 18 HP de Luxe",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-tipo-23-tipo-23-30-hp-de-luxe",
+    "name": "Tipo 23 30 HP de Luxe",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hispano-suiza-tipo-24-tipo-24-8-10-hp",
+    "name": "Tipo 24 (8-10 HP)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hispano-suiza-h6-tipo-46-h6",
+    "name": "Tipo 46 - H6",
+    "type": "Sedan"
+  },
+  {
+    "id": "hispano-suiza-h6-tipo-46-h6b",
+    "name": "Tipo 46 - H6B",
+    "type": "Sedan"
+  },
+  {
+    "id": "hispano-suiza-h6-tipo-46-h6b-bis",
+    "name": "Tipo 46 - H6B Bis",
+    "type": "Sedan"
+  },
+  {
+    "id": "hispano-suiza-h6c-tipo-56-h6c",
+    "name": "Tipo 56 - H6C",
+    "type": "Sedan"
+  },
+  {
+    "id": "hispano-suiza-h6c-tipo-56-h6c-bis",
+    "name": "Tipo 56 - H6C Bis",
+    "type": "Sedan"
+  }
+]

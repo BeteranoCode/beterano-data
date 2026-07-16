@@ -1,0 +1,322 @@
+[
+  {
+    "id": "fiat-124-124-berlina",
+    "name": "124 Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-124-sport-coup-ac-bc-cc",
+    "name": "124 Sport Coupé AC / BC / CC",
+    "type": "Coupe"
+  },
+  {
+    "id": "fiat-124-sport-spider-124-spider-as-bs",
+    "name": "124 Sport Spider 124 Spider (AS/BS)",
+    "type": "Spider"
+  },
+  {
+    "id": "fiat-124-sport-spider-spider-2000-cs",
+    "name": "124 Sport Spider Spider 2000 (CS)",
+    "type": "Spider"
+  },
+  {
+    "id": "fiat-125-125-125-special",
+    "name": "125 / 125 Special",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-126-126-650",
+    "name": "126 (650)",
+    "type": "Microcar"
+  },
+  {
+    "id": "fiat-126-126-bis",
+    "name": "126 BIS",
+    "type": "Microcar"
+  },
+  {
+    "id": "fiat-127-serie-1",
+    "name": "127 Serie 1",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-127-serie-2",
+    "name": "127 Serie 2",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-127-serie-3",
+    "name": "127 Serie 3",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-128-128-berlina",
+    "name": "128 Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-128-128-sport-coup-3p",
+    "name": "128 Sport Coupé / 3P",
+    "type": "Coupe"
+  },
+  {
+    "id": "fiat-130-130-berlina",
+    "name": "130 Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-130-130-coup",
+    "name": "130 Coupé",
+    "type": "Coupe"
+  },
+  {
+    "id": "fiat-131-mirafiori-131-diesel",
+    "name": "131 Mirafiori 131 Diesel",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-131-mirafiori-131-racing-abarth",
+    "name": "131 Mirafiori 131 Racing / Abarth",
+    "type": "Coupe"
+  },
+  {
+    "id": "fiat-131-mirafiori-serie-1",
+    "name": "131 Mirafiori Serie 1",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-131-mirafiori-supermirafiori-serie-2-3",
+    "name": "131 Mirafiori Supermirafiori (Serie 2/3)",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-132-132-serie-1",
+    "name": "132 (Serie 1)",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-132-132-serie-2-3",
+    "name": "132 (Serie 2/3)",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-132-132-diesel",
+    "name": "132 Diesel",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-500-500-r",
+    "name": "500 R",
+    "type": "Microcar"
+  },
+  {
+    "id": "fiat-600-600",
+    "name": "600",
+    "type": "Microcar"
+  },
+  {
+    "id": "fiat-600-600-d",
+    "name": "600 D",
+    "type": "Microcar"
+  },
+  {
+    "id": "fiat-600-multipla-multipla",
+    "name": "600 Multipla",
+    "type": "Van"
+  },
+  {
+    "id": "fiat-850-850-berlina",
+    "name": "850 Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-850-850-coup",
+    "name": "850 Coupé",
+    "type": "Coupe"
+  },
+  {
+    "id": "fiat-850-850-spider",
+    "name": "850 Spider",
+    "type": "Spider"
+  },
+  {
+    "id": "fiat-argenta-argenta-132-restyling",
+    "name": "Argenta (132 restyling)",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-argenta-argenta-2500-d",
+    "name": "Argenta 2500 D",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-cinquecento-cinquecento-170",
+    "name": "Cinquecento (170)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-cinquecento-cinquecento-sporting",
+    "name": "Cinquecento Sporting",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-coup-coup-175",
+    "name": "Coupé (175)",
+    "type": "Coupe"
+  },
+  {
+    "id": "fiat-croma-croma-i-154",
+    "name": "Croma I (154)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-croma-croma-i-154-turbo",
+    "name": "Croma I (154) Turbo",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-croma-croma-i-td-id",
+    "name": "Croma I TD i.d.",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-dino-dino-2000-spider",
+    "name": "Dino 2000 Spider",
+    "type": "Spider"
+  },
+  {
+    "id": "fiat-dino-dino-2400-coup",
+    "name": "Dino 2400 Coupé",
+    "type": "Coupe"
+  },
+  {
+    "id": "fiat-ducato-ducato-i-280-290",
+    "name": "Ducato I (280/290)",
+    "type": "Van"
+  },
+  {
+    "id": "fiat-ducato-ducato-i-280-290-diesel",
+    "name": "Ducato I (280/290) Diesel",
+    "type": "Van"
+  },
+  {
+    "id": "fiat-fiorino-fiorino-mk1-127-based",
+    "name": "Fiorino Mk1 (127-based)",
+    "type": "Van"
+  },
+  {
+    "id": "fiat-fiorino-fiorino-mk2-uno-based",
+    "name": "Fiorino Mk2 (Uno-based)",
+    "type": "Van"
+  },
+  {
+    "id": "fiat-500-nuova-500-110",
+    "name": "Nuova 500 (110)",
+    "type": "Microcar"
+  },
+  {
+    "id": "fiat-campagnola-nuova-campagnola-1107",
+    "name": "Nuova Campagnola (1107)",
+    "type": "SUV"
+  },
+  {
+    "id": "fiat-campagnola-nuova-campagnola-1107-diesel",
+    "name": "Nuova Campagnola (1107) Diesel",
+    "type": "SUV"
+  },
+  {
+    "id": "fiat-punto-punto-mk1-176",
+    "name": "Punto Mk1 (176)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-punto-punto-mk1-176-diesel",
+    "name": "Punto Mk1 (176) Diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-punto-punto-mk1-176-gt",
+    "name": "Punto Mk1 (176) GT",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-regata-regata-138",
+    "name": "Regata (138)",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-regata-regata-diesel-turbo-ds",
+    "name": "Regata Diesel / Turbo DS",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-ritmo-strada-abarth-105-130-tc",
+    "name": "Ritmo / Strada Abarth 105/130 TC",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-ritmo-strada-ritmo-serie-1-2",
+    "name": "Ritmo / Strada Ritmo (Serie 1/2)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-ritmo-strada-ritmo-diesel-turbo-ds",
+    "name": "Ritmo / Strada Ritmo Diesel / Turbo DS",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-tempra-tempra-159",
+    "name": "Tempra (159)",
+    "type": "Sedan"
+  },
+  {
+    "id": "fiat-tempra-tempra-sw",
+    "name": "Tempra SW",
+    "type": "Wagon"
+  },
+  {
+    "id": "fiat-tipo-tipo-160",
+    "name": "Tipo (160)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-tipo-tipo-160-16v",
+    "name": "Tipo (160) 16V",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-tipo-tipo-diesel-td",
+    "name": "Tipo Diesel / TD",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-uno-uno-serie-1",
+    "name": "Uno (Serie 1)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-uno-uno-serie-2",
+    "name": "Uno (Serie 2)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-uno-uno-diesel",
+    "name": "Uno Diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-uno-uno-turbo-ie",
+    "name": "Uno Turbo i.e.",
+    "type": "Hatchback"
+  },
+  {
+    "id": "fiat-x1-9-x1-9-1300",
+    "name": "X1/9 1300",
+    "type": "Roadster"
+  },
+  {
+    "id": "fiat-x1-9-x1-9-1500-bertone",
+    "name": "X1/9 1500 (Bertone)",
+    "type": "Roadster"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "id": "bultaco-alpina-alpina-125",
+    "name": "Alpina 125",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-alpina-alpina-250",
+    "name": "Alpina 250",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-alpina-alpina-350",
+    "name": "Alpina 350",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-astro-astro-250-modelo-163",
+    "name": "Astro 250 (Modelo 163)",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-astro-astro-360-modelo-164",
+    "name": "Astro 360 (Modelo 164)",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-155-200-bultaco-155-200",
+    "name": "Bultaco 155/200",
+    "type": "Naked"
+  },
+  {
+    "id": "bultaco-chispa-chispa-49",
+    "name": "Chispa 49",
+    "type": "Trial"
+  },
+  {
+    "id": "bultaco-el-bandido-el-bandido",
+    "name": "El Bandido",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-el-montadero-el-montadero",
+    "name": "El Montadero",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-frontera-frontera-mk10",
+    "name": "Frontera MK10",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-frontera-frontera-mk11",
+    "name": "Frontera MK11",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-frontera-frontera-mk11b",
+    "name": "Frontera MK11B",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-frontera-frontera-mk9",
+    "name": "Frontera MK9",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-lobito-lobito-125",
+    "name": "Lobito 125",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-lobito-lobito-74",
+    "name": "Lobito 74",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-matador-matador-mk1",
+    "name": "Matador MK1",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-matador-matador-mk10",
+    "name": "Matador MK10",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-matador-matador-mk2",
+    "name": "Matador MK2",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-matador-matador-mk4",
+    "name": "Matador MK4",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-matador-matador-mk5",
+    "name": "Matador MK5",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-matador-matador-mk9",
+    "name": "Matador MK9",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-mercurio-mercurio",
+    "name": "Mercurio",
+    "type": "Naked"
+  },
+  {
+    "id": "bultaco-metralla-metralla-62-m8",
+    "name": "Metralla 62 (M8)",
+    "type": "Naked"
+  },
+  {
+    "id": "bultaco-metralla-metralla-gts",
+    "name": "Metralla GTS",
+    "type": "Naked"
+  },
+  {
+    "id": "bultaco-metralla-metralla-mk2",
+    "name": "Metralla Mk2",
+    "type": "Naked"
+  },
+  {
+    "id": "bultaco-pursang-pursang-mk1",
+    "name": "Pursang MK1",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-pursang-pursang-mk10",
+    "name": "Pursang MK10",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-pursang-pursang-mk11",
+    "name": "Pursang MK11",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-pursang-pursang-mk12",
+    "name": "Pursang MK12",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-pursang-pursang-mk15",
+    "name": "Pursang MK15",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-pursang-pursang-mk2",
+    "name": "Pursang MK2",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-pursang-pursang-mk3",
+    "name": "Pursang MK3",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-pursang-pursang-mk4",
+    "name": "Pursang MK4",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-pursang-pursang-mk5",
+    "name": "Pursang MK5",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-pursang-pursang-mk6",
+    "name": "Pursang MK6",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-pursang-pursang-mk7",
+    "name": "Pursang MK7",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-pursang-pursang-mk8",
+    "name": "Pursang MK8",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-pursang-pursang-mk9",
+    "name": "Pursang MK9",
+    "type": "Motocross"
+  },
+  {
+    "id": "bultaco-sherpa-s-sherpa-s",
+    "name": "Sherpa S",
+    "type": "Enduro"
+  },
+  {
+    "id": "bultaco-sherpa-t-sherpa-t-modelo-10",
+    "name": "Sherpa T Modelo 10",
+    "type": "Trial"
+  },
+  {
+    "id": "bultaco-sherpa-t-sherpa-t-modelo-124-125",
+    "name": "Sherpa T Modelo 124/125",
+    "type": "Trial"
+  },
+  {
+    "id": "bultaco-sherpa-t-sherpa-t-modelo-158-159",
+    "name": "Sherpa T Modelo 158/159",
+    "type": "Trial"
+  },
+  {
+    "id": "bultaco-sherpa-t-sherpa-t-modelo-198-199",
+    "name": "Sherpa T Modelo 198/199",
+    "type": "Trial"
+  },
+  {
+    "id": "bultaco-sherpa-t-sherpa-t-modelo-27",
+    "name": "Sherpa T Modelo 27",
+    "type": "Trial"
+  },
+  {
+    "id": "bultaco-sherpa-t-sherpa-t-modelo-49",
+    "name": "Sherpa T Modelo 49",
+    "type": "Trial"
+  },
+  {
+    "id": "bultaco-sherpa-t-sherpa-t-modelo-80",
+    "name": "Sherpa T Modelo 80",
+    "type": "Trial"
+  },
+  {
+    "id": "bultaco-sherpa-t-sherpa-t-modelo-91-92",
+    "name": "Sherpa T Modelo 91/92",
+    "type": "Trial"
+  },
+  {
+    "id": "bultaco-streaker-streaker-125",
+    "name": "Streaker 125",
+    "type": "Naked"
+  },
+  {
+    "id": "bultaco-streaker-streaker-74",
+    "name": "Streaker 74",
+    "type": "Naked"
+  },
+  {
+    "id": "bultaco-tralla-tralla-101-102",
+    "name": "Tralla 101/102",
+    "type": "Naked"
+  }
+]

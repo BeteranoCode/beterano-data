@@ -1,0 +1,102 @@
+[
+  {
+    "id": "chrysler-cirrus-cirrus-ja",
+    "name": "Cirrus (JA)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chrysler-concorde-concorde-1a-gen-lh",
+    "name": "Concorde (1a gen, LH)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chrysler-fifth-avenue-fifth-avenue-m-body",
+    "name": "Fifth Avenue (M-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chrysler-imperial-imperial-c-body",
+    "name": "Imperial (C-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chrysler-lebaron-lebaron-j-body-3a-gen",
+    "name": "LeBaron (J-body, 3a gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "chrysler-lebaron-lebaron-k-body-2a-gen",
+    "name": "LeBaron (K-body, 2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chrysler-lebaron-lebaron-m-body-1a-gen",
+    "name": "LeBaron (M-body, 1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chrysler-lebaron-gts-lebaron-gts-h-body",
+    "name": "LeBaron GTS (H-body)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "chrysler-lhs-lhs-1a-gen-lh",
+    "name": "LHS (1a gen, LH)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chrysler-neon-neon-europa-1a-gen",
+    "name": "Neon (Europa, 1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chrysler-new-yorker-new-yorker-lh-14a-gen",
+    "name": "New Yorker (LH, 14a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chrysler-new-yorker-fifth-avenue-new-yorker-fifth-avenue-c-body",
+    "name": "New Yorker Fifth Avenue New Yorker/Fifth Avenue (C-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chrysler-saratoga-saratoga-europa",
+    "name": "Saratoga (Europa)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chrysler-sebring-sebring-coupe-1a-gen-fj",
+    "name": "Sebring Coupe (1a gen, FJ)",
+    "type": "Coupe"
+  },
+  {
+    "id": "chrysler-sebring-sebring-stratus-convertible-1a-gen-jx",
+    "name": "Sebring/Stratus Convertible (1a gen, JX)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "chrysler-town-country-town-country-2a-gen-as",
+    "name": "Town & Country (2a gen, AS)",
+    "type": "Van"
+  },
+  {
+    "id": "chrysler-town-country-town-country-3a-gen-ns",
+    "name": "Town & Country (3a gen, NS)",
+    "type": "Van"
+  },
+  {
+    "id": "chrysler-vision-vision-lh",
+    "name": "Vision (LH)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chrysler-voyager-voyager-grand-voyager-europa-1a-gen-as",
+    "name": "Voyager/Grand Voyager (Europa, 1a gen AS)",
+    "type": "Van"
+  },
+  {
+    "id": "chrysler-voyager-voyager-grand-voyager-europa-2a-gen-ns",
+    "name": "Voyager/Grand Voyager (Europa, 2a gen NS)",
+    "type": "Van"
+  }
+]

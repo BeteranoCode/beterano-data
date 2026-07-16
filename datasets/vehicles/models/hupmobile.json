@@ -1,0 +1,157 @@
+[
+  {
+    "id": "hupmobile-aerodynamic-model-j-421-j-j-521",
+    "name": "Aerodynamic Model J (421-J / J-521)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-aerodynamic-model-t-427-t",
+    "name": "Aerodynamic Model T (427-T)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-century-eight-century-eight-series-125",
+    "name": "Century Eight (Series 125)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-century-six-century-six-a-6-series-521",
+    "name": "Century Six (A-6 / Series 521)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-20-model-20",
+    "name": "Model 20",
+    "type": "Roadster"
+  },
+  {
+    "id": "hupmobile-model-32-model-32-model-h",
+    "name": "Model 32 (Model H)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hupmobile-model-a-model-a",
+    "name": "Model A",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-b-model-b-216-b-316",
+    "name": "Model B-216 / B-316",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-c-model-c",
+    "name": "Model C",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-d-model-d-518",
+    "name": "Model D-518",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-e-model-822-e",
+    "name": "Model E Model 822-E",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-e-model-e-1",
+    "name": "Model E-1",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-e-model-e-2",
+    "name": "Model E-2",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-f-model-f-222",
+    "name": "Model F-222",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-g-model-618-g",
+    "name": "Model G Model 618-G",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-h-model-h",
+    "name": "Model H",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-h-model-825-h",
+    "name": "Model H Model 825-H",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-i-model-i-226",
+    "name": "Model I-226",
+    "type": "Coupe"
+  },
+  {
+    "id": "hupmobile-model-k-model-k",
+    "name": "Model K",
+    "type": "Roadster"
+  },
+  {
+    "id": "hupmobile-model-k-model-k-321",
+    "name": "Model K-321",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-l-model-l",
+    "name": "Model L",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-m-model-m-m1",
+    "name": "Model M / M1",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-n-model-n",
+    "name": "Model N",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hupmobile-model-n-model-621-n",
+    "name": "Model N Model 621-N",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-o-model-o-521",
+    "name": "Model O-521",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-r-model-r-1a-serie",
+    "name": "Model R (1a serie)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "hupmobile-model-r-model-r-2a-serie",
+    "name": "Model R (2a serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-s-model-s",
+    "name": "Model S",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-u-model-u",
+    "name": "Model U",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-model-w-model-w",
+    "name": "Model W",
+    "type": "Sedan"
+  },
+  {
+    "id": "hupmobile-skylark-skylark-model-r",
+    "name": "Skylark (Model R)",
+    "type": "Sedan"
+  }
+]

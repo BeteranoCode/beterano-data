@@ -1,0 +1,37 @@
+[
+  {
+    "id": "zaz-zaporozhets-zaz-965",
+    "name": "Zaporozhets ZAZ-965",
+    "type": "Sedan"
+  },
+  {
+    "id": "zaz-zaporozhets-zaz-965a",
+    "name": "Zaporozhets ZAZ-965A",
+    "type": "Sedan"
+  },
+  {
+    "id": "zaz-zaporozhets-zaz-966",
+    "name": "Zaporozhets ZAZ-966",
+    "type": "Sedan"
+  },
+  {
+    "id": "zaz-zaporozhets-zaz-968",
+    "name": "Zaporozhets ZAZ-968",
+    "type": "Sedan"
+  },
+  {
+    "id": "zaz-zaporozhets-zaz-968a",
+    "name": "Zaporozhets ZAZ-968A",
+    "type": "Sedan"
+  },
+  {
+    "id": "zaz-zaporozhets-zaz-968m",
+    "name": "Zaporozhets ZAZ-968M",
+    "type": "Sedan"
+  },
+  {
+    "id": "zaz-dana-zaz-1105-dana",
+    "name": "ZAZ-1105 Dana",
+    "type": "Wagon"
+  }
+]

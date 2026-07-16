@@ -1,0 +1,52 @@
+[
+  {
+    "id": "panther-brooklands-brooklands-j72-re-ingenierizado",
+    "name": "Brooklands (J72 re-ingenierizado)",
+    "type": "Roadster"
+  },
+  {
+    "id": "panther-de-ville-de-ville-convertible",
+    "name": "De Ville Convertible",
+    "type": "Cabrio"
+  },
+  {
+    "id": "panther-de-ville-de-ville-saloon",
+    "name": "De Ville Saloon",
+    "type": "Sedan"
+  },
+  {
+    "id": "panther-j72-j72",
+    "name": "J72",
+    "type": "Roadster"
+  },
+  {
+    "id": "panther-kallista-kallista",
+    "name": "Kallista",
+    "type": "Roadster"
+  },
+  {
+    "id": "panther-lima-lima-serie-1-mk1",
+    "name": "Lima Serie 1 (Mk1)",
+    "type": "Roadster"
+  },
+  {
+    "id": "panther-lima-lima-serie-2-mk2",
+    "name": "Lima Serie 2 (Mk2)",
+    "type": "Roadster"
+  },
+  {
+    "id": "panther-panther-6-panther-6",
+    "name": "Panther 6",
+    "type": "Cabrio"
+  },
+  {
+    "id": "panther-rio-rio",
+    "name": "Rio",
+    "type": "Sedan"
+  },
+  {
+    "id": "panther-solo-solo-2",
+    "name": "Solo 2",
+    "type": "Coupe"
+  }
+]

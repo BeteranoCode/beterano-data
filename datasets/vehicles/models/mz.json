@@ -1,0 +1,197 @@
+[
+  {
+    "id": "mz-bk-350-bk-350-boxer-kardan",
+    "name": "BK 350 (Boxer-Kardan)",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-es-125-es-125",
+    "name": "ES 125",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-es-125-es-125-1",
+    "name": "ES 125/1",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-es-150-es-150",
+    "name": "ES 150",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-es-150-es-150-1",
+    "name": "ES 150/1",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-es-175-es-175",
+    "name": "ES 175",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-es-175-es-175-1",
+    "name": "ES 175/1",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-es-175-es-175-2",
+    "name": "ES 175/2",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-es-250-es-250",
+    "name": "ES 250",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-es-250-es-250-1",
+    "name": "ES 250/1",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-es-250-es-250-2",
+    "name": "ES 250/2",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-es-300-es-300",
+    "name": "ES 300",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-ets-125-ets-125",
+    "name": "ETS 125",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-ets-150-ets-150",
+    "name": "ETS 150",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-ets-250-ets-250",
+    "name": "ETS 250",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-etz-125-etz-125",
+    "name": "ETZ 125",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-etz-150-etz-150",
+    "name": "ETZ 150",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-etz-250-etz-250",
+    "name": "ETZ 250",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-etz-251-etz-251",
+    "name": "ETZ 251",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-etz-301-etz-301",
+    "name": "ETZ 301",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-125-mz-125-2-rt-125-2",
+    "name": "MZ 125/2 (RT 125/2)",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-125-mz-125-3-rt-125-3",
+    "name": "MZ 125/3 (RT 125/3)",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-125-mz-125-4-rt-125-4",
+    "name": "MZ 125/4 (RT 125/4)",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-saxon-500-country-saxon-500-r",
+    "name": "Saxon 500 Country Saxon 500 R",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-saxon-500-fun-saxon-500-r",
+    "name": "Saxon 500 Fun Saxon 500 R",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-500-r-saxon-500-r",
+    "name": "Saxon 500 R",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-saxon-500-tour-saxon-500-r",
+    "name": "Saxon 500 Tour Saxon 500 R",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-saxon-fun-251-saxon-251",
+    "name": "Saxon Fun 251 Saxon 251",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-saxon-fun-301-saxon-301",
+    "name": "Saxon Fun 301 Saxon 301",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-saxon-roadstar-125-saxon-125",
+    "name": "Saxon Roadstar 125 Saxon 125",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-saxon-sportstar-125-saxon-125",
+    "name": "Saxon Sportstar 125 Saxon 125",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-saxon-tour-251-saxon-251",
+    "name": "Saxon Tour 251 Saxon 251",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-saxon-tour-301-saxon-301",
+    "name": "Saxon Tour 301 Saxon 301",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-silver-star-saxon-500-r",
+    "name": "Silver Star Saxon 500 R",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-skorpion-skorpion",
+    "name": "Skorpion",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-ts-125-ts-125",
+    "name": "TS 125",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-ts-150-ts-150",
+    "name": "TS 150",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-ts-250-ts-250",
+    "name": "TS 250",
+    "type": "Moto"
+  },
+  {
+    "id": "mz-ts-250-ts-250-1",
+    "name": "TS 250/1",
+    "type": "Moto"
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "id": "citroen-2cv-2cv-type-a",
+    "name": "2CV (Type A)",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-2cv-2cv6",
+    "name": "2CV6",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-acadiane-acadiane",
+    "name": "Acadiane",
+    "type": "Van"
+  },
+  {
+    "id": "citroen-ami-ami-6",
+    "name": "Ami 6",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-ami-ami-8",
+    "name": "Ami 8",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-ami-ami-super",
+    "name": "Ami Super",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-ax-ax",
+    "name": "AX",
+    "type": "Hatchback"
+  },
+  {
+    "id": "citroen-ax-ax-diesel",
+    "name": "AX Diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "citroen-ax-ax-gt-gti",
+    "name": "AX GT/GTi",
+    "type": "Hatchback"
+  },
+  {
+    "id": "citroen-bx-bx",
+    "name": "BX",
+    "type": "Hatchback"
+  },
+  {
+    "id": "citroen-bx-bx-break",
+    "name": "BX Break",
+    "type": "Wagon"
+  },
+  {
+    "id": "citroen-bx-bx-diesel-td",
+    "name": "BX Diesel/TD",
+    "type": "Hatchback"
+  },
+  {
+    "id": "citroen-bx-bx-gti-16v",
+    "name": "BX GTi 16v",
+    "type": "Hatchback"
+  },
+  {
+    "id": "citroen-c25-c25",
+    "name": "C25",
+    "type": "Van"
+  },
+  {
+    "id": "citroen-c35-c35",
+    "name": "C35",
+    "type": "Van"
+  },
+  {
+    "id": "citroen-cx-cx-break",
+    "name": "CX Break",
+    "type": "Wagon"
+  },
+  {
+    "id": "citroen-cx-cx-diesel-trd-turbo",
+    "name": "CX Diesel/TRD Turbo",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-cx-cx-gti-turbo",
+    "name": "CX GTi Turbo",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-cx-cx-serie-1-2",
+    "name": "CX Serie 1/2",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-ds-ds-19-20-21",
+    "name": "DS 19/20/21",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-ds-ds-23",
+    "name": "DS 23",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-ds-ds-break",
+    "name": "DS Break",
+    "type": "Wagon"
+  },
+  {
+    "id": "citroen-dyane-dyane",
+    "name": "Dyane",
+    "type": "Hatchback"
+  },
+  {
+    "id": "citroen-gs-gs",
+    "name": "GS",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-gsa-gsa",
+    "name": "GSA",
+    "type": "Hatchback"
+  },
+  {
+    "id": "citroen-id-id-19-20",
+    "name": "ID 19/20",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-lna-ln-lna",
+    "name": "LN / LNA",
+    "type": "Hatchback"
+  },
+  {
+    "id": "citroen-mehari-mehari",
+    "name": "Mehari",
+    "type": "SUV"
+  },
+  {
+    "id": "citroen-sm-sm",
+    "name": "SM",
+    "type": "Coupe"
+  },
+  {
+    "id": "citroen-traction-avant-15-six",
+    "name": "Traction Avant 15 Six",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-traction-avant-7-11-cv",
+    "name": "Traction Avant 7/11 CV",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-type-h-hy",
+    "name": "Type H HY",
+    "type": "Van"
+  },
+  {
+    "id": "citroen-type-h-hy-diesel",
+    "name": "Type H HY Diesel",
+    "type": "Van"
+  },
+  {
+    "id": "citroen-visa-visa",
+    "name": "Visa",
+    "type": "Hatchback"
+  },
+  {
+    "id": "citroen-visa-visa-diesel",
+    "name": "Visa Diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "citroen-xm-xm",
+    "name": "XM",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-xm-xm-break",
+    "name": "XM Break",
+    "type": "Wagon"
+  },
+  {
+    "id": "citroen-xm-xm-turbo-d",
+    "name": "XM Turbo D",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-xm-xm-v6",
+    "name": "XM V6",
+    "type": "Sedan"
+  },
+  {
+    "id": "citroen-zx-zx",
+    "name": "ZX",
+    "type": "Hatchback"
+  },
+  {
+    "id": "citroen-zx-zx-16v-20i",
+    "name": "ZX 16v/2.0i",
+    "type": "Hatchback"
+  },
+  {
+    "id": "citroen-zx-zx-break",
+    "name": "ZX Break",
+    "type": "Wagon"
+  },
+  {
+    "id": "citroen-zx-zx-diesel-td",
+    "name": "ZX Diesel/TD",
+    "type": "Hatchback"
+  }
+]

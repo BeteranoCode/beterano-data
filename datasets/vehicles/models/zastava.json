@@ -1,0 +1,87 @@
+[
+  {
+    "id": "zastava-ar-55-campagnola-ar-55",
+    "name": "AR-55 Campagnola",
+    "type": "SUV"
+  },
+  {
+    "id": "zastava-yugo-cabrio-yugo-cabrio",
+    "name": "Yugo Cabrio",
+    "type": "Cabrio"
+  },
+  {
+    "id": "zastava-yugo-gv-yugo-gv-usa",
+    "name": "Yugo GV (USA)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "zastava-yugo-gvx-yugo-gvx-usa",
+    "name": "Yugo GVX (USA)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "zastava-skala-yugo-skala-55-65-1a-serie",
+    "name": "Yugo Skala 55/65 (1a serie)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "zastava-101-zastava-101-1a-serie",
+    "name": "Zastava 101 (1a serie)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "zastava-101-zastava-101-gt-gtl",
+    "name": "Zastava 101 GT/GTL",
+    "type": "Hatchback"
+  },
+  {
+    "id": "zastava-101-zastava-101-s-sc",
+    "name": "Zastava 101 S/SC",
+    "type": "Hatchback"
+  },
+  {
+    "id": "zastava-1300-zastava-1300-tristac",
+    "name": "Zastava 1300 (Tristac)",
+    "type": "Sedan"
+  },
+  {
+    "id": "zastava-1300-familijar-zastava-1300-familijar",
+    "name": "Zastava 1300 Familijar",
+    "type": "Wagon"
+  },
+  {
+    "id": "zastava-1400-zastava-1400",
+    "name": "Zastava 1400",
+    "type": "Sedan"
+  },
+  {
+    "id": "zastava-1500-zastava-1500",
+    "name": "Zastava 1500",
+    "type": "Sedan"
+  },
+  {
+    "id": "zastava-615-zastava-615-zastavica",
+    "name": "Zastava 615 (Zastavica)",
+    "type": "Camion"
+  },
+  {
+    "id": "zastava-620b-zastava-620b",
+    "name": "Zastava 620B",
+    "type": "Camion"
+  },
+  {
+    "id": "zastava-750-zastava-750-fica",
+    "name": "Zastava 750 (Fica)",
+    "type": "Sedan"
+  },
+  {
+    "id": "zastava-850-zastava-850",
+    "name": "Zastava 850",
+    "type": "Sedan"
+  },
+  {
+    "id": "zastava-uno-zastava-yugo-uno-45r",
+    "name": "Zastava Yugo Uno 45R",
+    "type": "Hatchback"
+  }
+]

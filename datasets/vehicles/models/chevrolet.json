@@ -1,0 +1,242 @@
+[
+  {
+    "id": "chevrolet-bel-air-tri-five",
+    "name": "Bel Air Tri-Five",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-beretta-l-body",
+    "name": "Beretta L-body",
+    "type": "Coupe"
+  },
+  {
+    "id": "chevrolet-blazer-k5-full-size",
+    "name": "Blazer K5 full-size",
+    "type": "SUV"
+  },
+  {
+    "id": "chevrolet-c-k-3rd-gen-square-body",
+    "name": "C/K 3rd gen (Square Body)",
+    "type": "Pickup"
+  },
+  {
+    "id": "chevrolet-c-k-4th-gen-gmt400",
+    "name": "C/K 4th gen (GMT400)",
+    "type": "Pickup"
+  },
+  {
+    "id": "chevrolet-camaro-1st-gen",
+    "name": "Camaro 1st gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "chevrolet-camaro-2nd-gen",
+    "name": "Camaro 2nd gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "chevrolet-camaro-3rd-gen",
+    "name": "Camaro 3rd gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "chevrolet-caprice-4th-gen-b-body",
+    "name": "Caprice 4th gen B-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-cavalier-1st-gen-j-body",
+    "name": "Cavalier 1st gen (J-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-celebrity-a-body",
+    "name": "Celebrity A-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-chevelle-1st-2nd-gen",
+    "name": "Chevelle 1st/2nd gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "chevrolet-chevette-gm-do-brasil",
+    "name": "Chevette (GM do Brasil)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-chevette-t-body-usa",
+    "name": "Chevette T-body (USA)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "chevrolet-chevy-500-gm-do-brasil",
+    "name": "Chevy 500 (GM do Brasil)",
+    "type": "Pickup"
+  },
+  {
+    "id": "chevrolet-nova-chevy-ii-nova",
+    "name": "Chevy II / Nova",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-chevy-van-g-series-g10-20-30",
+    "name": "Chevy Van / G-Series G10/20/30",
+    "type": "Van"
+  },
+  {
+    "id": "chevrolet-citation-x-body",
+    "name": "Citation X-body",
+    "type": "Hatchback"
+  },
+  {
+    "id": "chevrolet-corsica-l-body",
+    "name": "Corsica L-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-corvair-1st-2nd-gen",
+    "name": "Corvair 1st/2nd gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "chevrolet-corvette-c1",
+    "name": "Corvette C1",
+    "type": "Roadster"
+  },
+  {
+    "id": "chevrolet-corvette-c2-sting-ray",
+    "name": "Corvette C2 Sting Ray",
+    "type": "Coupe"
+  },
+  {
+    "id": "chevrolet-corvette-c3",
+    "name": "Corvette C3",
+    "type": "Coupe"
+  },
+  {
+    "id": "chevrolet-corvette-c4",
+    "name": "Corvette C4",
+    "type": "Coupe"
+  },
+  {
+    "id": "chevrolet-el-camino-5th-gen-g-body",
+    "name": "El Camino 5th gen (G-body)",
+    "type": "Pickup"
+  },
+  {
+    "id": "chevrolet-impala-7th-gen-b-body",
+    "name": "Impala 7th gen B-body",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-impala-full-size-clasico",
+    "name": "Impala full-size (clasico)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-kadett-gm-do-brasil",
+    "name": "Kadett (GM do Brasil)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "chevrolet-lumina-1st-gen-w-body",
+    "name": "Lumina 1st gen (W-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-lumina-apv-u-body",
+    "name": "Lumina APV U-body",
+    "type": "Van"
+  },
+  {
+    "id": "chevrolet-luv-isuzu-faster",
+    "name": "LUV (Isuzu Faster)",
+    "type": "Pickup"
+  },
+  {
+    "id": "chevrolet-malibu-clasico-g-body",
+    "name": "Malibu clasico (G-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-marajo-gm-do-brasil",
+    "name": "Marajo (GM do Brasil)",
+    "type": "Wagon"
+  },
+  {
+    "id": "chevrolet-monte-carlo-1st-2nd-gen",
+    "name": "Monte Carlo 1st/2nd gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "chevrolet-monte-carlo-3rd-4th-gen-g-body",
+    "name": "Monte Carlo 3rd/4th gen (G-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "chevrolet-monte-carlo-5th-gen-w-body",
+    "name": "Monte Carlo 5th gen (W-body)",
+    "type": "Coupe"
+  },
+  {
+    "id": "chevrolet-monza-gm-do-brasil",
+    "name": "Monza (GM do Brasil)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-monza-h-body",
+    "name": "Monza H-body",
+    "type": "Coupe"
+  },
+  {
+    "id": "chevrolet-nova-5th-gen-fwd-nummi",
+    "name": "Nova 5th gen (FWD, NUMMI)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-omega-1st-gen-gm-do-brasil",
+    "name": "Omega 1st gen (GM do Brasil)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-opala-gm-do-brasil",
+    "name": "Opala (GM do Brasil)",
+    "type": "Sedan"
+  },
+  {
+    "id": "chevrolet-s-10-1st-gen",
+    "name": "S-10 1st gen",
+    "type": "Pickup"
+  },
+  {
+    "id": "chevrolet-s-10-blazer-1st-gen",
+    "name": "S-10 Blazer 1st gen",
+    "type": "SUV"
+  },
+  {
+    "id": "chevrolet-spectrum-isuzu-gemini",
+    "name": "Spectrum (Isuzu Gemini)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "chevrolet-sprint-suzuki-cultus",
+    "name": "Sprint (Suzuki Cultus)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "chevrolet-suburban-8th-gen-gmt400",
+    "name": "Suburban 8th gen (GMT400)",
+    "type": "SUV"
+  },
+  {
+    "id": "chevrolet-tahoe-1st-gen-gmt400",
+    "name": "Tahoe 1st gen (GMT400)",
+    "type": "SUV"
+  },
+  {
+    "id": "chevrolet-vega-h-body",
+    "name": "Vega H-body",
+    "type": "Hatchback"
+  }
+]

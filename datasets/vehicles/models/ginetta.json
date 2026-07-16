@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ginetta-g10-g10",
+    "name": "G10",
+    "type": "Roadster"
+  },
+  {
+    "id": "ginetta-g11-g11",
+    "name": "G11",
+    "type": "Roadster"
+  },
+  {
+    "id": "ginetta-g12-g12",
+    "name": "G12",
+    "type": "Coupe"
+  },
+  {
+    "id": "ginetta-g15-g15-mk-i-mk-iii",
+    "name": "G15 (Mk I-Mk III)",
+    "type": "Coupe"
+  },
+  {
+    "id": "ginetta-g16-g16-g16a",
+    "name": "G16 / G16A",
+    "type": "Spider"
+  },
+  {
+    "id": "ginetta-g2-g2",
+    "name": "G2",
+    "type": "Roadster"
+  },
+  {
+    "id": "ginetta-g21-g21",
+    "name": "G21",
+    "type": "Coupe"
+  },
+  {
+    "id": "ginetta-g26-g26",
+    "name": "G26",
+    "type": "Hatchback"
+  },
+  {
+    "id": "ginetta-g28-g28",
+    "name": "G28",
+    "type": "Coupe"
+  },
+  {
+    "id": "ginetta-g3-g3",
+    "name": "G3",
+    "type": "Roadster"
+  },
+  {
+    "id": "ginetta-g30-g30",
+    "name": "G30",
+    "type": "Hatchback"
+  },
+  {
+    "id": "ginetta-g31-g31",
+    "name": "G31",
+    "type": "Coupe"
+  },
+  {
+    "id": "ginetta-g32-g32",
+    "name": "G32",
+    "type": "Coupe"
+  },
+  {
+    "id": "ginetta-g32-g32-convertible",
+    "name": "G32 Convertible",
+    "type": "Cabrio"
+  },
+  {
+    "id": "ginetta-g33-g33-sc",
+    "name": "G33 SC",
+    "type": "Roadster"
+  },
+  {
+    "id": "ginetta-g33-g33-series-1",
+    "name": "G33 Series 1",
+    "type": "Roadster"
+  },
+  {
+    "id": "ginetta-g33-g33-series-2",
+    "name": "G33 Series 2",
+    "type": "Roadster"
+  },
+  {
+    "id": "ginetta-g34-g34-g40-en-uk",
+    "name": "G34 (G40 en UK)",
+    "type": "Roadster"
+  },
+  {
+    "id": "ginetta-g4-g4-series-1",
+    "name": "G4 Series 1",
+    "type": "Roadster"
+  },
+  {
+    "id": "ginetta-g4-g4-series-2",
+    "name": "G4 Series 2",
+    "type": "Roadster"
+  },
+  {
+    "id": "ginetta-g4-g4-series-3",
+    "name": "G4 Series 3",
+    "type": "Roadster"
+  },
+  {
+    "id": "ginetta-g4-g4-series-4",
+    "name": "G4 Series 4",
+    "type": "Roadster"
+  }
+]

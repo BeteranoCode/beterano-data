@@ -1,0 +1,112 @@
+[
+  {
+    "id": "rover-200-cabriolet-200-r8",
+    "name": "200 Cabriolet 200 R8",
+    "type": "Cabrio"
+  },
+  {
+    "id": "rover-200-coupe-200-r8-tomcat",
+    "name": "200 Coupe 200 R8 (Tomcat)",
+    "type": "Coupe"
+  },
+  {
+    "id": "rover-200-200-r3-3a-gen",
+    "name": "200 R3 (3a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "rover-200-200-r8-2a-gen",
+    "name": "200 R8 (2a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "rover-200-200-sd3-1a-gen",
+    "name": "200 SD3 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rover-400-400-hh-r-2a-gen",
+    "name": "400 HH-R (2a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "rover-400-400-r8-1a-gen",
+    "name": "400 R8 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rover-600-600-series",
+    "name": "600 Series",
+    "type": "Sedan"
+  },
+  {
+    "id": "rover-800-coupe-800-r17",
+    "name": "800 Coupe 800 R17",
+    "type": "Coupe"
+  },
+  {
+    "id": "rover-800-800-r17-facelift",
+    "name": "800 R17 (facelift)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rover-800-800-xx-1a-gen",
+    "name": "800 XX (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rover-metro-100-rover-100",
+    "name": "Metro / 100 Rover 100",
+    "type": "Hatchback"
+  },
+  {
+    "id": "rover-metro-100-rover-100-facelift",
+    "name": "Metro / 100 Rover 100 (facelift)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "rover-metro-100-rover-metro-r6",
+    "name": "Metro / 100 Rover Metro (R6)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "rover-p4-p4",
+    "name": "P4",
+    "type": "Sedan"
+  },
+  {
+    "id": "rover-p5-p5",
+    "name": "P5",
+    "type": "Sedan"
+  },
+  {
+    "id": "rover-p5-p5b",
+    "name": "P5B",
+    "type": "Sedan"
+  },
+  {
+    "id": "rover-p6-p6",
+    "name": "P6",
+    "type": "Sedan"
+  },
+  {
+    "id": "rover-maestro-rover-maestro",
+    "name": "Rover Maestro",
+    "type": "Hatchback"
+  },
+  {
+    "id": "rover-mini-rover-mini",
+    "name": "Rover Mini",
+    "type": "Sedan"
+  },
+  {
+    "id": "rover-montego-rover-montego",
+    "name": "Rover Montego",
+    "type": "Sedan"
+  },
+  {
+    "id": "rover-sd1-sd1",
+    "name": "SD1",
+    "type": "Hatchback"
+  }
+]

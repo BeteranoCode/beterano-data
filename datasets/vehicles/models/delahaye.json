@@ -1,0 +1,112 @@
+[
+  {
+    "id": "delahaye-type-0-type-0-1-2-primera-serie",
+    "name": "Type 0 / 1 / 2 (primera serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "delahaye-type-1-type-1",
+    "name": "Type 1",
+    "type": "Sedan"
+  },
+  {
+    "id": "delahaye-type-102-type-102-102m",
+    "name": "Type 102 / 102M",
+    "type": "Sedan"
+  },
+  {
+    "id": "delahaye-type-134-type-134",
+    "name": "Type 134",
+    "type": "Sedan"
+  },
+  {
+    "id": "delahaye-type-134-type-134n",
+    "name": "Type 134N",
+    "type": "Sedan"
+  },
+  {
+    "id": "delahaye-type-135-type-135-32l",
+    "name": "Type 135 (3.2L)",
+    "type": "Coupe"
+  },
+  {
+    "id": "delahaye-type-135-type-135-m",
+    "name": "Type 135 M",
+    "type": "Cabrio"
+  },
+  {
+    "id": "delahaye-type-135-type-135-ms",
+    "name": "Type 135 MS",
+    "type": "Roadster"
+  },
+  {
+    "id": "delahaye-type-138-type-138",
+    "name": "Type 138",
+    "type": "Sedan"
+  },
+  {
+    "id": "delahaye-type-145-type-145",
+    "name": "Type 145",
+    "type": "Roadster"
+  },
+  {
+    "id": "delahaye-type-148-type-148-148l",
+    "name": "Type 148 / 148L",
+    "type": "Sedan"
+  },
+  {
+    "id": "delahaye-type-155-type-155",
+    "name": "Type 155",
+    "type": "Roadster"
+  },
+  {
+    "id": "delahaye-type-163-type-163d",
+    "name": "Type 163D",
+    "type": "Camion"
+  },
+  {
+    "id": "delahaye-type-165-type-165",
+    "name": "Type 165",
+    "type": "Roadster"
+  },
+  {
+    "id": "delahaye-type-168-type-168",
+    "name": "Type 168",
+    "type": "Sedan"
+  },
+  {
+    "id": "delahaye-type-171-type-171",
+    "name": "Type 171",
+    "type": "Pickup"
+  },
+  {
+    "id": "delahaye-type-175-type-175",
+    "name": "Type 175",
+    "type": "Cabrio"
+  },
+  {
+    "id": "delahaye-type-178-type-178",
+    "name": "Type 178",
+    "type": "Sedan"
+  },
+  {
+    "id": "delahaye-type-180-type-180",
+    "name": "Type 180",
+    "type": "Sedan"
+  },
+  {
+    "id": "delahaye-type-235-type-235",
+    "name": "Type 235",
+    "type": "Coupe"
+  },
+  {
+    "id": "delahaye-type-44-type-44",
+    "name": "Type 44",
+    "type": "Sedan"
+  },
+  {
+    "id": "delahaye-vlr-vlr-vlrd",
+    "name": "VLR / VLRD",
+    "type": "SUV"
+  }
+]

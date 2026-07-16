@@ -1,0 +1,62 @@
+[
+  {
+    "id": "aprilia-af1-af1-125",
+    "name": "AF1 125",
+    "type": "Supersport"
+  },
+  {
+    "id": "aprilia-af1-af1-50",
+    "name": "AF1 50",
+    "type": "Supersport"
+  },
+  {
+    "id": "aprilia-amico-amico-50",
+    "name": "Amico 50",
+    "type": "Scooter"
+  },
+  {
+    "id": "aprilia-climber-climber-280",
+    "name": "Climber 280",
+    "type": "Trial"
+  },
+  {
+    "id": "aprilia-europa-europa-125",
+    "name": "Europa 125",
+    "type": "Naked"
+  },
+  {
+    "id": "aprilia-europa-europa-50",
+    "name": "Europa 50",
+    "type": "Naked"
+  },
+  {
+    "id": "aprilia-pegaso-pegaso-600",
+    "name": "Pegaso 600",
+    "type": "Enduro"
+  },
+  {
+    "id": "aprilia-pegaso-pegaso-650-1-gen",
+    "name": "Pegaso 650 (1ª gen)",
+    "type": "Enduro"
+  },
+  {
+    "id": "aprilia-red-rose-red-rose-125",
+    "name": "Red Rose 125",
+    "type": "Cruiser"
+  },
+  {
+    "id": "aprilia-red-rose-red-rose-50",
+    "name": "Red Rose 50",
+    "type": "Cruiser"
+  },
+  {
+    "id": "aprilia-tuareg-tuareg-125-rally",
+    "name": "Tuareg 125 Rally",
+    "type": "Enduro"
+  },
+  {
+    "id": "aprilia-tuareg-tuareg-600-wind",
+    "name": "Tuareg 600 Wind",
+    "type": "Adventure"
+  }
+]

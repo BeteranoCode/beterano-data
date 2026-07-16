@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ud-trucks-c-series-c-series-1a-gen",
+    "name": "C-series 1a gen",
+    "type": "Camion"
+  },
+  {
+    "id": "ud-trucks-c-series-c-series-2a-gen",
+    "name": "C-series 2a gen",
+    "type": "Camion"
+  },
+  {
+    "id": "ud-trucks-condor-condor-1a-gen",
+    "name": "Condor 1a gen",
+    "type": "Camion"
+  },
+  {
+    "id": "ud-trucks-condor-condor-2a-gen",
+    "name": "Condor 2a gen",
+    "type": "Camion"
+  }
+]

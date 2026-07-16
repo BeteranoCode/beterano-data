@@ -1,0 +1,167 @@
+[
+  {
+    "id": "leyland-atlantean-atlantean-an68",
+    "name": "Atlantean AN68",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-atlantean-atlantean-an69",
+    "name": "Atlantean AN69",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-atlantean-atlantean-pdr",
+    "name": "Atlantean PDR",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-comet-comet-1a-gen",
+    "name": "Comet 1a gen",
+    "type": "Camion"
+  },
+  {
+    "id": "leyland-comet-comet-2a-gen",
+    "name": "Comet 2a gen",
+    "type": "Camion"
+  },
+  {
+    "id": "leyland-constructor-constructor-t45",
+    "name": "Constructor (T45)",
+    "type": "Camion"
+  },
+  {
+    "id": "leyland-fleetline-fleetline-badge-leyland",
+    "name": "Fleetline (badge Leyland)",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-freighter-freighter-t45",
+    "name": "Freighter (T45)",
+    "type": "Camion"
+  },
+  {
+    "id": "leyland-landtrain-landtrain",
+    "name": "Landtrain",
+    "type": "Camion"
+  },
+  {
+    "id": "leyland-leopard-leopard-l-psu3-psu4-psu5",
+    "name": "Leopard (L / PSU3 / PSU4 / PSU5)",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-leopard-leopard-psu3-psu4-psu5",
+    "name": "Leopard (PSU3 / PSU4 / PSU5)",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-leopard-leopard-serie-final",
+    "name": "Leopard (serie final)",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-lynx-lynx",
+    "name": "Lynx",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-lynx-lynx-ii",
+    "name": "Lynx II",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-marathon-marathon-1",
+    "name": "Marathon 1",
+    "type": "Camion"
+  },
+  {
+    "id": "leyland-marathon-marathon-2",
+    "name": "Marathon 2",
+    "type": "Camion"
+  },
+  {
+    "id": "leyland-marina-marina-leyland-australia",
+    "name": "Marina (Leyland Australia)",
+    "type": "Sedan"
+  },
+  {
+    "id": "leyland-marina-marina-six-leyland-australia",
+    "name": "Marina Six (Leyland Australia)",
+    "type": "Sedan"
+  },
+  {
+    "id": "leyland-national-national-2",
+    "name": "National 2",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-national-national-mk1",
+    "name": "National Mk1",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-national-national-series-b",
+    "name": "National Series B",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-olympian-olympian",
+    "name": "Olympian",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-p76-p76",
+    "name": "P76",
+    "type": "Sedan"
+  },
+  {
+    "id": "leyland-roadrunner-roadrunner-t45",
+    "name": "Roadrunner (T45)",
+    "type": "Camion"
+  },
+  {
+    "id": "leyland-roadtrain-roadtrain-t45",
+    "name": "Roadtrain (T45)",
+    "type": "Camion"
+  },
+  {
+    "id": "leyland-royal-tiger-royal-tiger-b50-doyen",
+    "name": "Royal Tiger B50 Doyen",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-sherpa-sherpa-1a-gen-cv306",
+    "name": "Sherpa 1a gen (CV306)",
+    "type": "Van"
+  },
+  {
+    "id": "leyland-swift-swift",
+    "name": "Swift",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-tiger-tiger-b43",
+    "name": "Tiger B43",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-titan-titan-b15",
+    "name": "Titan B15",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-titan-titan-pd1",
+    "name": "Titan PD1",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-titan-titan-pd2",
+    "name": "Titan PD2",
+    "type": "Bus"
+  },
+  {
+    "id": "leyland-titan-titan-pd3",
+    "name": "Titan PD3",
+    "type": "Bus"
+  }
+]
