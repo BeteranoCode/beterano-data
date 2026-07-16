@@ -1,0 +1,222 @@
+[
+  {
+    "id": "prince-clipper-aqti",
+    "name": "Clipper AQTI",
+    "type": "Camion"
+  },
+  {
+    "id": "prince-clipper-bqti",
+    "name": "Clipper BQTI",
+    "type": "Camion"
+  },
+  {
+    "id": "prince-clipper-t630",
+    "name": "Clipper T630",
+    "type": "Camion"
+  },
+  {
+    "id": "prince-clipper-t65",
+    "name": "Clipper T65",
+    "type": "Camion"
+  },
+  {
+    "id": "prince-prince-commercial-aipc-1-aipc-2",
+    "name": "Commercial AIPC-1 / AIPC-2",
+    "type": "Pickup"
+  },
+  {
+    "id": "prince-gloria-a30-3a-gen",
+    "name": "Gloria A30 (3a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-gloria-blsip-1-1a-gen",
+    "name": "Gloria BLSIP-1 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-gloria-blsip-2-1a-gen",
+    "name": "Gloria BLSIP-2 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-gloria-blsip-3-1a-gen",
+    "name": "Gloria BLSIP-3 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-gloria-s40-2a-gen",
+    "name": "Gloria S40 (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-gloria-super-6-s41-2a-gen",
+    "name": "Gloria Super 6 S41 (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-gloria-wagon-w40-2a-gen",
+    "name": "Gloria Wagon W40 (2a gen)",
+    "type": "Wagon"
+  },
+  {
+    "id": "prince-grand-gloria-s44-2a-gen",
+    "name": "Grand Gloria S44 (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-homer-t64",
+    "name": "Homer T64",
+    "type": "Camion"
+  },
+  {
+    "id": "prince-homy-b640",
+    "name": "Homy B640",
+    "type": "Van"
+  },
+  {
+    "id": "prince-light-miler-t430-3a-gen",
+    "name": "Light Miler T430 (3a gen)",
+    "type": "Pickup"
+  },
+  {
+    "id": "prince-light-miler-t440-t446-4a-gen",
+    "name": "Light Miler T440 / T446 (4a gen)",
+    "type": "Pickup"
+  },
+  {
+    "id": "prince-prince-light-van-aive-1-aive-2",
+    "name": "Light Van AIVE-1 / AIVE-2",
+    "type": "Van"
+  },
+  {
+    "id": "prince-miler-aoth-1-aqth-1-1a-gen",
+    "name": "Miler AOTH-1 / AQTH-1 (1a gen)",
+    "type": "Pickup"
+  },
+  {
+    "id": "prince-miler-t441-t447-4a-gen",
+    "name": "Miler T441 / T447 (4a gen)",
+    "type": "Pickup"
+  },
+  {
+    "id": "prince-new-miler-arth-1-arth-2-2a-gen",
+    "name": "New Miler ARTH-1 / ARTH-2 (2a gen)",
+    "type": "Pickup"
+  },
+  {
+    "id": "prince-prince-sedan-aish-1",
+    "name": "Sedan AISH-1",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-prince-sedan-aish-2",
+    "name": "Sedan AISH-2",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-prince-sedan-aish-3",
+    "name": "Sedan AISH-3",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-prince-sedan-aish-4",
+    "name": "Sedan AISH-4",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-prince-sedan-aish-5",
+    "name": "Sedan AISH-5",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-prince-sedan-aish-6",
+    "name": "Sedan AISH-6",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-skyline-2000-gt-s54-2a-gen",
+    "name": "Skyline 2000 GT S54 (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-skyline-alsi-1-1a-gen",
+    "name": "Skyline ALSI-1 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-skyline-alsi-2-1a-gen",
+    "name": "Skyline ALSI-2 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-skyline-blsi-3-1a-gen",
+    "name": "Skyline BLSI-3 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-skyline-s21-1a-gen",
+    "name": "Skyline S21 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-skyline-s50-2a-gen",
+    "name": "Skyline S50 (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-skyline-s56se-2a-gen-exportacion",
+    "name": "Skyline S56SE (2a gen, exportacion)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-skyline-s57-2a-gen",
+    "name": "Skyline S57 (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "prince-skyline-sport-blra-3",
+    "name": "Skyline Sport BLRA-3",
+    "type": "Coupe"
+  },
+  {
+    "id": "prince-skyway-alvg-1-alpe-1",
+    "name": "Skyway ALVG-1 / ALPE-1",
+    "type": "Van"
+  },
+  {
+    "id": "prince-skyway-alvg-2-alpe-2",
+    "name": "Skyway ALVG-2 / ALPE-2",
+    "type": "Van"
+  },
+  {
+    "id": "prince-skyway-blvg-3-blpe-3",
+    "name": "Skyway BLVG-3 / BLPE-3",
+    "type": "Van"
+  },
+  {
+    "id": "prince-skyway-v23-p23",
+    "name": "Skyway V23 / P23",
+    "type": "Van"
+  },
+  {
+    "id": "prince-skyway-v51-1",
+    "name": "Skyway V51-1",
+    "type": "Van"
+  },
+  {
+    "id": "prince-skyway-v51a-2",
+    "name": "Skyway V51A-2",
+    "type": "Van"
+  },
+  {
+    "id": "prince-super-clipper-t631",
+    "name": "Super Clipper T631",
+    "type": "Camion"
+  },
+  {
+    "id": "prince-super-miler-t431-3a-gen",
+    "name": "Super Miler T431 (3a gen)",
+    "type": "Pickup"
+  }
+]

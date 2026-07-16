@@ -1,0 +1,27 @@
+[
+  {
+    "id": "wanderer-184-196-cc-monocilindrica-horizontal",
+    "name": "184/196 cc Monocilindrica horizontal",
+    "type": "Naked"
+  },
+  {
+    "id": "wanderer-327-cc-monocilindrica-sv",
+    "name": "327 cc Monocilindrica SV",
+    "type": "Naked"
+  },
+  {
+    "id": "wanderer-750-luxe-708-cc-ohv",
+    "name": "750 Luxe 708 cc OHV",
+    "type": "Naked"
+  },
+  {
+    "id": "wanderer-k500-k500-kardan",
+    "name": "K500 Kardan",
+    "type": "Naked"
+  },
+  {
+    "id": "wanderer-v-twin-408-cc-v-twin-45-grados",
+    "name": "V-twin 408 cc V-twin 45 grados",
+    "type": "Naked"
+  }
+]

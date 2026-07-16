@@ -1,0 +1,97 @@
+[
+  {
+    "id": "suzuki-alto-1a-gen-ss30-40",
+    "name": "Alto 1a gen (SS30/40)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "suzuki-alto-2a-gen-ca-cc71",
+    "name": "Alto 2a gen (CA/CC71)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "suzuki-alto-3a-gen-cl-cn",
+    "name": "Alto 3a gen (CL/CN)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "suzuki-alto-4a-gen-ha11",
+    "name": "Alto 4a gen (HA11)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "suzuki-cappuccino-ea11r-ea21r",
+    "name": "Cappuccino EA11R/EA21R",
+    "type": "Roadster"
+  },
+  {
+    "id": "suzuki-cervo-mode-3a-gen",
+    "name": "Cervo Mode 3a gen",
+    "type": "Hatchback"
+  },
+  {
+    "id": "suzuki-cervo-sc100-ss20",
+    "name": "Cervo SC100 (SS20)",
+    "type": "Coupe"
+  },
+  {
+    "id": "suzuki-cultus-1a-gen-sa310-swift",
+    "name": "Cultus 1a gen (SA310) / Swift",
+    "type": "Hatchback"
+  },
+  {
+    "id": "suzuki-fronte-coupe-lc10w",
+    "name": "Fronte Coupe LC10W",
+    "type": "Coupe"
+  },
+  {
+    "id": "suzuki-jimny-lj20-lj20",
+    "name": "Jimny LJ20",
+    "type": "SUV"
+  },
+  {
+    "id": "suzuki-jimny-lj50-lj50",
+    "name": "Jimny LJ50",
+    "type": "SUV"
+  },
+  {
+    "id": "suzuki-jimny-lj80-lj80",
+    "name": "Jimny LJ80",
+    "type": "SUV"
+  },
+  {
+    "id": "suzuki-mighty-boy-ss40t",
+    "name": "Mighty Boy SS40T",
+    "type": "Pickup"
+  },
+  {
+    "id": "suzuki-samurai-sj413",
+    "name": "Samurai SJ413",
+    "type": "SUV"
+  },
+  {
+    "id": "suzuki-sidekick-1a-gen",
+    "name": "Sidekick 1a gen",
+    "type": "SUV"
+  },
+  {
+    "id": "suzuki-sj410-sj410",
+    "name": "SJ410",
+    "type": "SUV"
+  },
+  {
+    "id": "suzuki-vitara-1a-gen-et-ta",
+    "name": "Vitara 1a gen (ET/TA)",
+    "type": "SUV"
+  },
+  {
+    "id": "suzuki-wagon-r-1a-gen-ct-cv",
+    "name": "Wagon R 1a gen (CT/CV)",
+    "type": "Van"
+  },
+  {
+    "id": "suzuki-x-90-x-90",
+    "name": "X-90",
+    "type": "SUV"
+  }
+]

@@ -1,0 +1,326 @@
+{
+  "systemKey": "brakes",
+  "imageKey": "brakes.png",
+  "labels": {
+    "en": "Brakes",
+    "es": "Frenos"
+  },
+  "groups": [
+    {
+      "groupKey": "disc-brakes",
+      "labels": {
+        "en": "Disc brakes",
+        "es": "Freno de disco"
+      },
+      "categories": [
+        {
+          "categoryKey": "brake-pads",
+          "labels": {
+            "en": "Brake pads",
+            "es": "Pastillas de freno"
+          },
+          "elements": [
+            { "elementKey": "front-brake-pads",    "labels": { "en": "Front brake pads",              "es": "Pastillas de freno delanteras" } },
+            { "elementKey": "rear-brake-pads",     "labels": { "en": "Rear brake pads",               "es": "Pastillas de freno traseras"   } },
+            { "elementKey": "brake-pad-kit",       "labels": { "en": "Brake pad kit (front + rear)",  "es": "Kit de pastillas de freno"     } },
+            { "elementKey": "brake-pad-wear-sensor","labels": { "en": "Brake pad wear sensor",        "es": "Sensor de desgaste de pastillas" } }
+          ]
+        },
+        {
+          "categoryKey": "brake-discs",
+          "labels": {
+            "en": "Brake discs (rotors)",
+            "es": "Discos de freno"
+          },
+          "elements": [
+            { "elementKey": "front-brake-disc",         "labels": { "en": "Front brake disc",         "es": "Disco de freno delantero" } },
+            { "elementKey": "rear-brake-disc",          "labels": { "en": "Rear brake disc",          "es": "Disco de freno trasero"   } },
+            { "elementKey": "vented-brake-disc",        "labels": { "en": "Vented brake disc",        "es": "Disco de freno ventilado" } },
+            { "elementKey": "drilled-slotted-brake-disc","labels": { "en": "Drilled/slotted brake disc","es": "Disco de freno perforado/ranurado" } },
+            { "elementKey": "brake-disc-kit",           "labels": { "en": "Brake disc kit",           "es": "Kit de discos de freno"   } }
+          ]
+        },
+        {
+          "categoryKey": "brake-calipers",
+          "labels": {
+            "en": "Brake calipers",
+            "es": "Pinzas de freno"
+          },
+          "elements": [
+            { "elementKey": "front-left-caliper",  "labels": { "en": "Front left brake caliper",  "es": "Pinza de freno delantera izquierda" } },
+            { "elementKey": "front-right-caliper", "labels": { "en": "Front right brake caliper", "es": "Pinza de freno delantera derecha"   } },
+            { "elementKey": "rear-left-caliper",   "labels": { "en": "Rear left brake caliper",   "es": "Pinza de freno trasera izquierda"   } },
+            { "elementKey": "rear-right-caliper",  "labels": { "en": "Rear right brake caliper",  "es": "Pinza de freno trasera derecha"     } },
+            { "elementKey": "caliper-repair-kit",  "labels": { "en": "Caliper repair kit",        "es": "Kit de reparación de pinza"         } }
+          ]
+        },
+        {
+          "categoryKey": "caliper-hardware",
+          "labels": {
+            "en": "Caliper hardware",
+            "es": "Herrajes de pinza"
+          },
+          "elements": [
+            { "elementKey": "caliper-guide-pin-kit", "labels": { "en": "Caliper guide pin kit",   "es": "Kit de bulones guía de pinza" } },
+            { "elementKey": "caliper-bracket",       "labels": { "en": "Caliper bracket",         "es": "Soporte de pinza"            } },
+            { "elementKey": "caliper-dust-boot-kit", "labels": { "en": "Caliper dust boot kit",   "es": "Kit de fuelles de pinza"     } }
+          ]
+        }
+      ]
+    },
+    {
+      "groupKey": "drum-brakes",
+      "labels": {
+        "en": "Drum brakes",
+        "es": "Freno de tambor"
+      },
+      "categories": [
+        {
+          "categoryKey": "brake-shoes",
+          "labels": {
+            "en": "Brake shoes",
+            "es": "Zapatas de freno"
+          },
+          "elements": [
+            { "elementKey": "brake-shoe-set", "labels": { "en": "Brake shoe set",           "es": "Juego de zapatas de freno" } },
+            { "elementKey": "brake-shoe-kit", "labels": { "en": "Brake shoe kit with hardware","es": "Kit de zapatas con herrajes" } }
+          ]
+        },
+        {
+          "categoryKey": "brake-drums",
+          "labels": {
+            "en": "Brake drums",
+            "es": "Tambores de freno"
+          },
+          "elements": [
+            { "elementKey": "brake-drum",     "labels": { "en": "Brake drum",     "es": "Tambor de freno"      } },
+            { "elementKey": "brake-drum-kit", "labels": { "en": "Brake drum kit", "es": "Kit de tambores"      } }
+          ]
+        },
+        {
+          "categoryKey": "wheel-cylinders",
+          "labels": {
+            "en": "Wheel cylinders",
+            "es": "Bombines de rueda"
+          },
+          "elements": [
+            { "elementKey": "wheel-cylinder-left",       "labels": { "en": "Wheel cylinder (left)",  "es": "Bombín de rueda (izquierdo)" } },
+            { "elementKey": "wheel-cylinder-right",      "labels": { "en": "Wheel cylinder (right)", "es": "Bombín de rueda (derecho)"   } },
+            { "elementKey": "wheel-cylinder-repair-kit", "labels": { "en": "Wheel cylinder repair kit","es": "Kit de reparación de bombín" } }
+          ]
+        },
+        {
+          "categoryKey": "drum-hardware",
+          "labels": {
+            "en": "Drum brake hardware",
+            "es": "Herrajes de freno de tambor"
+          },
+          "elements": [
+            { "elementKey": "return-spring-kit", "labels": { "en": "Return spring kit",     "es": "Kit de muelles de retorno" } },
+            { "elementKey": "hold-down-kit",     "labels": { "en": "Hold-down kit",         "es": "Kit de sujeción"           } },
+            { "elementKey": "brake-adjuster",    "labels": { "en": "Brake adjuster",        "es": "Regulador de freno"        } }
+          ]
+        }
+      ]
+    },
+    {
+      "groupKey": "parking-brake",
+      "labels": {
+        "en": "Parking brake",
+        "es": "Freno de mano"
+      },
+      "categories": [
+        {
+          "categoryKey": "parking-brake-cables",
+          "labels": {
+            "en": "Parking brake cables",
+            "es": "Cables del freno de mano"
+          },
+          "elements": [
+            { "elementKey": "parking-brake-primary-cable",    "labels": { "en": "Primary parking brake cable",    "es": "Cable primario del freno de mano" } },
+            { "elementKey": "parking-brake-rear-left-cable",  "labels": { "en": "Rear left parking brake cable",  "es": "Cable trasero izquierdo del freno de mano" } },
+            { "elementKey": "parking-brake-rear-right-cable", "labels": { "en": "Rear right parking brake cable", "es": "Cable trasero derecho del freno de mano" } }
+          ]
+        },
+        {
+          "categoryKey": "parking-brake-lever-mechanism",
+          "labels": {
+            "en": "Lever mechanism",
+            "es": "Mecanismo de la palanca"
+          },
+          "elements": [
+            { "elementKey": "parking-brake-lever",       "labels": { "en": "Parking brake lever/handle",  "es": "Palanca del freno de mano" } },
+            { "elementKey": "parking-brake-lever-boot",  "labels": { "en": "Parking brake lever boot",    "es": "Funda de la palanca"       } },
+            { "elementKey": "parking-brake-adjuster-nut","labels": { "en": "Parking brake adjuster nut",  "es": "Tuerca de reglaje"         } }
+          ]
+        },
+        {
+          "categoryKey": "electric-parking-brake",
+          "labels": {
+            "en": "Electric parking brake (EPB)",
+            "es": "Freno de mano eléctrico"
+          },
+          "elements": [
+            { "elementKey": "epb-actuator-motor", "labels": { "en": "EPB actuator motor",    "es": "Motor actuador del EPB" } },
+            { "elementKey": "epb-control-module", "labels": { "en": "EPB control module",    "es": "Módulo de control del EPB" } }
+          ]
+        }
+      ]
+    },
+    {
+      "groupKey": "hydraulic-brake-system",
+      "labels": {
+        "en": "Hydraulic system",
+        "es": "Sistema hidráulico de frenos"
+      },
+      "categories": [
+        {
+          "categoryKey": "master-cylinder",
+          "labels": {
+            "en": "Master cylinder",
+            "es": "Bomba de freno"
+          },
+          "elements": [
+            { "elementKey": "brake-master-cylinder",             "labels": { "en": "Brake master cylinder",           "es": "Bomba de freno"                 } },
+            { "elementKey": "brake-master-cylinder-repair-kit",  "labels": { "en": "Brake master cylinder repair kit", "es": "Kit de reparación de bomba de freno" } },
+            { "elementKey": "brake-fluid-reservoir",             "labels": { "en": "Brake fluid reservoir",           "es": "Depósito de líquido de freno"    } }
+          ]
+        },
+        {
+          "categoryKey": "brake-lines-and-hoses",
+          "labels": {
+            "en": "Brake lines and hoses",
+            "es": "Tubos y latiguillos de freno"
+          },
+          "elements": [
+            { "elementKey": "rigid-brake-line",     "labels": { "en": "Rigid brake line",       "es": "Tubo rígido de freno"       } },
+            { "elementKey": "flexible-brake-hose",  "labels": { "en": "Flexible brake hose",    "es": "Latiguillo de freno"        } },
+            { "elementKey": "braided-brake-hose",   "labels": { "en": "Braided brake hose",     "es": "Latiguillo de freno metálico" } },
+            { "elementKey": "brake-banjo-bolt",     "labels": { "en": "Banjo bolt",             "es": "Perno banjo de freno"       } }
+          ]
+        },
+        {
+          "categoryKey": "brake-fluid",
+          "labels": {
+            "en": "Brake fluid",
+            "es": "Líquido de frenos"
+          },
+          "elements": [
+            { "elementKey": "brake-fluid-dot3",    "labels": { "en": "Brake fluid DOT 3",     "es": "Líquido de frenos DOT 3"     } },
+            { "elementKey": "brake-fluid-dot4",    "labels": { "en": "Brake fluid DOT 4",     "es": "Líquido de frenos DOT 4"     } },
+            { "elementKey": "brake-fluid-dot4-lv", "labels": { "en": "Brake fluid DOT 4 LV",  "es": "Líquido de frenos DOT 4 LV"  } },
+            { "elementKey": "brake-fluid-dot5-1",  "labels": { "en": "Brake fluid DOT 5.1",   "es": "Líquido de frenos DOT 5.1"   } },
+            { "elementKey": "brake-fluid-dot5",    "labels": { "en": "Brake fluid DOT 5",     "es": "Líquido de frenos DOT 5"     } }
+          ]
+        },
+        {
+          "categoryKey": "brake-bleeding",
+          "labels": {
+            "en": "Bleeding hardware",
+            "es": "Herrajes de purgado"
+          },
+          "elements": [
+            { "elementKey": "brake-bleeder-screw", "labels": { "en": "Brake bleeder screw", "es": "Purgador de freno" } },
+            { "elementKey": "brake-bleeder-kit",   "labels": { "en": "Brake bleeder kit",   "es": "Kit de purgado de freno" } }
+          ]
+        },
+        {
+          "categoryKey": "proportioning-valve",
+          "labels": {
+            "en": "Proportioning valve",
+            "es": "Válvula reguladora"
+          },
+          "elements": [
+            { "elementKey": "brake-proportioning-valve", "labels": { "en": "Brake proportioning valve", "es": "Válvula reguladora de frenada" } }
+          ]
+        }
+      ]
+    },
+    {
+      "groupKey": "abs-and-traction-control",
+      "labels": {
+        "en": "ABS and traction control",
+        "es": "ABS y control de tracción"
+      },
+      "categories": [
+        {
+          "categoryKey": "abs-module",
+          "labels": {
+            "en": "ABS module",
+            "es": "Módulo ABS"
+          },
+          "elements": [
+            { "elementKey": "abs-control-unit", "labels": { "en": "ABS control unit", "es": "Centralita ABS" } },
+            { "elementKey": "abs-pump-module",  "labels": { "en": "ABS pump module",  "es": "Módulo de bomba ABS" } }
+          ]
+        },
+        {
+          "categoryKey": "wheel-speed-sensors",
+          "labels": {
+            "en": "Wheel speed sensors",
+            "es": "Sensores de velocidad de rueda"
+          },
+          "elements": [
+            { "elementKey": "abs-sensor-front-left",  "labels": { "en": "ABS sensor (front left)",  "es": "Sensor ABS delantero izquierdo" } },
+            { "elementKey": "abs-sensor-front-right", "labels": { "en": "ABS sensor (front right)", "es": "Sensor ABS delantero derecho"   } },
+            { "elementKey": "abs-sensor-rear-left",   "labels": { "en": "ABS sensor (rear left)",   "es": "Sensor ABS trasero izquierdo"   } },
+            { "elementKey": "abs-sensor-rear-right",  "labels": { "en": "ABS sensor (rear right)",  "es": "Sensor ABS trasero derecho"     } }
+          ]
+        },
+        {
+          "categoryKey": "hydraulic-control-unit",
+          "labels": {
+            "en": "Hydraulic control unit",
+            "es": "Unidad hidráulica de control"
+          },
+          "elements": [
+            { "elementKey": "abs-hcu",             "labels": { "en": "ABS hydraulic control unit", "es": "Unidad hidráulica del ABS" } },
+            { "elementKey": "abs-modulator-valve", "labels": { "en": "ABS modulator valve",        "es": "Válvula moduladora del ABS" } }
+          ]
+        }
+      ]
+    },
+    {
+      "groupKey": "brake-booster",
+      "labels": {
+        "en": "Brake booster",
+        "es": "Servofreno"
+      },
+      "categories": [
+        {
+          "categoryKey": "vacuum-brake-booster",
+          "labels": {
+            "en": "Vacuum brake booster",
+            "es": "Servofreno de vacío"
+          },
+          "elements": [
+            { "elementKey": "brake-booster-assembly",     "labels": { "en": "Brake booster assembly",     "es": "Servofreno completo"           } },
+            { "elementKey": "brake-booster-rebuild-kit",  "labels": { "en": "Brake booster rebuild kit",  "es": "Kit de reparación de servofreno" } },
+            { "elementKey": "brake-vacuum-check-valve",   "labels": { "en": "Brake vacuum check valve",   "es": "Válvula antirretorno de vacío"  } }
+          ]
+        },
+        {
+          "categoryKey": "vacuum-pump",
+          "labels": {
+            "en": "Brake vacuum pump",
+            "es": "Bomba de vacío del freno"
+          },
+          "elements": [
+            { "elementKey": "brake-vacuum-pump", "labels": { "en": "Brake vacuum pump", "es": "Bomba de vacío del freno" } }
+          ]
+        },
+        {
+          "categoryKey": "hydro-boost",
+          "labels": {
+            "en": "Hydro-boost unit",
+            "es": "Servofreno hidráulico (hydro-boost)"
+          },
+          "elements": [
+            { "elementKey": "hydro-boost-unit",        "labels": { "en": "Hydro-boost unit",        "es": "Unidad hydro-boost"          } },
+            { "elementKey": "hydro-boost-rebuild-kit", "labels": { "en": "Hydro-boost rebuild kit", "es": "Kit de reparación hydro-boost" } }
+          ]
+        }
+      ]
+    }
+  ]
+}

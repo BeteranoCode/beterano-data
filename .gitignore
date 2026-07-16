@@ -23,8 +23,11 @@ _archiv/
 *.tmp
 *.temp
 
-# Ignorar todos los Excel excepto los que estén en /data
+# Ignorar todos los Excel excepto los de autoría del catálogo (fuente de verdad
+# que hornea scripts/bake-catalog.mjs a JSON)
 *.xlsx
+!datasets/vehicles/world_classics.xlsx
+!datasets/motos/world_classics_motos.xlsx
 *.pdf
 
 

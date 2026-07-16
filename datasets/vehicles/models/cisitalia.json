@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cisitalia-202-202-c-cabriolet",
+    "name": "202 C Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "cisitalia-202-d-202-d-competizione",
+    "name": "202 D Competizione",
+    "type": "Coupe"
+  },
+  {
+    "id": "cisitalia-202-202-gran-sport",
+    "name": "202 Gran Sport",
+    "type": "Coupe"
+  },
+  {
+    "id": "cisitalia-202-smm-202-smm-spyder-nuvolari",
+    "name": "202 SMM Spyder Nuvolari",
+    "type": "Spider"
+  },
+  {
+    "id": "cisitalia-303-df-303-df-coup",
+    "name": "303 DF Coupé",
+    "type": "Coupe"
+  },
+  {
+    "id": "cisitalia-303-df-303-df-spyder",
+    "name": "303 DF Spyder",
+    "type": "Spider"
+  },
+  {
+    "id": "cisitalia-33-df-voloradente-33-df",
+    "name": "33 DF Voloradente",
+    "type": "Coupe"
+  },
+  {
+    "id": "cisitalia-505-df-505-df-ghia",
+    "name": "505 DF (Ghia)",
+    "type": "Coupe"
+  },
+  {
+    "id": "cisitalia-750-gt-750-gt-coup",
+    "name": "750 GT Coupé",
+    "type": "Coupe"
+  },
+  {
+    "id": "cisitalia-750-gt-750-gt-spider",
+    "name": "750 GT Spider",
+    "type": "Spider"
+  },
+  {
+    "id": "cisitalia-850-gt-850-gt-coup",
+    "name": "850 GT Coupé",
+    "type": "Coupe"
+  },
+  {
+    "id": "cisitalia-850-scorpione-cisitalia-abarth-850-scorpione-allemano",
+    "name": "Cisitalia-Abarth 850 Scorpione (Allemano)",
+    "type": "Coupe"
+  }
+]

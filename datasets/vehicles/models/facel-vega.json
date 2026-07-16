@@ -1,0 +1,72 @@
+[
+  {
+    "id": "facel-vega-excellence-ex",
+    "name": "Excellence",
+    "type": "Sedan"
+  },
+  {
+    "id": "facel-vega-excellence-ex1",
+    "name": "Excellence EX1",
+    "type": "Sedan"
+  },
+  {
+    "id": "facel-vega-excellence-ex2",
+    "name": "Excellence EX2",
+    "type": "Sedan"
+  },
+  {
+    "id": "facel-vega-facel-6-facel-6",
+    "name": "Facel 6",
+    "type": "Coupe"
+  },
+  {
+    "id": "facel-vega-facel-ii-facel-ii",
+    "name": "Facel II",
+    "type": "Coupe"
+  },
+  {
+    "id": "facel-vega-facel-iii-facel-iii",
+    "name": "Facel III",
+    "type": "Coupe"
+  },
+  {
+    "id": "facel-vega-facellia-facellia-fa-f2-f2b",
+    "name": "Facellia FA / F2 / F2B",
+    "type": "Cabrio"
+  },
+  {
+    "id": "facel-vega-fv-fv",
+    "name": "FV",
+    "type": "Coupe"
+  },
+  {
+    "id": "facel-vega-fv-fv1-fv2",
+    "name": "FV1 / FV2",
+    "type": "Coupe"
+  },
+  {
+    "id": "facel-vega-fv-fv2b",
+    "name": "FV2B",
+    "type": "Coupe"
+  },
+  {
+    "id": "facel-vega-fv-fv3",
+    "name": "FV3",
+    "type": "Coupe"
+  },
+  {
+    "id": "facel-vega-fv-fv3b",
+    "name": "FV3B",
+    "type": "Coupe"
+  },
+  {
+    "id": "facel-vega-fv-fv4-typhoon",
+    "name": "FV4 Typhoon",
+    "type": "Coupe"
+  },
+  {
+    "id": "facel-vega-hk500-hk500",
+    "name": "HK500",
+    "type": "Coupe"
+  }
+]

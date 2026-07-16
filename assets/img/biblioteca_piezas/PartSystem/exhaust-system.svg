@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#ffffff"/>
+  <g fill="none" stroke="#111111" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Header pipe from engine -->
+    <path d="M120 380 L280 380 L340 460"/>
+    <!-- Catalytic converter (rounded rectangle) -->
+    <rect x="340" y="440" width="180" height="120" rx="20"/>
+    <!-- Middle pipe -->
+    <path d="M520 500 L620 500"/>
+    <!-- Muffler (elongated capsule) -->
+    <rect x="620" y="430" width="240" height="180" rx="80"/>
+    <!-- Muffler seam lines -->
+    <path d="M680 430 L680 610"/>
+    <path d="M780 430 L780 610"/>
+    <!-- Tail pipe -->
+    <path d="M860 520 L940 520"/>
+    <!-- Exhaust puffs -->
+    <circle cx="620" cy="240" r="34"/>
+    <circle cx="700" cy="200" r="46"/>
+    <circle cx="800" cy="240" r="36"/>
+    <circle cx="880" cy="200" r="30"/>
+    <!-- Rising trail from tail pipe -->
+    <path d="M940 520 Q960 400 900 300"/>
+  </g>
+</svg>

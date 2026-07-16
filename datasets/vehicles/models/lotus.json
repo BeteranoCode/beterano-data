@@ -1,0 +1,92 @@
+[
+  {
+    "id": "lotus-340r-340r-type-111",
+    "name": "340R (Type 111)",
+    "type": "Roadster"
+  },
+  {
+    "id": "lotus-eclat-eclat-type-76-84",
+    "name": "Eclat (Type 76/84)",
+    "type": "Coupe"
+  },
+  {
+    "id": "lotus-elan-elan-type-26-s1-sprint",
+    "name": "Elan (Type 26/S1-Sprint)",
+    "type": "Roadster"
+  },
+  {
+    "id": "lotus-elan-2-elan-2-type-50",
+    "name": "Elan +2 (Type 50)",
+    "type": "Coupe"
+  },
+  {
+    "id": "lotus-elan-elan-m100",
+    "name": "Elan M100",
+    "type": "Roadster"
+  },
+  {
+    "id": "lotus-elite-elite-type-14",
+    "name": "Elite (Type 14)",
+    "type": "Coupe"
+  },
+  {
+    "id": "lotus-elite-elite-type-75-83",
+    "name": "Elite (Type 75/83)",
+    "type": "Coupe"
+  },
+  {
+    "id": "lotus-esprit-esprit-s1",
+    "name": "Esprit S1",
+    "type": "Coupe"
+  },
+  {
+    "id": "lotus-esprit-esprit-s2",
+    "name": "Esprit S2",
+    "type": "Coupe"
+  },
+  {
+    "id": "lotus-esprit-esprit-s22",
+    "name": "Esprit S2.2",
+    "type": "Coupe"
+  },
+  {
+    "id": "lotus-esprit-esprit-s3",
+    "name": "Esprit S3",
+    "type": "Coupe"
+  },
+  {
+    "id": "lotus-esprit-esprit-s4",
+    "name": "Esprit S4",
+    "type": "Coupe"
+  },
+  {
+    "id": "lotus-esprit-esprit-x180",
+    "name": "Esprit X180",
+    "type": "Coupe"
+  },
+  {
+    "id": "lotus-europa-europa-s1-s2",
+    "name": "Europa S1/S2",
+    "type": "Coupe"
+  },
+  {
+    "id": "lotus-europa-europa-twin-cam-special",
+    "name": "Europa Twin Cam/Special",
+    "type": "Coupe"
+  },
+  {
+    "id": "lotus-excel-excel-type-89",
+    "name": "Excel (Type 89)",
+    "type": "Coupe"
+  },
+  {
+    "id": "lotus-seven-seven-s2-s3",
+    "name": "Seven S2/S3",
+    "type": "Roadster"
+  },
+  {
+    "id": "lotus-esprit-turbo-esprit-s3",
+    "name": "Turbo Esprit (S3)",
+    "type": "Coupe"
+  }
+]

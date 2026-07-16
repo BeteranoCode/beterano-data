@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bond-875-mark-i",
+    "name": "875 Mark I",
+    "type": "Microcar"
+  },
+  {
+    "id": "bond-875-mark-ii",
+    "name": "875 Mark II",
+    "type": "Microcar"
+  },
+  {
+    "id": "bond-875-ranger-ranger",
+    "name": "875 Ranger",
+    "type": "Van"
+  },
+  {
+    "id": "bond-bug-700",
+    "name": "Bug 700",
+    "type": "Microcar"
+  },
+  {
+    "id": "bond-bug-750",
+    "name": "Bug 750",
+    "type": "Microcar"
+  },
+  {
+    "id": "bond-equipe-2-litre-gt-mark-i",
+    "name": "Equipe 2-Litre GT Mark I",
+    "type": "Coupe"
+  },
+  {
+    "id": "bond-equipe-2-litre-gt-mark-ii",
+    "name": "Equipe 2-Litre GT Mark II",
+    "type": "Coupe"
+  },
+  {
+    "id": "bond-equipe-2-litre-mark-ii",
+    "name": "Equipe 2-Litre Mark II",
+    "type": "Cabrio"
+  },
+  {
+    "id": "bond-equipe-gt-2-2",
+    "name": "Equipe GT 2+2",
+    "type": "Coupe"
+  },
+  {
+    "id": "bond-equipe-gt-4s",
+    "name": "Equipe GT 4S",
+    "type": "Coupe"
+  },
+  {
+    "id": "bond-equipe-gt-4s-1300",
+    "name": "Equipe GT 4S 1300",
+    "type": "Coupe"
+  },
+  {
+    "id": "bond-minicar-mark-a",
+    "name": "Minicar Mark A",
+    "type": "Microcar"
+  },
+  {
+    "id": "bond-minicar-mark-b",
+    "name": "Minicar Mark B",
+    "type": "Microcar"
+  },
+  {
+    "id": "bond-minicar-mark-c",
+    "name": "Minicar Mark C",
+    "type": "Microcar"
+  },
+  {
+    "id": "bond-minicar-mark-d",
+    "name": "Minicar Mark D",
+    "type": "Microcar"
+  },
+  {
+    "id": "bond-minicar-mark-e",
+    "name": "Minicar Mark E",
+    "type": "Microcar"
+  },
+  {
+    "id": "bond-minicar-mark-f",
+    "name": "Minicar Mark F",
+    "type": "Microcar"
+  },
+  {
+    "id": "bond-minicar-mark-g",
+    "name": "Minicar Mark G",
+    "type": "Microcar"
+  }
+]

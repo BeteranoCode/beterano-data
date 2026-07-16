@@ -1,0 +1,27 @@
+[
+  {
+    "id": "caterham-21-21",
+    "name": "21",
+    "type": "Roadster"
+  },
+  {
+    "id": "caterham-seven-hpc",
+    "name": "Seven HPC",
+    "type": "Roadster"
+  },
+  {
+    "id": "caterham-seven-jpe",
+    "name": "Seven JPE",
+    "type": "Roadster"
+  },
+  {
+    "id": "caterham-seven-series-3-ford-lotus-twin-cam",
+    "name": "Seven Series 3 (Ford-Lotus Twin Cam)",
+    "type": "Roadster"
+  },
+  {
+    "id": "caterham-seven-super-sprint-ford-crossflow",
+    "name": "Seven Super Sprint (Ford Crossflow)",
+    "type": "Roadster"
+  }
+]

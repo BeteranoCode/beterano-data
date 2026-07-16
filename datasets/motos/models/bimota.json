@@ -1,0 +1,162 @@
+[
+  {
+    "id": "bimota-500-v-due-v-due-serie-original",
+    "name": "500 V-Due V-Due (serie original)",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-500-v-due-v-due-evoluzione",
+    "name": "500 V-Due V-Due Evoluzione",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-bb1-supermono-bb1",
+    "name": "BB1 Supermono",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-db1-db1-s-sr",
+    "name": "DB1 (S / SR)",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-db2-db2",
+    "name": "DB2",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-db3-mantra-db3",
+    "name": "DB3 Mantra",
+    "type": "Naked"
+  },
+  {
+    "id": "bimota-db4-db4",
+    "name": "DB4",
+    "type": "Naked"
+  },
+  {
+    "id": "bimota-hb1-hb1",
+    "name": "HB1",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-hb2-hb2",
+    "name": "HB2",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-hb3-hb3",
+    "name": "HB3",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-kb1-kb1-t2",
+    "name": "KB1 (T2)",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-kb2-kb2-laser",
+    "name": "KB2 Laser",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-kb3-kb3",
+    "name": "KB3",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-sb1-sb1",
+    "name": "SB1",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-sb2-sb2",
+    "name": "SB2",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-sb3-sb3",
+    "name": "SB3",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-sb4-sb4",
+    "name": "SB4",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-sb5-sb5",
+    "name": "SB5",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-sb6-sb6",
+    "name": "SB6",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-sb6r-sb6r",
+    "name": "SB6R",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-sb7-sb7",
+    "name": "SB7",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-sb8r-sb8r",
+    "name": "SB8R",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-tesi-1d-tesi-1-d",
+    "name": "Tesi 1D Tesi 1/D",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-yb1-yb1",
+    "name": "YB1",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-yb10-dieci-yb10-biposto",
+    "name": "YB10 Dieci YB10 (Biposto)",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-yb11-superleggera-yb11",
+    "name": "YB11 Superleggera",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-yb4-yb4-r-ei",
+    "name": "YB4 (R / e.i.)",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-yb5-yb5",
+    "name": "YB5",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "bimota-yb6-yb6-exup-tuatara",
+    "name": "YB6 (EXUP / Tuatara)",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-yb7-yb7",
+    "name": "YB7",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-yb8-yb8-furano",
+    "name": "YB8 (Furano)",
+    "type": "Supersport"
+  },
+  {
+    "id": "bimota-yb9-bellaria-yb9",
+    "name": "YB9 Bellaria",
+    "type": "Supersport"
+  }
+]

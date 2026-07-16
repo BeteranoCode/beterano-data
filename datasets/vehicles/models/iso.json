@@ -1,0 +1,42 @@
+[
+  {
+    "id": "iso-fidia-fidia-s4-ghia",
+    "name": "Fidia S4 (Ghia)",
+    "type": "Sedan"
+  },
+  {
+    "id": "iso-grifo-grifo-a3-c-corsa",
+    "name": "Grifo A3/C Corsa",
+    "type": "Coupe"
+  },
+  {
+    "id": "iso-grifo-grifo-serie-i",
+    "name": "Grifo Serie I",
+    "type": "Coupe"
+  },
+  {
+    "id": "iso-grifo-grifo-serie-ii",
+    "name": "Grifo Serie II",
+    "type": "Coupe"
+  },
+  {
+    "id": "iso-isetta-isetta-iso-original-italiana",
+    "name": "Isetta (Iso, original italiana)",
+    "type": "Microcar"
+  },
+  {
+    "id": "iso-lele-lele-bertone-gandini",
+    "name": "Lele (Bertone/Gandini)",
+    "type": "Coupe"
+  },
+  {
+    "id": "iso-lele-lele-ir6",
+    "name": "Lele IR6",
+    "type": "Coupe"
+  },
+  {
+    "id": "iso-rivolta-gt-rivolta-ir-300-ir-340",
+    "name": "Rivolta GT Rivolta IR 300 / IR 340",
+    "type": "Coupe"
+  }
+]

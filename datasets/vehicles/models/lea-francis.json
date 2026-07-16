@@ -1,0 +1,122 @@
+[
+  {
+    "id": "lea-francis-10-tipos-d-o",
+    "name": "10 Tipos D-O",
+    "type": "Sedan"
+  },
+  {
+    "id": "lea-francis-119-119",
+    "name": "11.9",
+    "type": "Cabrio"
+  },
+  {
+    "id": "lea-francis-12-12-posguerra",
+    "name": "12 (posguerra)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lea-francis-12-12-prebelico-hugh-rose",
+    "name": "12 (prebelico, Hugh Rose)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lea-francis-12-tipos-d-o",
+    "name": "12 Tipos D-O",
+    "type": "Sedan"
+  },
+  {
+    "id": "lea-francis-12-tipos-p-w",
+    "name": "12 Tipos P-W",
+    "type": "Sedan"
+  },
+  {
+    "id": "lea-francis-139-139",
+    "name": "13.9",
+    "type": "Cabrio"
+  },
+  {
+    "id": "lea-francis-14-14-prebelico-hugh-rose",
+    "name": "14 (prebelico, Hugh Rose)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lea-francis-14-40-14-40",
+    "name": "14/40",
+    "type": "Sedan"
+  },
+  {
+    "id": "lea-francis-14-70-14-70-six-light-saloon",
+    "name": "14/70 Six-Light Saloon",
+    "type": "Sedan"
+  },
+  {
+    "id": "lea-francis-14-14hp-estate",
+    "name": "14hp Estate",
+    "type": "Wagon"
+  },
+  {
+    "id": "lea-francis-14-14hp-four-light-saloon",
+    "name": "14hp Four-Light Saloon",
+    "type": "Sedan"
+  },
+  {
+    "id": "lea-francis-14-14hp-sports",
+    "name": "14hp Sports",
+    "type": "Roadster"
+  },
+  {
+    "id": "lea-francis-14-14hp-westland",
+    "name": "14hp Westland",
+    "type": "Coupe"
+  },
+  {
+    "id": "lea-francis-15-15-3-cil",
+    "name": "15 (3-cil.)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "lea-francis-16-60-16-60",
+    "name": "16/60",
+    "type": "Sedan"
+  },
+  {
+    "id": "lea-francis-18-18hp-saloon",
+    "name": "18hp Saloon",
+    "type": "Sedan"
+  },
+  {
+    "id": "lea-francis-2-litre-2-litre-sports",
+    "name": "2½ Litre Sports",
+    "type": "Roadster"
+  },
+  {
+    "id": "lea-francis-ace-of-spades-ace-of-spades-revival-barrie-price",
+    "name": "Ace of Spades (revival Barrie Price)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "lea-francis-ace-of-spades-ace-of-spades-16",
+    "name": "Ace of Spades 16",
+    "type": "Sedan"
+  },
+  {
+    "id": "lea-francis-ace-of-spades-ace-of-spades-18",
+    "name": "Ace of Spades 18",
+    "type": "Sedan"
+  },
+  {
+    "id": "lea-francis-hyper-tipo-s",
+    "name": "Hyper Tipo S",
+    "type": "Roadster"
+  },
+  {
+    "id": "lea-francis-lynx-lynx",
+    "name": "Lynx",
+    "type": "Roadster"
+  },
+  {
+    "id": "lea-francis-nine-tipo-c",
+    "name": "Nine Tipo C",
+    "type": "Cabrio"
+  }
+]

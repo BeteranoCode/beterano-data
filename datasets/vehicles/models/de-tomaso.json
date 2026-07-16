@@ -1,0 +1,52 @@
+[
+  {
+    "id": "de-tomaso-deauville-deauville-serie-1",
+    "name": "Deauville Serie 1",
+    "type": "Sedan"
+  },
+  {
+    "id": "de-tomaso-deauville-deauville-serie-2",
+    "name": "Deauville Serie 2",
+    "type": "Sedan"
+  },
+  {
+    "id": "de-tomaso-longchamp-longchamp",
+    "name": "Longchamp",
+    "type": "Coupe"
+  },
+  {
+    "id": "de-tomaso-longchamp-longchamp-spyder",
+    "name": "Longchamp Spyder",
+    "type": "Spider"
+  },
+  {
+    "id": "de-tomaso-mangusta-mangusta",
+    "name": "Mangusta",
+    "type": "Coupe"
+  },
+  {
+    "id": "de-tomaso-pantera-pantera-pre-l-l-gts",
+    "name": "Pantera (Pre-L / L / GTS)",
+    "type": "Coupe"
+  },
+  {
+    "id": "de-tomaso-pantera-pantera-90-si",
+    "name": "Pantera 90 Si",
+    "type": "Coupe"
+  },
+  {
+    "id": "de-tomaso-pantera-pantera-gt5",
+    "name": "Pantera GT5",
+    "type": "Coupe"
+  },
+  {
+    "id": "de-tomaso-pantera-pantera-gt5-s",
+    "name": "Pantera GT5-S",
+    "type": "Coupe"
+  },
+  {
+    "id": "de-tomaso-vallelunga-vallelunga",
+    "name": "Vallelunga",
+    "type": "Coupe"
+  }
+]

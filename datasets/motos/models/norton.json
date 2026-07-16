@@ -1,0 +1,177 @@
+[
+  {
+    "id": "norton-500t-500t",
+    "name": "500T",
+    "type": "Trial"
+  },
+  {
+    "id": "norton-atlas-atlas-750",
+    "name": "Atlas 750",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-big-four-big-four",
+    "name": "Big Four",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-classic-classic-rotativo",
+    "name": "Classic rotativo",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-commander-commander-rotativo",
+    "name": "Commander rotativo",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "norton-commando-commando-750-mk1-mk3",
+    "name": "Commando 750 (Mk1-Mk3)",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-commando-commando-750-production-racer",
+    "name": "Commando 750 Production Racer",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-commando-commando-850-john-player-special",
+    "name": "Commando 850 John Player Special",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-commando-commando-850-mk1",
+    "name": "Commando 850 Mk1",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-commando-commando-850-mk2",
+    "name": "Commando 850 Mk2",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-commando-commando-850-mk3",
+    "name": "Commando 850 Mk3",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-dominator-650-650ss",
+    "name": "Dominator 650 650SS",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-dominator-model-77",
+    "name": "Dominator Model 77",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-dominator-model-88",
+    "name": "Dominator Model 88",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-dominator-model-99",
+    "name": "Dominator Model 99",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-electra-electra-es400",
+    "name": "Electra ES400",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-es2-es2",
+    "name": "ES2",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-es2-es2-mk2",
+    "name": "ES2 Mk2",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-f1-f1-rotativo",
+    "name": "F1 rotativo",
+    "type": "Supersport"
+  },
+  {
+    "id": "norton-interpol-interpol",
+    "name": "Interpol",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-interpol-2-interpol-2",
+    "name": "Interpol 2",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "norton-jubilee-jubilee-250",
+    "name": "Jubilee 250",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-manx-manx-30m",
+    "name": "Manx 30M",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-manx-manx-40m",
+    "name": "Manx 40M",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-manxman-650-manxman-650",
+    "name": "Manxman 650",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-mercury-mercury-650",
+    "name": "Mercury 650",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-model-16h-model-16h",
+    "name": "Model 16H",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-model-18-model-18",
+    "name": "Model 18",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-model-19-model-19s",
+    "name": "Model 19S",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-international-model-30-international",
+    "name": "Model 30 International",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-international-model-40-international",
+    "name": "Model 40 International",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-model-50-model-50",
+    "name": "Model 50",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-model-50-model-50-mk2",
+    "name": "Model 50 Mk2",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-dominator-model-7-dominator",
+    "name": "Model 7 Dominator",
+    "type": "Naked"
+  },
+  {
+    "id": "norton-navigator-navigator-350",
+    "name": "Navigator 350",
+    "type": "Naked"
+  }
+]

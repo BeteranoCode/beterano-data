@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ssangyong-kallista-kallista-rebadge-panther",
+    "name": "Kallista (rebadge Panther)",
+    "type": "Roadster"
+  },
+  {
+    "id": "ssangyong-korando-korando-1a-gen-jeep-ssangyong",
+    "name": "Korando 1a gen (Jeep, SsangYong)",
+    "type": "SUV"
+  },
+  {
+    "id": "ssangyong-korando-family-korando-family-isuzu-trooper",
+    "name": "Korando Family (Isuzu Trooper)",
+    "type": "SUV"
+  },
+  {
+    "id": "ssangyong-korando-family-new-korando-family",
+    "name": "New Korando Family",
+    "type": "SUV"
+  }
+]

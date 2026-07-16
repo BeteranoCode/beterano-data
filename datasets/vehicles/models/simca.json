@@ -1,0 +1,207 @@
+[
+  {
+    "id": "simca-simca-1000-coupe-1000-coupe-bertone",
+    "name": "1000 Coupe (Bertone)",
+    "type": "Coupe"
+  },
+  {
+    "id": "simca-simca-1005-1005-1006-facelift-final",
+    "name": "1005/1006 (facelift final)",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-simca-1006-1005-1006-facelift-final",
+    "name": "1005/1006 (facelift final)",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-simca-1200s-1200s-coupe-bertone",
+    "name": "1200S Coupe (Bertone)",
+    "type": "Coupe"
+  },
+  {
+    "id": "simca-simca-1300-1300-1a-serie",
+    "name": "1300 (1a serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-simca-1301-1301-2a-serie",
+    "name": "1301 (2a serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-simca-1307-1307-1308-1309",
+    "name": "1307 / 1308 / 1309",
+    "type": "Hatchback"
+  },
+  {
+    "id": "simca-simca-1308-1307-1308-1309",
+    "name": "1307 / 1308 / 1309",
+    "type": "Hatchback"
+  },
+  {
+    "id": "simca-simca-1309-1307-1308-1309",
+    "name": "1307 / 1308 / 1309",
+    "type": "Hatchback"
+  },
+  {
+    "id": "simca-simca-1500-1500-1a-serie",
+    "name": "1500 (1a serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-simca-1501-1501-2a-serie",
+    "name": "1501 (2a serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-simca-8-sport-8-sport",
+    "name": "8 Sport",
+    "type": "Coupe"
+  },
+  {
+    "id": "simca-aronde-9-aronde",
+    "name": "9 Aronde",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-simca-9-sport-9-sport",
+    "name": "9 Sport",
+    "type": "Coupe"
+  },
+  {
+    "id": "simca-ariane-ariane-4",
+    "name": "Ariane 4",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-ariane-ariane-8",
+    "name": "Ariane 8",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-aronde-aronde-90a",
+    "name": "Aronde 90A",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-aronde-aronde-p60",
+    "name": "Aronde P60",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-chrysler-simca-160-160-1609",
+    "name": "Chrysler-Simca 160 160 / 1609",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-chrysler-simca-180-180-1610",
+    "name": "Chrysler-Simca 180 180 / 1610",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-chrysler-simca-2-litres-2-litres",
+    "name": "Chrysler-Simca 2 Litres",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-bagheera-matra-simca-bagheera",
+    "name": "Matra-Simca Bagheera",
+    "type": "Coupe"
+  },
+  {
+    "id": "simca-rancho-matra-simca-rancho",
+    "name": "Matra-Simca Rancho",
+    "type": "SUV"
+  },
+  {
+    "id": "simca-oceane-oceane-base-aronde-p60",
+    "name": "Oceane (base Aronde P60)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "simca-plein-ciel-plein-ciel-base-aronde-p60",
+    "name": "Plein Ciel (base Aronde P60)",
+    "type": "Coupe"
+  },
+  {
+    "id": "simca-cargo-simca-simca-unic-cargo",
+    "name": "Simca / Simca-Unic Cargo",
+    "type": "Camion"
+  },
+  {
+    "id": "simca-simca-1000-simca-1000",
+    "name": "Simca 1000",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-simca-1000-simca-1000-rallye",
+    "name": "Simca 1000 Rallye",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-simca-1100-simca-1100",
+    "name": "Simca 1100",
+    "type": "Hatchback"
+  },
+  {
+    "id": "simca-simca-1100-simca-1100-pick-up",
+    "name": "Simca 1100 Pick-up",
+    "type": "Pickup"
+  },
+  {
+    "id": "simca-simca-1100-simca-1100-vf1-vf2-vf3",
+    "name": "Simca 1100 VF1 / VF2 / VF3",
+    "type": "Van"
+  },
+  {
+    "id": "simca-simca-5-simca-5",
+    "name": "Simca 5",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-simca-6-simca-6",
+    "name": "Simca 6",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-simca-8-simca-8",
+    "name": "Simca 8",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-horizon-simca-horizon-c2",
+    "name": "Simca Horizon (C2)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "simca-simca-sport-sport-base-aronde-90a",
+    "name": "Sport (base Aronde 90A)",
+    "type": "Coupe"
+  },
+  {
+    "id": "simca-vedette-1a-serie-trianon-versailles-regence",
+    "name": "Vedette 1a serie (Trianon / Versailles / Regence)",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-vedette-2a-serie-beaulieu-chambord-presidence",
+    "name": "Vedette 2a serie (Beaulieu / Chambord / Presidence)",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-vedette-brasil-chambord-presidence-rallye-alvorada",
+    "name": "Vedette Brasil (Chambord / Presidence / Rallye / Alvorada)",
+    "type": "Sedan"
+  },
+  {
+    "id": "simca-vedette-brasil-jangada",
+    "name": "Vedette Brasil Jangada",
+    "type": "Wagon"
+  },
+  {
+    "id": "simca-vedette-marly",
+    "name": "Vedette Marly",
+    "type": "Wagon"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mack-ab-ab-series",
+    "name": "AB Series",
+    "type": "Camion"
+  },
+  {
+    "id": "mack-ac-bulldog-ac-series",
+    "name": "AC \"Bulldog\" AC Series",
+    "type": "Camion"
+  },
+  {
+    "id": "mack-b-b-series",
+    "name": "B Series",
+    "type": "Camion"
+  },
+  {
+    "id": "mack-cruise-liner-wr-wl-series-coe",
+    "name": "Cruise-Liner WR/WL Series (COE)",
+    "type": "Camion"
+  },
+  {
+    "id": "mack-f-f-series-coe",
+    "name": "F Series (COE)",
+    "type": "Camion"
+  },
+  {
+    "id": "mack-g-g-series-coe",
+    "name": "G Series (COE)",
+    "type": "Camion"
+  },
+  {
+    "id": "mack-h-cherry-picker-h-series-coe",
+    "name": "H \"Cherry Picker\" H Series (COE)",
+    "type": "Camion"
+  },
+  {
+    "id": "mack-l-l-series",
+    "name": "L Series",
+    "type": "Camion"
+  },
+  {
+    "id": "mack-mh-ultra-liner-mh-series-coe",
+    "name": "MH Ultra-Liner MH Series (COE)",
+    "type": "Camion"
+  },
+  {
+    "id": "mack-n-n-series",
+    "name": "N Series",
+    "type": "Camion"
+  },
+  {
+    "id": "mack-super-liner-rw-series",
+    "name": "Super-Liner RW Series",
+    "type": "Camion"
+  }
+]

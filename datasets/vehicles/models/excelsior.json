@@ -1,0 +1,17 @@
+[
+  {
+    "id": "excelsior-adex-adex-belgica",
+    "name": "Adex (Belgica)",
+    "type": "Sedan"
+  },
+  {
+    "id": "excelsior-adex-adex-mark-ii-belgica",
+    "name": "Adex Mark II (Belgica)",
+    "type": "Sedan"
+  },
+  {
+    "id": "excelsior-albert-i-albert-1er-belgica",
+    "name": "Albert I Albert 1er (Belgica)",
+    "type": "Sedan"
+  }
+]

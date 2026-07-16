@@ -1,0 +1,162 @@
+[
+  {
+    "id": "toyota-camry-v10-1-gen",
+    "name": "Camry V10 (1ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "toyota-camry-v20-2-gen",
+    "name": "Camry V20 (2ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "toyota-camry-v30-jap-n",
+    "name": "Camry V30 (Japón)",
+    "type": "Sedan"
+  },
+  {
+    "id": "toyota-camry-xv10-wide-body",
+    "name": "Camry XV10 (wide-body)",
+    "type": "Sedan"
+  },
+  {
+    "id": "toyota-celica-t160-4-gen",
+    "name": "Celica T160 (4ª gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "toyota-celica-t180-5-gen",
+    "name": "Celica T180 (5ª gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "toyota-celica-t200-6-gen",
+    "name": "Celica T200 (6ª gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "toyota-chaser-mark-ii-x81",
+    "name": "Chaser (Mark II) X81",
+    "type": "Sedan"
+  },
+  {
+    "id": "toyota-corolla-e100-7-gen",
+    "name": "Corolla E100 (7ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "toyota-corolla-e70-4-gen",
+    "name": "Corolla E70 (4ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "toyota-corolla-e90-6-gen",
+    "name": "Corolla E90 (6ª gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "toyota-corolla-levin-trueno-e80-ae86",
+    "name": "Corolla Levin/Trueno E80 (AE86)",
+    "type": "Coupe"
+  },
+  {
+    "id": "toyota-cressida-mark-ii-x80",
+    "name": "Cressida (Mark II) X80",
+    "type": "Sedan"
+  },
+  {
+    "id": "toyota-land-cruiser-j40",
+    "name": "Land Cruiser J40",
+    "type": "SUV"
+  },
+  {
+    "id": "toyota-land-cruiser-j60",
+    "name": "Land Cruiser J60",
+    "type": "SUV"
+  },
+  {
+    "id": "toyota-land-cruiser-j80",
+    "name": "Land Cruiser J80",
+    "type": "SUV"
+  },
+  {
+    "id": "toyota-mr2-w10-aw11",
+    "name": "MR2 W10 (AW11)",
+    "type": "Coupe"
+  },
+  {
+    "id": "toyota-mr2-w20-sw20",
+    "name": "MR2 W20 (SW20)",
+    "type": "Coupe"
+  },
+  {
+    "id": "toyota-paseo-cynos-l40-1-gen",
+    "name": "Paseo (Cynos) L40 (1ª gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "toyota-paseo-cynos-l50-2-gen",
+    "name": "Paseo (Cynos) L50 (2ª gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "toyota-previa-estima-xr10-xr20-1-gen",
+    "name": "Previa (Estima) XR10/XR20 (1ª gen)",
+    "type": "Van"
+  },
+  {
+    "id": "toyota-rav4-xa10-1-gen",
+    "name": "RAV4 XA10 (1ª gen)",
+    "type": "SUV"
+  },
+  {
+    "id": "toyota-sera-sera-exy10",
+    "name": "Sera (EXY10)",
+    "type": "Coupe"
+  },
+  {
+    "id": "toyota-soarer-z20",
+    "name": "Soarer Z20",
+    "type": "Coupe"
+  },
+  {
+    "id": "toyota-soarer-z30",
+    "name": "Soarer Z30",
+    "type": "Coupe"
+  },
+  {
+    "id": "toyota-starlet-ep70-3-gen",
+    "name": "Starlet EP70 (3ª gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "toyota-starlet-ep82-4-gen",
+    "name": "Starlet EP82 (4ª gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "toyota-starlet-ep90-5-gen",
+    "name": "Starlet EP90 (5ª gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "toyota-starlet-ep91-5-gen",
+    "name": "Starlet EP91 (5ª gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "toyota-supra-a70-mk3",
+    "name": "Supra A70 (Mk3)",
+    "type": "Coupe"
+  },
+  {
+    "id": "toyota-tercel-l40-4-gen",
+    "name": "Tercel L40 (4ª gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "toyota-tercel-l50-5-gen",
+    "name": "Tercel L50 (5ª gen)",
+    "type": "Sedan"
+  }
+]

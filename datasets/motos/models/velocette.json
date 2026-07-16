@@ -1,0 +1,132 @@
+[
+  {
+    "id": "velocette-gtp-gtp",
+    "name": "GTP",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-kss-kss-mk-i",
+    "name": "KSS Mk I",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-kss-kss-mk-ii",
+    "name": "KSS Mk II",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-kts-kts",
+    "name": "KTS",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-ktt-ktt-mk-i",
+    "name": "KTT Mk I",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-ktt-ktt-mk-ii-iv",
+    "name": "KTT Mk II-IV",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-ktt-ktt-mk-v",
+    "name": "KTT Mk V",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-ktt-ktt-mk-vii",
+    "name": "KTT Mk VII",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-ktt-ktt-mk-viii",
+    "name": "KTT Mk VIII",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-le-le-mk-i",
+    "name": "LE Mk I",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-le-le-mk-ii",
+    "name": "LE Mk II",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-le-le-mk-iii",
+    "name": "LE Mk III",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-mac-mac",
+    "name": "MAC",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-mov-mov",
+    "name": "MOV",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-mss-mss-carrera-larga",
+    "name": "MSS (carrera larga)",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-mss-mss-cuadrado",
+    "name": "MSS (cuadrado)",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-valiant-valiant",
+    "name": "Valiant",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-venom-venom",
+    "name": "Venom",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-venom-venom-clubman",
+    "name": "Venom Clubman",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-venom-venom-endurance",
+    "name": "Venom Endurance",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-venom-venom-scrambler",
+    "name": "Venom Scrambler",
+    "type": "Enduro"
+  },
+  {
+    "id": "velocette-thruxton-venom-thruxton",
+    "name": "Venom Thruxton",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-viceroy-viceroy",
+    "name": "Viceroy",
+    "type": "Scooter"
+  },
+  {
+    "id": "velocette-viper-viper",
+    "name": "Viper",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-viper-viper-clubman",
+    "name": "Viper Clubman",
+    "type": "Naked"
+  },
+  {
+    "id": "velocette-vogue-vogue",
+    "name": "Vogue",
+    "type": "Naked"
+  }
+]

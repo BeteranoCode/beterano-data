@@ -1,0 +1,262 @@
+[
+  {
+    "id": "studebaker-2r-series-2r16-2r17-1948-1953",
+    "name": "2R Series 2R16 / 2R17 (1948-1953)",
+    "type": "Camion"
+  },
+  {
+    "id": "studebaker-2r-series-2r28-1951-1953",
+    "name": "2R Series 2R28 (1951-1953)",
+    "type": "Camion"
+  },
+  {
+    "id": "studebaker-2r-series-2r5-1948-1953",
+    "name": "2R Series 2R5 (1948-1953)",
+    "type": "Pickup"
+  },
+  {
+    "id": "studebaker-avanti-avanti-1962-1963",
+    "name": "Avanti (1962-1963)",
+    "type": "Coupe"
+  },
+  {
+    "id": "studebaker-big-six-big-six-eg-ek-ep-1918-1927",
+    "name": "Big Six EG/EK/EP (1918-1927)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-champ-champ-1960-1964",
+    "name": "Champ (1960-1964)",
+    "type": "Pickup"
+  },
+  {
+    "id": "studebaker-champion-champion-1a-gen-1939-1941",
+    "name": "Champion 1a gen (1939-1941)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-champion-champion-2a-gen-1942-1946",
+    "name": "Champion 2a gen (1942-1946)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-champion-champion-3a-gen-1947-1952",
+    "name": "Champion 3a gen (1947-1952)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-champion-champion-4a-gen-1953-1956",
+    "name": "Champion 4a gen (1953-1956)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-champion-champion-5a-gen-1957-1958",
+    "name": "Champion 5a gen (1957-1958)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-commander-commander-1937-1942",
+    "name": "Commander (1937-1942)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-commander-commander-1947-1950",
+    "name": "Commander (1947-1950)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-commander-commander-1951-1954",
+    "name": "Commander (1951-1954)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-commander-commander-1955-1958",
+    "name": "Commander (1955-1958)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-commander-commander-1964-1966",
+    "name": "Commander (1964-1966)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-commander-commander-1a-serie-1927-1929",
+    "name": "Commander 1a serie (1927-1929)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-commander-commander-gb-1928-1929",
+    "name": "Commander GB (1928-1929)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-dictator-dictator-eight-1929-1932",
+    "name": "Dictator Eight (1929-1932)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-dictator-dictator-six-1927-1937",
+    "name": "Dictator Six (1927-1937)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-e-series-e-series-1954-1955",
+    "name": "E-Series (1954-1955)",
+    "type": "Pickup"
+  },
+  {
+    "id": "studebaker-flight-hawk-hawk-1a-serie-1956",
+    "name": "Flight Hawk Hawk 1a serie (1956)",
+    "type": "Coupe"
+  },
+  {
+    "id": "studebaker-golden-hawk-golden-hawk-1956",
+    "name": "Golden Hawk (1956)",
+    "type": "Coupe"
+  },
+  {
+    "id": "studebaker-golden-hawk-golden-hawk-1957-1958",
+    "name": "Golden Hawk (1957-1958)",
+    "type": "Coupe"
+  },
+  {
+    "id": "studebaker-gran-turismo-hawk-gt-hawk-1962-1964",
+    "name": "Gran Turismo Hawk GT Hawk (1962-1964)",
+    "type": "Coupe"
+  },
+  {
+    "id": "studebaker-hawk-hawk-1960-1961",
+    "name": "Hawk (1960-1961)",
+    "type": "Coupe"
+  },
+  {
+    "id": "studebaker-land-cruiser-land-cruiser-1947-1950",
+    "name": "Land Cruiser (1947-1950)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-land-cruiser-land-cruiser-1951-1954",
+    "name": "Land Cruiser (1951-1954)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-lark-lark-1a-gen-1959-1961",
+    "name": "Lark 1a gen (1959-1961)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-lark-lark-2a-gen-1962-1963",
+    "name": "Lark 2a gen (1962-1963)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-lark-lark-3a-gen-1964-1966",
+    "name": "Lark 3a gen (1964-1966)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-light-six-light-six-standard-six-1918-1927",
+    "name": "Light Six / Standard Six (1918-1927)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-m-series-m15-m15a-1941-1948",
+    "name": "M-Series M15 / M15A (1941-1948)",
+    "type": "Pickup"
+  },
+  {
+    "id": "studebaker-m-series-m16-m17-1941-1948",
+    "name": "M-Series M16 / M17 (1941-1948)",
+    "type": "Camion"
+  },
+  {
+    "id": "studebaker-m-series-m5-1941-1948",
+    "name": "M-Series M5 (1941-1948)",
+    "type": "Pickup"
+  },
+  {
+    "id": "studebaker-power-hawk-hawk-1a-serie-1956",
+    "name": "Power Hawk Hawk 1a serie (1956)",
+    "type": "Coupe"
+  },
+  {
+    "id": "studebaker-president-president-1a-gen-1926-1933",
+    "name": "President 1a gen (1926-1933)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-president-president-2a-gen-1934-1940",
+    "name": "President 2a gen (1934-1940)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-president-president-3a-gen-1941-1942",
+    "name": "President 3a gen (1941-1942)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-president-president-4a-gen-1955-1958",
+    "name": "President 4a gen (1955-1958)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-scotsman-scotsman-1957-1958",
+    "name": "Scotsman (1957-1958)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-scotsman-scotsman-pickup-1958-1959",
+    "name": "Scotsman Pickup (1958-1959)",
+    "type": "Pickup"
+  },
+  {
+    "id": "studebaker-silver-hawk-silver-hawk-1957-1958",
+    "name": "Silver Hawk (1957-1958)",
+    "type": "Coupe"
+  },
+  {
+    "id": "studebaker-silver-hawk-silver-hawk-1959",
+    "name": "Silver Hawk (1959)",
+    "type": "Coupe"
+  },
+  {
+    "id": "studebaker-sky-hawk-hawk-1a-serie-1956",
+    "name": "Sky Hawk Hawk 1a serie (1956)",
+    "type": "Coupe"
+  },
+  {
+    "id": "studebaker-special-six-special-six-1918-1927",
+    "name": "Special Six (1918-1927)",
+    "type": "Sedan"
+  },
+  {
+    "id": "studebaker-speedster-speedster-1955",
+    "name": "Speedster (1955)",
+    "type": "Coupe"
+  },
+  {
+    "id": "studebaker-electric-studebaker-electric-1902-1912",
+    "name": "Studebaker Electric (1902-1912)",
+    "type": "Roadster"
+  },
+  {
+    "id": "studebaker-transtar-transtar-1960-1964",
+    "name": "Transtar (1960-1964)",
+    "type": "Camion"
+  },
+  {
+    "id": "studebaker-transtar-transtar-2e-3e-1956-1958",
+    "name": "Transtar 2E/3E (1956-1958)",
+    "type": "Pickup"
+  },
+  {
+    "id": "studebaker-us6-us6-1941-1945",
+    "name": "US6 (1941-1945)",
+    "type": "Camion"
+  },
+  {
+    "id": "studebaker-wagonaire-wagonaire-1963-1966",
+    "name": "Wagonaire (1963-1966)",
+    "type": "Wagon"
+  }
+]

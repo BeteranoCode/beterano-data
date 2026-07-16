@@ -1,0 +1,22 @@
+[
+  {
+    "id": "aro-aro-10-enduro-x4-italia-acm",
+    "name": "10 Enduro x4 (Italia, ACM)",
+    "type": "SUV"
+  },
+  {
+    "id": "aro-ims-57-ims-57-serie-ims",
+    "name": "IMS-57 (Serie IMS)",
+    "type": "SUV"
+  },
+  {
+    "id": "aro-m461-m461-serie-ims",
+    "name": "M461 (Serie IMS)",
+    "type": "SUV"
+  },
+  {
+    "id": "aro-m59-m59-ims-59-serie-ims",
+    "name": "M59 / IMS-59 (Serie IMS)",
+    "type": "SUV"
+  }
+]

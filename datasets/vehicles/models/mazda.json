@@ -1,0 +1,82 @@
+[
+  {
+    "id": "mazda-121-da-1a-gen",
+    "name": "121 DA (1a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mazda-121-db-2a-gen-bubble",
+    "name": "121 DB (2a gen, 'bubble')",
+    "type": "Sedan"
+  },
+  {
+    "id": "mazda-323-ba-bh-5a-gen",
+    "name": "323 BA/BH (5a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mazda-323-bg-4a-gen",
+    "name": "323 BG (4a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mazda-626-gd-4a-gen",
+    "name": "626 GD (4a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mazda-626-ge-5a-gen",
+    "name": "626 GE (5a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mazda-929-hc-luce",
+    "name": "929 HC (Luce)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mazda-929-hd-sentia",
+    "name": "929 HD (Sentia)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mazda-eunos-cosmo-jc",
+    "name": "Eunos Cosmo JC",
+    "type": "Coupe"
+  },
+  {
+    "id": "mazda-mpv-lv-1a-gen",
+    "name": "MPV LV (1a gen)",
+    "type": "Van"
+  },
+  {
+    "id": "mazda-mx-3-ec",
+    "name": "MX-3 EC",
+    "type": "Coupe"
+  },
+  {
+    "id": "mazda-mx-5-miata-na-1a-gen",
+    "name": "MX-5 (Miata) NA (1a gen)",
+    "type": "Roadster"
+  },
+  {
+    "id": "mazda-mx-6-ge-2a-gen",
+    "name": "MX-6 GE (2a gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mazda-rx-7-fc-2a-gen",
+    "name": "RX-7 FC (2a gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mazda-rx-7-sa-fb-1a-gen",
+    "name": "RX-7 SA/FB (1a gen)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mazda-xedos-6-eunos-500-ca",
+    "name": "Xedos 6 (Eunos 500) CA",
+    "type": "Sedan"
+  }
+]

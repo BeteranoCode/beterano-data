@@ -1,0 +1,332 @@
+[
+  {
+    "id": "renault-4cv-4cv",
+    "name": "4CV",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-5-supercinco-2a-gen",
+    "name": "5 Supercinco (2a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-5-supercinco-diesel",
+    "name": "5 Supercinco Diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-5-supercinco-gt-turbo",
+    "name": "5 Supercinco GT Turbo",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-alpine-a110-a110",
+    "name": "Alpine A110",
+    "type": "Coupe"
+  },
+  {
+    "id": "renault-alpine-a310-a310-4-cil",
+    "name": "Alpine A310 A310 4-cil.",
+    "type": "Coupe"
+  },
+  {
+    "id": "renault-alpine-a310-a310-v6",
+    "name": "Alpine A310 A310 V6",
+    "type": "Coupe"
+  },
+  {
+    "id": "renault-alpine-a610-a610",
+    "name": "Alpine A610",
+    "type": "Coupe"
+  },
+  {
+    "id": "renault-alpine-gta-gta",
+    "name": "Alpine GTA",
+    "type": "Coupe"
+  },
+  {
+    "id": "renault-clio-clio-i",
+    "name": "Clio I",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-clio-clio-i-diesel",
+    "name": "Clio I Diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-clio-clio-i-williams",
+    "name": "Clio I Williams",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-dauphine-dauphine",
+    "name": "Dauphine",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-dauphine-dauphine-gordini",
+    "name": "Dauphine Gordini",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-espace-espace-i-j11",
+    "name": "Espace I (J11)",
+    "type": "Van"
+  },
+  {
+    "id": "renault-espace-espace-i-diesel",
+    "name": "Espace I Diesel",
+    "type": "Van"
+  },
+  {
+    "id": "renault-espace-espace-ii-j63",
+    "name": "Espace II (J63)",
+    "type": "Van"
+  },
+  {
+    "id": "renault-espace-espace-ii-diesel",
+    "name": "Espace II Diesel",
+    "type": "Van"
+  },
+  {
+    "id": "renault-espace-espace-ii-v6",
+    "name": "Espace II V6",
+    "type": "Van"
+  },
+  {
+    "id": "renault-estafette-estafette",
+    "name": "Estafette",
+    "type": "Van"
+  },
+  {
+    "id": "renault-express-express-rapid-extra",
+    "name": "Express / Rapid / Extra",
+    "type": "Van"
+  },
+  {
+    "id": "renault-express-express-diesel",
+    "name": "Express Diesel",
+    "type": "Van"
+  },
+  {
+    "id": "renault-caravelle-floride-caravelle",
+    "name": "Floride / Caravelle",
+    "type": "Cabrio"
+  },
+  {
+    "id": "renault-fregate-fregate",
+    "name": "Fregate",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-fuego-fuego",
+    "name": "Fuego",
+    "type": "Coupe"
+  },
+  {
+    "id": "renault-fuego-fuego-turbo",
+    "name": "Fuego Turbo",
+    "type": "Coupe"
+  },
+  {
+    "id": "renault-master-master-i",
+    "name": "Master I",
+    "type": "Van"
+  },
+  {
+    "id": "renault-master-master-i-diesel",
+    "name": "Master I Diesel",
+    "type": "Van"
+  },
+  {
+    "id": "renault-10-r10",
+    "name": "R10",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-11-r11",
+    "name": "R11",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-11-r11-turbo",
+    "name": "R11 Turbo",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-12-r12",
+    "name": "R12",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-12-r12-gordini",
+    "name": "R12 Gordini",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-14-r14",
+    "name": "R14",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-15-r15",
+    "name": "R15",
+    "type": "Coupe"
+  },
+  {
+    "id": "renault-16-r16",
+    "name": "R16",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-16-r16-tx",
+    "name": "R16 TX",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-17-r17",
+    "name": "R17",
+    "type": "Coupe"
+  },
+  {
+    "id": "renault-18-r18",
+    "name": "R18",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-18-r18-break-diesel",
+    "name": "R18 Break Diesel",
+    "type": "Wagon"
+  },
+  {
+    "id": "renault-18-r18-turbo",
+    "name": "R18 Turbo",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-19-r19",
+    "name": "R19",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-19-r19-16s-16v",
+    "name": "R19 16S/16V",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-19-r19-chamade-diesel",
+    "name": "R19 Chamade Diesel",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-20-r20",
+    "name": "R20",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-20-r20-diesel",
+    "name": "R20 Diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-21-r21",
+    "name": "R21",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-21-r21-2l-turbo-quadra",
+    "name": "R21 2L Turbo Quadra",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-21-r21-nevada-diesel",
+    "name": "R21 Nevada Diesel",
+    "type": "Wagon"
+  },
+  {
+    "id": "renault-25-r25",
+    "name": "R25",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-25-r25-diesel",
+    "name": "R25 Diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-25-r25-v6",
+    "name": "R25 V6",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-30-r30",
+    "name": "R30",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-30-r30-diesel",
+    "name": "R30 Diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-4-r4",
+    "name": "R4",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-4-r4-gtl",
+    "name": "R4 GTL",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-5-r5-1a-gen",
+    "name": "R5 (1a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-5-r5-alpine-gordini",
+    "name": "R5 Alpine/Gordini",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-6-r6",
+    "name": "R6",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-8-r8",
+    "name": "R8",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-8-r8-gordini",
+    "name": "R8 Gordini",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-9-r9",
+    "name": "R9",
+    "type": "Sedan"
+  },
+  {
+    "id": "renault-safrane-safrane-biturbo-v6",
+    "name": "Safrane Biturbo / V6",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-safrane-safrane-diesel",
+    "name": "Safrane Diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-safrane-safrane-i",
+    "name": "Safrane I",
+    "type": "Hatchback"
+  },
+  {
+    "id": "renault-sport-spider-sport-spider",
+    "name": "Sport Spider",
+    "type": "Roadster"
+  }
+]

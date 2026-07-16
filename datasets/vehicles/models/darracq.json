@@ -1,0 +1,87 @@
+[
+  {
+    "id": "darracq-12-hp-bicilindrico-13l",
+    "name": "12 HP Bicilindrico 1.3L",
+    "type": "Sedan"
+  },
+  {
+    "id": "darracq-12-hp-clegg-darracq",
+    "name": "12 HP Clegg-Darracq",
+    "type": "Sedan"
+  },
+  {
+    "id": "darracq-14-16-hp-valvula-rotativa-henriod",
+    "name": "14/16 HP Valvula rotativa Henriod",
+    "type": "Sedan"
+  },
+  {
+    "id": "darracq-16-hp-bicilindrico-19l",
+    "name": "16 HP Bicilindrico 1.9L",
+    "type": "Sedan"
+  },
+  {
+    "id": "darracq-16-hp-type-v14-clegg-darracq",
+    "name": "16 HP Type V14 (Clegg-Darracq)",
+    "type": "Sedan"
+  },
+  {
+    "id": "darracq-20-28-hp-tetracilindrico-47l",
+    "name": "20/28 HP Tetracilindrico 4.7L",
+    "type": "Sedan"
+  },
+  {
+    "id": "darracq-20-30-hp-tetracilindrico-40l",
+    "name": "20/30 HP Tetracilindrico 4.0L",
+    "type": "Sedan"
+  },
+  {
+    "id": "darracq-200-hp-record-de-velocidad-en-tierra",
+    "name": "200 HP Record de velocidad en tierra",
+    "type": "Roadster"
+  },
+  {
+    "id": "darracq-24-hp-tetracilindrico-38l",
+    "name": "24 HP Tetracilindrico 3.8L",
+    "type": "Sedan"
+  },
+  {
+    "id": "darracq-24-hp-type-a",
+    "name": "24 HP Type A",
+    "type": "Sedan"
+  },
+  {
+    "id": "darracq-8-hp-monocilindrico-11l",
+    "name": "8 HP Monocilindrico 1.1L",
+    "type": "Microcar"
+  },
+  {
+    "id": "darracq-flying-fifteen-15-hp-chasis-de-acero-prensado",
+    "name": "Flying Fifteen 15 HP chasis de acero prensado",
+    "type": "Sedan"
+  },
+  {
+    "id": "darracq-gordon-bennett-racer-gordon-bennett-1904",
+    "name": "Gordon Bennett Racer Gordon Bennett 1904",
+    "type": "Roadster"
+  },
+  {
+    "id": "darracq-six-seis-cilindros-57l",
+    "name": "Six Seis cilindros 5.7L",
+    "type": "Sedan"
+  },
+  {
+    "id": "darracq-talbot-darracq-56-voiturette-de-carreras",
+    "name": "Talbot-Darracq 56 Voiturette de carreras",
+    "type": "Roadster"
+  },
+  {
+    "id": "darracq-vanderbilt-cup-racer-100-hp",
+    "name": "Vanderbilt Cup Racer 100 HP",
+    "type": "Roadster"
+  },
+  {
+    "id": "darracq-voiture-legere-6-hp-tipo-ribeyrolles",
+    "name": "Voiture Legere 6½ HP Tipo Ribeyrolles",
+    "type": "Microcar"
+  }
+]

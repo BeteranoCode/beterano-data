@@ -1,0 +1,97 @@
+[
+  {
+    "id": "lamborghini-350-gt-350-gt",
+    "name": "350 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-400-gt-400-gt-2-2",
+    "name": "400 GT 2+2",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-countach-25th-anniversary",
+    "name": "Countach 25th Anniversary",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-countach-5000-quattrovalvole",
+    "name": "Countach 5000 Quattrovalvole",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-countach-lp400",
+    "name": "Countach LP400",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-countach-lp400-s",
+    "name": "Countach LP400 S",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-countach-lp500-s-5000-s",
+    "name": "Countach LP500 S / 5000 S",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-espada-serie-i-ii-iii",
+    "name": "Espada Serie I/II/III",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-islero-400-gt-gts",
+    "name": "Islero 400 GT / GTS",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-jalpa-p350",
+    "name": "Jalpa P350",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-jarama-400-gt-gts",
+    "name": "Jarama 400 GT / GTS",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-lm002-lm002",
+    "name": "LM002",
+    "type": "SUV"
+  },
+  {
+    "id": "lamborghini-miura-p400",
+    "name": "Miura P400",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-miura-p400-s",
+    "name": "Miura P400 S",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-miura-p400-sv",
+    "name": "Miura P400 SV",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-silhouette-p300",
+    "name": "Silhouette P300",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-urraco-p200",
+    "name": "Urraco P200",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-urraco-p250",
+    "name": "Urraco P250",
+    "type": "Coupe"
+  },
+  {
+    "id": "lamborghini-urraco-p300",
+    "name": "Urraco P300",
+    "type": "Coupe"
+  }
+]

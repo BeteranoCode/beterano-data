@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cord-8-10-cord-8-10-glenn-pray",
+    "name": "Cord 8/10 (Glenn Pray)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "cord-810-cord-810",
+    "name": "Cord 810",
+    "type": "Sedan"
+  },
+  {
+    "id": "cord-812-cord-812",
+    "name": "Cord 812",
+    "type": "Sedan"
+  },
+  {
+    "id": "cord-812-cord-812-s",
+    "name": "Cord 812 S",
+    "type": "Sedan"
+  },
+  {
+    "id": "cord-l-29-cord-l-29",
+    "name": "Cord L-29",
+    "type": "Sedan"
+  },
+  {
+    "id": "cord-royale-cord-royale-samco",
+    "name": "Cord Royale (SAMCO)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "cord-warrior-cord-warrior-samco",
+    "name": "Cord Warrior (SAMCO)",
+    "type": "Cabrio"
+  }
+]

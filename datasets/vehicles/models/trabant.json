@@ -1,0 +1,22 @@
+[
+  {
+    "id": "trabant-p50-p50-p500",
+    "name": "P50 (P500)",
+    "type": "Sedan"
+  },
+  {
+    "id": "trabant-p60-p60-p600",
+    "name": "P60 (P600)",
+    "type": "Sedan"
+  },
+  {
+    "id": "trabant-11-trabant-11",
+    "name": "Trabant 1.1",
+    "type": "Sedan"
+  },
+  {
+    "id": "trabant-601-trabant-601",
+    "name": "Trabant 601",
+    "type": "Sedan"
+  }
+]

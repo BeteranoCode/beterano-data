@@ -1,0 +1,252 @@
+[
+  {
+    "id": "hillman-14-14-1925-1930",
+    "name": "14 (1925-1930)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-20-straight-eight",
+    "name": "20 Straight Eight",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-20-vortic",
+    "name": "20 Vortic",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-80-80-lwb",
+    "name": "80 (LWB)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-aero-minx-aero-minx",
+    "name": "Aero Minx",
+    "type": "Coupe"
+  },
+  {
+    "id": "hillman-avenger-avenger",
+    "name": "Avenger",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-avenger-avenger-estate",
+    "name": "Avenger Estate",
+    "type": "Wagon"
+  },
+  {
+    "id": "hillman-avenger-tiger-avenger",
+    "name": "Avenger Tiger",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-fourteen-fourteen-1938-1940",
+    "name": "Fourteen (1938-1940)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-hawk-hawk",
+    "name": "Hawk",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-hunter-hunter-arrow",
+    "name": "Hunter (Arrow)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-hunter-hunter-estate-arrow",
+    "name": "Hunter Estate (Arrow)",
+    "type": "Wagon"
+  },
+  {
+    "id": "hillman-husky-husky-imp-based",
+    "name": "Husky (Imp-based)",
+    "type": "Wagon"
+  },
+  {
+    "id": "hillman-husky-husky-mark-1",
+    "name": "Husky Mark 1",
+    "type": "Wagon"
+  },
+  {
+    "id": "hillman-husky-husky-series-i-audax",
+    "name": "Husky Series I (Audax)",
+    "type": "Wagon"
+  },
+  {
+    "id": "hillman-husky-husky-series-ii-audax",
+    "name": "Husky Series II (Audax)",
+    "type": "Wagon"
+  },
+  {
+    "id": "hillman-husky-husky-series-iii-audax",
+    "name": "Husky Series III (Audax)",
+    "type": "Wagon"
+  },
+  {
+    "id": "hillman-imp-imp",
+    "name": "Imp",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-imp-californian-imp",
+    "name": "Imp Californian",
+    "type": "Coupe"
+  },
+  {
+    "id": "hillman-imp-van-imp",
+    "name": "Imp Van",
+    "type": "Van"
+  },
+  {
+    "id": "hillman-minx-minx-1932-1935",
+    "name": "Minx (1932-1935)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-arrow",
+    "name": "Minx (Arrow)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-californian-californian-mark-vi-viii",
+    "name": "Minx Californian Californian (Mark VI-VIII)",
+    "type": "Coupe"
+  },
+  {
+    "id": "hillman-minx-minx-magnificent",
+    "name": "Minx Magnificent",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-mark-i",
+    "name": "Minx Mark I",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-mark-ii",
+    "name": "Minx Mark II",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-mark-iii",
+    "name": "Minx Mark III",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-mark-iv",
+    "name": "Minx Mark IV",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-mark-v",
+    "name": "Minx Mark V",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-mark-vi",
+    "name": "Minx Mark VI",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-mark-vii",
+    "name": "Minx Mark VII",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-mark-viii",
+    "name": "Minx Mark VIII",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-series-i-audax",
+    "name": "Minx Series I (Audax)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-series-ii-audax",
+    "name": "Minx Series II (Audax)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-series-iii-audax",
+    "name": "Minx Series III (Audax)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-series-iiia-audax",
+    "name": "Minx Series IIIA (Audax)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-series-iiib-audax",
+    "name": "Minx Series IIIB (Audax)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-series-iiic-audax",
+    "name": "Minx Series IIIC (Audax)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-series-v-audax",
+    "name": "Minx Series V (Audax)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-minx-series-vi-audax",
+    "name": "Minx Series VI (Audax)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-minx-new-minx-1938-1939",
+    "name": "New Minx (1938-1939)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-sixteen-sixteen-1936-1937",
+    "name": "Sixteen (1936-1937)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-super-imp-imp",
+    "name": "Super Imp",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-super-minx-super-minx-estate",
+    "name": "Super Minx Estate",
+    "type": "Wagon"
+  },
+  {
+    "id": "hillman-super-minx-super-minx-mark-i",
+    "name": "Super Minx Mark I",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-super-minx-super-minx-mark-ii",
+    "name": "Super Minx Mark II",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-super-minx-super-minx-mark-iii",
+    "name": "Super Minx Mark III",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-super-minx-super-minx-mark-iv",
+    "name": "Super Minx Mark IV",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-wizard-wizard-65",
+    "name": "Wizard 65",
+    "type": "Sedan"
+  },
+  {
+    "id": "hillman-wizard-wizard-75",
+    "name": "Wizard 75",
+    "type": "Sedan"
+  }
+]

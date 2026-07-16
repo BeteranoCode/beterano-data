@@ -1,0 +1,107 @@
+[
+  {
+    "id": "franklin-airman-series-12-12a-12b",
+    "name": "Airman Series 12 (12A, 12B)",
+    "type": "Sedan"
+  },
+  {
+    "id": "franklin-airman-series-13-130-135-137",
+    "name": "Airman Series 13 (130 / 135 / 137)",
+    "type": "Sedan"
+  },
+  {
+    "id": "franklin-airman-series-14-145-147",
+    "name": "Airman Series 14 (145 / 147)",
+    "type": "Sedan"
+  },
+  {
+    "id": "franklin-airman-series-16-16a-163",
+    "name": "Airman Series 16 (16A, 163)",
+    "type": "Sedan"
+  },
+  {
+    "id": "franklin-airman-series-19-19a-19b-193-194",
+    "name": "Airman Series 19 (19A / 19B, 193 / 194)",
+    "type": "Sedan"
+  },
+  {
+    "id": "franklin-olympic-series-18-18a-18c-183-184",
+    "name": "Olympic Series 18 (18A-18C, 183 / 184)",
+    "type": "Sedan"
+  },
+  {
+    "id": "franklin-series-1-8-series-1-8",
+    "name": "Series 1-8",
+    "type": "Cabrio"
+  },
+  {
+    "id": "franklin-series-10-series-10-10-10b-10c",
+    "name": "Series 10 (10, 10B, 10C)",
+    "type": "Sedan"
+  },
+  {
+    "id": "franklin-series-11-series-11-11a-11b",
+    "name": "Series 11 (11A, 11B)",
+    "type": "Sedan"
+  },
+  {
+    "id": "franklin-series-9-series-9-9-9a-9b",
+    "name": "Series 9 (9, 9A, 9B)",
+    "type": "Sedan"
+  },
+  {
+    "id": "franklin-transcontinent-deluxe-series-15-151-152-153",
+    "name": "Transcontinent / DeLuxe Series 15 (151 / 152 / 153)",
+    "type": "Sedan"
+  },
+  {
+    "id": "franklin-twelve-series-17",
+    "name": "Twelve Series 17",
+    "type": "Sedan"
+  },
+  {
+    "id": "franklin-type-a-type-a",
+    "name": "Type A",
+    "type": "Roadster"
+  },
+  {
+    "id": "franklin-type-b-type-b",
+    "name": "Type B",
+    "type": "Cabrio"
+  },
+  {
+    "id": "franklin-type-c-type-c",
+    "name": "Type C",
+    "type": "Cabrio"
+  },
+  {
+    "id": "franklin-type-d-type-d",
+    "name": "Type D",
+    "type": "Cabrio"
+  },
+  {
+    "id": "franklin-type-e-type-e",
+    "name": "Type E",
+    "type": "Roadster"
+  },
+  {
+    "id": "franklin-type-f-type-f",
+    "name": "Type F",
+    "type": "Cabrio"
+  },
+  {
+    "id": "franklin-type-g-type-g",
+    "name": "Type G",
+    "type": "Cabrio"
+  },
+  {
+    "id": "franklin-type-h-type-h",
+    "name": "Type H",
+    "type": "Cabrio"
+  },
+  {
+    "id": "franklin-type-m-type-m",
+    "name": "Type M",
+    "type": "Cabrio"
+  }
+]

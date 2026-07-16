@@ -1,0 +1,247 @@
+[
+  {
+    "id": "reliant-7cwt-10cwt-serie-prebelica-1935-1939",
+    "name": "7cwt / 10cwt Serie prebelica (1935-1939)",
+    "type": "Van"
+  },
+  {
+    "id": "reliant-8cwt-10cwt-12cwt-serie-posguerra-1946-1950",
+    "name": "8cwt / 10cwt / 12cwt Serie posguerra (1946-1950)",
+    "type": "Van"
+  },
+  {
+    "id": "reliant-fox-fox",
+    "name": "Fox",
+    "type": "Pickup"
+  },
+  {
+    "id": "reliant-kitten-kitten",
+    "name": "Kitten",
+    "type": "Sedan"
+  },
+  {
+    "id": "reliant-kitten-kitten-estate",
+    "name": "Kitten Estate",
+    "type": "Wagon"
+  },
+  {
+    "id": "reliant-rebel-rebel-600",
+    "name": "Rebel 600",
+    "type": "Sedan"
+  },
+  {
+    "id": "reliant-rebel-rebel-700",
+    "name": "Rebel 700",
+    "type": "Sedan"
+  },
+  {
+    "id": "reliant-rebel-rebel-750",
+    "name": "Rebel 750",
+    "type": "Sedan"
+  },
+  {
+    "id": "reliant-rebel-rebel-estate",
+    "name": "Rebel Estate",
+    "type": "Wagon"
+  },
+  {
+    "id": "reliant-regal-regal-3-25-mk-vii",
+    "name": "Regal 3/25 (Mk VII)",
+    "type": "Microcar"
+  },
+  {
+    "id": "reliant-regal-regal-3-30",
+    "name": "Regal 3/30",
+    "type": "Microcar"
+  },
+  {
+    "id": "reliant-regal-regal-mk-i",
+    "name": "Regal Mk I",
+    "type": "Microcar"
+  },
+  {
+    "id": "reliant-regal-regal-mk-ii",
+    "name": "Regal Mk II",
+    "type": "Microcar"
+  },
+  {
+    "id": "reliant-regal-regal-mk-iii",
+    "name": "Regal Mk III",
+    "type": "Microcar"
+  },
+  {
+    "id": "reliant-regal-regal-mk-iv",
+    "name": "Regal Mk IV",
+    "type": "Microcar"
+  },
+  {
+    "id": "reliant-regal-regal-mk-v",
+    "name": "Regal Mk V",
+    "type": "Microcar"
+  },
+  {
+    "id": "reliant-regal-regal-mk-vi",
+    "name": "Regal Mk VI",
+    "type": "Microcar"
+  },
+  {
+    "id": "reliant-regal-supervan-supervan-supervan-ii",
+    "name": "Regal Supervan Supervan / Supervan II",
+    "type": "Van"
+  },
+  {
+    "id": "reliant-regal-supervan-supervan-iii",
+    "name": "Regal Supervan Supervan III",
+    "type": "Van"
+  },
+  {
+    "id": "reliant-regent-regent",
+    "name": "Regent",
+    "type": "Van"
+  },
+  {
+    "id": "reliant-rialto-rialto-2",
+    "name": "Rialto 2",
+    "type": "Microcar"
+  },
+  {
+    "id": "reliant-rialto-rialto-mk1",
+    "name": "Rialto Mk1",
+    "type": "Microcar"
+  },
+  {
+    "id": "reliant-rialto-rialto-se",
+    "name": "Rialto SE",
+    "type": "Microcar"
+  },
+  {
+    "id": "reliant-rialto-rialto-van",
+    "name": "Rialto Van",
+    "type": "Van"
+  },
+  {
+    "id": "reliant-robin-robin-mk1-748",
+    "name": "Robin Mk1 (748)",
+    "type": "Microcar"
+  },
+  {
+    "id": "reliant-robin-robin-mk1-850",
+    "name": "Robin Mk1 (850)",
+    "type": "Microcar"
+  },
+  {
+    "id": "reliant-robin-robin-mk1-van",
+    "name": "Robin Mk1 Van",
+    "type": "Van"
+  },
+  {
+    "id": "reliant-robin-robin-mk2",
+    "name": "Robin Mk2",
+    "type": "Hatchback"
+  },
+  {
+    "id": "reliant-robin-robin-mk2-van",
+    "name": "Robin Mk2 Van",
+    "type": "Van"
+  },
+  {
+    "id": "reliant-sabre-sabre-4-se2",
+    "name": "Sabre 4 (SE2)",
+    "type": "Roadster"
+  },
+  {
+    "id": "reliant-sabre-sabre-six-se2",
+    "name": "Sabre Six (SE2)",
+    "type": "Coupe"
+  },
+  {
+    "id": "reliant-scimitar-gt-se4",
+    "name": "Scimitar GT SE4",
+    "type": "Coupe"
+  },
+  {
+    "id": "reliant-scimitar-gt-se4a-se4b",
+    "name": "Scimitar GT SE4a / SE4b",
+    "type": "Coupe"
+  },
+  {
+    "id": "reliant-scimitar-gt-se4c",
+    "name": "Scimitar GT SE4c",
+    "type": "Coupe"
+  },
+  {
+    "id": "reliant-scimitar-gtc-se8b",
+    "name": "Scimitar GTC SE8b",
+    "type": "Cabrio"
+  },
+  {
+    "id": "reliant-scimitar-gte-se5",
+    "name": "Scimitar GTE SE5",
+    "type": "Wagon"
+  },
+  {
+    "id": "reliant-scimitar-gte-se5a",
+    "name": "Scimitar GTE SE5a",
+    "type": "Wagon"
+  },
+  {
+    "id": "reliant-scimitar-gte-se6",
+    "name": "Scimitar GTE SE6",
+    "type": "Wagon"
+  },
+  {
+    "id": "reliant-scimitar-gte-se6a",
+    "name": "Scimitar GTE SE6a",
+    "type": "Wagon"
+  },
+  {
+    "id": "reliant-scimitar-gte-se6b",
+    "name": "Scimitar GTE SE6b",
+    "type": "Wagon"
+  },
+  {
+    "id": "reliant-scimitar-sabre-sabre-1400-ford",
+    "name": "Scimitar Sabre Sabre 1400 (Ford)",
+    "type": "Roadster"
+  },
+  {
+    "id": "reliant-scimitar-sabre-sabre-1400-rover-k",
+    "name": "Scimitar Sabre Sabre 1400 (Rover K)",
+    "type": "Roadster"
+  },
+  {
+    "id": "reliant-scimitar-sabre-sabre-1800ti",
+    "name": "Scimitar Sabre Sabre 1800Ti",
+    "type": "Roadster"
+  },
+  {
+    "id": "reliant-scimitar-ss1-ss1-1300",
+    "name": "Scimitar SS1 SS1 1300",
+    "type": "Roadster"
+  },
+  {
+    "id": "reliant-scimitar-ss1-ss1-1600",
+    "name": "Scimitar SS1 SS1 1600",
+    "type": "Roadster"
+  },
+  {
+    "id": "reliant-scimitar-ss1-ss1-1800ti",
+    "name": "Scimitar SS1 SS1 1800Ti",
+    "type": "Roadster"
+  },
+  {
+    "id": "reliant-scimitar-sst-sst-1400",
+    "name": "Scimitar SST SST 1400",
+    "type": "Roadster"
+  },
+  {
+    "id": "reliant-scimitar-sst-sst-1800ti",
+    "name": "Scimitar SST SST 1800Ti",
+    "type": "Roadster"
+  },
+  {
+    "id": "reliant-tw9-ant-tw9-ant",
+    "name": "TW9 / Ant TW9 (Ant)",
+    "type": "Camion"
+  }
+]

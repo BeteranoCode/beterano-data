@@ -1,0 +1,132 @@
+[
+  {
+    "id": "wanderer-w1-w1-5-12-ps",
+    "name": "W1 (5/12 PS)",
+    "type": "Roadster"
+  },
+  {
+    "id": "wanderer-w10-w10-i-6-30-ps",
+    "name": "W10/I (6/30 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w10-w10-ii-8-40-ps",
+    "name": "W10/II (8/40 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w10-w10-iv-6-30-ps",
+    "name": "W10/IV (6/30 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w11-w11-10-50-ps-1a-serie",
+    "name": "W11 (10/50 PS) 1a serie",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w11-w11-10-50-ps-2a-serie",
+    "name": "W11 (10/50 PS) 2a serie",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w14-w14-12-65-ps",
+    "name": "W14 (12/65 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w15-w15-6-30-ps",
+    "name": "W15 (6/30 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w17-w17-7-35-ps",
+    "name": "W17 (7/35 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w2-w2-5-15-ps",
+    "name": "W2 (5/15 PS)",
+    "type": "Roadster"
+  },
+  {
+    "id": "wanderer-w20-w20-8-40-ps",
+    "name": "W20 (8/40 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w21-w21-w235-w35",
+    "name": "W21 / W235 / W35",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w22-w22-w240-w40",
+    "name": "W22 / W240 / W40",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w23-w23",
+    "name": "W23",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w23s-w23s",
+    "name": "W23S",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w24-w24",
+    "name": "W24",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w245-w245-w250",
+    "name": "W245 / W250",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w25k-w25k",
+    "name": "W25K",
+    "type": "Roadster"
+  },
+  {
+    "id": "wanderer-w26-w26",
+    "name": "W26",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w3-w3-5-15-ps",
+    "name": "W3 (5/15 PS)",
+    "type": "Roadster"
+  },
+  {
+    "id": "wanderer-w4-w4-5-15-ps",
+    "name": "W4 (5/15 PS)",
+    "type": "Roadster"
+  },
+  {
+    "id": "wanderer-w50-w45-w50-w51",
+    "name": "W45 / W50 / W51",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w52-w52",
+    "name": "W52",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w6-w6-6-18-ps",
+    "name": "W6 (6/18 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "wanderer-w8-w8-5-20-ps",
+    "name": "W8 (5/20 PS)",
+    "type": "Roadster"
+  },
+  {
+    "id": "wanderer-w9-w9-6-24-ps",
+    "name": "W9 (6/24 PS)",
+    "type": "Sedan"
+  }
+]

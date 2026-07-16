@@ -1,0 +1,47 @@
+[
+  {
+    "id": "imperial-crown-imperial-limousine-by-ghia-limusina-ghia-1957-1965",
+    "name": "Crown Imperial Limousine by Ghia Limusina Ghia (1957-1965)",
+    "type": "Sedan"
+  },
+  {
+    "id": "imperial-crown-imperial-primera-generacion-1955-1956",
+    "name": "Crown Imperial Primera generacion (1955-1956)",
+    "type": "Sedan"
+  },
+  {
+    "id": "imperial-imperial-cuarta-generacion-fuselage-1969-1973",
+    "name": "Imperial Cuarta generacion (fuselage, 1969-1973)",
+    "type": "Sedan"
+  },
+  {
+    "id": "imperial-imperial-primera-generacion-c-69-1955-1956",
+    "name": "Imperial Primera generacion (C-69, 1955-1956)",
+    "type": "Sedan"
+  },
+  {
+    "id": "imperial-imperial-primera-generacion-c-73-1955-1956",
+    "name": "Imperial Primera generacion (C-73, 1955-1956)",
+    "type": "Sedan"
+  },
+  {
+    "id": "imperial-imperial-quinta-generacion-1974-1975",
+    "name": "Imperial Quinta generacion (1974-1975)",
+    "type": "Sedan"
+  },
+  {
+    "id": "imperial-imperial-segunda-generacion-1957-1966",
+    "name": "Imperial Segunda generacion (1957-1966)",
+    "type": "Sedan"
+  },
+  {
+    "id": "imperial-imperial-sexta-generacion-j-body-1981-1983",
+    "name": "Imperial Sexta generacion (J-body, 1981-1983)",
+    "type": "Coupe"
+  },
+  {
+    "id": "imperial-imperial-tercera-generacion-1967-1968",
+    "name": "Imperial Tercera generacion (1967-1968)",
+    "type": "Sedan"
+  }
+]

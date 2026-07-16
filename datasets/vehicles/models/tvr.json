@@ -1,0 +1,137 @@
+[
+  {
+    "id": "tvr-1600m-m-series",
+    "name": "1600M M-Series",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-2500m-m-series",
+    "name": "2500M M-Series",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-3000m-m-series",
+    "name": "3000M M-Series",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-3000m-turbo-m-series",
+    "name": "3000M Turbo M-Series",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-3000s-m-series",
+    "name": "3000S M-Series",
+    "type": "Roadster"
+  },
+  {
+    "id": "tvr-3000s-turbo-m-series",
+    "name": "3000S Turbo M-Series",
+    "type": "Roadster"
+  },
+  {
+    "id": "tvr-350i-wedge",
+    "name": "350i Wedge",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-390se-wedge",
+    "name": "390SE Wedge",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-400se-wedge",
+    "name": "400SE Wedge",
+    "type": "Cabrio"
+  },
+  {
+    "id": "tvr-420-seac-wedge",
+    "name": "420 SEAC Wedge",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-450-seac-wedge",
+    "name": "450 SEAC Wedge",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-450se-wedge",
+    "name": "450SE Wedge",
+    "type": "Cabrio"
+  },
+  {
+    "id": "tvr-grantura-grantura-mk-i-ii",
+    "name": "Grantura Mk I/II",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-grantura-grantura-mk-iii-1800s",
+    "name": "Grantura Mk III / 1800S",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-griffith-griffith-200",
+    "name": "Griffith 200",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-griffith-griffith-400",
+    "name": "Griffith 400",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-s1-s-series",
+    "name": "S1 S-Series",
+    "type": "Roadster"
+  },
+  {
+    "id": "tvr-s2-s3-s4-s-series",
+    "name": "S2/S3/S4 S-Series",
+    "type": "Roadster"
+  },
+  {
+    "id": "tvr-taimar-m-series",
+    "name": "Taimar M-Series",
+    "type": "Hatchback"
+  },
+  {
+    "id": "tvr-taimar-turbo-m-series",
+    "name": "Taimar Turbo M-Series",
+    "type": "Hatchback"
+  },
+  {
+    "id": "tvr-tasmin-tasmin-wedge",
+    "name": "Tasmin / Wedge",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-tasmin-280i-tasmin-wedge",
+    "name": "Tasmin 280i Tasmin / Wedge",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-tuscan-tuscan-v6",
+    "name": "Tuscan V6",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-tuscan-tuscan-v8",
+    "name": "Tuscan V8",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-v8s-s-series",
+    "name": "V8S S-Series",
+    "type": "Roadster"
+  },
+  {
+    "id": "tvr-vixen-vixen-2500",
+    "name": "Vixen 2500",
+    "type": "Coupe"
+  },
+  {
+    "id": "tvr-vixen-vixen-s1-s4",
+    "name": "Vixen S1-S4",
+    "type": "Coupe"
+  }
+]

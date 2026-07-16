@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kurogane-baby-baby-kb",
+    "name": "Baby (KB)",
+    "type": "Van"
+  },
+  {
+    "id": "kurogane-kf-kf-tres-ruedas-2-t",
+    "name": "KF (tres ruedas 2 t)",
+    "type": "Camion"
+  },
+  {
+    "id": "kurogane-ks-ks-tres-ruedas-15-t",
+    "name": "KS (tres ruedas 1.5 t)",
+    "type": "Camion"
+  },
+  {
+    "id": "kurogane-mighty-mighty-na-nb",
+    "name": "Mighty NA/NB",
+    "type": "Camion"
+  },
+  {
+    "id": "kurogane-mighty-mighty-nc",
+    "name": "Mighty NC",
+    "type": "Camion"
+  },
+  {
+    "id": "kurogane-nova-1500-nova-1500-kn",
+    "name": "Nova 1500 (KN)",
+    "type": "Camion"
+  },
+  {
+    "id": "kurogane-type-95-type-95-type-a",
+    "name": "Type 95 Type A",
+    "type": "Roadster"
+  },
+  {
+    "id": "kurogane-type-95-type-95-type-b",
+    "name": "Type 95 Type B",
+    "type": "Cabrio"
+  },
+  {
+    "id": "kurogane-type-95-type-95-type-c",
+    "name": "Type 95 Type C",
+    "type": "Pickup"
+  }
+]

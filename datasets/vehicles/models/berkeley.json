@@ -1,0 +1,47 @@
+[
+  {
+    "id": "berkeley-b105-b105",
+    "name": "B105",
+    "type": "Roadster"
+  },
+  {
+    "id": "berkeley-b65-b65",
+    "name": "B65",
+    "type": "Roadster"
+  },
+  {
+    "id": "berkeley-b95-b95",
+    "name": "B95",
+    "type": "Roadster"
+  },
+  {
+    "id": "berkeley-foursome-foursome-492",
+    "name": "Foursome (492)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "berkeley-sports-sa322",
+    "name": "Sports SA322",
+    "type": "Roadster"
+  },
+  {
+    "id": "berkeley-sports-se328",
+    "name": "Sports SE328",
+    "type": "Roadster"
+  },
+  {
+    "id": "berkeley-sports-se492-twosome",
+    "name": "Sports SE492 (Twosome)",
+    "type": "Roadster"
+  },
+  {
+    "id": "berkeley-t60-t60",
+    "name": "T60",
+    "type": "Microcar"
+  },
+  {
+    "id": "berkeley-t60-t60-4",
+    "name": "T60/4",
+    "type": "Microcar"
+  }
+]

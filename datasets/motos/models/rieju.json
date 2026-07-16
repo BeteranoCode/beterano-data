@@ -1,0 +1,112 @@
+[
+  {
+    "id": "rieju-175-175-hispano-villiers",
+    "name": "175 (Hispano Villiers)",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-175-175-motor-amc-motores-fita",
+    "name": "175 (motor AMC / Motores FITA)",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-confort-confort-400-402",
+    "name": "Confort 400 / 402",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-confort-confort-501",
+    "name": "Confort 501",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-drac-50-drac-50",
+    "name": "Drac 50",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-jaca-125-jaca-sport-125",
+    "name": "Jaca 125 Jaca Sport 125",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-jaca-125-jaca-125-turismo",
+    "name": "Jaca 125 Turismo",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-jaca-50-jaca-50-minarelli",
+    "name": "Jaca 50 (Minarelli)",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-marathon-50-marathon-50-1-serie",
+    "name": "Marathon 50 (1ª serie)",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-marathon-74-marathon-74-1-serie",
+    "name": "Marathon 74 (1ª serie)",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-marathon-74-marathon-74-2-serie",
+    "name": "Marathon 74 (2ª serie)",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-mr-80-mr-80-1-serie",
+    "name": "MR 80 (1ª serie)",
+    "type": "Enduro"
+  },
+  {
+    "id": "rieju-mr-80-mr-80-2-serie-freno-de-disco-ajp",
+    "name": "MR 80 (2ª serie, freno de disco AJP)",
+    "type": "Enduro"
+  },
+  {
+    "id": "rieju-n-1-n-1",
+    "name": "Nº1",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-n-2-n-2",
+    "name": "Nº2",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-n-3-n-3",
+    "name": "Nº3",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-n-4-n-4",
+    "name": "Nº4",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-p3a-p3a",
+    "name": "P3A",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-rv-50-rv-50",
+    "name": "RV 50",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-super-marathon-50-super-marathon-50",
+    "name": "Super Marathon 50",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-tt-tt-402",
+    "name": "TT 402",
+    "type": "Naked"
+  },
+  {
+    "id": "rieju-tt-tt-503-504",
+    "name": "TT 503 / 504",
+    "type": "Naked"
+  }
+]

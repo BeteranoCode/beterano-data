@@ -1,0 +1,102 @@
+[
+  {
+    "id": "guy-13-36-13-36",
+    "name": "13/36",
+    "type": "Sedan"
+  },
+  {
+    "id": "guy-169-hp-169-hp",
+    "name": "16.9 hp",
+    "type": "Sedan"
+  },
+  {
+    "id": "guy-20-hp-20-hp-v8",
+    "name": "20 hp V8",
+    "type": "Sedan"
+  },
+  {
+    "id": "guy-arab-arab-fd-fdx-prebelica",
+    "name": "Arab (FD/FDX) prebelica",
+    "type": "Bus"
+  },
+  {
+    "id": "guy-arab-luf-arab-luf",
+    "name": "Arab LUF",
+    "type": "Bus"
+  },
+  {
+    "id": "guy-arab-arab-mk-i",
+    "name": "Arab Mk I",
+    "type": "Bus"
+  },
+  {
+    "id": "guy-arab-arab-mk-ii",
+    "name": "Arab Mk II",
+    "type": "Bus"
+  },
+  {
+    "id": "guy-arab-arab-mk-iii",
+    "name": "Arab Mk III",
+    "type": "Bus"
+  },
+  {
+    "id": "guy-arab-arab-mk-iv",
+    "name": "Arab Mk IV",
+    "type": "Bus"
+  },
+  {
+    "id": "guy-arab-arab-mk-v",
+    "name": "Arab Mk V",
+    "type": "Bus"
+  },
+  {
+    "id": "guy-arab-uf-arab-uf",
+    "name": "Arab UF",
+    "type": "Bus"
+  },
+  {
+    "id": "guy-big-j-big-j",
+    "name": "Big J",
+    "type": "Camion"
+  },
+  {
+    "id": "guy-armoured-car-guy-armoured-car-mk-i",
+    "name": "Guy Armoured Car Mk I",
+    "type": "Camion"
+  },
+  {
+    "id": "guy-invincible-invincible-mk-i-ex-goliath",
+    "name": "Invincible Mk I (ex-Goliath)",
+    "type": "Camion"
+  },
+  {
+    "id": "guy-invincible-invincible-mk-ii",
+    "name": "Invincible Mk II",
+    "type": "Camion"
+  },
+  {
+    "id": "guy-otter-otter-5-6-t",
+    "name": "Otter (5-6 t)",
+    "type": "Camion"
+  },
+  {
+    "id": "guy-quad-ant-quad-ant",
+    "name": "Quad-Ant",
+    "type": "Camion"
+  },
+  {
+    "id": "guy-victory-victory-j",
+    "name": "Victory J",
+    "type": "Bus"
+  },
+  {
+    "id": "guy-warrior-warrior",
+    "name": "Warrior",
+    "type": "Camion"
+  },
+  {
+    "id": "guy-wulfrunian-wulfrunian",
+    "name": "Wulfrunian",
+    "type": "Bus"
+  }
+]

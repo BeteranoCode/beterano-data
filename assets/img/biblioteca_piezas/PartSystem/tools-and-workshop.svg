@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#ffffff"/>
+  <g fill="none" stroke="#111111" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Wrench (top-left to bottom-right diagonal) -->
+    <!-- Wrench head (open C-shape) -->
+    <path d="M220 200 Q160 220 160 300 Q160 380 240 400 L300 340 Q260 320 260 280 Q260 240 300 220 Z"/>
+    <!-- Wrench handle -->
+    <path d="M300 340 L780 820"/>
+    <!-- Wrench opposite head (round) -->
+    <circle cx="820" cy="860" r="60"/>
+    <path d="M820 830 L820 890"/>
+
+    <!-- Screwdriver (crossed diagonal, top-right to bottom-left) -->
+    <!-- Handle (rounded rect) -->
+    <path d="M760 180 Q820 120 880 180 L820 260 L740 260 Z"/>
+    <!-- Handle grip lines -->
+    <path d="M770 200 L860 200"/>
+    <path d="M760 230 L870 230"/>
+    <!-- Shaft -->
+    <path d="M780 260 L280 780"/>
+    <!-- Flat tip -->
+    <path d="M240 820 L300 760 L260 720 L200 780 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "infiniti-g20-g20-1st-gen-p10",
+    "name": "G20 1st gen (P10)",
+    "type": "Sedan"
+  },
+  {
+    "id": "infiniti-i30-i30-1st-gen-a32",
+    "name": "I30 1st gen (A32)",
+    "type": "Sedan"
+  },
+  {
+    "id": "infiniti-j30-j30-y32",
+    "name": "J30 (Y32)",
+    "type": "Sedan"
+  },
+  {
+    "id": "infiniti-m30-m30-f31",
+    "name": "M30 (F31)",
+    "type": "Coupe"
+  },
+  {
+    "id": "infiniti-q45-q45-1st-gen-g50",
+    "name": "Q45 1st gen (G50)",
+    "type": "Sedan"
+  }
+]

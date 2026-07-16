@@ -1,0 +1,127 @@
+[
+  {
+    "id": "marcos-fastback-fastback-dennis-adams",
+    "name": "Fastback (Dennis Adams)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-gt-gt-1500-chasis-de-madera",
+    "name": "GT 1500 (chasis de madera)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-gt-gt-1600-chasis-de-madera",
+    "name": "GT 1600 (chasis de madera)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-gt-gt-1600-chasis-metalico",
+    "name": "GT 1600 (chasis metalico)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-gt-gt-1650-chasis-de-madera",
+    "name": "GT 1650 (chasis de madera)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-gt-gt-1800-chasis-de-madera",
+    "name": "GT 1800 (chasis de madera)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-gt-gt-2-litre-chasis-metalico",
+    "name": "GT 2 litre (chasis metalico)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-gt-gt-2a-generacion-kit",
+    "name": "GT 2a generacion (kit)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-gt-gt-3-litre-chasis-de-madera",
+    "name": "GT 3 litre (chasis de madera)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-gt-gt-3-litre-chasis-metalico",
+    "name": "GT 3 litre (chasis metalico)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-gt-gt-3-litre-volvo-chasis-metalico",
+    "name": "GT 3 litre Volvo (chasis metalico)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-lm400-lm-calle",
+    "name": "LM400 LM (calle)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-lm500-lm-calle",
+    "name": "LM500 LM (calle)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-lm600-lm-calle",
+    "name": "LM600 LM (calle)",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-mantara-mantara-coupe",
+    "name": "Mantara Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-mantara-mantara-spyder",
+    "name": "Mantara Spyder",
+    "type": "Spider"
+  },
+  {
+    "id": "marcos-mantaray-mantaray",
+    "name": "Mantaray",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-mantis-mantis-m70",
+    "name": "Mantis M70",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-mantula-mantula-coupe",
+    "name": "Mantula Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-mantula-mantula-spyder",
+    "name": "Mantula Spyder",
+    "type": "Spider"
+  },
+  {
+    "id": "marcos-martina-martina",
+    "name": "Martina",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-mini-marcos-mk-i-iii",
+    "name": "Mini Marcos Mk I-III",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-mini-marcos-mk-iv",
+    "name": "Mini Marcos Mk IV",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-mini-marcos-mk-v",
+    "name": "Mini Marcos Mk V",
+    "type": "Coupe"
+  },
+  {
+    "id": "marcos-gullwing-xylon-luton-gullwing",
+    "name": "Xylon / Luton Gullwing",
+    "type": "Coupe"
+  }
+]

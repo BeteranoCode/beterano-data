@@ -1,0 +1,52 @@
+[
+  {
+    "id": "syrena-syrena-100-100",
+    "name": "100",
+    "type": "Sedan"
+  },
+  {
+    "id": "syrena-syrena-101-101",
+    "name": "101",
+    "type": "Sedan"
+  },
+  {
+    "id": "syrena-syrena-102-102",
+    "name": "102",
+    "type": "Sedan"
+  },
+  {
+    "id": "syrena-syrena-102-102s",
+    "name": "102S",
+    "type": "Sedan"
+  },
+  {
+    "id": "syrena-syrena-103-103",
+    "name": "103",
+    "type": "Sedan"
+  },
+  {
+    "id": "syrena-syrena-103-103s",
+    "name": "103S",
+    "type": "Sedan"
+  },
+  {
+    "id": "syrena-syrena-104-104",
+    "name": "104",
+    "type": "Sedan"
+  },
+  {
+    "id": "syrena-syrena-105-105",
+    "name": "105",
+    "type": "Sedan"
+  },
+  {
+    "id": "syrena-syrena-bosto-bosto",
+    "name": "Bosto",
+    "type": "Van"
+  },
+  {
+    "id": "syrena-syrena-r-20-r-20",
+    "name": "R-20",
+    "type": "Pickup"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "opel-admiral-admiral-b",
+    "name": "Admiral B",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-ascona-ascona-a",
+    "name": "Ascona A",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-ascona-ascona-b",
+    "name": "Ascona B",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-ascona-ascona-c",
+    "name": "Ascona C",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-astra-astra-f",
+    "name": "Astra F",
+    "type": "Hatchback"
+  },
+  {
+    "id": "opel-blitz-blitz-1965",
+    "name": "Blitz (1965)",
+    "type": "Camion"
+  },
+  {
+    "id": "opel-calibra-calibra",
+    "name": "Calibra",
+    "type": "Coupe"
+  },
+  {
+    "id": "opel-commodore-commodore-a",
+    "name": "Commodore A",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-commodore-commodore-b",
+    "name": "Commodore B",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-commodore-commodore-c",
+    "name": "Commodore C",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-corsa-corsa-a",
+    "name": "Corsa A",
+    "type": "Hatchback"
+  },
+  {
+    "id": "opel-corsa-corsa-b",
+    "name": "Corsa B",
+    "type": "Hatchback"
+  },
+  {
+    "id": "opel-diplomat-diplomat-b",
+    "name": "Diplomat B",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-frontera-frontera-a",
+    "name": "Frontera A",
+    "type": "SUV"
+  },
+  {
+    "id": "opel-gt-gt",
+    "name": "GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "opel-kadett-kadett-a",
+    "name": "Kadett A",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-kadett-kadett-b",
+    "name": "Kadett B",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-kadett-kadett-c",
+    "name": "Kadett C",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-kadett-kadett-d",
+    "name": "Kadett D",
+    "type": "Hatchback"
+  },
+  {
+    "id": "opel-kadett-kadett-e",
+    "name": "Kadett E",
+    "type": "Hatchback"
+  },
+  {
+    "id": "opel-manta-manta-a",
+    "name": "Manta A",
+    "type": "Coupe"
+  },
+  {
+    "id": "opel-manta-manta-b",
+    "name": "Manta B",
+    "type": "Coupe"
+  },
+  {
+    "id": "opel-monterey-monterey",
+    "name": "Monterey",
+    "type": "SUV"
+  },
+  {
+    "id": "opel-monza-monza",
+    "name": "Monza",
+    "type": "Coupe"
+  },
+  {
+    "id": "opel-omega-omega-a",
+    "name": "Omega A",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-rekord-rekord-c",
+    "name": "Rekord C",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-rekord-rekord-d",
+    "name": "Rekord D",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-rekord-rekord-e",
+    "name": "Rekord E",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-senator-senator-a",
+    "name": "Senator A",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-senator-senator-b",
+    "name": "Senator B",
+    "type": "Sedan"
+  },
+  {
+    "id": "opel-sintra-sintra",
+    "name": "Sintra",
+    "type": "Van"
+  },
+  {
+    "id": "opel-tigra-tigra-a",
+    "name": "Tigra A",
+    "type": "Coupe"
+  },
+  {
+    "id": "opel-vectra-vectra-a",
+    "name": "Vectra A",
+    "type": "Sedan"
+  }
+]

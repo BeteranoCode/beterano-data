@@ -1,0 +1,187 @@
+[
+  {
+    "id": "nash-600-600-1941-1942",
+    "name": "600 (1941-1942)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-600-600-1946-1949",
+    "name": "600 (1946-1949)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-advanced-six-advanced-six",
+    "name": "Advanced Six",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-ajax-ajax-model-21-51",
+    "name": "Ajax (Model 21/51)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-ambassador-ambassador-1946-1948",
+    "name": "Ambassador (1946-1948)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-ambassador-ambassador-acabado-senior-sobre-advanced-six",
+    "name": "Ambassador (acabado senior sobre Advanced Six)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-ambassador-ambassador-airflyte-1949-1951",
+    "name": "Ambassador Airflyte (1949-1951)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-ambassador-ambassador-country-club-1952-1954",
+    "name": "Ambassador Country Club (1952-1954)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nash-ambassador-ambassador-custom-cabriolet-1948",
+    "name": "Ambassador Custom Cabriolet (1948)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "nash-ambassador-ambassador-eight-1932-1934",
+    "name": "Ambassador Eight (1932-1934)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-ambassador-ambassador-eight-aeroform-1935-1942",
+    "name": "Ambassador Eight (Aeroform, 1935-1942)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-ambassador-ambassador-golden-airflyte-1952-1954",
+    "name": "Ambassador Golden Airflyte (1952-1954)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-ambassador-ambassador-six-1935-1942",
+    "name": "Ambassador Six (1935-1942)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-ambassador-ambassador-six-1955-1956",
+    "name": "Ambassador Six (1955-1956)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-ambassador-ambassador-v8-1955-1956",
+    "name": "Ambassador V8 (1955-1956)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-ambassador-ambassador-v8-1957",
+    "name": "Ambassador V8 (1957)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-lafayette-lafayette-1934-1936",
+    "name": "LaFayette (1934-1936)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-lafayette-lafayette-400-1937-1940",
+    "name": "LaFayette 400 (1937-1940)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-metropolitan-serie-i-ii-nk1-nk2",
+    "name": "Metropolitan Serie I / II (NK1 / NK2)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nash-metropolitan-serie-iii-nk3",
+    "name": "Metropolitan Serie III (NK3)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nash-light-six-nash-light-six-ex-ajax",
+    "name": "Nash Light Six (ex Ajax)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-quad-nash-quad-ex-jeffery-quad",
+    "name": "Nash Quad (ex Jeffery Quad)",
+    "type": "Camion"
+  },
+  {
+    "id": "nash-rambler-nash-rambler-1956",
+    "name": "Nash Rambler (1956)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-nash-healey-nash-healey-1951-1952-carroceria-britanica",
+    "name": "Nash-Healey (1951-1952, carroceria britanica)",
+    "type": "Roadster"
+  },
+  {
+    "id": "nash-nash-healey-nash-healey-le-mans-coupe-1953-1954",
+    "name": "Nash-Healey Le Mans Coupe (1953-1954)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nash-nash-healey-nash-healey-pininfarina-1952-1954",
+    "name": "Nash-Healey Pininfarina (1952-1954)",
+    "type": "Roadster"
+  },
+  {
+    "id": "nash-rambler-rambler-1950-1952",
+    "name": "Rambler (1950-1952)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-rambler-rambler-1953-1955",
+    "name": "Rambler (1953-1955)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-rambler-rambler-country-club-1951-1952",
+    "name": "Rambler Country Club (1951-1952)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nash-rambler-rambler-cross-country-1953-1955",
+    "name": "Rambler Cross Country (1953-1955)",
+    "type": "Wagon"
+  },
+  {
+    "id": "nash-rambler-rambler-custom-landau-convertible-1950-1952",
+    "name": "Rambler Custom Landau Convertible (1950-1952)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "nash-rambler-rambler-suburban-wagon-1950-1952",
+    "name": "Rambler Suburban Wagon (1950-1952)",
+    "type": "Wagon"
+  },
+  {
+    "id": "nash-special-six-special-six-series-230",
+    "name": "Special Six (Series 230)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-statesman-statesman-1950-1951",
+    "name": "Statesman (1950-1951)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-statesman-statesman-1952-1956",
+    "name": "Statesman (1952-1956)",
+    "type": "Sedan"
+  },
+  {
+    "id": "nash-statesman-statesman-country-club-1952-1956",
+    "name": "Statesman Country Club (1952-1956)",
+    "type": "Coupe"
+  },
+  {
+    "id": "nash-twin-ignition-eight-twin-ignition-eight-series-490",
+    "name": "Twin Ignition Eight (Series 490)",
+    "type": "Sedan"
+  }
+]

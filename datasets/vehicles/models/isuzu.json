@@ -1,0 +1,102 @@
+[
+  {
+    "id": "isuzu-117-coupe-117-pa90-95-96",
+    "name": "117 Coupe 117 (PA90/95/96)",
+    "type": "Coupe"
+  },
+  {
+    "id": "isuzu-117-coupe-117-pa96",
+    "name": "117 Coupe 117 (PA96)",
+    "type": "Coupe"
+  },
+  {
+    "id": "isuzu-aska-1a-gen-jj",
+    "name": "Aska 1a gen (JJ)",
+    "type": "Sedan"
+  },
+  {
+    "id": "isuzu-bellel-bellel-ps",
+    "name": "Bellel (PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "isuzu-bellett-bellett-pr",
+    "name": "Bellett (PR)",
+    "type": "Sedan"
+  },
+  {
+    "id": "isuzu-bellett-bellett-gt-gt-r",
+    "name": "Bellett GT / GT-R",
+    "type": "Coupe"
+  },
+  {
+    "id": "isuzu-faster-1a-gen-1972-80",
+    "name": "Faster 1a gen (1972-80)",
+    "type": "Pickup"
+  },
+  {
+    "id": "isuzu-faster-2a-gen-1980-88",
+    "name": "Faster 2a gen (1980-88)",
+    "type": "Pickup"
+  },
+  {
+    "id": "isuzu-florian-florian-pa20",
+    "name": "Florian (PA20)",
+    "type": "Sedan"
+  },
+  {
+    "id": "isuzu-gemini-1a-gen-pf-rwd",
+    "name": "Gemini 1a gen (PF, RWD)",
+    "type": "Sedan"
+  },
+  {
+    "id": "isuzu-gemini-2a-gen-jt-ff",
+    "name": "Gemini 2a gen (JT, FF)",
+    "type": "Sedan"
+  },
+  {
+    "id": "isuzu-gemini-3a-gen-1990-93",
+    "name": "Gemini 3a gen (1990-93)",
+    "type": "Sedan"
+  },
+  {
+    "id": "isuzu-gemini-4a-gen-rebadge-honda-domani",
+    "name": "Gemini 4a gen (rebadge Honda Domani)",
+    "type": "Sedan"
+  },
+  {
+    "id": "isuzu-gemini-5a-gen-rebadge-domani",
+    "name": "Gemini 5a gen (rebadge Domani)",
+    "type": "Sedan"
+  },
+  {
+    "id": "isuzu-hombre-hombre-rebadge-chevy-s-10",
+    "name": "Hombre (rebadge Chevy S-10)",
+    "type": "Pickup"
+  },
+  {
+    "id": "isuzu-mu-amigo-wizard-1a-gen-1989-98",
+    "name": "MU / Amigo / Wizard 1a gen (1989-98)",
+    "type": "SUV"
+  },
+  {
+    "id": "isuzu-oasis-oasis-rebadge-honda-odyssey",
+    "name": "Oasis (rebadge Honda Odyssey)",
+    "type": "Van"
+  },
+  {
+    "id": "isuzu-piazza-1a-gen-jr120-130",
+    "name": "Piazza 1a gen (JR120/130)",
+    "type": "Coupe"
+  },
+  {
+    "id": "isuzu-piazza-2a-gen-jt22",
+    "name": "Piazza 2a gen (JT22)",
+    "type": "Coupe"
+  },
+  {
+    "id": "isuzu-trooper-bighorn-1a-gen-1981-91",
+    "name": "Trooper / Bighorn 1a gen (1981-91)",
+    "type": "SUV"
+  }
+]

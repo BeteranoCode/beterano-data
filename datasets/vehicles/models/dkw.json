@@ -1,0 +1,247 @@
+[
+  {
+    "id": "dkw-3-6-f91-sonderklasse",
+    "name": "3=6 F91 Sonderklasse",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-3-6-f91-universal",
+    "name": "3=6 F91 Universal",
+    "type": "Wagon"
+  },
+  {
+    "id": "dkw-3-6-f93-2-puertas",
+    "name": "3=6 F93 (2 puertas)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-3-6-f93-cabriolet-karmann",
+    "name": "3=6 F93 Cabriolet Karmann",
+    "type": "Cabrio"
+  },
+  {
+    "id": "dkw-3-6-f93-coupe",
+    "name": "3=6 F93 Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "dkw-3-6-f94-4-puertas",
+    "name": "3=6 F94 (4 puertas)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-3-6-f94-universal",
+    "name": "3=6 F94 Universal",
+    "type": "Wagon"
+  },
+  {
+    "id": "dkw-1000-auto-union-1000",
+    "name": "Auto Union 1000",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-1000-s-auto-union-1000-s",
+    "name": "Auto Union 1000 S",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-1000-s-auto-union-1000-s-iasfsa-argentina",
+    "name": "Auto Union 1000 S (IASFSA, Argentina)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-1000-s-sport-auto-union-1000-s-sport-fissore-argentina",
+    "name": "Auto Union 1000 S Sport Fissore (Argentina)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dkw-1000-s-auto-union-1000-s-universal-argentina",
+    "name": "Auto Union 1000 S Universal (Argentina)",
+    "type": "Wagon"
+  },
+  {
+    "id": "dkw-1000-sp-auto-union-1000-sp-cabriolet",
+    "name": "Auto Union 1000 Sp Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "dkw-1000-sp-auto-union-1000-sp-coupe",
+    "name": "Auto Union 1000 Sp Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "dkw-1000-auto-union-1000-universal",
+    "name": "Auto Union 1000 Universal",
+    "type": "Wagon"
+  },
+  {
+    "id": "dkw-belcar-dkw-vemag-belcar-brasil",
+    "name": "DKW-Vemag Belcar (Brasil)",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-candango-dkw-vemag-candango-brasil",
+    "name": "DKW-Vemag Candango (Brasil)",
+    "type": "SUV"
+  },
+  {
+    "id": "dkw-fissore-dkw-vemag-fissore-brasil",
+    "name": "DKW-Vemag Fissore (Brasil)",
+    "type": "Coupe"
+  },
+  {
+    "id": "dkw-vemaguet-dkw-vemag-vemaguet-brasil",
+    "name": "DKW-Vemag Vemaguet (Brasil)",
+    "type": "Wagon"
+  },
+  {
+    "id": "dkw-f1-f1-front",
+    "name": "F1 Front",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-f1000-l-f1000-l-imosa-espana",
+    "name": "F1000 L (IMOSA, Espana)",
+    "type": "Van"
+  },
+  {
+    "id": "dkw-f1000-l-auto-union-combi-pick-up-argentina",
+    "name": "F1000 L Auto Union Combi / Pick-up (Argentina)",
+    "type": "Van"
+  },
+  {
+    "id": "dkw-f102-f102",
+    "name": "F102",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-f11-f11",
+    "name": "F11",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-f12-f12",
+    "name": "F12",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-f12-f12-roadster",
+    "name": "F12 Roadster",
+    "type": "Cabrio"
+  },
+  {
+    "id": "dkw-f2-f2-meisterklasse",
+    "name": "F2 Meisterklasse",
+    "type": "Cabrio"
+  },
+  {
+    "id": "dkw-f2-f2-meisterklasse-701",
+    "name": "F2 Meisterklasse 701",
+    "type": "Cabrio"
+  },
+  {
+    "id": "dkw-f2-f2-reichsklasse",
+    "name": "F2 Reichsklasse",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-f4-f4-meisterklasse",
+    "name": "F4 Meisterklasse",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-f5-f5-front-luxus-cabriolet",
+    "name": "F5 Front Luxus Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "dkw-f5-f5-meisterklasse",
+    "name": "F5 Meisterklasse",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-f5-f5-reichsklasse",
+    "name": "F5 Reichsklasse",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-f7-f7-front-luxus-cabriolet",
+    "name": "F7 Front Luxus Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "dkw-f7-f7-meisterklasse",
+    "name": "F7 Meisterklasse",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-f7-f7-reichsklasse",
+    "name": "F7 Reichsklasse",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-f8-f8-meisterklasse",
+    "name": "F8 Meisterklasse",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-f8-f8-meisterklasse-cabriolet",
+    "name": "F8 Meisterklasse Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "dkw-f8-f8-reichsklasse",
+    "name": "F8 Reichsklasse",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-f89-f89-coupe-hebmuller",
+    "name": "F89 Coupe Hebmuller",
+    "type": "Coupe"
+  },
+  {
+    "id": "dkw-f89-f89-meisterklasse",
+    "name": "F89 Meisterklasse",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-f89-f89-universal",
+    "name": "F89 Universal",
+    "type": "Wagon"
+  },
+  {
+    "id": "dkw-junior-junior",
+    "name": "Junior",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-junior-junior-de-luxe",
+    "name": "Junior de Luxe",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-munga-munga-f91-4",
+    "name": "Munga (F91/4)",
+    "type": "SUV"
+  },
+  {
+    "id": "dkw-schnellaster-schnellaster-f800-3-6",
+    "name": "Schnellaster F800/3=6",
+    "type": "Van"
+  },
+  {
+    "id": "dkw-schnellaster-schnellaster-f89-l",
+    "name": "Schnellaster F89 L",
+    "type": "Van"
+  },
+  {
+    "id": "dkw-typ-4-8-typ-4-8",
+    "name": "Typ 4=8",
+    "type": "Sedan"
+  },
+  {
+    "id": "dkw-typ-p-typ-p",
+    "name": "Typ P",
+    "type": "Roadster"
+  }
+]

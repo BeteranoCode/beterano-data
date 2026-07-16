@@ -1,0 +1,107 @@
+[
+  {
+    "id": "pegaso-2080-2080-2082-2180",
+    "name": "2080/2082/2180",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-3040-3040-3041-4x4",
+    "name": "3040/3041 4x4",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-6035-monotral-6035",
+    "name": "6035 Monotral",
+    "type": "Bus"
+  },
+  {
+    "id": "pegaso-6035-monotral-6035-a",
+    "name": "6035 Monotral 6035-A",
+    "type": "Bus"
+  },
+  {
+    "id": "pegaso-6038-6038",
+    "name": "6038",
+    "type": "Bus"
+  },
+  {
+    "id": "pegaso-comet-comet-1090",
+    "name": "Comet 1090",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-comet-comet-1091-1098",
+    "name": "Comet 1091/1098",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-comet-comet-1100",
+    "name": "Comet 1100",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-comet-europa-1065-1095-europa",
+    "name": "Comet Europa 1065/1095 Europa",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-ekus-ekus-12106",
+    "name": "Ekus 1210.6",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-ekus-ekus-12158-12159",
+    "name": "Ekus 1215.8/1215.9",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-mider-mider-gama-tecno",
+    "name": "Mider (gama Tecno)",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-tecno-tecno-1231t-1234t",
+    "name": "Tecno 1231T/1234T",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-tecno-tecno-1236t-tecno-87",
+    "name": "Tecno 1236T (Tecno 87)",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-troner-troner-evolucion-370-400-cv",
+    "name": "Troner (evolucion 370/400 CV)",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-troner-troner-1236-tx",
+    "name": "Troner 1236 TX",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-z-102-z-102",
+    "name": "Z-102",
+    "type": "Coupe"
+  },
+  {
+    "id": "pegaso-z-103-z-103",
+    "name": "Z-103",
+    "type": "Coupe"
+  },
+  {
+    "id": "pegaso-z-202-z-202-diesel-mofletes",
+    "name": "Z-202 Diesel (Mofletes)",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-z-207-z-207-barajas",
+    "name": "Z-207 Barajas",
+    "type": "Camion"
+  },
+  {
+    "id": "pegaso-z-403-monocasco-z-403",
+    "name": "Z-403 Monocasco",
+    "type": "Bus"
+  }
+]

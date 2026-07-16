@@ -1,0 +1,62 @@
+[
+  {
+    "id": "autobianchi-a111-a111",
+    "name": "A111",
+    "type": "Sedan"
+  },
+  {
+    "id": "autobianchi-a112-a112-normale-elegant",
+    "name": "A112 (Normale/Elegant)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "autobianchi-a112-a112-abarth",
+    "name": "A112 Abarth",
+    "type": "Hatchback"
+  },
+  {
+    "id": "autobianchi-bianchina-berlina",
+    "name": "Bianchina Berlina",
+    "type": "Microcar"
+  },
+  {
+    "id": "autobianchi-bianchina-cabriolet",
+    "name": "Bianchina Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "autobianchi-bianchina-furgoncino",
+    "name": "Bianchina Furgoncino",
+    "type": "Van"
+  },
+  {
+    "id": "autobianchi-bianchina-panoramica",
+    "name": "Bianchina Panoramica",
+    "type": "Wagon"
+  },
+  {
+    "id": "autobianchi-bianchina-trasformabile",
+    "name": "Bianchina Trasformabile",
+    "type": "Microcar"
+  },
+  {
+    "id": "autobianchi-primula-primula",
+    "name": "Primula",
+    "type": "Hatchback"
+  },
+  {
+    "id": "autobianchi-primula-primula-coupe",
+    "name": "Primula Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "autobianchi-stellina-stellina",
+    "name": "Stellina",
+    "type": "Roadster"
+  },
+  {
+    "id": "autobianchi-y10-y10",
+    "name": "Y10",
+    "type": "Hatchback"
+  }
+]

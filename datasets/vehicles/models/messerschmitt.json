@@ -1,0 +1,22 @@
+[
+  {
+    "id": "messerschmitt-tg500-fmr-tg500-tiger",
+    "name": "FMR Tg500 (Tiger)",
+    "type": "Microcar"
+  },
+  {
+    "id": "messerschmitt-kr175-kr175",
+    "name": "KR175",
+    "type": "Microcar"
+  },
+  {
+    "id": "messerschmitt-kr200-kr200",
+    "name": "KR200",
+    "type": "Microcar"
+  },
+  {
+    "id": "messerschmitt-kr201-kr201",
+    "name": "KR201",
+    "type": "Roadster"
+  }
+]

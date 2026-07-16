@@ -1,0 +1,77 @@
+[
+  {
+    "id": "siata-1300-ts-ts-michelotti",
+    "name": "1300 TS TS (Michelotti)",
+    "type": "Coupe"
+  },
+  {
+    "id": "siata-1500-ts-ts-michelotti",
+    "name": "1500 TS TS (Michelotti)",
+    "type": "Coupe"
+  },
+  {
+    "id": "siata-1600-ts-ts-michelotti-facelift-1964",
+    "name": "1600 TS TS (Michelotti, facelift 1964)",
+    "type": "Coupe"
+  },
+  {
+    "id": "siata-208-208-cs",
+    "name": "208 CS",
+    "type": "Coupe"
+  },
+  {
+    "id": "siata-208-208s",
+    "name": "208S",
+    "type": "Spider"
+  },
+  {
+    "id": "siata-300bc-300bc-barchetta",
+    "name": "300BC Barchetta",
+    "type": "Spider"
+  },
+  {
+    "id": "siata-amica-amica",
+    "name": "Amica",
+    "type": "Cabrio"
+  },
+  {
+    "id": "siata-ampurias-ampurias-siata-espanola",
+    "name": "Ampurias (Siata Espanola)",
+    "type": "Sedan"
+  },
+  {
+    "id": "siata-daina-daina",
+    "name": "Daina",
+    "type": "Cabrio"
+  },
+  {
+    "id": "siata-formichetta-formichetta-siata-espanola",
+    "name": "Formichetta (Siata Espanola)",
+    "type": "Van"
+  },
+  {
+    "id": "siata-minivan-minivan-siata-espanola",
+    "name": "Minivan (Siata Espanola)",
+    "type": "Van"
+  },
+  {
+    "id": "siata-750-siata-abarth-750",
+    "name": "Siata-Abarth 750",
+    "type": "Coupe"
+  },
+  {
+    "id": "siata-spring-spring",
+    "name": "Spring",
+    "type": "Spider"
+  },
+  {
+    "id": "siata-tarraco-tarraco-siata-espanola",
+    "name": "Tarraco (Siata Espanola)",
+    "type": "Sedan"
+  },
+  {
+    "id": "siata-turisa-turisa-spyder-siata-espanola",
+    "name": "Turisa Spyder (Siata Espanola)",
+    "type": "Cabrio"
+  }
+]

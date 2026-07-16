@@ -1,0 +1,157 @@
+[
+  {
+    "id": "panhard-aml-aml-60-aml-90",
+    "name": "AML 60 / AML 90",
+    "type": "SUV"
+  },
+  {
+    "id": "panhard-cs-cs-type-x68",
+    "name": "CS Type X68",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-cs-cs-type-x72-cs-rl",
+    "name": "CS Type X72 (CS RL)",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-cs-cs-type-x73-cs-special",
+    "name": "CS Type X73 (CS Special)",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-dyna-junior-dyna-junior",
+    "name": "Dyna Junior",
+    "type": "Roadster"
+  },
+  {
+    "id": "panhard-dyna-x-dyna-x84-dyna-100",
+    "name": "Dyna X84 (Dyna 100)",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-dyna-x-dyna-x85-dyna-110",
+    "name": "Dyna X85 (Dyna 110)",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-dyna-x-dyna-x86-dyna-120",
+    "name": "Dyna X86 (Dyna 120)",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-dyna-x-dyna-x87-dyna-130",
+    "name": "Dyna X87 (Dyna 130)",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-dyna-x-dyna-x90-scarlette",
+    "name": "Dyna X90 (Scarlette)",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-dyna-z-dyna-z-tigre",
+    "name": "Dyna Z Tigre",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-dyna-z-dyna-z1-carroceria-aluminio",
+    "name": "Dyna Z1 (carroceria aluminio)",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-dyna-z-dyna-z2-carroceria-acero",
+    "name": "Dyna Z2 (carroceria acero)",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-dynamic-dynamic-130",
+    "name": "Dynamic 130",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-dynamic-dynamic-140",
+    "name": "Dynamic 140",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-dynamic-dynamic-160",
+    "name": "Dynamic 160",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-ebr-ebr-model-1951-model-1954",
+    "name": "EBR Model 1951 / Model 1954",
+    "type": "Camion"
+  },
+  {
+    "id": "panhard-movic-movic-serie-k",
+    "name": "Movic / serie K",
+    "type": "Camion"
+  },
+  {
+    "id": "panhard-178-panhard-178-178b-amd-35",
+    "name": "Panhard 178 / 178B (AMD 35)",
+    "type": "Camion"
+  },
+  {
+    "id": "panhard-24-panhard-24-b",
+    "name": "Panhard 24 B",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-24-panhard-24-ba",
+    "name": "Panhard 24 BA",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-24-panhard-24-bt",
+    "name": "Panhard 24 BT",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-24-panhard-24-c",
+    "name": "Panhard 24 C",
+    "type": "Coupe"
+  },
+  {
+    "id": "panhard-24-panhard-24-ct",
+    "name": "Panhard 24 CT",
+    "type": "Coupe"
+  },
+  {
+    "id": "panhard-cd-panhard-cd",
+    "name": "Panhard CD",
+    "type": "Coupe"
+  },
+  {
+    "id": "panhard-m3-panhard-m3-vtt",
+    "name": "Panhard M3 VTT",
+    "type": "Van"
+  },
+  {
+    "id": "panhard-pl-17-pl-17-851-cc",
+    "name": "PL 17 (851 cc)",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-pl-17-pl-17-17b-848-cc",
+    "name": "PL 17 / 17B (848 cc)",
+    "type": "Sedan"
+  },
+  {
+    "id": "panhard-pl-17-pl-17-break",
+    "name": "PL 17 Break",
+    "type": "Wagon"
+  },
+  {
+    "id": "panhard-pl-17-pl-17-cabriolet",
+    "name": "PL 17 Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "panhard-pl-17-pl-17-tigre",
+    "name": "PL 17 Tigre",
+    "type": "Sedan"
+  }
+]

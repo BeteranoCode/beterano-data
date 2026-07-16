@@ -1,0 +1,132 @@
+[
+  {
+    "id": "vauxhall-astra-astra-mk1",
+    "name": "Astra Mk1",
+    "type": "Hatchback"
+  },
+  {
+    "id": "vauxhall-astra-astra-mk2",
+    "name": "Astra Mk2",
+    "type": "Hatchback"
+  },
+  {
+    "id": "vauxhall-astra-astra-mk3",
+    "name": "Astra Mk3",
+    "type": "Hatchback"
+  },
+  {
+    "id": "vauxhall-belmont-belmont",
+    "name": "Belmont",
+    "type": "Sedan"
+  },
+  {
+    "id": "vauxhall-calibra-calibra",
+    "name": "Calibra",
+    "type": "Coupe"
+  },
+  {
+    "id": "vauxhall-carlton-carlton-mk1",
+    "name": "Carlton Mk1",
+    "type": "Sedan"
+  },
+  {
+    "id": "vauxhall-carlton-carlton-mk2",
+    "name": "Carlton Mk2",
+    "type": "Sedan"
+  },
+  {
+    "id": "vauxhall-cavalier-cavalier-mk1",
+    "name": "Cavalier Mk1",
+    "type": "Sedan"
+  },
+  {
+    "id": "vauxhall-cavalier-cavalier-mk2",
+    "name": "Cavalier Mk2",
+    "type": "Sedan"
+  },
+  {
+    "id": "vauxhall-cavalier-cavalier-mk3",
+    "name": "Cavalier Mk3",
+    "type": "Sedan"
+  },
+  {
+    "id": "vauxhall-chevette-chevette",
+    "name": "Chevette",
+    "type": "Hatchback"
+  },
+  {
+    "id": "vauxhall-corsa-corsa-b",
+    "name": "Corsa B",
+    "type": "Hatchback"
+  },
+  {
+    "id": "vauxhall-firenza-hc",
+    "name": "Firenza HC",
+    "type": "Coupe"
+  },
+  {
+    "id": "vauxhall-frontera-frontera-a",
+    "name": "Frontera A",
+    "type": "SUV"
+  },
+  {
+    "id": "vauxhall-magnum-hc",
+    "name": "Magnum HC",
+    "type": "Sedan"
+  },
+  {
+    "id": "vauxhall-monterey-monterey",
+    "name": "Monterey",
+    "type": "SUV"
+  },
+  {
+    "id": "vauxhall-nova-nova",
+    "name": "Nova",
+    "type": "Hatchback"
+  },
+  {
+    "id": "vauxhall-royale-royale",
+    "name": "Royale",
+    "type": "Coupe"
+  },
+  {
+    "id": "vauxhall-senator-senator-a",
+    "name": "Senator A",
+    "type": "Sedan"
+  },
+  {
+    "id": "vauxhall-senator-senator-b",
+    "name": "Senator B",
+    "type": "Sedan"
+  },
+  {
+    "id": "vauxhall-sintra-sintra",
+    "name": "Sintra",
+    "type": "Van"
+  },
+  {
+    "id": "vauxhall-tigra-tigra-a",
+    "name": "Tigra A",
+    "type": "Coupe"
+  },
+  {
+    "id": "vauxhall-ventora-fe-series",
+    "name": "Ventora FE Series",
+    "type": "Sedan"
+  },
+  {
+    "id": "vauxhall-viceroy-viceroy",
+    "name": "Viceroy",
+    "type": "Sedan"
+  },
+  {
+    "id": "vauxhall-victor-vx-series-fe-series",
+    "name": "Victor / VX Series FE Series",
+    "type": "Sedan"
+  },
+  {
+    "id": "vauxhall-viva-viva-hc",
+    "name": "Viva HC",
+    "type": "Sedan"
+  }
+]

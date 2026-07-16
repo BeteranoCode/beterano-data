@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bmc-1340-1340",
+    "name": "1340",
+    "type": "Camion"
+  },
+  {
+    "id": "bmc-leyland-140-leyland-140",
+    "name": "Leyland 140",
+    "type": "Camion"
+  },
+  {
+    "id": "bmc-tm-100-tm-100",
+    "name": "TM 100",
+    "type": "Camion"
+  },
+  {
+    "id": "bmc-tm-135-tm-135",
+    "name": "TM 135",
+    "type": "Camion"
+  },
+  {
+    "id": "bmc-tm-140-tm-140",
+    "name": "TM 140",
+    "type": "Camion"
+  },
+  {
+    "id": "bmc-yavuz-yavuz-1850",
+    "name": "Yavuz 1850",
+    "type": "Camion"
+  },
+  {
+    "id": "bmc-yavuz-yavuz-2200",
+    "name": "Yavuz 2200",
+    "type": "Camion"
+  }
+]

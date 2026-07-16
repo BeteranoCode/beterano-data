@@ -1,0 +1,187 @@
+[
+  {
+    "id": "alfa-romeo-145-145-930",
+    "name": "145 (930)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "alfa-romeo-146-146-930",
+    "name": "146 (930)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "alfa-romeo-155-155-167",
+    "name": "155 (167)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-155-155-q4-167",
+    "name": "155 Q4 (167)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-164-164-164",
+    "name": "164 (164)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-1750-2000-berlina-1750-2000-berlina-105",
+    "name": "1750 / 2000 Berlina 1750/2000 Berlina (105)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-1900-1900-primera-serie",
+    "name": "1900 (primera serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-1900-1900-sprint-ss",
+    "name": "1900 Sprint/SS",
+    "type": "Coupe"
+  },
+  {
+    "id": "alfa-romeo-2000-2000-102",
+    "name": "2000 (102)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-2000-2000-spider-102",
+    "name": "2000 Spider (102)",
+    "type": "Spider"
+  },
+  {
+    "id": "alfa-romeo-2600-2600-106",
+    "name": "2600 (106)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-2600-2600-spider-106",
+    "name": "2600 Spider (106)",
+    "type": "Spider"
+  },
+  {
+    "id": "alfa-romeo-2600-2600-sprint-106",
+    "name": "2600 Sprint (106)",
+    "type": "Coupe"
+  },
+  {
+    "id": "alfa-romeo-33-33-serie-1-905",
+    "name": "33 Serie 1 (905)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "alfa-romeo-33-33-serie-2-907",
+    "name": "33 Serie 2 (907)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "alfa-romeo-33-33-sport-wagon-905-907",
+    "name": "33 Sport Wagon (905/907)",
+    "type": "Wagon"
+  },
+  {
+    "id": "alfa-romeo-75-75-162b",
+    "name": "75 (162B)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-90-90-162",
+    "name": "90 (162)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-alfa-6-alfa-6-119",
+    "name": "Alfa 6 (119)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-alfasud-alfasud-901",
+    "name": "Alfasud (901)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-alfasud-sprint-alfasud-sprint-sprint-902",
+    "name": "Alfasud Sprint / Sprint (902)",
+    "type": "Coupe"
+  },
+  {
+    "id": "alfa-romeo-alfetta-alfetta-116",
+    "name": "Alfetta (116)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-alfetta-gt-gtv-alfetta-gt-gtv-116",
+    "name": "Alfetta GT / GTV Alfetta GT/GTV (116)",
+    "type": "Coupe"
+  },
+  {
+    "id": "alfa-romeo-alfetta-gt-gtv-alfetta-gtv6-116",
+    "name": "Alfetta GT / GTV Alfetta GTV6 (116)",
+    "type": "Coupe"
+  },
+  {
+    "id": "alfa-romeo-arna-arna",
+    "name": "Arna",
+    "type": "Hatchback"
+  },
+  {
+    "id": "alfa-romeo-giulia-giulia-105",
+    "name": "Giulia (105)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-giulia-gt-gtv-1750-2000-gtv-105-bertone",
+    "name": "Giulia GT / GTV 1750/2000 GTV (105 Bertone)",
+    "type": "Coupe"
+  },
+  {
+    "id": "alfa-romeo-giulia-gt-gtv-giulia-sprint-gt-gtv-105-bertone",
+    "name": "Giulia GT / GTV Giulia Sprint GT/GTV (105 Bertone)",
+    "type": "Coupe"
+  },
+  {
+    "id": "alfa-romeo-giulietta-giulietta-116-nueva",
+    "name": "Giulietta (116, nueva)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-giulietta-giulietta-750-101",
+    "name": "Giulietta (750/101)",
+    "type": "Sedan"
+  },
+  {
+    "id": "alfa-romeo-giulietta-giulietta-spider-750-101",
+    "name": "Giulietta Spider (750/101)",
+    "type": "Spider"
+  },
+  {
+    "id": "alfa-romeo-giulietta-giulietta-sprint-750-101",
+    "name": "Giulietta Sprint (750/101)",
+    "type": "Coupe"
+  },
+  {
+    "id": "alfa-romeo-montreal-montreal",
+    "name": "Montreal",
+    "type": "Coupe"
+  },
+  {
+    "id": "alfa-romeo-spider-spider-serie-1-duetto-105",
+    "name": "Spider Serie 1 'Duetto' (105)",
+    "type": "Spider"
+  },
+  {
+    "id": "alfa-romeo-spider-spider-serie-2-coda-tronca-105-115",
+    "name": "Spider Serie 2 'Coda Tronca' (105/115)",
+    "type": "Spider"
+  },
+  {
+    "id": "alfa-romeo-spider-spider-serie-3-115-aerodinamica",
+    "name": "Spider Serie 3 (115 aerodinamica)",
+    "type": "Spider"
+  },
+  {
+    "id": "alfa-romeo-spider-spider-serie-4-115",
+    "name": "Spider Serie 4 (115)",
+    "type": "Spider"
+  }
+]

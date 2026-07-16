@@ -1,0 +1,22 @@
+[
+  {
+    "id": "barkas-b-1000-b-1000-1a-serie-awe-312-016",
+    "name": "B 1000 (1a serie, AWE 312-016)",
+    "type": "Van"
+  },
+  {
+    "id": "barkas-b-1000-b-1000-2a-serie-awe-353-1",
+    "name": "B 1000 (2a serie, AWE 353/1)",
+    "type": "Van"
+  },
+  {
+    "id": "barkas-b-1000-1-b-1000-1",
+    "name": "B 1000-1",
+    "type": "Van"
+  },
+  {
+    "id": "barkas-v-901-2-barkas-v-901-2",
+    "name": "Barkas V 901/2",
+    "type": "Van"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "ifa-bk-350-bk-350",
+    "name": "BK 350",
+    "type": "Naked"
+  },
+  {
+    "id": "ifa-rt-125-rt-125-ifa-dkw",
+    "name": "RT 125 (IFA-DKW)",
+    "type": "Naked"
+  },
+  {
+    "id": "ifa-rt-125-rt-125-1",
+    "name": "RT 125/1",
+    "type": "Naked"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "dacia-1100-dacia-1100",
+    "name": "Dacia 1100",
+    "type": "Sedan"
+  },
+  {
+    "id": "dacia-1300-dacia-1300-berlina",
+    "name": "Dacia 1300 Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "dacia-1300-dacia-1300-break",
+    "name": "Dacia 1300 Break",
+    "type": "Wagon"
+  },
+  {
+    "id": "dacia-1301-dacia-1301-lux-super",
+    "name": "Dacia 1301 Lux Super",
+    "type": "Sedan"
+  },
+  {
+    "id": "dacia-1302-dacia-1302-pick-up",
+    "name": "Dacia 1302 Pick-up",
+    "type": "Pickup"
+  },
+  {
+    "id": "dacia-sport-dacia-1310-sport",
+    "name": "Dacia 1310 Sport",
+    "type": "Coupe"
+  },
+  {
+    "id": "dacia-1320-dacia-1320-liftback",
+    "name": "Dacia 1320 Liftback",
+    "type": "Hatchback"
+  },
+  {
+    "id": "dacia-1325-liberta-dacia-1325-liberta",
+    "name": "Dacia 1325 Liberta",
+    "type": "Hatchback"
+  },
+  {
+    "id": "dacia-sport-dacia-1410-sport",
+    "name": "Dacia 1410 Sport",
+    "type": "Coupe"
+  },
+  {
+    "id": "dacia-2000-dacia-2000",
+    "name": "Dacia 2000",
+    "type": "Sedan"
+  },
+  {
+    "id": "dacia-500-lastun-dacia-500-lastun",
+    "name": "Dacia 500 Lastun",
+    "type": "Microcar"
+  },
+  {
+    "id": "dacia-nova-dacia-nova",
+    "name": "Dacia Nova",
+    "type": "Hatchback"
+  }
+]

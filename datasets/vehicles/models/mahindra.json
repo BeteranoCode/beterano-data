@@ -1,0 +1,27 @@
+[
+  {
+    "id": "mahindra-cj340-cj340-swb-diesel",
+    "name": "CJ340 (SWB, diesel)",
+    "type": "SUV"
+  },
+  {
+    "id": "mahindra-cj3b-cj3b-willys-cj-3b-licencia",
+    "name": "CJ3B (Willys CJ-3B licencia)",
+    "type": "SUV"
+  },
+  {
+    "id": "mahindra-cj540-cj540-lwb-diesel",
+    "name": "CJ540 (LWB, diesel)",
+    "type": "SUV"
+  },
+  {
+    "id": "mahindra-fc-160-fc-forward-control",
+    "name": "FC-160 FC (Forward Control)",
+    "type": "Pickup"
+  },
+  {
+    "id": "mahindra-voyager-voyager-mitsubishi-l300-delica",
+    "name": "Voyager (Mitsubishi L300 / Delica)",
+    "type": "Van"
+  }
+]

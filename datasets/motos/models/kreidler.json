@@ -1,0 +1,122 @@
+[
+  {
+    "id": "kreidler-amazone-k-52-k-52-2-k-52-3",
+    "name": "Amazone K 52 / K 52/2 / K 52/3",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-florett-80-80-e-80-l",
+    "name": "Florett 80 80 E / 80 L",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-florett-80-lk-600",
+    "name": "Florett 80 LK 600",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-florett-gt-tm",
+    "name": "Florett GT / TM",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-florett-k-53-mofa-moped",
+    "name": "Florett K 53 (Mofa/Moped)",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-florett-k-54-1-serie-eiertank",
+    "name": "Florett K 54 (1ª serie, 'Eiertank')",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-florett-k-54-mokick",
+    "name": "Florett K 54 Mokick",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-florett-lf-lh",
+    "name": "Florett LF / LH",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-florett-rm",
+    "name": "Florett RM",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-florett-rs-1-fase-motor-b-15-6",
+    "name": "Florett RS (1ª fase, motor B 15/6)",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-florett-rs-2-fase-motor-b-15-7-b-15-20",
+    "name": "Florett RS (2ª fase, motor B 15/7 - B 15/20)",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-florett-rs-3-fase-motor-b-15-40",
+    "name": "Florett RS (3ª fase, motor B 15/40)",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-flory-mf-12-mf-13-mf-22-mf-23-mf-32",
+    "name": "Flory MF 12 / MF 13 / MF 22 / MF 23 / MF 32",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-flott-mf-24-mf-25",
+    "name": "Flott MF 24 / MF 25",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-junior-j-50",
+    "name": "Junior J 50",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-junior-j-51-j-51-1",
+    "name": "Junior J 51 / J 51/1",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-k-50-k-50",
+    "name": "K 50",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-k-51-k-51",
+    "name": "K 51",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-mofa-mf-mf-1-mf-11",
+    "name": "Mofa MF MF 1 - MF 11",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-moped-mp-mp-1-mp-9",
+    "name": "Moped MP MP 1 - MP 9",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-mustang-mustang-50-mustang-cross",
+    "name": "Mustang 50 / Mustang Cross",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-mustang-80-lk-800",
+    "name": "Mustang 80 LK 800",
+    "type": "Naked"
+  },
+  {
+    "id": "kreidler-r-50-r-50-roller",
+    "name": "R 50 Roller",
+    "type": "Scooter"
+  },
+  {
+    "id": "kreidler-van-veen-kreidler-gp-50-gp-50-racing",
+    "name": "Van Veen Kreidler GP 50 GP 50 (racing)",
+    "type": "Supersport"
+  }
+]

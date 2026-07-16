@@ -1,0 +1,77 @@
+[
+  {
+    "id": "gmc-caballero-gmc-caballero-1978-1987",
+    "name": "GMC Caballero (1978-1987)",
+    "type": "Pickup"
+  },
+  {
+    "id": "gmc-motorhome-gmc-motorhome-1973-1978",
+    "name": "GMC Motorhome (1973-1978)",
+    "type": "Van"
+  },
+  {
+    "id": "gmc-rally-gmc-rally-wagon-g-series",
+    "name": "GMC Rally Wagon (G-series)",
+    "type": "Van"
+  },
+  {
+    "id": "gmc-s-15-gmc-s-15-1982-1990",
+    "name": "GMC S-15 (1982-1990)",
+    "type": "Pickup"
+  },
+  {
+    "id": "gmc-sprint-gmc-sprint-1971-1977",
+    "name": "GMC Sprint (1971-1977)",
+    "type": "Pickup"
+  },
+  {
+    "id": "gmc-syclone-gmc-syclone-1991",
+    "name": "GMC Syclone (1991)",
+    "type": "Pickup"
+  },
+  {
+    "id": "gmc-typhoon-gmc-typhoon-1992-1993",
+    "name": "GMC Typhoon (1992-1993)",
+    "type": "SUV"
+  },
+  {
+    "id": "gmc-vandura-gmc-vandura-g-series",
+    "name": "GMC Vandura (G-series)",
+    "type": "Van"
+  },
+  {
+    "id": "gmc-jimmy-jimmy-k5-1a-gen",
+    "name": "Jimmy K5 (1a gen)",
+    "type": "SUV"
+  },
+  {
+    "id": "gmc-jimmy-jimmy-k5-2a-gen",
+    "name": "Jimmy K5 (2a gen)",
+    "type": "SUV"
+  },
+  {
+    "id": "gmc-jimmy-s-15-jimmy-1a-gen",
+    "name": "S-15 Jimmy (1a gen)",
+    "type": "SUV"
+  },
+  {
+    "id": "gmc-sierra-sierra-c-k-gmt400",
+    "name": "Sierra C/K (GMT400)",
+    "type": "Pickup"
+  },
+  {
+    "id": "gmc-suburban-suburban-gmt400",
+    "name": "Suburban (GMT400)",
+    "type": "SUV"
+  },
+  {
+    "id": "gmc-suburban-suburban-rounded-line-square",
+    "name": "Suburban (Rounded-Line/square)",
+    "type": "SUV"
+  },
+  {
+    "id": "gmc-yukon-yukon-gmt400-1a-gen",
+    "name": "Yukon (GMT400, 1a gen)",
+    "type": "SUV"
+  }
+]

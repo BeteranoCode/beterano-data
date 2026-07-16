@@ -1,0 +1,32 @@
+[
+  {
+    "id": "van-hool-acron-t8-t815",
+    "name": "Acron T8 (T815)",
+    "type": "Bus"
+  },
+  {
+    "id": "van-hool-alizee-t8",
+    "name": "Alizee T8",
+    "type": "Bus"
+  },
+  {
+    "id": "van-hool-astral-t8",
+    "name": "Astral T8",
+    "type": "Bus"
+  },
+  {
+    "id": "van-hool-astromega-t8-td8-serie",
+    "name": "Astromega T8 (TD8-serie)",
+    "type": "Bus"
+  },
+  {
+    "id": "van-hool-astron-t8",
+    "name": "Astron T8",
+    "type": "Bus"
+  },
+  {
+    "id": "van-hool-van-hool-fiat-van-hool-fiat",
+    "name": "Van Hool-Fiat",
+    "type": "Bus"
+  }
+]

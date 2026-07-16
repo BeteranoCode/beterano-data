@@ -1,0 +1,122 @@
+[
+  {
+    "id": "moretti-1000-sportiva-sportiva-1000",
+    "name": "1000 Sportiva Sportiva 1000",
+    "type": "Coupe"
+  },
+  {
+    "id": "moretti-1200-1200-coup",
+    "name": "1200 Coupé",
+    "type": "Coupe"
+  },
+  {
+    "id": "moretti-1200-1200-sport-gran-sport",
+    "name": "1200 Sport / Gran Sport",
+    "type": "Spider"
+  },
+  {
+    "id": "moretti-minimaxi-126-minimaxi",
+    "name": "126 Minimaxi",
+    "type": "Microcar"
+  },
+  {
+    "id": "moretti-midimaxi-127-midimaxi-i-ii-serie",
+    "name": "127 Midimaxi (I-II Serie)",
+    "type": "SUV"
+  },
+  {
+    "id": "moretti-paguro-127-paguro",
+    "name": "127 Paguro",
+    "type": "Pickup"
+  },
+  {
+    "id": "moretti-127-vip-127-vip",
+    "name": "127 VIP",
+    "type": "Hatchback"
+  },
+  {
+    "id": "moretti-128-moretti-128-coup",
+    "name": "128 Moretti 128 Coupé",
+    "type": "Coupe"
+  },
+  {
+    "id": "moretti-128-moretti-128-roadster-targa",
+    "name": "128 Moretti 128 Roadster / Targa",
+    "type": "Spider"
+  },
+  {
+    "id": "moretti-500-coup-500-coup-base-500-d",
+    "name": "500 Coupé (base 500 D)",
+    "type": "Coupe"
+  },
+  {
+    "id": "moretti-500-coup-500-coup-base-500-f",
+    "name": "500 Coupé (base 500 F)",
+    "type": "Coupe"
+  },
+  {
+    "id": "moretti-minimaxi-500-minimaxi",
+    "name": "500 Minimaxi",
+    "type": "Microcar"
+  },
+  {
+    "id": "moretti-600-600",
+    "name": "600",
+    "type": "Sedan"
+  },
+  {
+    "id": "moretti-750-750",
+    "name": "750",
+    "type": "Sedan"
+  },
+  {
+    "id": "moretti-750-750-gran-sport",
+    "name": "750 Gran Sport",
+    "type": "Coupe"
+  },
+  {
+    "id": "moretti-750-750-tour-du-monde",
+    "name": "750 Tour du Monde",
+    "type": "Sedan"
+  },
+  {
+    "id": "moretti-850-sportiva-sportiva-850",
+    "name": "850 Sportiva Sportiva 850",
+    "type": "Coupe"
+  },
+  {
+    "id": "moretti-sporting-campagnola-sporting",
+    "name": "Campagnola Sporting",
+    "type": "SUV"
+  },
+  {
+    "id": "moretti-cita-cita",
+    "name": "Cita",
+    "type": "Microcar"
+  },
+  {
+    "id": "moretti-ital-uno-turbo-ital-uno-turbo",
+    "name": "Ital Uno Turbo",
+    "type": "Hatchback"
+  },
+  {
+    "id": "moretti-midimaxi-midimaxi-iii-serie",
+    "name": "Midimaxi III Serie",
+    "type": "SUV"
+  },
+  {
+    "id": "moretti-panda-rock-panda-rock-4x4",
+    "name": "Panda Rock 4x4",
+    "type": "SUV"
+  },
+  {
+    "id": "moretti-ritmo-gold-ritmo-gold",
+    "name": "Ritmo Gold",
+    "type": "Hatchback"
+  },
+  {
+    "id": "moretti-uno-cabrio-uno-cabrio-coach",
+    "name": "Uno Cabrio Coach",
+    "type": "Cabrio"
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "holden-48-215-fx-48-215-fx",
+    "name": "48-215 (FX) 48-215 / FX",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-apollo-jk-jl",
+    "name": "Apollo JK/JL",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-apollo-jm-jp",
+    "name": "Apollo JM/JP",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-apollo-jm-jp-v6",
+    "name": "Apollo JM/JP V6",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-astra-tr",
+    "name": "Astra",
+    "type": "Hatchback"
+  },
+  {
+    "id": "holden-astra-lb-lc-ld",
+    "name": "Astra LB/LC/LD",
+    "type": "Hatchback"
+  },
+  {
+    "id": "holden-barina-mb-ml",
+    "name": "Barina MB/ML",
+    "type": "Hatchback"
+  },
+  {
+    "id": "holden-barina-mf-mh",
+    "name": "Barina MF/MH",
+    "type": "Hatchback"
+  },
+  {
+    "id": "holden-barina-sb",
+    "name": "Barina SB",
+    "type": "Hatchback"
+  },
+  {
+    "id": "holden-calibra-calibra",
+    "name": "Calibra",
+    "type": "Coupe"
+  },
+  {
+    "id": "holden-camira-jb",
+    "name": "Camira JB",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-camira-jd",
+    "name": "Camira JD",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-camira-je",
+    "name": "Camira JE",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-commodore-ute-vs",
+    "name": "Commodore Ute VS",
+    "type": "Pickup"
+  },
+  {
+    "id": "holden-commodore-vb",
+    "name": "Commodore VB",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-commodore-vc",
+    "name": "Commodore VC",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-commodore-vh",
+    "name": "Commodore VH",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-commodore-vk",
+    "name": "Commodore VK",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-commodore-vl",
+    "name": "Commodore VL",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-commodore-vn",
+    "name": "Commodore VN",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-commodore-vp",
+    "name": "Commodore VP",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-commodore-vr",
+    "name": "Commodore VR",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-commodore-vs",
+    "name": "Commodore VS",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-commodore-vt",
+    "name": "Commodore VT",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-eh-eh",
+    "name": "EH",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-ej-ej",
+    "name": "EJ",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-ek-ek",
+    "name": "EK",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-fb-fb",
+    "name": "FB",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-fc-fc",
+    "name": "FC",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-fe-fe",
+    "name": "FE",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-fj-fj",
+    "name": "FJ",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-gemini-rb-fwd",
+    "name": "Gemini RB (FWD)",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-gemini-tf-tg-diesel",
+    "name": "Gemini TF-TG Diesel",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-gemini-tx-tg-rwd",
+    "name": "Gemini TX-TG (RWD)",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-hd-hd",
+    "name": "HD",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-hr-hr",
+    "name": "HR",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-jackaroo-1-gen-ubs",
+    "name": "Jackaroo 1ª gen (UBS)",
+    "type": "SUV"
+  },
+  {
+    "id": "holden-kingswood-hg",
+    "name": "Kingswood HG",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-kingswood-hj",
+    "name": "Kingswood HJ",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-kingswood-hk",
+    "name": "Kingswood HK",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-kingswood-hq",
+    "name": "Kingswood HQ",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-kingswood-ht",
+    "name": "Kingswood HT",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-kingswood-hx",
+    "name": "Kingswood HX",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-kingswood-hz",
+    "name": "Kingswood HZ",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-monaro-hk-hg",
+    "name": "Monaro HK-HG",
+    "type": "Coupe"
+  },
+  {
+    "id": "holden-monaro-hq-hz",
+    "name": "Monaro HQ-HZ",
+    "type": "Coupe"
+  },
+  {
+    "id": "holden-nova-le-lf",
+    "name": "Nova LE/LF",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-nova-lg",
+    "name": "Nova LG",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-one-tonner-ute-wb",
+    "name": "One Tonner / Ute WB",
+    "type": "Pickup"
+  },
+  {
+    "id": "holden-piazza-piazza",
+    "name": "Piazza",
+    "type": "Coupe"
+  },
+  {
+    "id": "holden-rodeo-kb",
+    "name": "Rodeo KB",
+    "type": "Pickup"
+  },
+  {
+    "id": "holden-rodeo-kb-diesel",
+    "name": "Rodeo KB Diesel",
+    "type": "Pickup"
+  },
+  {
+    "id": "holden-statesman-hq-hz",
+    "name": "Statesman HQ-HZ",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-statesman-wb",
+    "name": "Statesman WB",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-statesman-caprice-vq",
+    "name": "Statesman/Caprice VQ",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-statesman-caprice-vr",
+    "name": "Statesman/Caprice VR",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-statesman-caprice-vs",
+    "name": "Statesman/Caprice VS",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-sunbird-lx-uc",
+    "name": "Sunbird LX/UC",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-torana-hb",
+    "name": "Torana HB",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-torana-lc-lj",
+    "name": "Torana LC/LJ",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-torana-lh-lx",
+    "name": "Torana LH/LX",
+    "type": "Sedan"
+  },
+  {
+    "id": "holden-torana-uc",
+    "name": "Torana UC",
+    "type": "Sedan"
+  }
+]

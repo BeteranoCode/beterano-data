@@ -1,0 +1,367 @@
+[
+  {
+    "id": "montesa-150-150-incl-b-y-ba",
+    "name": "150 (incl. B y BA)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-250-trial-250-trial-11m",
+    "name": "250 Trial (11M)",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-50-50-7m",
+    "name": "50 (7M)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-a-45-a-45-98",
+    "name": "A-45 (98)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-b-46-49-b-46-49",
+    "name": "B-46/49",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-brio-brio-110",
+    "name": "Brio 110",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-brio-brio-50-37m",
+    "name": "Brio 50 (37M)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-brio-brio-80",
+    "name": "Brio 80",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-brio-brio-81",
+    "name": "Brio 81",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-brio-brio-82",
+    "name": "Brio 82",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-brio-brio-90",
+    "name": "Brio 90",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-brio-brio-91",
+    "name": "Brio 91",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-cappra-cappra-125",
+    "name": "Cappra 125",
+    "type": "Motocross"
+  },
+  {
+    "id": "montesa-cappra-cappra-250",
+    "name": "Cappra 250",
+    "type": "Motocross"
+  },
+  {
+    "id": "montesa-cappra-cappra-360",
+    "name": "Cappra 360",
+    "type": "Motocross"
+  },
+  {
+    "id": "montesa-cappra-cappra-414",
+    "name": "Cappra 414",
+    "type": "Motocross"
+  },
+  {
+    "id": "montesa-ciclo-montesa-ciclo-17m",
+    "name": "Ciclo Montesa Ciclo (17M)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-comando-comando-125",
+    "name": "Comando 125",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-comando-comando-150",
+    "name": "Comando 150",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-cota-123-cota-123-28m",
+    "name": "Cota 123 (28M)",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-172-cota-172-19m",
+    "name": "Cota 172 (19M)",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-200-cota-200",
+    "name": "Cota 200",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-242-cota-242",
+    "name": "Cota 242",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-247-cota-247-21m",
+    "name": "Cota 247 (21M)",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-247-cota-247-c",
+    "name": "Cota 247 C",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-248-cota-248",
+    "name": "Cota 248",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-25-cota-25-20m",
+    "name": "Cota 25 (20M)",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-304-cota-304",
+    "name": "Cota 304",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-307-cota-307",
+    "name": "Cota 307",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-309-cota-309",
+    "name": "Cota 309",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-310-cota-310",
+    "name": "Cota 310",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-311-cota-311",
+    "name": "Cota 311",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-314-r-cota-314-r",
+    "name": "Cota 314 R",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-330-cota-330",
+    "name": "Cota 330",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-335-cota-335",
+    "name": "Cota 335",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-348-cota-348-51m",
+    "name": "Cota 348 (51M)",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-349-cota-349",
+    "name": "Cota 349",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-350-cota-350",
+    "name": "Cota 350",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-49-cota-49",
+    "name": "Cota 49",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-50-cota-50",
+    "name": "Cota 50",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-74-cota-74-16m",
+    "name": "Cota 74 (16M)",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-cota-80-cota-80-32m",
+    "name": "Cota 80 (32M)",
+    "type": "Trial"
+  },
+  {
+    "id": "montesa-crono-crono-125-52m",
+    "name": "Crono 125 (52M)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-crono-crono-350-55m",
+    "name": "Crono 350 (55M)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-crono-crono-75-42m",
+    "name": "Crono 75 (42M)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-d-51-d-51",
+    "name": "D-51",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-enduro-enduro-125-48m-58m-68m",
+    "name": "Enduro 125 (48M/58M/68M)",
+    "type": "Enduro"
+  },
+  {
+    "id": "montesa-enduro-enduro-175-14m",
+    "name": "Enduro 175 (14M)",
+    "type": "Enduro"
+  },
+  {
+    "id": "montesa-enduro-enduro-250-54m",
+    "name": "Enduro 250 (54M)",
+    "type": "Enduro"
+  },
+  {
+    "id": "montesa-enduro-enduro-360-67m",
+    "name": "Enduro 360 (67M)",
+    "type": "Enduro"
+  },
+  {
+    "id": "montesa-enduro-enduro-75-26m-62m",
+    "name": "Enduro 75 (26M/62M)",
+    "type": "Enduro"
+  },
+  {
+    "id": "montesa-enduro-enduro-80-62m",
+    "name": "Enduro 80 (62M)",
+    "type": "Enduro"
+  },
+  {
+    "id": "montesa-fura-fura-ciclomotor-57m",
+    "name": "Fura ciclomotor (57M)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-impala-2-impala-2-4m2",
+    "name": "Impala 2 (4M2)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-impala-impala-comando-175-6m",
+    "name": "Impala Comando 175 (6M)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-impala-impala-comando-70-9m",
+    "name": "Impala Comando 70 (9M)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-impala-cross-impala-cross-175-13m",
+    "name": "Impala Cross 175 (13M)",
+    "type": "Motocross"
+  },
+  {
+    "id": "montesa-impala-cross-impala-cross-250-13m",
+    "name": "Impala Cross 250 (13M)",
+    "type": "Motocross"
+  },
+  {
+    "id": "montesa-impala-impala-sport-175-3m",
+    "name": "Impala Sport 175 (3M)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-impala-impala-sport-250-15m-25m",
+    "name": "Impala Sport 250 (15M/25M)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-impala-impala-turismo-4m",
+    "name": "Impala Turismo (4M)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-indiana-indiana",
+    "name": "Indiana",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-kenya-kenya-8m",
+    "name": "Kenya (8M)",
+    "type": "Enduro"
+  },
+  {
+    "id": "montesa-king-scorpion-king-scorpion-250-34m-44m",
+    "name": "King Scorpion 250 (34M/44M)",
+    "type": "Enduro"
+  },
+  {
+    "id": "montesa-la-cross-66-la-cross-66-23m",
+    "name": "LA Cross 66 (23M)",
+    "type": "Motocross"
+  },
+  {
+    "id": "montesa-microscooter-microscooter-5m",
+    "name": "Microscooter (5M)",
+    "type": "Scooter"
+  },
+  {
+    "id": "montesa-mini-montesa-mini-montesa",
+    "name": "Mini Montesa",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-mini-mini-mini-mini",
+    "name": "Mini-Mini",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-rapita-rapita-250-45m",
+    "name": "Rapita 250 (45M)",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-rapita-rapita-50",
+    "name": "Rapita 50",
+    "type": "Naked"
+  },
+  {
+    "id": "montesa-scorpion-50-scorpion-50",
+    "name": "Scorpion 50",
+    "type": "Enduro"
+  },
+  {
+    "id": "montesa-texas-texas-175-12m",
+    "name": "Texas 175 (12M)",
+    "type": "Enduro"
+  },
+  {
+    "id": "montesa-texas-texas-250-24m",
+    "name": "Texas 250 (24M)",
+    "type": "Enduro"
+  }
+]

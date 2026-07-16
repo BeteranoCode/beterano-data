@@ -1,0 +1,247 @@
+[
+  {
+    "id": "ford-aerostar-aerostar",
+    "name": "Aerostar",
+    "type": "Van"
+  },
+  {
+    "id": "ford-aspire-aspire",
+    "name": "Aspire",
+    "type": "Hatchback"
+  },
+  {
+    "id": "ford-bronco-bronco-1a-gen",
+    "name": "Bronco 1a gen",
+    "type": "SUV"
+  },
+  {
+    "id": "ford-bronco-bronco-5a-gen",
+    "name": "Bronco 5a gen",
+    "type": "SUV"
+  },
+  {
+    "id": "ford-capri-capri-mk1",
+    "name": "Capri Mk1",
+    "type": "Coupe"
+  },
+  {
+    "id": "ford-capri-capri-mk2",
+    "name": "Capri Mk2",
+    "type": "Coupe"
+  },
+  {
+    "id": "ford-capri-capri-mk3",
+    "name": "Capri Mk3",
+    "type": "Coupe"
+  },
+  {
+    "id": "ford-contour-contour",
+    "name": "Contour",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-contour-contour-svt",
+    "name": "Contour SVT",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-cortina-cortina-mk3",
+    "name": "Cortina Mk3",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-cortina-cortina-mk4",
+    "name": "Cortina Mk4",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-cortina-cortina-mk5",
+    "name": "Cortina Mk5",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-escort-escort-mk1",
+    "name": "Escort Mk1",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-escort-escort-mk2",
+    "name": "Escort Mk2",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-escort-escort-mk3",
+    "name": "Escort Mk3",
+    "type": "Hatchback"
+  },
+  {
+    "id": "ford-escort-escort-mk4",
+    "name": "Escort Mk4",
+    "type": "Hatchback"
+  },
+  {
+    "id": "ford-escort-escort-mk5",
+    "name": "Escort Mk5",
+    "type": "Hatchback"
+  },
+  {
+    "id": "ford-escort-escort-mk6",
+    "name": "Escort Mk6",
+    "type": "Hatchback"
+  },
+  {
+    "id": "ford-escort-escort-rs-cosworth",
+    "name": "Escort RS Cosworth",
+    "type": "Coupe"
+  },
+  {
+    "id": "ford-falcon-falcon-ea",
+    "name": "Falcon EA",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-falcon-falcon-eb",
+    "name": "Falcon EB",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-falcon-falcon-ed",
+    "name": "Falcon ED",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-falcon-falcon-ef",
+    "name": "Falcon EF",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-falcon-falcon-el",
+    "name": "Falcon EL",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-festiva-festiva",
+    "name": "Festiva",
+    "type": "Hatchback"
+  },
+  {
+    "id": "ford-fiesta-fiesta-mk1",
+    "name": "Fiesta Mk1",
+    "type": "Hatchback"
+  },
+  {
+    "id": "ford-fiesta-fiesta-mk2",
+    "name": "Fiesta Mk2",
+    "type": "Hatchback"
+  },
+  {
+    "id": "ford-fiesta-fiesta-mk3",
+    "name": "Fiesta Mk3",
+    "type": "Hatchback"
+  },
+  {
+    "id": "ford-granada-granada-mk1",
+    "name": "Granada Mk1",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-granada-granada-mk2",
+    "name": "Granada Mk2",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-scorpio-granada-mk3-scorpio-mk1",
+    "name": "Granada Mk3 / Scorpio Mk1",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-maverick-maverick-nissan-terrano-ii",
+    "name": "Maverick (Nissan Terrano II)",
+    "type": "SUV"
+  },
+  {
+    "id": "ford-mondeo-mondeo-mk1",
+    "name": "Mondeo Mk1",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-mondeo-mondeo-mk2",
+    "name": "Mondeo Mk2",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-mustang-mustang-gen3-fox",
+    "name": "Mustang Gen3 (Fox)",
+    "type": "Coupe"
+  },
+  {
+    "id": "ford-orion-orion-mk1",
+    "name": "Orion Mk1",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-orion-orion-mk2",
+    "name": "Orion Mk2",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-orion-orion-mk3",
+    "name": "Orion Mk3",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-pinto-pinto",
+    "name": "Pinto",
+    "type": "Hatchback"
+  },
+  {
+    "id": "ford-probe-probe-gen1",
+    "name": "Probe Gen1",
+    "type": "Coupe"
+  },
+  {
+    "id": "ford-probe-probe-gen2",
+    "name": "Probe Gen2",
+    "type": "Coupe"
+  },
+  {
+    "id": "ford-scorpio-scorpio-mk2",
+    "name": "Scorpio Mk2",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-sierra-sierra",
+    "name": "Sierra",
+    "type": "Hatchback"
+  },
+  {
+    "id": "ford-sierra-sierra-rs-cosworth",
+    "name": "Sierra RS Cosworth",
+    "type": "Coupe"
+  },
+  {
+    "id": "ford-taurus-taurus-gen1",
+    "name": "Taurus Gen1",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-taurus-taurus-gen2",
+    "name": "Taurus Gen2",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-taurus-taurus-gen3",
+    "name": "Taurus Gen3",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-tempo-tempo",
+    "name": "Tempo",
+    "type": "Sedan"
+  },
+  {
+    "id": "ford-thunderbird-thunderbird-gen10",
+    "name": "Thunderbird Gen10",
+    "type": "Coupe"
+  }
+]

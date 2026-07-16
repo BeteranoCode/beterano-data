@@ -1,0 +1,192 @@
+[
+  {
+    "id": "mercury-bobcat-pinto-based",
+    "name": "Bobcat Pinto-based",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mercury-capri-2a-gen-fox",
+    "name": "Capri 2a gen (Fox)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercury-capri-3a-gen-australia",
+    "name": "Capri 3a gen (Australia)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "mercury-colony-park-full-size-wagon",
+    "name": "Colony Park Full-size wagon",
+    "type": "Wagon"
+  },
+  {
+    "id": "mercury-comet-compact-varias-gen",
+    "name": "Comet Compact (varias gen.)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-cyclone-comet-cyclone-cyclone",
+    "name": "Comet Cyclone / Cyclone",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercury-comet-comet-caliente-gt",
+    "name": "Comet/Caliente/GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercury-cougar-1a-gen",
+    "name": "Cougar 1a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercury-cougar-2a-gen",
+    "name": "Cougar 2a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercury-cougar-3a-gen",
+    "name": "Cougar 3a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercury-cougar-4a-gen",
+    "name": "Cougar 4a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercury-cougar-5a-gen-xr-7",
+    "name": "Cougar 5a gen (XR-7)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercury-cougar-6a-gen",
+    "name": "Cougar 6a gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercury-cougar-7a-gen-mn12",
+    "name": "Cougar 7a gen (MN12)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercury-lynx-escort-based",
+    "name": "Lynx Escort-based",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mercury-marauder-fastback-marquis",
+    "name": "Marauder Fastback (Marquis)",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercury-marquis-full-size",
+    "name": "Marquis Full-size",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-medalist-full-size",
+    "name": "Medalist Full-size",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-custom-mercury-custom",
+    "name": "Mercury Custom",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-eight-mercury-eight",
+    "name": "Mercury Eight",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-meteor-mid-size",
+    "name": "Meteor Mid-size",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-monarch-compact",
+    "name": "Monarch Compact",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-montclair-full-size",
+    "name": "Montclair Full-size",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-montego-mid-size-varias-gen",
+    "name": "Montego Mid-size (varias gen.)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-monterey-full-size-varias-gen",
+    "name": "Monterey Full-size (varias gen.)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-mystique-cdw27",
+    "name": "Mystique CDW27",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-park-lane-full-size",
+    "name": "Park Lane Full-size",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-sable-1a-gen",
+    "name": "Sable 1a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-sable-2a-gen",
+    "name": "Sable 2a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-sable-3a-gen",
+    "name": "Sable 3a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-topaz-tempo-based",
+    "name": "Topaz Tempo-based",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-tracer-1a-gen",
+    "name": "Tracer 1a gen",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mercury-tracer-2a-gen",
+    "name": "Tracer 2a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-tracer-3a-gen",
+    "name": "Tracer 3a gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-turnpike-cruiser-full-size",
+    "name": "Turnpike Cruiser Full-size",
+    "type": "Coupe"
+  },
+  {
+    "id": "mercury-villager-1a-gen",
+    "name": "Villager 1a gen",
+    "type": "Van"
+  },
+  {
+    "id": "mercury-zephyr-fox-platform",
+    "name": "Zephyr Fox platform",
+    "type": "Sedan"
+  },
+  {
+    "id": "mercury-zephyr-fox-platform-z-7",
+    "name": "Zephyr Fox platform Z-7",
+    "type": "Coupe"
+  }
+]

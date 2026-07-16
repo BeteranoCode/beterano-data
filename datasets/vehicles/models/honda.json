@@ -1,0 +1,297 @@
+[
+  {
+    "id": "honda-accord-accord-1-gen-sj-sm",
+    "name": "Accord 1ª gen (SJ/SM)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-accord-accord-2-gen-sy-ac",
+    "name": "Accord 2ª gen (SY/AC)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-accord-accord-3-gen-ca",
+    "name": "Accord 3ª gen (CA)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-accord-accord-4-gen-cb",
+    "name": "Accord 4ª gen (CB)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-accord-accord-5-gen-cd-ce",
+    "name": "Accord 5ª gen (CD/CE)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-accord-accord-5-gen-ce",
+    "name": "Accord 5ª gen (CE)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-accord-aerodeck-aerodeck-3-gen-ca",
+    "name": "Accord Aerodeck Aerodeck 3ª gen (CA)",
+    "type": "Wagon"
+  },
+  {
+    "id": "honda-accord-accord-wagon-5-gen-ce",
+    "name": "Accord Wagon 5ª gen (CE)",
+    "type": "Wagon"
+  },
+  {
+    "id": "honda-acty-acty-2-gen-ha-hh",
+    "name": "Acty 2ª gen (HA/HH)",
+    "type": "Van"
+  },
+  {
+    "id": "honda-ascot-ascot-2-gen-ce",
+    "name": "Ascot 2ª gen (CE)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-ballade-ballade-2-gen",
+    "name": "Ballade 2ª gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-beat-beat-pp1",
+    "name": "Beat (PP1)",
+    "type": "Roadster"
+  },
+  {
+    "id": "honda-city-city-1-gen-aa",
+    "name": "City 1ª gen (AA)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-city-city-2-gen-ga",
+    "name": "City 2ª gen (GA)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-civic-civic-1-gen-sb",
+    "name": "Civic 1ª gen (SB)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-civic-civic-2-gen-ss-sl",
+    "name": "Civic 2ª gen (SS/SL)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-civic-civic-3-gen-ah-at",
+    "name": "Civic 3ª gen (AH/AT)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-civic-civic-4-gen-ef",
+    "name": "Civic 4ª gen (EF)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-civic-civic-4-gen-ef-ed",
+    "name": "Civic 4ª gen (EF/ED)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-civic-civic-5-gen-eg",
+    "name": "Civic 5ª gen (EG)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-civic-civic-5-gen-eg-ej",
+    "name": "Civic 5ª gen (EG/EJ)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-civic-civic-6-gen-ek-ej",
+    "name": "Civic 6ª gen (EK/EJ)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-civic-civic-6-gen-type-r-ek9",
+    "name": "Civic 6ª gen Type R (EK9)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-civic-shuttle-civic-shuttle-3-gen-ar",
+    "name": "Civic Shuttle 3ª gen (AR)",
+    "type": "Wagon"
+  },
+  {
+    "id": "honda-concerto-concerto-ma",
+    "name": "Concerto (MA)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-cr-x-cr-x-1-gen-af-as",
+    "name": "CR-X 1ª gen (AF/AS)",
+    "type": "Coupe"
+  },
+  {
+    "id": "honda-cr-x-cr-x-2-gen-ef-ed",
+    "name": "CR-X 2ª gen (EF/ED)",
+    "type": "Coupe"
+  },
+  {
+    "id": "honda-cr-x-cr-x-2-gen-ef8",
+    "name": "CR-X 2ª gen (EF8)",
+    "type": "Coupe"
+  },
+  {
+    "id": "honda-cr-x-del-sol-del-sol-eg",
+    "name": "CR-X del Sol del Sol (EG)",
+    "type": "Coupe"
+  },
+  {
+    "id": "honda-cr-x-del-sol-del-sol-eg-eh",
+    "name": "CR-X del Sol del Sol (EG/EH)",
+    "type": "Coupe"
+  },
+  {
+    "id": "honda-crossroad-crossroad-rebadge-discovery",
+    "name": "Crossroad (rebadge Discovery)",
+    "type": "SUV"
+  },
+  {
+    "id": "honda-domani-domani-1-gen-ma",
+    "name": "Domani 1ª gen (MA)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-domani-domani-2-gen-mb",
+    "name": "Domani 2ª gen (MB)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-inspire-inspire-1-gen-cb5-cc",
+    "name": "Inspire 1ª gen (CB5/CC)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-inspire-inspire-2-gen-ua1-3",
+    "name": "Inspire 2ª gen (UA1-3)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-integra-integra-1-gen-da-av",
+    "name": "Integra 1ª gen (DA/AV)",
+    "type": "Coupe"
+  },
+  {
+    "id": "honda-integra-integra-2-gen-da",
+    "name": "Integra 2ª gen (DA)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-legend-legend-1-gen-ka",
+    "name": "Legend 1ª gen (KA)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-legend-legend-1-gen-coupe-ka",
+    "name": "Legend 1ª gen Coupe (KA)",
+    "type": "Coupe"
+  },
+  {
+    "id": "honda-legend-legend-2-gen-ka7",
+    "name": "Legend 2ª gen (KA7)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-legend-legend-2-gen-coupe-ka8",
+    "name": "Legend 2ª gen Coupe (KA8)",
+    "type": "Coupe"
+  },
+  {
+    "id": "honda-life-life-1-gen",
+    "name": "Life 1ª gen",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-n360-n360-kei",
+    "name": "N360 (kei)",
+    "type": "Microcar"
+  },
+  {
+    "id": "honda-n600-n600-export",
+    "name": "N600 (export)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-odyssey-odyssey-1-gen-ra",
+    "name": "Odyssey 1ª gen (RA)",
+    "type": "Van"
+  },
+  {
+    "id": "honda-passport-passport-1-gen-rebadge-isuzu",
+    "name": "Passport 1ª gen (rebadge Isuzu)",
+    "type": "SUV"
+  },
+  {
+    "id": "honda-prelude-prelude-1-gen-sn",
+    "name": "Prelude 1ª gen (SN)",
+    "type": "Coupe"
+  },
+  {
+    "id": "honda-prelude-prelude-2-gen-ab-ba",
+    "name": "Prelude 2ª gen (AB/BA)",
+    "type": "Coupe"
+  },
+  {
+    "id": "honda-prelude-prelude-3-gen-ba",
+    "name": "Prelude 3ª gen (BA)",
+    "type": "Coupe"
+  },
+  {
+    "id": "honda-prelude-prelude-4-gen-bb",
+    "name": "Prelude 4ª gen (BB)",
+    "type": "Coupe"
+  },
+  {
+    "id": "honda-quintet-quintet-su",
+    "name": "Quintet (SU)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-rafaga-rafaga-ce",
+    "name": "Rafaga (CE)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-s500-s500-as280",
+    "name": "S500 (AS280)",
+    "type": "Roadster"
+  },
+  {
+    "id": "honda-s600-s600-as285",
+    "name": "S600 (AS285)",
+    "type": "Roadster"
+  },
+  {
+    "id": "honda-s800-s800-as800",
+    "name": "S800 (AS800)",
+    "type": "Roadster"
+  },
+  {
+    "id": "honda-t360-t360-kei",
+    "name": "T360 (kei)",
+    "type": "Pickup"
+  },
+  {
+    "id": "honda-today-today-jw-ja",
+    "name": "Today (JW/JA)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "honda-vigor-vigor-cb5-cc",
+    "name": "Vigor (CB5/CC)",
+    "type": "Sedan"
+  },
+  {
+    "id": "honda-z-z-sa-gs",
+    "name": "Z (SA/GS)",
+    "type": "Coupe"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "id": "stoewer-10-ps-10-ps",
+    "name": "10 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-20-ps-20-ps",
+    "name": "20 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-8-14-ps-8-14-ps",
+    "name": "8/14 PS",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-arkona-arkona",
+    "name": "Arkona",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-b1-b1-6-16-ps",
+    "name": "B1 (6/16 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-b6-b6-9-22-ps",
+    "name": "B6 (9/22 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-c1-c1-6-18-ps",
+    "name": "C1 (6/18 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-c2-c2-10-28-ps",
+    "name": "C2 (10/28 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-c5-c5-6-18-ps",
+    "name": "C5 (6/18 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-d10-d10-10-50-ps",
+    "name": "D10 (10/50 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-d12-d12-12-45-ps",
+    "name": "D12 (12/45 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-d12v-d12v-13-55-ps",
+    "name": "D12V (13/55 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-d2-d2-6-18-ps",
+    "name": "D2 (6/18 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-d3-d3-8-24-ps",
+    "name": "D3 (8/24 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-d5-d5-12-36-ps",
+    "name": "D5 (12/36 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-d6-d6-19-55-ps",
+    "name": "D6 (19/55 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-d7-d7-42-120-ps",
+    "name": "D7 (42/120 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-d9-d9-8-32-ps",
+    "name": "D9 (8/32 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-d9v-d9v-9-32-ps",
+    "name": "D9V (9/32 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-f6-f6-6-30-ps",
+    "name": "F6 (6/30 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-g14-8-typ-g-14-14-70-ps",
+    "name": "G14 8 Typ G 14 (14/70 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-g4-g4-6-12-ps",
+    "name": "G4 (6/12 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-gigant-gigant-g-15-15-80-ps",
+    "name": "Gigant G 15 (15/80 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-gigant-gigant-g-15-k-15-80-ps",
+    "name": "Gigant G 15 K (15/80 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-greif-junior-greif-junior",
+    "name": "Greif Junior",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-greif-greif-v8",
+    "name": "Greif V8",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-greif-greif-v8-sport",
+    "name": "Greif V8 Sport",
+    "type": "Cabrio"
+  },
+  {
+    "id": "stoewer-grosser-stoewer-motorwagen-6-1-2-hp",
+    "name": "Grosser Stoewer Motorwagen 6 1/2 HP",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-marschall-marschall-m-12-12-60-ps",
+    "name": "Marschall M 12 (12/60 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-p2-p2-9-12-ps",
+    "name": "P2 (9/12 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-p4-p4-11-22-ps",
+    "name": "P4 (11/22 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-p4-1-p4-1-24-36-ps",
+    "name": "P4-1 (24/36 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-p6-p6-34-60-ps",
+    "name": "P6 (34/60 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-pk4-pk4-11-20-ps",
+    "name": "PK4 (11/20 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-r140-r-140-1355-cc",
+    "name": "R140 R 140 (1355 cc)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-r140-r-140-1466-cc",
+    "name": "R140 R 140 (1466 cc)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-r150-r-150",
+    "name": "R150 R 150",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-r180-r-180",
+    "name": "R180 R 180",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-r200-leichter-einheits-pkw-r-200-spezial",
+    "name": "R200 Leichter Einheits-PKW R 200 Spezial",
+    "type": "SUV"
+  },
+  {
+    "id": "stoewer-repraesentant-repraesentant-p-20-20-100-ps",
+    "name": "Repraesentant P 20 (20/100 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-s10-superior-8-typ-s-10-10-50-ps",
+    "name": "S10 Superior 8 Typ S 10 (10/50 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-s8-8-typ-s-8-8-45-ps",
+    "name": "S8 8 Typ S 8 (8/45 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-sedina-sedina",
+    "name": "Sedina",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-motorwagen-stoewer-motorwagen-vierradmotorrad",
+    "name": "Stoewer Motorwagen Vierradmotorrad",
+    "type": "Microcar"
+  },
+  {
+    "id": "stoewer-v5-v-5",
+    "name": "V5 V 5",
+    "type": "Sedan"
+  },
+  {
+    "id": "stoewer-v5-v-5-sport",
+    "name": "V5 V 5 Sport",
+    "type": "Cabrio"
+  }
+]

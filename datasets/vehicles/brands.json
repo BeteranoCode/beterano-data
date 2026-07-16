@@ -1,172 +1,2534 @@
 [
-  { "key": "abarth", "name": "Abarth" },
-  { "key": "ac", "name": "AC" },
-  { "key": "acura", "name": "Acura" },
-  { "key": "aixam", "name": "Aixam" },
-  { "key": "alfa-romeo", "name": "Alfa Romeo" },
-  { "key": "alpine", "name": "Alpine" },
-  { "key": "aprilia", "name": "Aprilia" },
-  { "key": "ariel", "name": "Ariel" },
-  { "key": "aston-martin", "name": "Aston Martin" },
-  { "key": "ashok-leyland", "name": "Ashok Leyland" },
-  { "key": "audi", "name": "Audi" },
-  { "key": "austin", "name": "Austin" },
-  { "key": "autobianchi", "name": "Autobianchi" },
-  { "key": "baic", "name": "BAIC" },
-  { "key": "benelli", "name": "Benelli" },
-  { "key": "bentley", "name": "Bentley" },
-  { "key": "beta", "name": "Beta" },
-  { "key": "bimota", "name": "Bimota" },
-  { "key": "bmw", "name": "BMW" },
-  { "key": "bmc", "name": "BMC" },
-  { "key": "borgward", "name": "Borgward" },
-  { "key": "brabus", "name": "Brabus" },
-  { "key": "brilliance", "name": "Brilliance" },
-  { "key": "bugatti", "name": "Bugatti" },
-  { "key": "buick", "name": "Buick" },
-  { "key": "byd", "name": "BYD" },
-  { "key": "cadillac", "name": "Cadillac" },
-  { "key": "caterham", "name": "Caterham" },
-  { "key": "cfmoto", "name": "CFMoto" },
-  { "key": "changan", "name": "Changan" },
-  { "key": "chery", "name": "Chery" },
-  { "key": "chevrolet", "name": "Chevrolet" },
-  { "key": "chrysler", "name": "Chrysler" },
-  { "key": "citroen", "name": "Citroen" },
-  { "key": "cupra", "name": "Cupra" },
-  { "key": "dacia", "name": "Dacia" },
-  { "key": "daf", "name": "DAF" },
-  { "key": "daewoo", "name": "Daewoo" },
-  { "key": "daihatsu", "name": "Daihatsu" },
-  { "key": "delorean", "name": "DeLorean" },
-  { "key": "de-tomaso", "name": "De Tomaso" },
-  { "key": "dfsk", "name": "DFSK" },
-  { "key": "dodge", "name": "Dodge" },
-  { "key": "ds-automobiles", "name": "DS Automobiles" },
-  { "key": "ducati", "name": "Ducati" },
-  { "key": "eagle", "name": "Eagle" },
-  { "key": "exeed", "name": "Exeed" },
-  { "key": "ferrari", "name": "Ferrari" },
-  { "key": "fiat", "name": "Fiat" },
-  { "key": "fisker", "name": "Fisker" },
-  { "key": "ford", "name": "Ford" },
-  { "key": "freightliner", "name": "Freightliner" },
-  { "key": "fso", "name": "FSO" },
-  { "key": "fuso", "name": "Fuso" },
-  { "key": "gasgas", "name": "GasGas" },
-  { "key": "geely", "name": "Geely" },
-  { "key": "genesis", "name": "Genesis" },
-  { "key": "gmc", "name": "GMC" },
-  { "key": "great-wall", "name": "Great Wall" },
-  { "key": "gwm", "name": "GWM" },
-  { "key": "harley-davidson", "name": "Harley-Davidson" },
-  { "key": "haval", "name": "Haval" },
-  { "key": "hero", "name": "Hero" },
-  { "key": "hino", "name": "Hino" },
-  { "key": "holden", "name": "Holden" },
-  { "key": "honda", "name": "Honda" },
-  { "key": "hummer", "name": "Hummer" },
-  { "key": "husaberg", "name": "Husaberg" },
-  { "key": "husqvarna", "name": "Husqvarna" },
-  { "key": "hyundai", "name": "Hyundai" },
-  { "key": "ineos", "name": "Ineos" },
-  { "key": "indian", "name": "Indian" },
-  { "key": "infiniti", "name": "Infiniti" },
-  { "key": "international", "name": "International" },
-  { "key": "isuzu", "name": "Isuzu" },
-  { "key": "iveco", "name": "Iveco" },
-  { "key": "jac", "name": "JAC" },
-  { "key": "jaguar", "name": "Jaguar" },
-  { "key": "jeep", "name": "Jeep" },
-  { "key": "jetour", "name": "Jetour" },
-  { "key": "kawasaki", "name": "Kawasaki" },
-  { "key": "kenworth", "name": "Kenworth" },
-  { "key": "keeway", "name": "Keeway" },
-  { "key": "kia", "name": "Kia" },
-  { "key": "koenigsegg", "name": "Koenigsegg" },
-  { "key": "ktm", "name": "KTM" },
-  { "key": "kymco", "name": "Kymco" },
-  { "key": "lada", "name": "Lada" },
-  { "key": "lamborghini", "name": "Lamborghini" },
-  { "key": "lancia", "name": "Lancia" },
-  { "key": "land-rover", "name": "Land Rover" },
-  { "key": "leapmotor", "name": "Leapmotor" },
-  { "key": "lexus", "name": "Lexus" },
-  { "key": "lincoln", "name": "Lincoln" },
-  { "key": "lotus", "name": "Lotus" },
-  { "key": "lucid", "name": "Lucid" },
-  { "key": "mack", "name": "Mack" },
-  { "key": "mahindra", "name": "Mahindra" },
-  { "key": "man", "name": "MAN" },
-  { "key": "maserati", "name": "Maserati" },
-  { "key": "maybach", "name": "Maybach" },
-  { "key": "mazda", "name": "Mazda" },
-  { "key": "mclaren", "name": "McLaren" },
-  { "key": "mercedes", "name": "Mercedes" },
-  { "key": "mercedes-benz", "name": "Mercedes-Benz" },
-  { "key": "mercury", "name": "Mercury" },
-  { "key": "mg", "name": "MG" },
-  { "key": "mini", "name": "Mini" },
-  { "key": "mitsubishi", "name": "Mitsubishi" },
-  { "key": "morgan", "name": "Morgan" },
-  { "key": "moskvich", "name": "Moskvich" },
-  { "key": "moto-guzzi", "name": "Moto Guzzi" },
-  { "key": "mv-agusta", "name": "MV Agusta" },
-  { "key": "nio", "name": "NIO" },
-  { "key": "nissan", "name": "Nissan" },
-  { "key": "noble", "name": "Noble" },
-  { "key": "opel", "name": "Opel" },
-  { "key": "pagani", "name": "Pagani" },
-  { "key": "panoz", "name": "Panoz" },
-  { "key": "peterbilt", "name": "Peterbilt" },
-  { "key": "peugeot", "name": "Peugeot" },
-  { "key": "piaggio", "name": "Piaggio" },
-  { "key": "polestar", "name": "Polestar" },
-  { "key": "pontiac", "name": "Pontiac" },
-  { "key": "porsche", "name": "Porsche" },
-  { "key": "proton", "name": "Proton" },
-  { "key": "ram", "name": "RAM" },
-  { "key": "renault", "name": "Renault" },
-  { "key": "rimac", "name": "Rimac" },
-  { "key": "rivian", "name": "Rivian" },
-  { "key": "rolls-royce", "name": "Rolls-Royce" },
-  { "key": "rover", "name": "Rover" },
-  { "key": "royal-enfield", "name": "Royal Enfield" },
-  { "key": "saab", "name": "Saab" },
-  { "key": "saleen", "name": "Saleen" },
-  { "key": "saturn", "name": "Saturn" },
-  { "key": "scania", "name": "Scania" },
-  { "key": "scion", "name": "Scion" },
-  { "key": "seat", "name": "Seat" },
-  { "key": "shelby", "name": "Shelby" },
-  { "key": "skoda", "name": "Skoda" },
-  { "key": "smart", "name": "Smart" },
-  { "key": "spyker", "name": "Spyker" },
-  { "key": "ssangyong", "name": "SsangYong" },
-  { "key": "subaru", "name": "Subaru" },
-  { "key": "suzuki", "name": "Suzuki" },
-  { "key": "tata", "name": "Tata" },
-  { "key": "tatra", "name": "Tatra" },
-  { "key": "temsa", "name": "Temsa" },
-  { "key": "tesla", "name": "Tesla" },
-  { "key": "toyota", "name": "Toyota" },
-  { "key": "trabant", "name": "Trabant" },
-  { "key": "triumph", "name": "Triumph" },
-  { "key": "tvr", "name": "TVR" },
-  { "key": "ud-trucks", "name": "UD Trucks" },
-  { "key": "van-hool", "name": "Van Hool" },
-  { "key": "vauxhall", "name": "Vauxhall" },
-  { "key": "vespa", "name": "Vespa" },
-  { "key": "vinfast", "name": "VinFast" },
-  { "key": "volkswagen", "name": "Volkswagen" },
-  { "key": "volvo", "name": "Volvo" },
-  { "key": "western-star", "name": "Western Star" },
-  { "key": "wiesmann", "name": "Wiesmann" },
-  { "key": "xpeng", "name": "Xpeng" },
-  { "key": "yamaha", "name": "Yamaha" },
-  { "key": "yutong", "name": "Yutong" },
-  { "key": "zeekr", "name": "Zeekr" },
-  { "key": "zenvo", "name": "Zenvo" },
-  { "key": "zero", "name": "Zero" },
-  { "key": "zhidou", "name": "Zhidou" }
+  {
+    "key": "abarth",
+    "name": "Abarth",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Sedan",
+      "Spider"
+    ]
+  },
+  {
+    "key": "ac",
+    "name": "AC",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Microcar",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "acura",
+    "name": "Acura",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "SUV",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "adler",
+    "name": "Adler",
+    "kind": "both",
+    "types": [
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "aec",
+    "name": "AEC",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Camion"
+    ]
+  },
+  {
+    "key": "aixam",
+    "name": "Aixam",
+    "kind": "car",
+    "types": [
+      "Microcar"
+    ]
+  },
+  {
+    "key": "albion",
+    "name": "Albion",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Camion",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "alfa-romeo",
+    "name": "Alfa Romeo",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Sedan",
+      "Spider",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "allard",
+    "name": "Allard",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Microcar",
+      "Roadster",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "alpine",
+    "name": "Alpine",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe"
+    ]
+  },
+  {
+    "key": "alvis",
+    "name": "Alvis",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "amc",
+    "name": "AMC",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "amilcar",
+    "name": "Amilcar",
+    "kind": "car",
+    "types": [
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "armstrong-siddeley",
+    "name": "Armstrong Siddeley",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "aro",
+    "name": "Aro",
+    "kind": "car",
+    "types": [
+      "SUV"
+    ]
+  },
+  {
+    "key": "ashok-leyland",
+    "name": "Ashok Leyland",
+    "kind": "car",
+    "types": [
+      "Camion"
+    ]
+  },
+  {
+    "key": "aston-martin",
+    "name": "Aston Martin",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "auburn",
+    "name": "Auburn",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "audi",
+    "name": "Audi",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "austin",
+    "name": "Austin",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Roadster",
+      "SUV",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "authi",
+    "name": "Authi",
+    "kind": "car",
+    "types": [
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "auto-union",
+    "name": "Auto Union",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Pickup",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "autobianchi",
+    "name": "Autobianchi",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Microcar",
+      "Roadster",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "bandini",
+    "name": "Bandini",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Roadster"
+    ]
+  },
+  {
+    "key": "barkas",
+    "name": "Barkas",
+    "kind": "car",
+    "types": [
+      "Van"
+    ]
+  },
+  {
+    "key": "bedford",
+    "name": "Bedford",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Camion",
+      "Pickup",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "bentley",
+    "name": "Bentley",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "berkeley",
+    "name": "Berkeley",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Microcar",
+      "Roadster"
+    ]
+  },
+  {
+    "key": "bianchi",
+    "name": "Bianchi",
+    "kind": "both",
+    "types": [
+      "Bus",
+      "Cabrio",
+      "Camion",
+      "SUV",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "bizzarrini",
+    "name": "Bizzarrini",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Roadster",
+      "Spider"
+    ]
+  },
+  {
+    "key": "bmc",
+    "name": "BMC",
+    "kind": "car",
+    "types": [
+      "Camion"
+    ]
+  },
+  {
+    "key": "bmw",
+    "name": "BMW",
+    "kind": "both",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Microcar",
+      "Roadster",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "bond",
+    "name": "Bond",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Microcar",
+      "Van"
+    ]
+  },
+  {
+    "key": "borgward",
+    "name": "Borgward",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Coupe",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "brabus",
+    "name": "Brabus",
+    "kind": "car",
+    "types": [
+      "Sedan"
+    ]
+  },
+  {
+    "key": "bristol",
+    "name": "Bristol",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "brough-superior",
+    "name": "Brough Superior",
+    "kind": "both",
+    "types": [
+      "Cabrio",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "bugatti",
+    "name": "Bugatti",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "buick",
+    "name": "Buick",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "cadillac",
+    "name": "Cadillac",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "caterham",
+    "name": "Caterham",
+    "kind": "car",
+    "types": [
+      "Roadster"
+    ]
+  },
+  {
+    "key": "changan",
+    "name": "Changan",
+    "kind": "car",
+    "types": [
+      "Hatchback"
+    ]
+  },
+  {
+    "key": "checker",
+    "name": "Checker",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "chevrolet",
+    "name": "Chevrolet",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "Roadster",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "chrysler",
+    "name": "Chrysler",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "cisitalia",
+    "name": "Cisitalia",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Spider"
+    ]
+  },
+  {
+    "key": "citroen",
+    "name": "Citroen",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "commer",
+    "name": "Commer",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Camion",
+      "Pickup",
+      "Van"
+    ]
+  },
+  {
+    "key": "cord",
+    "name": "Cord",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "crosley",
+    "name": "Crosley",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Pickup",
+      "Roadster",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "dacia",
+    "name": "Dacia",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Microcar",
+      "Pickup",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "daewoo",
+    "name": "Daewoo",
+    "kind": "car",
+    "types": [
+      "Hatchback",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "daf",
+    "name": "DAF",
+    "kind": "car",
+    "types": [
+      "Camion",
+      "Coupe",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "daihatsu",
+    "name": "Daihatsu",
+    "kind": "car",
+    "types": [
+      "Hatchback",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "daimler",
+    "name": "Daimler",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Cabrio",
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "darracq",
+    "name": "Darracq",
+    "kind": "both",
+    "types": [
+      "Microcar",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "datsun",
+    "name": "Datsun",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "Roadster",
+      "SUV",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "de-tomaso",
+    "name": "De Tomaso",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Sedan",
+      "Spider"
+    ]
+  },
+  {
+    "key": "delage",
+    "name": "Delage",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "delahaye",
+    "name": "Delahaye",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Coupe",
+      "Pickup",
+      "Roadster",
+      "SUV",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "delorean",
+    "name": "DeLorean",
+    "kind": "car",
+    "types": [
+      "Coupe"
+    ]
+  },
+  {
+    "key": "desoto",
+    "name": "DeSoto",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "dkw",
+    "name": "DKW",
+    "kind": "both",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Roadster",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "dodge",
+    "name": "Dodge",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "SUV",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "duesenberg",
+    "name": "Duesenberg",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "eagle",
+    "name": "Eagle",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "edsel",
+    "name": "Edsel",
+    "kind": "car",
+    "types": [
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "excelsior",
+    "name": "Excelsior",
+    "kind": "both",
+    "types": [
+      "Sedan"
+    ]
+  },
+  {
+    "key": "facel-vega",
+    "name": "Facel Vega",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "ferrari",
+    "name": "Ferrari",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Spider"
+    ]
+  },
+  {
+    "key": "fiat",
+    "name": "Fiat",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Microcar",
+      "Roadster",
+      "SUV",
+      "Sedan",
+      "Spider",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "ford",
+    "name": "Ford",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "SUV",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "franklin",
+    "name": "Franklin",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "frazer-nash",
+    "name": "Frazer Nash",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "freightliner",
+    "name": "Freightliner",
+    "kind": "car",
+    "types": [
+      "Camion"
+    ]
+  },
+  {
+    "key": "fso",
+    "name": "FSO",
+    "kind": "car",
+    "types": [
+      "Hatchback",
+      "Pickup",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "fuso",
+    "name": "Fuso",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Camion"
+    ]
+  },
+  {
+    "key": "gilbern",
+    "name": "Gilbern",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "ginetta",
+    "name": "Ginetta",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Roadster",
+      "Spider"
+    ]
+  },
+  {
+    "key": "glas",
+    "name": "Glas",
+    "kind": "both",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Microcar",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "gmc",
+    "name": "GMC",
+    "kind": "car",
+    "types": [
+      "Pickup",
+      "SUV",
+      "Van"
+    ]
+  },
+  {
+    "key": "goliath",
+    "name": "Goliath",
+    "kind": "car",
+    "types": [
+      "Camion",
+      "Coupe",
+      "Microcar",
+      "Pickup",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "graham-paige",
+    "name": "Graham-Paige",
+    "kind": "car",
+    "types": [
+      "Sedan"
+    ]
+  },
+  {
+    "key": "great-wall",
+    "name": "Great Wall",
+    "kind": "car",
+    "types": [
+      "Pickup",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "guy",
+    "name": "Guy",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Camion",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "gwm",
+    "name": "GWM",
+    "kind": "car",
+    "types": [
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "hanomag",
+    "name": "Hanomag",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Cabrio",
+      "Camion",
+      "Microcar",
+      "Pickup",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "hillman",
+    "name": "Hillman",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "hino",
+    "name": "Hino",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Camion",
+      "Coupe",
+      "Pickup",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "hispano-suiza",
+    "name": "Hispano-Suiza",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "holden",
+    "name": "Holden",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "SUV",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "honda",
+    "name": "Honda",
+    "kind": "both",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Microcar",
+      "Pickup",
+      "Roadster",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "horch",
+    "name": "Horch",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Roadster",
+      "SUV",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "hotchkiss",
+    "name": "Hotchkiss",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Coupe",
+      "SUV",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "hudson",
+    "name": "Hudson",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Pickup",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "humber",
+    "name": "Humber",
+    "kind": "car",
+    "types": [
+      "Microcar",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "hupmobile",
+    "name": "Hupmobile",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "hyundai",
+    "name": "Hyundai",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "ifa",
+    "name": "IFA",
+    "kind": "both",
+    "types": [
+      "Bus",
+      "Camion",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "imperial",
+    "name": "Imperial",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "infiniti",
+    "name": "Infiniti",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "innocenti",
+    "name": "Innocenti",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Sedan",
+      "Spider",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "intermeccanica",
+    "name": "Intermeccanica",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Roadster",
+      "Spider",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "international",
+    "name": "International",
+    "kind": "car",
+    "types": [
+      "Camion",
+      "Pickup",
+      "SUV"
+    ]
+  },
+  {
+    "key": "iso",
+    "name": "Iso",
+    "kind": "both",
+    "types": [
+      "Coupe",
+      "Microcar",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "isuzu",
+    "name": "Isuzu",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "SUV",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "iveco",
+    "name": "Iveco",
+    "kind": "car",
+    "types": [
+      "Camion",
+      "Van"
+    ]
+  },
+  {
+    "key": "jac",
+    "name": "JAC",
+    "kind": "car",
+    "types": [
+      "Camion"
+    ]
+  },
+  {
+    "key": "jaguar",
+    "name": "Jaguar",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "jawa",
+    "name": "Jawa",
+    "kind": "both",
+    "types": [
+      "Coupe",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "jeep",
+    "name": "Jeep",
+    "kind": "car",
+    "types": [
+      "Pickup",
+      "SUV",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "jensen",
+    "name": "Jensen",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Coupe",
+      "Roadster",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "jowett",
+    "name": "Jowett",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Roadster",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "kaiser",
+    "name": "Kaiser",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Hatchback",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "kenworth",
+    "name": "Kenworth",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Camion"
+    ]
+  },
+  {
+    "key": "kia",
+    "name": "Kia",
+    "kind": "car",
+    "types": [
+      "Hatchback",
+      "Pickup",
+      "Roadster",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "kurogane",
+    "name": "Kurogane",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Pickup",
+      "Roadster",
+      "Van"
+    ]
+  },
+  {
+    "key": "lada",
+    "name": "Lada",
+    "kind": "car",
+    "types": [
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "lamborghini",
+    "name": "Lamborghini",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "SUV"
+    ]
+  },
+  {
+    "key": "lancia",
+    "name": "Lancia",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Sedan",
+      "Spider",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "land-rover",
+    "name": "Land Rover",
+    "kind": "car",
+    "types": [
+      "Camion",
+      "SUV"
+    ]
+  },
+  {
+    "key": "lea-francis",
+    "name": "Lea-Francis",
+    "kind": "both",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Roadster",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "lexus",
+    "name": "Lexus",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "SUV",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "leyland",
+    "name": "Leyland",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Camion",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "lincoln",
+    "name": "Lincoln",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "lloyd",
+    "name": "Lloyd",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "lotus",
+    "name": "Lotus",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Roadster"
+    ]
+  },
+  {
+    "key": "mack",
+    "name": "Mack",
+    "kind": "car",
+    "types": [
+      "Camion"
+    ]
+  },
+  {
+    "key": "mahindra",
+    "name": "Mahindra",
+    "kind": "car",
+    "types": [
+      "Pickup",
+      "SUV",
+      "Van"
+    ]
+  },
+  {
+    "key": "maico",
+    "name": "Maico",
+    "kind": "both",
+    "types": [
+      "Microcar"
+    ]
+  },
+  {
+    "key": "man",
+    "name": "MAN",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Camion"
+    ]
+  },
+  {
+    "key": "marcos",
+    "name": "Marcos",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Spider"
+    ]
+  },
+  {
+    "key": "marmon",
+    "name": "Marmon",
+    "kind": "car",
+    "types": [
+      "Camion",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "maserati",
+    "name": "Maserati",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Sedan",
+      "Spider"
+    ]
+  },
+  {
+    "key": "matra",
+    "name": "Matra",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "SUV"
+    ]
+  },
+  {
+    "key": "maybach",
+    "name": "Maybach",
+    "kind": "car",
+    "types": [
+      "Sedan"
+    ]
+  },
+  {
+    "key": "mazda",
+    "name": "Mazda",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Roadster",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "mclaren",
+    "name": "McLaren",
+    "kind": "car",
+    "types": [
+      "Coupe"
+    ]
+  },
+  {
+    "key": "melkus",
+    "name": "Melkus",
+    "kind": "car",
+    "types": [
+      "Coupe"
+    ]
+  },
+  {
+    "key": "mercedes-benz",
+    "name": "Mercedes-Benz",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Roadster",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "mercury",
+    "name": "Mercury",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "messerschmitt",
+    "name": "Messerschmitt",
+    "kind": "car",
+    "types": [
+      "Microcar",
+      "Roadster"
+    ]
+  },
+  {
+    "key": "mg",
+    "name": "MG",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "mini",
+    "name": "Mini",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Microcar",
+      "Pickup",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "mitsubishi",
+    "name": "Mitsubishi",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "SUV",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "monica",
+    "name": "Monica",
+    "kind": "car",
+    "types": [
+      "Sedan"
+    ]
+  },
+  {
+    "key": "moretti",
+    "name": "Moretti",
+    "kind": "both",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Microcar",
+      "Pickup",
+      "SUV",
+      "Sedan",
+      "Spider"
+    ]
+  },
+  {
+    "key": "morgan",
+    "name": "Morgan",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Microcar",
+      "Roadster"
+    ]
+  },
+  {
+    "key": "moskvich",
+    "name": "Moskvich",
+    "kind": "car",
+    "types": [
+      "Hatchback",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "nash",
+    "name": "Nash",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Coupe",
+      "Roadster",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "nissan",
+    "name": "Nissan",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "noble",
+    "name": "Noble",
+    "kind": "car",
+    "types": [
+      "Roadster"
+    ]
+  },
+  {
+    "key": "nsu",
+    "name": "NSU",
+    "kind": "both",
+    "types": [
+      "Coupe",
+      "Sedan",
+      "Spider"
+    ]
+  },
+  {
+    "key": "oldsmobile",
+    "name": "Oldsmobile",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Roadster",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "oltcit",
+    "name": "Oltcit",
+    "kind": "car",
+    "types": [
+      "Hatchback",
+      "Pickup"
+    ]
+  },
+  {
+    "key": "opel",
+    "name": "Opel",
+    "kind": "car",
+    "types": [
+      "Camion",
+      "Coupe",
+      "Hatchback",
+      "SUV",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "osca",
+    "name": "OSCA",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Roadster",
+      "Spider"
+    ]
+  },
+  {
+    "key": "packard",
+    "name": "Packard",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "pagani",
+    "name": "Pagani",
+    "kind": "car",
+    "types": [
+      "Coupe"
+    ]
+  },
+  {
+    "key": "panhard",
+    "name": "Panhard",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Coupe",
+      "Roadster",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "panoz",
+    "name": "Panoz",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Roadster"
+    ]
+  },
+  {
+    "key": "panther",
+    "name": "Panther",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "parilla",
+    "name": "Parilla",
+    "kind": "both",
+    "types": [
+      "Camion"
+    ]
+  },
+  {
+    "key": "pegaso",
+    "name": "Pegaso",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Camion",
+      "Coupe"
+    ]
+  },
+  {
+    "key": "peterbilt",
+    "name": "Peterbilt",
+    "kind": "car",
+    "types": [
+      "Camion"
+    ]
+  },
+  {
+    "key": "peugeot",
+    "name": "Peugeot",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "piaggio",
+    "name": "Piaggio",
+    "kind": "both",
+    "types": [
+      "Van"
+    ]
+  },
+  {
+    "key": "pierce-arrow",
+    "name": "Pierce-Arrow",
+    "kind": "both",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Microcar",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "plymouth",
+    "name": "Plymouth",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "Roadster",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "polski-fiat",
+    "name": "Polski Fiat",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Camion",
+      "Hatchback",
+      "Microcar",
+      "Pickup",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "pontiac",
+    "name": "Pontiac",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "porsche",
+    "name": "Porsche",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Roadster",
+      "Spider"
+    ]
+  },
+  {
+    "key": "prince",
+    "name": "Prince",
+    "kind": "car",
+    "types": [
+      "Camion",
+      "Coupe",
+      "Pickup",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "proton",
+    "name": "Proton",
+    "kind": "car",
+    "types": [
+      "Hatchback"
+    ]
+  },
+  {
+    "key": "puch",
+    "name": "Puch",
+    "kind": "both",
+    "types": [
+      "Camion",
+      "Microcar",
+      "SUV",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "rambler",
+    "name": "Rambler",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "reliant",
+    "name": "Reliant",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Coupe",
+      "Hatchback",
+      "Microcar",
+      "Pickup",
+      "Roadster",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "renault",
+    "name": "Renault",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Roadster",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "riley",
+    "name": "Riley",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "rolls-royce",
+    "name": "Rolls-Royce",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "rosengart",
+    "name": "Rosengart",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "rover",
+    "name": "Rover",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "saab",
+    "name": "Saab",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "saleen",
+    "name": "Saleen",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback"
+    ]
+  },
+  {
+    "key": "salmson",
+    "name": "Salmson",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "saturn",
+    "name": "Saturn",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "scania",
+    "name": "Scania",
+    "kind": "car",
+    "types": [
+      "Bus",
+      "Camion"
+    ]
+  },
+  {
+    "key": "seat",
+    "name": "Seat",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Sedan",
+      "Spider",
+      "Van"
+    ]
+  },
+  {
+    "key": "shelby",
+    "name": "Shelby",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "siata",
+    "name": "Siata",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Sedan",
+      "Spider",
+      "Van"
+    ]
+  },
+  {
+    "key": "simca",
+    "name": "Simca",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "simson",
+    "name": "Simson",
+    "kind": "both",
+    "types": [
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "singer",
+    "name": "Singer",
+    "kind": "both",
+    "types": [
+      "Coupe",
+      "Roadster",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "skoda",
+    "name": "Skoda",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "spyker",
+    "name": "Spyker",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "ssangyong",
+    "name": "SsangYong",
+    "kind": "car",
+    "types": [
+      "Roadster",
+      "SUV"
+    ]
+  },
+  {
+    "key": "standard",
+    "name": "Standard",
+    "kind": "car",
+    "types": [
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "stoewer",
+    "name": "Stoewer",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Microcar",
+      "SUV",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "studebaker",
+    "name": "Studebaker",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Coupe",
+      "Pickup",
+      "Roadster",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "stutz",
+    "name": "Stutz",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Roadster",
+      "SUV",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "subaru",
+    "name": "Subaru",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Microcar",
+      "Pickup",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "sunbeam",
+    "name": "Sunbeam",
+    "kind": "both",
+    "types": [
+      "Coupe",
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "suzuki",
+    "name": "Suzuki",
+    "kind": "both",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "Roadster",
+      "SUV",
+      "Van"
+    ]
+  },
+  {
+    "key": "syrena",
+    "name": "Syrena",
+    "kind": "car",
+    "types": [
+      "Pickup",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "talbot",
+    "name": "Talbot",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "talbot-lago",
+    "name": "Talbot-Lago",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "tata",
+    "name": "Tata",
+    "kind": "car",
+    "types": [
+      "Wagon"
+    ]
+  },
+  {
+    "key": "tatra",
+    "name": "Tatra",
+    "kind": "car",
+    "types": [
+      "Camion",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "temsa",
+    "name": "Temsa",
+    "kind": "car",
+    "types": [
+      "Bus"
+    ]
+  },
+  {
+    "key": "toyota",
+    "name": "Toyota",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "SUV",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "trabant",
+    "name": "Trabant",
+    "kind": "car",
+    "types": [
+      "Sedan"
+    ]
+  },
+  {
+    "key": "triumph",
+    "name": "Triumph",
+    "kind": "both",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Roadster",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "trojan",
+    "name": "Trojan",
+    "kind": "both",
+    "types": [
+      "Microcar",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "tucker",
+    "name": "Tucker",
+    "kind": "car",
+    "types": [
+      "Sedan"
+    ]
+  },
+  {
+    "key": "tvr",
+    "name": "TVR",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Roadster"
+    ]
+  },
+  {
+    "key": "uaz",
+    "name": "UAZ",
+    "kind": "car",
+    "types": [
+      "Pickup",
+      "SUV",
+      "Van"
+    ]
+  },
+  {
+    "key": "ud-trucks",
+    "name": "UD Trucks",
+    "kind": "car",
+    "types": [
+      "Camion"
+    ]
+  },
+  {
+    "key": "van-hool",
+    "name": "Van Hool",
+    "kind": "car",
+    "types": [
+      "Bus"
+    ]
+  },
+  {
+    "key": "vanden-plas",
+    "name": "Vanden Plas",
+    "kind": "car",
+    "types": [
+      "Sedan"
+    ]
+  },
+  {
+    "key": "vauxhall",
+    "name": "Vauxhall",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "SUV",
+      "Sedan",
+      "Van"
+    ]
+  },
+  {
+    "key": "vespa",
+    "name": "Vespa",
+    "kind": "both",
+    "types": [
+      "Microcar"
+    ]
+  },
+  {
+    "key": "vignale",
+    "name": "Vignale",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Roadster",
+      "Sedan",
+      "Spider"
+    ]
+  },
+  {
+    "key": "voisin",
+    "name": "Voisin",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Microcar",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "volga",
+    "name": "Volga",
+    "kind": "car",
+    "types": [
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "volkswagen",
+    "name": "Volkswagen",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Hatchback",
+      "Pickup",
+      "SUV",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "volvo",
+    "name": "Volvo",
+    "kind": "car",
+    "types": [
+      "Coupe",
+      "Hatchback",
+      "SUV",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "wanderer",
+    "name": "Wanderer",
+    "kind": "both",
+    "types": [
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "warszawa",
+    "name": "Warszawa",
+    "kind": "car",
+    "types": [
+      "Pickup",
+      "Sedan",
+      "Van",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "wartburg",
+    "name": "Wartburg",
+    "kind": "car",
+    "types": [
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "western-star",
+    "name": "Western Star",
+    "kind": "car",
+    "types": [
+      "Camion"
+    ]
+  },
+  {
+    "key": "willys",
+    "name": "Willys",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Coupe",
+      "Pickup",
+      "SUV",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "wolseley",
+    "name": "Wolseley",
+    "kind": "car",
+    "types": [
+      "Roadster",
+      "Sedan"
+    ]
+  },
+  {
+    "key": "yugo",
+    "name": "Yugo",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Hatchback"
+    ]
+  },
+  {
+    "key": "zastava",
+    "name": "Zastava",
+    "kind": "car",
+    "types": [
+      "Cabrio",
+      "Camion",
+      "Hatchback",
+      "SUV",
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "zaz",
+    "name": "ZAZ",
+    "kind": "car",
+    "types": [
+      "Sedan",
+      "Wagon"
+    ]
+  },
+  {
+    "key": "zundapp",
+    "name": "Zundapp",
+    "kind": "both",
+    "types": [
+      "Microcar"
+    ]
+  }
 ]

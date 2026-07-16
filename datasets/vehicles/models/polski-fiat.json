@@ -1,0 +1,102 @@
+[
+  {
+    "id": "polski-fiat-125p-125p",
+    "name": "125p",
+    "type": "Sedan"
+  },
+  {
+    "id": "polski-fiat-125p-125p-kombi",
+    "name": "125p Kombi",
+    "type": "Wagon"
+  },
+  {
+    "id": "polski-fiat-125p-125p-pickup",
+    "name": "125p Pickup",
+    "type": "Pickup"
+  },
+  {
+    "id": "polski-fiat-126p-126p-600",
+    "name": "126p (600)",
+    "type": "Sedan"
+  },
+  {
+    "id": "polski-fiat-126p-126p-650",
+    "name": "126p (650)",
+    "type": "Sedan"
+  },
+  {
+    "id": "polski-fiat-126p-126-el-elx",
+    "name": "126p 126 EL / ELX",
+    "type": "Sedan"
+  },
+  {
+    "id": "polski-fiat-126p-bis-126p-bis",
+    "name": "126p BIS",
+    "type": "Hatchback"
+  },
+  {
+    "id": "polski-fiat-126p-126p-fl",
+    "name": "126p FL",
+    "type": "Sedan"
+  },
+  {
+    "id": "polski-fiat-127p-127p",
+    "name": "127p",
+    "type": "Hatchback"
+  },
+  {
+    "id": "polski-fiat-500-topolino-500-topolino-pzinz",
+    "name": "500 Topolino (PZInz)",
+    "type": "Microcar"
+  },
+  {
+    "id": "polski-fiat-508-508-ii",
+    "name": "508 II",
+    "type": "Sedan"
+  },
+  {
+    "id": "polski-fiat-508-508-iii",
+    "name": "508 III",
+    "type": "Van"
+  },
+  {
+    "id": "polski-fiat-508-508-iii-junak",
+    "name": "508 III Junak",
+    "type": "Sedan"
+  },
+  {
+    "id": "polski-fiat-508-lazik-508-iiiw-lazik",
+    "name": "508 Lazik 508/IIIW Lazik",
+    "type": "SUV"
+  },
+  {
+    "id": "polski-fiat-518-mazur-518-mazur",
+    "name": "518 Mazur",
+    "type": "Sedan"
+  },
+  {
+    "id": "polski-fiat-618-grom-618-grom",
+    "name": "618 Grom",
+    "type": "Camion"
+  },
+  {
+    "id": "polski-fiat-618-grom-618-grom-autobus",
+    "name": "618 Grom Autobus",
+    "type": "Bus"
+  },
+  {
+    "id": "polski-fiat-621-621-l",
+    "name": "621 L",
+    "type": "Camion"
+  },
+  {
+    "id": "polski-fiat-621-621-r",
+    "name": "621 R",
+    "type": "Bus"
+  },
+  {
+    "id": "polski-fiat-polonez-polonez-badge-polski-fiat",
+    "name": "Polonez (badge Polski Fiat)",
+    "type": "Hatchback"
+  }
+]

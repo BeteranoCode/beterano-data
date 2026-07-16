@@ -1,0 +1,72 @@
+[
+  {
+    "id": "abarth-124-rally-fiat-124-abarth-rally",
+    "name": "124 Rally Fiat 124 Abarth Rally",
+    "type": "Spider"
+  },
+  {
+    "id": "abarth-131-rally-fiat-131-abarth-rally",
+    "name": "131 Rally Fiat 131 Abarth Rally",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-205-205a-berlinetta",
+    "name": "205A Berlinetta",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-207a-207a-spyder",
+    "name": "207A Spyder",
+    "type": "Spider"
+  },
+  {
+    "id": "abarth-simca-1300-gt-abarth-simca-1300-gt",
+    "name": "Abarth-Simca 1300 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-simca-2000-gt-abarth-simca-2000-gt",
+    "name": "Abarth-Simca 2000 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-1000-tc-fiat-abarth-1000-tc-berlina",
+    "name": "Fiat-Abarth 1000 TC Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "abarth-595-fiat-abarth-595",
+    "name": "Fiat-Abarth 595",
+    "type": "Sedan"
+  },
+  {
+    "id": "abarth-695-fiat-abarth-695-ss",
+    "name": "Fiat-Abarth 695 SS",
+    "type": "Sedan"
+  },
+  {
+    "id": "abarth-750-fiat-abarth-750-gt-bialbero",
+    "name": "Fiat-Abarth 750 GT Bialbero",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-750-fiat-abarth-750-zagato",
+    "name": "Fiat-Abarth 750 Zagato",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-850-tc-fiat-abarth-850-tc-berlina",
+    "name": "Fiat-Abarth 850 TC Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "abarth-ot-1300-fiat-abarth-ot-1300",
+    "name": "Fiat-Abarth OT 1300",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-ot-2000-fiat-abarth-ot-2000",
+    "name": "Fiat-Abarth OT 2000",
+    "type": "Coupe"
+  }
+]

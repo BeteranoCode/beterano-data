@@ -1,0 +1,112 @@
+[
+  {
+    "id": "kaiser-carolina-k-538-2a-gen",
+    "name": "Carolina K-538 (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-custom-k-101-k-482-1a-gen",
+    "name": "Custom K-101 / K-482 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-darrin-darrin-161",
+    "name": "Darrin 161",
+    "type": "Roadster"
+  },
+  {
+    "id": "kaiser-deluxe-convertible-k-492-1a-gen",
+    "name": "DeLuxe Convertible K-492 (1a gen)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "kaiser-deluxe-k-492-k-502-1a-gen",
+    "name": "DeLuxe K-492 / K-502 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-deluxe-k-512-2a-gen-anatomic",
+    "name": "DeLuxe K-512 (2a gen Anatomic)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-deluxe-k-521-k-531-2a-gen",
+    "name": "DeLuxe K-521 / K-531 (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-dragon-k-530-2a-gen",
+    "name": "Dragon K-530 (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-henry-j-henry-j-deluxe-corsair-six",
+    "name": "Henry J (DeLuxe / Corsair Six)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-henry-j-henry-j-standard-corsair",
+    "name": "Henry J (Standard / Corsair)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-carabela-kaiser-carabela-ika-argentina",
+    "name": "Kaiser Carabela (IKA Argentina)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-manhattan-k-522-k-532-2a-gen",
+    "name": "Manhattan K-522 / K-532 (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-manhattan-k-542-k-5421-2a-gen",
+    "name": "Manhattan K-542 / K-5421 (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-special-k-100-k-481-1a-gen",
+    "name": "Special K-100 / K-481 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-special-k-491-k-501-1a-gen",
+    "name": "Special K-491 / K-501 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-special-k-511-2a-gen-anatomic",
+    "name": "Special K-511 (2a gen Anatomic)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-special-k-545-2a-gen",
+    "name": "Special K-545 (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-traveler-k-491-k-501-1a-gen",
+    "name": "Traveler K-491 / K-501 (1a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "kaiser-traveler-k-511-k-521-k-531-2a-gen",
+    "name": "Traveler K-511 / K-521 / K-531 (2a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "kaiser-vagabond-k-492-k-502-1a-gen",
+    "name": "Vagabond K-492 / K-502 (1a gen)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "kaiser-virginian-k-492-k-502-1a-gen",
+    "name": "Virginian K-492 / K-502 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "kaiser-virginian-k-521-k-522-2a-gen",
+    "name": "Virginian K-521 / K-522 (2a gen)",
+    "type": "Sedan"
+  }
+]

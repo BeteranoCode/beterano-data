@@ -1,0 +1,117 @@
+[
+  {
+    "id": "skoda-100-100-type-100",
+    "name": "100 (Type 100)",
+    "type": "Sedan"
+  },
+  {
+    "id": "skoda-1000-mb-1000-mb-type-990",
+    "name": "1000 MB (Type 990)",
+    "type": "Sedan"
+  },
+  {
+    "id": "skoda-110-110-type-100",
+    "name": "110 (Type 100)",
+    "type": "Sedan"
+  },
+  {
+    "id": "skoda-110-r-110-r-type-718",
+    "name": "110 R (Type 718)",
+    "type": "Coupe"
+  },
+  {
+    "id": "skoda-1100-mb-1100-mb-type-990",
+    "name": "1100 MB (Type 990)",
+    "type": "Sedan"
+  },
+  {
+    "id": "skoda-1101-1102-1101-1102-tudor",
+    "name": "1101 / 1102 1101/1102 Tudor",
+    "type": "Sedan"
+  },
+  {
+    "id": "skoda-1200-1200",
+    "name": "1200",
+    "type": "Sedan"
+  },
+  {
+    "id": "skoda-1201-1201",
+    "name": "1201",
+    "type": "Sedan"
+  },
+  {
+    "id": "skoda-1202-1202",
+    "name": "1202",
+    "type": "Wagon"
+  },
+  {
+    "id": "skoda-440-440-spartak",
+    "name": "440 Spartak",
+    "type": "Sedan"
+  },
+  {
+    "id": "skoda-445-445",
+    "name": "445",
+    "type": "Sedan"
+  },
+  {
+    "id": "skoda-450-450",
+    "name": "450",
+    "type": "Cabrio"
+  },
+  {
+    "id": "skoda-105-742-105",
+    "name": "742 (105)",
+    "type": "Sedan"
+  },
+  {
+    "id": "skoda-120-742-120-125",
+    "name": "742 (120/125)",
+    "type": "Sedan"
+  },
+  {
+    "id": "skoda-130-742-746-130-135-136",
+    "name": "742/746 (130/135/136)",
+    "type": "Sedan"
+  },
+  {
+    "id": "skoda-favorit-favorit-type-781",
+    "name": "Favorit (Type 781)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "skoda-pick-up-favorit-pick-up-type-787",
+    "name": "Favorit Pick-up (Type 787)",
+    "type": "Pickup"
+  },
+  {
+    "id": "skoda-felicia-felicia-1959",
+    "name": "Felicia (1959)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "skoda-forman-forman-type-785",
+    "name": "Forman (Type 785)",
+    "type": "Wagon"
+  },
+  {
+    "id": "skoda-garde-garde-type-743",
+    "name": "Garde (Type 743)",
+    "type": "Coupe"
+  },
+  {
+    "id": "skoda-octavia-octavia-1959",
+    "name": "Octavia (1959)",
+    "type": "Sedan"
+  },
+  {
+    "id": "skoda-octavia-combi-octavia-combi-1961",
+    "name": "Octavia Combi (1961)",
+    "type": "Wagon"
+  },
+  {
+    "id": "skoda-rapid-rapid-type-743",
+    "name": "Rapid (Type 743)",
+    "type": "Coupe"
+  }
+]

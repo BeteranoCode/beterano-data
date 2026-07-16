@@ -1,0 +1,207 @@
+[
+  {
+    "id": "aec-bridgemaster-bridgemaster",
+    "name": "Bridgemaster",
+    "type": "Bus"
+  },
+  {
+    "id": "aec-majestic-majestic-3521-3531",
+    "name": "Majestic 3521/3531",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-majestic-majestic-666",
+    "name": "Majestic 666",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-majestic-majestic-gb6",
+    "name": "Majestic GB6",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-mammoth-mammoth-667",
+    "name": "Mammoth 667",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-mammoth-major-mammoth-major-6-mk-iii-3671",
+    "name": "Mammoth Major 6 Mk III (3671)",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-mammoth-major-mammoth-major-8-tg8r",
+    "name": "Mammoth Major 8 (TG8R)",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-mammoth-major-mammoth-major-8-mk-iii-3871",
+    "name": "Mammoth Major 8 Mk III (3871)",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-mammoth-major-mammoth-major-mk-v-g8",
+    "name": "Mammoth Major Mk V (G8)",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-mandator-mandator-3472-3475",
+    "name": "Mandator 3472-3475",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-mandator-mandator-669-672",
+    "name": "Mandator 669/672",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-mandator-mandator-tg4",
+    "name": "Mandator TG4",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-marshal-marshal-644",
+    "name": "Marshal 644",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-marshal-marshal-gm6",
+    "name": "Marshal GM6",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-marshal-marshal-tgm6",
+    "name": "Marshal TGM6",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-matador-matador-346",
+    "name": "Matador 346",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-matador-matador-4gm4",
+    "name": "Matador 4GM4",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-matador-matador-645",
+    "name": "Matador 645",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-matador-matador-853",
+    "name": "Matador 853",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-matador-matador-o853",
+    "name": "Matador O853",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-mercury-mercury-640",
+    "name": "Mercury 640",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-mercury-mercury-g4m",
+    "name": "Mercury G4M",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-mercury-mercury-tgm4",
+    "name": "Mercury TGM4",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-merlin-merlin-london-transport-swift",
+    "name": "Merlin (London Transport Swift)",
+    "type": "Bus"
+  },
+  {
+    "id": "aec-militant-militant-mk1-o859-o860",
+    "name": "Militant Mk1 (O859/O860)",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-militant-militant-mk3-o870-o880",
+    "name": "Militant Mk3 (O870/O880)",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-monarch-monarch-344-346",
+    "name": "Monarch 344/346",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-monarch-monarch-641-648",
+    "name": "Monarch 641-648",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-monarch-monarch-o345-3451",
+    "name": "Monarch O345/3451",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-mustang-mustang-gm6",
+    "name": "Mustang GM6",
+    "type": "Camion"
+  },
+  {
+    "id": "aec-regal-regal-662-o662",
+    "name": "Regal 662/O662",
+    "type": "Bus"
+  },
+  {
+    "id": "aec-regal-iv-regal-iv",
+    "name": "Regal IV",
+    "type": "Bus"
+  },
+  {
+    "id": "aec-regent-regent-661-o661",
+    "name": "Regent 661/O661",
+    "type": "Bus"
+  },
+  {
+    "id": "aec-regent-iii-regent-iii-provincial",
+    "name": "Regent III (provincial)",
+    "type": "Bus"
+  },
+  {
+    "id": "aec-regent-iii-rt-type",
+    "name": "Regent III RT-type",
+    "type": "Bus"
+  },
+  {
+    "id": "aec-regent-v-regent-v",
+    "name": "Regent V",
+    "type": "Bus"
+  },
+  {
+    "id": "aec-reliance-reliance",
+    "name": "Reliance",
+    "type": "Bus"
+  },
+  {
+    "id": "aec-reliance-reliance-early",
+    "name": "Reliance (early)",
+    "type": "Bus"
+  },
+  {
+    "id": "aec-renown-renown-1962",
+    "name": "Renown (1962)",
+    "type": "Bus"
+  },
+  {
+    "id": "aec-routemaster-rm",
+    "name": "Routemaster RM",
+    "type": "Bus"
+  },
+  {
+    "id": "aec-swift-swift",
+    "name": "Swift",
+    "type": "Bus"
+  }
+]

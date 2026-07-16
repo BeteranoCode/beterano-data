@@ -1,0 +1,112 @@
+[
+  {
+    "id": "saab-90-90",
+    "name": "90",
+    "type": "Sedan"
+  },
+  {
+    "id": "saab-900-900-classic",
+    "name": "900 Classic",
+    "type": "Hatchback"
+  },
+  {
+    "id": "saab-900-900-classic-cabrio",
+    "name": "900 Classic Cabrio",
+    "type": "Cabrio"
+  },
+  {
+    "id": "saab-900-900-classic-turbo",
+    "name": "900 Classic Turbo",
+    "type": "Hatchback"
+  },
+  {
+    "id": "saab-900-900-ng-gm900",
+    "name": "900 NG (GM900)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "saab-900-900-ng-cabrio",
+    "name": "900 NG Cabrio",
+    "type": "Cabrio"
+  },
+  {
+    "id": "saab-900-900-ng-turbo",
+    "name": "900 NG Turbo",
+    "type": "Hatchback"
+  },
+  {
+    "id": "saab-900-900-ng-v6",
+    "name": "900 NG V6",
+    "type": "Coupe"
+  },
+  {
+    "id": "saab-9000-9000-cc-cs",
+    "name": "9000 CC/CS",
+    "type": "Hatchback"
+  },
+  {
+    "id": "saab-9000-9000-cd",
+    "name": "9000 CD",
+    "type": "Sedan"
+  },
+  {
+    "id": "saab-9000-9000-turbo",
+    "name": "9000 Turbo",
+    "type": "Hatchback"
+  },
+  {
+    "id": "saab-92-92-92b",
+    "name": "92 / 92B",
+    "type": "Sedan"
+  },
+  {
+    "id": "saab-93-93-93f",
+    "name": "93 / 93F",
+    "type": "Sedan"
+  },
+  {
+    "id": "saab-95-95-2-tiempos",
+    "name": "95 (2-tiempos)",
+    "type": "Wagon"
+  },
+  {
+    "id": "saab-95-95-v4",
+    "name": "95 V4",
+    "type": "Wagon"
+  },
+  {
+    "id": "saab-96-96-2-tiempos",
+    "name": "96 (2-tiempos)",
+    "type": "Sedan"
+  },
+  {
+    "id": "saab-96-96-v4",
+    "name": "96 V4",
+    "type": "Sedan"
+  },
+  {
+    "id": "saab-99-99",
+    "name": "99",
+    "type": "Sedan"
+  },
+  {
+    "id": "saab-99-99-turbo",
+    "name": "99 Turbo",
+    "type": "Sedan"
+  },
+  {
+    "id": "saab-sonett-sonett-ii",
+    "name": "Sonett II",
+    "type": "Coupe"
+  },
+  {
+    "id": "saab-sonett-sonett-iii",
+    "name": "Sonett III",
+    "type": "Coupe"
+  },
+  {
+    "id": "saab-sonett-sonett-v4",
+    "name": "Sonett V4",
+    "type": "Coupe"
+  }
+]

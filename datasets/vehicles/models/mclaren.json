@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mclaren-f1-mclaren-f1",
+    "name": "McLaren F1",
+    "type": "Coupe"
+  },
+  {
+    "id": "mclaren-m6gt-mclaren-m6gt",
+    "name": "McLaren M6GT",
+    "type": "Coupe"
+  }
+]

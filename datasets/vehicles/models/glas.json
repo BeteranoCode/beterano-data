@@ -1,0 +1,112 @@
+[
+  {
+    "id": "glas-glas-1004-ts-typ-612-04-reihe",
+    "name": "1004 TS Typ 612 (04-Reihe)",
+    "type": "Coupe"
+  },
+  {
+    "id": "glas-glas-1004-typ-612-04-reihe",
+    "name": "1004 Typ 612 (04-Reihe)",
+    "type": "Coupe"
+  },
+  {
+    "id": "glas-glas-1204-ts-typ-612-04-reihe",
+    "name": "1204 TS Typ 612 (04-Reihe)",
+    "type": "Sedan"
+  },
+  {
+    "id": "glas-glas-1204-typ-612-04-reihe",
+    "name": "1204 Typ 612 (04-Reihe)",
+    "type": "Coupe"
+  },
+  {
+    "id": "glas-glas-1300-gt-glas-gt-frua",
+    "name": "1300 GT Glas GT (Frua)",
+    "type": "Coupe"
+  },
+  {
+    "id": "glas-glas-1304-ts-typ-612-04-reihe",
+    "name": "1304 TS Typ 612 (04-Reihe)",
+    "type": "Sedan"
+  },
+  {
+    "id": "glas-glas-1700-gt-glas-gt-frua",
+    "name": "1700 GT Glas GT (Frua)",
+    "type": "Coupe"
+  },
+  {
+    "id": "glas-glas-2600-v8-glas-v8-frua-glaserati",
+    "name": "2600 V8 Glas V8 (Frua) - 'Glaserati'",
+    "type": "Coupe"
+  },
+  {
+    "id": "glas-glas-3000-v8-glas-v8-frua-glaserati",
+    "name": "3000 V8 Glas V8 (Frua) - 'Glaserati'",
+    "type": "Coupe"
+  },
+  {
+    "id": "glas-glas-1700-glas-1700-typ-602",
+    "name": "Glas 1700 (Typ 602)",
+    "type": "Sedan"
+  },
+  {
+    "id": "glas-goggomobil-t-goggomobil-t250",
+    "name": "Goggomobil T250",
+    "type": "Microcar"
+  },
+  {
+    "id": "glas-goggomobil-t-goggomobil-t300",
+    "name": "Goggomobil T300",
+    "type": "Microcar"
+  },
+  {
+    "id": "glas-goggomobil-t-goggomobil-t400",
+    "name": "Goggomobil T400",
+    "type": "Microcar"
+  },
+  {
+    "id": "glas-goggomobil-transporter-goggomobil-tl250",
+    "name": "Goggomobil Transporter Goggomobil TL250",
+    "type": "Van"
+  },
+  {
+    "id": "glas-goggomobil-transporter-goggomobil-tl400",
+    "name": "Goggomobil Transporter Goggomobil TL400",
+    "type": "Van"
+  },
+  {
+    "id": "glas-goggomobil-ts-goggomobil-ts250",
+    "name": "Goggomobil TS250",
+    "type": "Coupe"
+  },
+  {
+    "id": "glas-goggomobil-ts-goggomobil-ts300",
+    "name": "Goggomobil TS300",
+    "type": "Coupe"
+  },
+  {
+    "id": "glas-goggomobil-ts-goggomobil-ts400",
+    "name": "Goggomobil TS400",
+    "type": "Coupe"
+  },
+  {
+    "id": "glas-isar-isar-k600-kombi",
+    "name": "Isar K600 Kombi",
+    "type": "Wagon"
+  },
+  {
+    "id": "glas-isar-isar-k700-kombi",
+    "name": "Isar K700 Kombi",
+    "type": "Wagon"
+  },
+  {
+    "id": "glas-isar-isar-t600-ex-goggomobil-t600",
+    "name": "Isar T600 (ex Goggomobil T600)",
+    "type": "Sedan"
+  },
+  {
+    "id": "glas-isar-isar-t700",
+    "name": "Isar T700",
+    "type": "Sedan"
+  }
+]

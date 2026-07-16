@@ -1,0 +1,97 @@
+[
+  {
+    "id": "aston-martin-2-litre-sports-db1-db1",
+    "name": "2-Litre Sports (DB1)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "aston-martin-db-mark-iii-db-mark-iii",
+    "name": "DB Mark III",
+    "type": "Coupe"
+  },
+  {
+    "id": "aston-martin-db2-db2",
+    "name": "DB2",
+    "type": "Coupe"
+  },
+  {
+    "id": "aston-martin-db2-4-db2-4-mk-i-mk-ii",
+    "name": "DB2/4 (Mk I / Mk II)",
+    "type": "Coupe"
+  },
+  {
+    "id": "aston-martin-db4-db4",
+    "name": "DB4",
+    "type": "Coupe"
+  },
+  {
+    "id": "aston-martin-db5-db5",
+    "name": "DB5",
+    "type": "Coupe"
+  },
+  {
+    "id": "aston-martin-db6-db6-mk-i-mk-ii",
+    "name": "DB6 (Mk I / Mk II)",
+    "type": "Coupe"
+  },
+  {
+    "id": "aston-martin-dbs-dbs-6-cil",
+    "name": "DBS (6 cil.)",
+    "type": "Coupe"
+  },
+  {
+    "id": "aston-martin-dbs-v8-dbs-v8",
+    "name": "DBS V8",
+    "type": "Coupe"
+  },
+  {
+    "id": "aston-martin-lagonda-lagonda-wedge-series-2-4",
+    "name": "Lagonda (wedge, Series 2-4)",
+    "type": "Sedan"
+  },
+  {
+    "id": "aston-martin-v8-coupe-v8-coupe-virage-rebautizado",
+    "name": "V8 Coupe (Virage rebautizado)",
+    "type": "Coupe"
+  },
+  {
+    "id": "aston-martin-v8-v8-saloon-series-2-5",
+    "name": "V8 Saloon (Series 2-5)",
+    "type": "Coupe"
+  },
+  {
+    "id": "aston-martin-v8-vantage-v8-vantage",
+    "name": "V8 Vantage",
+    "type": "Coupe"
+  },
+  {
+    "id": "aston-martin-v8-vantage-volante-v8-vantage-volante",
+    "name": "V8 Vantage Volante",
+    "type": "Cabrio"
+  },
+  {
+    "id": "aston-martin-v8-volante-v8-volante",
+    "name": "V8 Volante",
+    "type": "Cabrio"
+  },
+  {
+    "id": "aston-martin-v8-volante-v8-volante-virage-rebautizado",
+    "name": "V8 Volante (Virage rebautizado)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "aston-martin-vantage-vantage-v550-v600",
+    "name": "Vantage V550 / V600",
+    "type": "Coupe"
+  },
+  {
+    "id": "aston-martin-virage-virage",
+    "name": "Virage",
+    "type": "Coupe"
+  },
+  {
+    "id": "aston-martin-virage-volante-virage-volante",
+    "name": "Virage Volante",
+    "type": "Cabrio"
+  }
+]

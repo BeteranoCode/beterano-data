@@ -1,0 +1,62 @@
+[
+  {
+    "id": "edsel-bermuda-bermuda-1958",
+    "name": "Bermuda (1958)",
+    "type": "Wagon"
+  },
+  {
+    "id": "edsel-citation-citation-1958",
+    "name": "Citation (1958)",
+    "type": "Sedan"
+  },
+  {
+    "id": "edsel-corsair-corsair-1a-gen-1958",
+    "name": "Corsair 1a gen (1958)",
+    "type": "Sedan"
+  },
+  {
+    "id": "edsel-corsair-corsair-2a-gen-1959",
+    "name": "Corsair 2a gen (1959)",
+    "type": "Sedan"
+  },
+  {
+    "id": "edsel-pacer-pacer-1958",
+    "name": "Pacer (1958)",
+    "type": "Sedan"
+  },
+  {
+    "id": "edsel-ranger-ranger-1958",
+    "name": "Ranger (1958)",
+    "type": "Sedan"
+  },
+  {
+    "id": "edsel-ranger-ranger-1959",
+    "name": "Ranger (1959)",
+    "type": "Sedan"
+  },
+  {
+    "id": "edsel-ranger-ranger-1960",
+    "name": "Ranger (1960)",
+    "type": "Sedan"
+  },
+  {
+    "id": "edsel-roundup-roundup-1958",
+    "name": "Roundup (1958)",
+    "type": "Wagon"
+  },
+  {
+    "id": "edsel-villager-villager-1958",
+    "name": "Villager (1958)",
+    "type": "Wagon"
+  },
+  {
+    "id": "edsel-villager-villager-1959",
+    "name": "Villager (1959)",
+    "type": "Wagon"
+  },
+  {
+    "id": "edsel-villager-villager-1960",
+    "name": "Villager (1960)",
+    "type": "Wagon"
+  }
+]

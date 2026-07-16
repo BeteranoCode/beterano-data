@@ -1,0 +1,57 @@
+[
+  {
+    "id": "man-f8-f8",
+    "name": "F8",
+    "type": "Camion"
+  },
+  {
+    "id": "man-f90-f90",
+    "name": "F90",
+    "type": "Camion"
+  },
+  {
+    "id": "man-g90-g90-1a-gen-man-vw",
+    "name": "G90 (1a gen, MAN-VW)",
+    "type": "Camion"
+  },
+  {
+    "id": "man-g90-g90-2a-gen",
+    "name": "G90 (2a gen)",
+    "type": "Camion"
+  },
+  {
+    "id": "man-m90-m90",
+    "name": "M90",
+    "type": "Camion"
+  },
+  {
+    "id": "man-sd200-doble-piso-berlin",
+    "name": "SD200 Doble piso (Berlin)",
+    "type": "Bus"
+  },
+  {
+    "id": "man-sd202-doble-piso",
+    "name": "SD202 Doble piso",
+    "type": "Bus"
+  },
+  {
+    "id": "man-sg220-articulado",
+    "name": "SG220 Articulado",
+    "type": "Bus"
+  },
+  {
+    "id": "man-sl200-v-v-standard-bus-i",
+    "name": "SL200 VÖV Standard-Bus I",
+    "type": "Bus"
+  },
+  {
+    "id": "man-sl202-v-v-standard-bus-ii",
+    "name": "SL202 VÖV Standard-Bus II",
+    "type": "Bus"
+  },
+  {
+    "id": "man-sr280-autocar-motor-trasero",
+    "name": "SR280 Autocar (motor trasero)",
+    "type": "Bus"
+  }
+]

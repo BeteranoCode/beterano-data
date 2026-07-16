@@ -1,0 +1,167 @@
+[
+  {
+    "id": "innocenti-1100-spider-1100-spider-ghia",
+    "name": "1100 Spider (Ghia)",
+    "type": "Spider"
+  },
+  {
+    "id": "innocenti-950-spider-950-spider-ghia",
+    "name": "950 Spider (Ghia)",
+    "type": "Spider"
+  },
+  {
+    "id": "innocenti-a40-a40-berlina",
+    "name": "A40 (Berlina)",
+    "type": "Sedan"
+  },
+  {
+    "id": "innocenti-a40-a40-combinata",
+    "name": "A40 (Combinata)",
+    "type": "Wagon"
+  },
+  {
+    "id": "innocenti-a40-a40-s-berlina",
+    "name": "A40 S (Berlina)",
+    "type": "Sedan"
+  },
+  {
+    "id": "innocenti-a40-a40-s-combinata",
+    "name": "A40 S (Combinata)",
+    "type": "Wagon"
+  },
+  {
+    "id": "innocenti-c-c-coupe-osi",
+    "name": "C Coupe (OSI)",
+    "type": "Coupe"
+  },
+  {
+    "id": "innocenti-elba-elba-fiat-duna-weekend",
+    "name": "Elba (Fiat Duna Weekend)",
+    "type": "Wagon"
+  },
+  {
+    "id": "innocenti-elba-elba-serie-1-fiat-duna-weekend",
+    "name": "Elba Serie 1 (Fiat Duna Weekend)",
+    "type": "Wagon"
+  },
+  {
+    "id": "innocenti-elba-elba-serie-2-fiat-duna-weekend",
+    "name": "Elba Serie 2 (Fiat Duna Weekend)",
+    "type": "Wagon"
+  },
+  {
+    "id": "innocenti-i4-i4-i4-s-ado16",
+    "name": "I4 / I4 S (ADO16)",
+    "type": "Sedan"
+  },
+  {
+    "id": "innocenti-i5-i5-ado16",
+    "name": "I5 (ADO16)",
+    "type": "Sedan"
+  },
+  {
+    "id": "innocenti-im3-im3-im3-s-ado16",
+    "name": "IM3 / IM3 S (ADO16)",
+    "type": "Sedan"
+  },
+  {
+    "id": "innocenti-koral-koral-yugo-koral",
+    "name": "Koral (Yugo Koral)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-mille-mille-fiat-mille-brasilena",
+    "name": "Mille (Fiat Mille brasilena)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-mille-clip-mille-clip-fiat-uno-ii-polonia",
+    "name": "Mille Clip (Fiat Uno II, Polonia)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-mini-120-nuova-mini-serie-1-bertone",
+    "name": "Mini 120 Nuova Mini Serie 1 (Bertone)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-mini-3-cilindri-nuova-mini-serie-2-daihatsu",
+    "name": "Mini 3 Cilindri Nuova Mini Serie 2 (Daihatsu)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-mini-500-nuova-mini-serie-2-daihatsu",
+    "name": "Mini 500 Nuova Mini Serie 2 (Daihatsu)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-mini-650-nuova-mini-serie-2-daihatsu",
+    "name": "Mini 650 Nuova Mini Serie 2 (Daihatsu)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-mini-90-nuova-mini-serie-1-bertone",
+    "name": "Mini 90 Nuova Mini Serie 1 (Bertone)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-mini-990-nuova-mini-serie-2-daihatsu-passo-lungo",
+    "name": "Mini 990 Nuova Mini Serie 2 (Daihatsu, passo lungo)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-mini-de-tomaso-nuova-mini-serie-1-bertone",
+    "name": "Mini De Tomaso Nuova Mini Serie 1 (Bertone)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-mini-mille-nuova-mini-serie-1-bertone",
+    "name": "Mini Mille Nuova Mini Serie 1 (Bertone)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-mini-mini-mk1-ado15",
+    "name": "Mini Mk1 (ADO15)",
+    "type": "Sedan"
+  },
+  {
+    "id": "innocenti-mini-mini-mk2-ado15",
+    "name": "Mini Mk2 (ADO15)",
+    "type": "Sedan"
+  },
+  {
+    "id": "innocenti-mini-mini-mk3-ado15",
+    "name": "Mini Mk3 (ADO15)",
+    "type": "Sedan"
+  },
+  {
+    "id": "innocenti-mini-turbo-de-tomaso-nuova-mini-serie-2-daihatsu",
+    "name": "Mini Turbo De Tomaso Nuova Mini Serie 2 (Daihatsu)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-minidiesel-nuova-mini-serie-2-daihatsu",
+    "name": "Minidiesel Nuova Mini Serie 2 (Daihatsu)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-minitre-nuova-mini-serie-2-daihatsu",
+    "name": "Minitre Nuova Mini Serie 2 (Daihatsu)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-regent-regent-allegro",
+    "name": "Regent (Allegro)",
+    "type": "Sedan"
+  },
+  {
+    "id": "innocenti-small-500-small-nuova-mini-era-fiat",
+    "name": "Small 500 Small (Nuova Mini, era Fiat)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "innocenti-small-990-small-nuova-mini-era-fiat",
+    "name": "Small 990 Small (Nuova Mini, era Fiat)",
+    "type": "Hatchback"
+  }
+]

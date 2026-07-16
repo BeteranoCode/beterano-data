@@ -1,0 +1,80 @@
+[
+  {
+    "key": "sedan",
+    "name": "Sedan",
+    "kind": "car",
+    "count": 2586
+  },
+  {
+    "key": "coupe",
+    "name": "Coupe",
+    "kind": "car",
+    "count": 1073
+  },
+  {
+    "key": "hatchback",
+    "name": "Hatchback",
+    "kind": "car",
+    "count": 443
+  },
+  {
+    "key": "roadster",
+    "name": "Roadster",
+    "kind": "car",
+    "count": 352
+  },
+  {
+    "key": "camion",
+    "name": "Camion",
+    "kind": "car",
+    "count": 337
+  },
+  {
+    "key": "van",
+    "name": "Van",
+    "kind": "car",
+    "count": 234
+  },
+  {
+    "key": "wagon",
+    "name": "Wagon",
+    "kind": "car",
+    "count": 221
+  },
+  {
+    "key": "cabrio",
+    "name": "Cabrio",
+    "kind": "car",
+    "count": 216
+  },
+  {
+    "key": "suv",
+    "name": "SUV",
+    "kind": "car",
+    "count": 204
+  },
+  {
+    "key": "pickup",
+    "name": "Pickup",
+    "kind": "car",
+    "count": 145
+  },
+  {
+    "key": "bus",
+    "name": "Bus",
+    "kind": "car",
+    "count": 144
+  },
+  {
+    "key": "microcar",
+    "name": "Microcar",
+    "kind": "car",
+    "count": 83
+  },
+  {
+    "key": "spider",
+    "name": "Spider",
+    "kind": "car",
+    "count": 59
+  }
+]

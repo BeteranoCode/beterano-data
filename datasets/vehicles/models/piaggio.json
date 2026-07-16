@@ -1,0 +1,22 @@
+[
+  {
+    "id": "piaggio-ape-ape-a",
+    "name": "Ape A",
+    "type": "Van"
+  },
+  {
+    "id": "piaggio-ape-ape-b",
+    "name": "Ape B",
+    "type": "Van"
+  },
+  {
+    "id": "piaggio-ape-ape-c",
+    "name": "Ape C",
+    "type": "Van"
+  },
+  {
+    "id": "piaggio-ape-ape-d",
+    "name": "Ape D",
+    "type": "Van"
+  }
+]

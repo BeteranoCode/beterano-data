@@ -1,0 +1,327 @@
+[
+  {
+    "id": "datsun-200sx-s10-silvia",
+    "name": "200SX S10 (Silvia)",
+    "type": "Coupe"
+  },
+  {
+    "id": "datsun-200sx-s110",
+    "name": "200SX S110",
+    "type": "Coupe"
+  },
+  {
+    "id": "datsun-240c-cedric-230",
+    "name": "240C Cedric 230",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-240k-gt-skyline-c110",
+    "name": "240K GT Skyline C110",
+    "type": "Coupe"
+  },
+  {
+    "id": "datsun-240k-skyline-c110",
+    "name": "240K Skyline C110",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-240k-skyline-c210",
+    "name": "240K Skyline C210",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-240z-s30",
+    "name": "240Z S30",
+    "type": "Coupe"
+  },
+  {
+    "id": "datsun-260c-280c-cedric-330",
+    "name": "260C / 280C Cedric 330",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-260c-cedric-230",
+    "name": "260C Cedric 230",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-260z-s30-rs30",
+    "name": "260Z S30 (RS30)",
+    "type": "Coupe"
+  },
+  {
+    "id": "datsun-280c-cedric-430",
+    "name": "280C Cedric 430",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-280c-wagon-cedric-430",
+    "name": "280C Wagon Cedric 430",
+    "type": "Wagon"
+  },
+  {
+    "id": "datsun-280z-s30",
+    "name": "280Z S30",
+    "type": "Coupe"
+  },
+  {
+    "id": "datsun-280zx-s130",
+    "name": "280ZX S130",
+    "type": "Coupe"
+  },
+  {
+    "id": "datsun-280zx-turbo-s130",
+    "name": "280ZX Turbo S130",
+    "type": "Coupe"
+  },
+  {
+    "id": "datsun-310-n10-usa",
+    "name": "310 N10 (USA)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "datsun-610-180b-bluebird-610",
+    "name": "610 / 180B Bluebird 610",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-610-180b-bluebird-610-coupe",
+    "name": "610 / 180B Bluebird 610 Coupe",
+    "type": "Coupe"
+  },
+  {
+    "id": "datsun-710-710-usa",
+    "name": "710 (USA)",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-710-violet-710",
+    "name": "710 / Violet",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-810-200b-bluebird-810",
+    "name": "810 / 200B Bluebird 810",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-810-200b-bluebird-810-wagon",
+    "name": "810 / 200B Bluebird 810 Wagon",
+    "type": "Wagon"
+  },
+  {
+    "id": "datsun-810-maxima-maxima-910",
+    "name": "810 Maxima Maxima 910",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-bluebird-bluebird-310",
+    "name": "Bluebird 310",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-bluebird-bluebird-410-411",
+    "name": "Bluebird 410/411",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-bluebird-bluebird-411",
+    "name": "Bluebird 411",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-510-bluebird-510",
+    "name": "Bluebird 510",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-510-bluebird-510-p510",
+    "name": "Bluebird 510 (P510)",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-510-bluebird-510-coupe-kp510",
+    "name": "Bluebird 510 Coupe (KP510)",
+    "type": "Coupe"
+  },
+  {
+    "id": "datsun-510-bluebird-510-wagon-wp510",
+    "name": "Bluebird 510 Wagon (WP510)",
+    "type": "Wagon"
+  },
+  {
+    "id": "datsun-610-bluebird-610-usa",
+    "name": "Bluebird 610 (USA)",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-810-bluebird-810-usa-six",
+    "name": "Bluebird 810 (USA six)",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-bluebird-910-bluebird-910",
+    "name": "Bluebird 910",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-bluebird-910-200b-bluebird-910",
+    "name": "Bluebird 910 / 200B",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-cherry-100a-e10",
+    "name": "Cherry 100A E10",
+    "type": "Hatchback"
+  },
+  {
+    "id": "datsun-cherry-120a-e10",
+    "name": "Cherry 120A E10",
+    "type": "Hatchback"
+  },
+  {
+    "id": "datsun-cherry-f-ii-f10-f10",
+    "name": "Cherry F-II / F10",
+    "type": "Hatchback"
+  },
+  {
+    "id": "datsun-cherry-n10",
+    "name": "Cherry N10",
+    "type": "Hatchback"
+  },
+  {
+    "id": "datsun-f10-f10-usa",
+    "name": "F10 (USA)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "datsun-fairlady-1500-sp310-spl310",
+    "name": "Fairlady 1500 SP310 / SPL310",
+    "type": "Roadster"
+  },
+  {
+    "id": "datsun-fairlady-1600-sports-1600-sp311-spl311",
+    "name": "Fairlady 1600 / Sports 1600 SP311 / SPL311",
+    "type": "Roadster"
+  },
+  {
+    "id": "datsun-fairlady-2000-sports-2000-sr311-srl311",
+    "name": "Fairlady 2000 / Sports 2000 SR311 / SRL311",
+    "type": "Roadster"
+  },
+  {
+    "id": "datsun-laurel-200l-c230",
+    "name": "Laurel 200L C230",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-laurel-240l-c230",
+    "name": "Laurel 240L C230",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-patrol-160-series",
+    "name": "Patrol 160 Series",
+    "type": "SUV"
+  },
+  {
+    "id": "datsun-patrol-60-series-g60",
+    "name": "Patrol 60 Series (G60)",
+    "type": "SUV"
+  },
+  {
+    "id": "datsun-sentra-b11",
+    "name": "Sentra B11",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-stanza-t11",
+    "name": "Stanza T11",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-sunny-1000-b10",
+    "name": "Sunny 1000 B10",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-sunny-1200-b110",
+    "name": "Sunny 1200 B110",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-sunny-1200-coupe-b110-kb110",
+    "name": "Sunny 1200 Coupe B110 (KB110)",
+    "type": "Coupe"
+  },
+  {
+    "id": "datsun-sunny-120y-b210-b210",
+    "name": "Sunny 120Y / B210",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-sunny-140y-b210-b210",
+    "name": "Sunny 140Y / B210",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-sunny-210-120y-b310",
+    "name": "Sunny 210 / 120Y B310",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-sunny-210-140y-b310",
+    "name": "Sunny 210 / 140Y B310",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-sunny-210-wagon-b310",
+    "name": "Sunny 210 Wagon B310",
+    "type": "Wagon"
+  },
+  {
+    "id": "datsun-sunny-truck-b120",
+    "name": "Sunny Truck B120",
+    "type": "Pickup"
+  },
+  {
+    "id": "datsun-datsun-truck-320-320",
+    "name": "Truck 320",
+    "type": "Pickup"
+  },
+  {
+    "id": "datsun-datsun-truck-520-521-520-521",
+    "name": "Truck 520/521 520 / 521",
+    "type": "Pickup"
+  },
+  {
+    "id": "datsun-datsun-truck-521-521",
+    "name": "Truck 521",
+    "type": "Pickup"
+  },
+  {
+    "id": "datsun-datsun-truck-620-620",
+    "name": "Truck 620",
+    "type": "Pickup"
+  },
+  {
+    "id": "datsun-datsun-truck-720-720",
+    "name": "Truck 720",
+    "type": "Pickup"
+  },
+  {
+    "id": "datsun-violet-140j-a10",
+    "name": "Violet 140J A10",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-violet-160j-a10",
+    "name": "Violet 160J A10",
+    "type": "Sedan"
+  },
+  {
+    "id": "datsun-violet-160j-coupe-a10",
+    "name": "Violet 160J Coupe A10",
+    "type": "Coupe"
+  }
+]

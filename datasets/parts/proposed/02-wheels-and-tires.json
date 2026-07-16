@@ -1,0 +1,262 @@
+{
+  "systemKey": "wheels-and-tires",
+  "imageKey": "tires.png",
+  "labels": {
+    "en": "Wheels and tires",
+    "es": "Ruedas y neumáticos"
+  },
+  "groups": [
+    {
+      "groupKey": "wheels",
+      "labels": {
+        "en": "Wheels",
+        "es": "Llantas"
+      },
+      "categories": [
+        {
+          "categoryKey": "alloy-wheels",
+          "labels": {
+            "en": "Alloy wheels",
+            "es": "Llantas de aleación"
+          },
+          "elements": [
+            { "elementKey": "alloy-wheel",     "labels": { "en": "Alloy wheel (single)",  "es": "Llanta de aleación (unidad)" } },
+            { "elementKey": "alloy-wheel-set", "labels": { "en": "Alloy wheel set (4)",   "es": "Juego de llantas de aleación (4)" } }
+          ]
+        },
+        {
+          "categoryKey": "steel-wheels",
+          "labels": {
+            "en": "Steel wheels",
+            "es": "Llantas de acero"
+          },
+          "elements": [
+            { "elementKey": "steel-wheel",     "labels": { "en": "Steel wheel (single)",  "es": "Llanta de acero (unidad)" } },
+            { "elementKey": "steel-wheel-set", "labels": { "en": "Steel wheel set (4)",   "es": "Juego de llantas de acero (4)" } }
+          ]
+        },
+        {
+          "categoryKey": "spare-wheels",
+          "labels": {
+            "en": "Spare wheels",
+            "es": "Ruedas de repuesto"
+          },
+          "elements": [
+            { "elementKey": "spare-wheel-full-size",  "labels": { "en": "Full-size spare wheel",   "es": "Rueda de repuesto tamaño completo" } },
+            { "elementKey": "spare-wheel-space-saver","labels": { "en": "Space-saver spare wheel", "es": "Rueda de repuesto compacta (galleta)" } }
+          ]
+        },
+        {
+          "categoryKey": "hubcaps-and-trims",
+          "labels": {
+            "en": "Hubcaps and wheel trims",
+            "es": "Tapacubos y embellecedores"
+          },
+          "elements": [
+            { "elementKey": "hubcap",             "labels": { "en": "Hubcap",              "es": "Tapacubos"                 } },
+            { "elementKey": "wheel-center-cap",   "labels": { "en": "Wheel center cap",    "es": "Tapabuje / embellecedor central" } },
+            { "elementKey": "decorative-trim-ring","labels": { "en": "Decorative trim ring","es": "Embellecedor perimetral"  } }
+          ]
+        }
+      ]
+    },
+    {
+      "groupKey": "tires",
+      "labels": {
+        "en": "Tires",
+        "es": "Neumáticos"
+      },
+      "categories": [
+        {
+          "categoryKey": "summer-tires",
+          "labels": {
+            "en": "Summer tires",
+            "es": "Neumáticos de verano"
+          },
+          "elements": [
+            { "elementKey": "summer-tire",     "labels": { "en": "Summer tire (single)", "es": "Neumático de verano (unidad)" } },
+            { "elementKey": "summer-tire-set", "labels": { "en": "Summer tire set (4)",  "es": "Juego de neumáticos de verano (4)" } }
+          ]
+        },
+        {
+          "categoryKey": "winter-tires",
+          "labels": {
+            "en": "Winter tires",
+            "es": "Neumáticos de invierno"
+          },
+          "elements": [
+            { "elementKey": "winter-tire",         "labels": { "en": "Winter tire",         "es": "Neumático de invierno"     } },
+            { "elementKey": "studded-winter-tire", "labels": { "en": "Studded winter tire", "es": "Neumático de invierno con clavos" } },
+            { "elementKey": "winter-tire-set",     "labels": { "en": "Winter tire set (4)", "es": "Juego de neumáticos de invierno (4)" } }
+          ]
+        },
+        {
+          "categoryKey": "all-season-tires",
+          "labels": {
+            "en": "All-season tires",
+            "es": "Neumáticos todo tiempo"
+          },
+          "elements": [
+            { "elementKey": "all-season-tire",     "labels": { "en": "All-season tire",     "es": "Neumático todo tiempo" } },
+            { "elementKey": "all-season-tire-set", "labels": { "en": "All-season tire set (4)","es": "Juego de neumáticos todo tiempo (4)" } }
+          ]
+        },
+        {
+          "categoryKey": "off-road-tires",
+          "labels": {
+            "en": "Off-road tires",
+            "es": "Neumáticos todoterreno"
+          },
+          "elements": [
+            { "elementKey": "all-terrain-tire", "labels": { "en": "All-terrain (AT) tire", "es": "Neumático all-terrain (AT)"   } },
+            { "elementKey": "mud-terrain-tire", "labels": { "en": "Mud-terrain (MT) tire", "es": "Neumático mud-terrain (MT)"   } },
+            { "elementKey": "sand-tire",        "labels": { "en": "Sand tire",             "es": "Neumático para arena"        } }
+          ]
+        },
+        {
+          "categoryKey": "specialty-tires",
+          "labels": {
+            "en": "Specialty tires",
+            "es": "Neumáticos especiales"
+          },
+          "elements": [
+            { "elementKey": "run-flat-tire",    "labels": { "en": "Run-flat tire",    "es": "Neumático run-flat"      } },
+            { "elementKey": "low-profile-tire", "labels": { "en": "Low-profile tire", "es": "Neumático de perfil bajo" } },
+            { "elementKey": "trailer-tire",     "labels": { "en": "Trailer tire",     "es": "Neumático de remolque"   } }
+          ]
+        }
+      ]
+    },
+    {
+      "groupKey": "hubs-and-bearings",
+      "labels": {
+        "en": "Hubs and bearings",
+        "es": "Bujes y rodamientos"
+      },
+      "categories": [
+        {
+          "categoryKey": "wheel-hubs",
+          "labels": {
+            "en": "Wheel hubs",
+            "es": "Bujes de rueda"
+          },
+          "elements": [
+            { "elementKey": "front-wheel-hub",            "labels": { "en": "Front wheel hub",              "es": "Buje de rueda delantero"        } },
+            { "elementKey": "rear-wheel-hub",             "labels": { "en": "Rear wheel hub",               "es": "Buje de rueda trasero"          } },
+            { "elementKey": "wheel-hub-assembly-bearing", "labels": { "en": "Wheel hub assembly with bearing","es": "Buje de rueda con rodamiento" } }
+          ]
+        },
+        {
+          "categoryKey": "wheel-bearings",
+          "labels": {
+            "en": "Wheel bearings",
+            "es": "Rodamientos de rueda"
+          },
+          "elements": [
+            { "elementKey": "front-wheel-bearing",   "labels": { "en": "Front wheel bearing",   "es": "Rodamiento de rueda delantero" } },
+            { "elementKey": "rear-wheel-bearing",    "labels": { "en": "Rear wheel bearing",    "es": "Rodamiento de rueda trasero"   } },
+            { "elementKey": "wheel-bearing-kit",     "labels": { "en": "Wheel bearing kit",     "es": "Kit de rodamiento de rueda"    } }
+          ]
+        },
+        {
+          "categoryKey": "hub-seals-and-caps",
+          "labels": {
+            "en": "Hub seals and caps",
+            "es": "Retenes y tapas de buje"
+          },
+          "elements": [
+            { "elementKey": "hub-oil-seal", "labels": { "en": "Hub oil seal", "es": "Retén de buje"    } },
+            { "elementKey": "hub-dust-cap", "labels": { "en": "Hub dust cap", "es": "Tapa guardapolvo del buje" } }
+          ]
+        }
+      ]
+    },
+    {
+      "groupKey": "wheel-hardware-and-valves",
+      "labels": {
+        "en": "Wheel hardware and valves",
+        "es": "Tornillería y valvulería de rueda"
+      },
+      "categories": [
+        {
+          "categoryKey": "lug-nuts-and-bolts",
+          "labels": {
+            "en": "Lug nuts and bolts",
+            "es": "Tuercas y espárragos de rueda"
+          },
+          "elements": [
+            { "elementKey": "standard-lug-nut", "labels": { "en": "Standard lug nut",   "es": "Tuerca de rueda estándar"     } },
+            { "elementKey": "tuner-lug-nut",    "labels": { "en": "Tuner lug nut",      "es": "Tuerca de rueda tipo tuner"   } },
+            { "elementKey": "wheel-lug-bolt",   "labels": { "en": "Wheel lug bolt",     "es": "Espárrago de rueda"           } },
+            { "elementKey": "wheel-stud",       "labels": { "en": "Wheel stud",         "es": "Bulón de rueda"               } }
+          ]
+        },
+        {
+          "categoryKey": "anti-theft-hardware",
+          "labels": {
+            "en": "Anti-theft hardware",
+            "es": "Herrajes antirrobo"
+          },
+          "elements": [
+            { "elementKey": "anti-theft-lug-nut-set", "labels": { "en": "Anti-theft lug nut set", "es": "Juego de tuercas antirrobo" } },
+            { "elementKey": "lock-key-adapter",       "labels": { "en": "Lock key adapter",       "es": "Llave/adaptador antirrobo"   } }
+          ]
+        },
+        {
+          "categoryKey": "valves-and-tpms",
+          "labels": {
+            "en": "Valves and TPMS",
+            "es": "Válvulas y TPMS"
+          },
+          "elements": [
+            { "elementKey": "tire-valve-stem",  "labels": { "en": "Tire valve stem",   "es": "Válvula de neumático"        } },
+            { "elementKey": "tpms-sensor",      "labels": { "en": "TPMS sensor",       "es": "Sensor TPMS"                 } },
+            { "elementKey": "tpms-service-kit", "labels": { "en": "TPMS service kit",  "es": "Kit de mantenimiento TPMS"   } },
+            { "elementKey": "valve-cap",        "labels": { "en": "Valve cap",         "es": "Tapa de válvula"             } }
+          ]
+        }
+      ]
+    },
+    {
+      "groupKey": "wheel-accessories",
+      "labels": {
+        "en": "Wheel accessories",
+        "es": "Accesorios de rueda"
+      },
+      "categories": [
+        {
+          "categoryKey": "spacers-and-adapters",
+          "labels": {
+            "en": "Spacers and adapters",
+            "es": "Separadores y adaptadores"
+          },
+          "elements": [
+            { "elementKey": "wheel-spacer",     "labels": { "en": "Wheel spacer",     "es": "Separador de rueda"     } },
+            { "elementKey": "pcd-hub-adapter",  "labels": { "en": "PCD hub adapter",  "es": "Adaptador PCD"          } }
+          ]
+        },
+        {
+          "categoryKey": "centering-rings",
+          "labels": {
+            "en": "Centering rings",
+            "es": "Anillos centradores"
+          },
+          "elements": [
+            { "elementKey": "hub-centering-ring", "labels": { "en": "Hub centering ring", "es": "Anillo centrador del buje" } }
+          ]
+        },
+        {
+          "categoryKey": "spare-tire-carriers",
+          "labels": {
+            "en": "Spare tire carriers",
+            "es": "Portarruedas de repuesto"
+          },
+          "elements": [
+            { "elementKey": "spare-tire-carrier",       "labels": { "en": "Spare tire carrier",       "es": "Portarrueda de repuesto"       } },
+            { "elementKey": "spare-tire-cover",         "labels": { "en": "Spare tire cover",         "es": "Funda de rueda de repuesto"    } }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "bandini-1100-la-prima-1100-46",
+    "name": "\"La Prima\" 1100/46",
+    "type": "Roadster"
+  },
+  {
+    "id": "bandini-1000-gt-1000-gt",
+    "name": "1000 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "bandini-1000-p-1000-62-p",
+    "name": "1000 P 1000/62 P",
+    "type": "Roadster"
+  },
+  {
+    "id": "bandini-1000-saloncino-1000-saloncino",
+    "name": "1000 Saloncino",
+    "type": "Coupe"
+  },
+  {
+    "id": "bandini-1000-sp-1000-sp-mille-sp",
+    "name": "1000 SP (Mille S.P.)",
+    "type": "Roadster"
+  },
+  {
+    "id": "bandini-1000-sport-1000-66-sport",
+    "name": "1000 Sport 1000/66 Sport",
+    "type": "Roadster"
+  },
+  {
+    "id": "bandini-1000-turbo-1000-turbo-berlinetta",
+    "name": "1000 Turbo Berlinetta",
+    "type": "Coupe"
+  },
+  {
+    "id": "bandini-1000-v-1000-70-v",
+    "name": "1000 V 1000/70 V",
+    "type": "Roadster"
+  },
+  {
+    "id": "bandini-1100-siluro-1100-siluro",
+    "name": "1100 Siluro",
+    "type": "Roadster"
+  },
+  {
+    "id": "bandini-1100-sport-1100-sport",
+    "name": "1100 Sport",
+    "type": "Roadster"
+  },
+  {
+    "id": "bandini-1300-prototipo-1300-16v-iniezione",
+    "name": "1300 Prototipo 1300 16V Iniezione",
+    "type": "Roadster"
+  },
+  {
+    "id": "bandini-750-gt-veloce-750-gt-veloce-zagato",
+    "name": "750 GT Veloce Zagato",
+    "type": "Coupe"
+  },
+  {
+    "id": "bandini-750-sport-internazionale-750-sport-internazionale-saponetta",
+    "name": "750 Sport Internazionale \"Saponetta\"",
+    "type": "Roadster"
+  },
+  {
+    "id": "bandini-750-sport-siluro-750-sport-siluro",
+    "name": "750 Sport Siluro",
+    "type": "Roadster"
+  },
+  {
+    "id": "bandini-bandini-maserati-1500-bandini-maserati-1500",
+    "name": "Bandini-Maserati 1500",
+    "type": "Roadster"
+  },
+  {
+    "id": "bandini-formula-3-formula-3-500",
+    "name": "Formula 3 500",
+    "type": "Roadster"
+  },
+  {
+    "id": "bandini-formula-junior-formula-junior",
+    "name": "Formula Junior",
+    "type": "Roadster"
+  }
+]

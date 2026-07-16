@@ -1,0 +1,142 @@
+[
+  {
+    "id": "bristol-406-zagato-type-406s-zagato",
+    "name": "406 Zagato Type 406S (Zagato)",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-beaufighter-beaufighter-base-412",
+    "name": "Beaufighter (base 412)",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-beaufort-beaufort-base-412",
+    "name": "Beaufort (base 412)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "bristol-blenheim-blenheim-series-1",
+    "name": "Blenheim Series 1",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-blenheim-blenheim-series-2",
+    "name": "Blenheim Series 2",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-400-type-400",
+    "name": "Type 400",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-401-type-401",
+    "name": "Type 401",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-402-type-402",
+    "name": "Type 402",
+    "type": "Cabrio"
+  },
+  {
+    "id": "bristol-403-type-403",
+    "name": "Type 403",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-404-type-404",
+    "name": "Type 404",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-405-type-405",
+    "name": "Type 405",
+    "type": "Sedan"
+  },
+  {
+    "id": "bristol-406-type-406",
+    "name": "Type 406",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-407-type-407",
+    "name": "Type 407",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-408-type-408-mk-i",
+    "name": "Type 408 Mk I",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-408-type-408-mk-ii",
+    "name": "Type 408 Mk II",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-409-type-409",
+    "name": "Type 409",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-410-type-410",
+    "name": "Type 410",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-411-type-411-series-1",
+    "name": "Type 411 Series 1",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-411-type-411-series-2",
+    "name": "Type 411 Series 2",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-411-type-411-series-3",
+    "name": "Type 411 Series 3",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-411-type-411-series-4",
+    "name": "Type 411 Series 4",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-411-type-411-series-5",
+    "name": "Type 411 Series 5",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-412-type-412-series-1",
+    "name": "Type 412 Series 1",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-412-type-412-series-2",
+    "name": "Type 412 Series 2",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-603-type-603-series-1",
+    "name": "Type 603 Series 1",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-603-type-603-series-2",
+    "name": "Type 603 Series 2",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-brigand-type-603-series-3-brigand",
+    "name": "Type 603 Series 3 (Brigand)",
+    "type": "Coupe"
+  },
+  {
+    "id": "bristol-britannia-type-603-series-3-britannia",
+    "name": "Type 603 Series 3 (Britannia)",
+    "type": "Coupe"
+  }
+]

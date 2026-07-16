@@ -1,0 +1,27 @@
+[
+  {
+    "id": "adler-m-100-m-100",
+    "name": "M 100",
+    "type": "Naked"
+  },
+  {
+    "id": "adler-m-200-m-200",
+    "name": "M 200",
+    "type": "Naked"
+  },
+  {
+    "id": "adler-m-250-m-250",
+    "name": "M 250",
+    "type": "Naked"
+  },
+  {
+    "id": "adler-mb-200-mb-200",
+    "name": "MB 200",
+    "type": "Naked"
+  },
+  {
+    "id": "adler-mb-250-mb-250",
+    "name": "MB 250",
+    "type": "Naked"
+  }
+]

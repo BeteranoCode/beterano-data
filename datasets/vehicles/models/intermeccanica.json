@@ -1,0 +1,72 @@
+[
+  {
+    "id": "intermeccanica-356-speedster-speedster-santa-ana",
+    "name": "356 Speedster Speedster (Santa Ana)",
+    "type": "Roadster"
+  },
+  {
+    "id": "intermeccanica-apollo-gt-apollo-3500-gt",
+    "name": "Apollo GT Apollo 3500 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "intermeccanica-apollo-gt-apollo-5000-gt",
+    "name": "Apollo GT Apollo 5000 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "intermeccanica-griffith-gt-griffith-600-gt",
+    "name": "Griffith GT Griffith 600 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "intermeccanica-imp-700-gt-imp-intermeccanica-puch",
+    "name": "IMP 700 GT IMP (Intermeccanica-Puch)",
+    "type": "Coupe"
+  },
+  {
+    "id": "intermeccanica-indra-indra-convertible",
+    "name": "Indra Convertible",
+    "type": "Cabrio"
+  },
+  {
+    "id": "intermeccanica-indra-indra-coup",
+    "name": "Indra Coupé",
+    "type": "Coupe"
+  },
+  {
+    "id": "intermeccanica-italia-italia-289",
+    "name": "Italia (289)",
+    "type": "Spider"
+  },
+  {
+    "id": "intermeccanica-italia-italia-302",
+    "name": "Italia (302)",
+    "type": "Spider"
+  },
+  {
+    "id": "intermeccanica-italia-italia-351",
+    "name": "Italia (351)",
+    "type": "Spider"
+  },
+  {
+    "id": "intermeccanica-murena-429-gt-murena-429-gt",
+    "name": "Murena 429 GT",
+    "type": "Wagon"
+  },
+  {
+    "id": "intermeccanica-omega-omega-gt",
+    "name": "Omega GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "intermeccanica-squire-ss100-squire-ss100",
+    "name": "Squire SS100",
+    "type": "Roadster"
+  },
+  {
+    "id": "intermeccanica-torino-torino-pre-italia",
+    "name": "Torino (pre-Italia)",
+    "type": "Coupe"
+  }
+]

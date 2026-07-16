@@ -1,0 +1,27 @@
+[
+  {
+    "id": "wartburg-13-wartburg-13",
+    "name": "Wartburg 1.3",
+    "type": "Sedan"
+  },
+  {
+    "id": "wartburg-311-wartburg-311",
+    "name": "Wartburg 311",
+    "type": "Sedan"
+  },
+  {
+    "id": "wartburg-312-wartburg-312",
+    "name": "Wartburg 312",
+    "type": "Sedan"
+  },
+  {
+    "id": "wartburg-313-wartburg-313",
+    "name": "Wartburg 313",
+    "type": "Roadster"
+  },
+  {
+    "id": "wartburg-353-wartburg-353-knight",
+    "name": "Wartburg 353 (Knight)",
+    "type": "Sedan"
+  }
+]

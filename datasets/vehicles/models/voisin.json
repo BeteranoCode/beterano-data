@@ -1,0 +1,107 @@
+[
+  {
+    "id": "voisin-c1-c1",
+    "name": "C1",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c11-c11",
+    "name": "C11",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c12-c12",
+    "name": "C12",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c14-c14",
+    "name": "C14",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c15-c15",
+    "name": "C15",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c16-c16",
+    "name": "C16",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c18-c18",
+    "name": "C18",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c20-c20",
+    "name": "C20",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c23-c23",
+    "name": "C23",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c24-c24",
+    "name": "C24",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c25-c25",
+    "name": "C25",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c26-c26",
+    "name": "C26",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c27-c27",
+    "name": "C27",
+    "type": "Coupe"
+  },
+  {
+    "id": "voisin-c28-c28",
+    "name": "C28",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c3-c3",
+    "name": "C3",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c30-c30",
+    "name": "C30",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c31-biscooter-c31",
+    "name": "C31 Biscooter",
+    "type": "Microcar"
+  },
+  {
+    "id": "voisin-c4-c4",
+    "name": "C4",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c4-c4-s",
+    "name": "C4 S",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c5-c5",
+    "name": "C5",
+    "type": "Sedan"
+  },
+  {
+    "id": "voisin-c7-c7",
+    "name": "C7",
+    "type": "Sedan"
+  }
+]

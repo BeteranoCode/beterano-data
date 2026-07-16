@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bizzarrini-1900-gt-europa-gt-europa-1900",
+    "name": "1900 GT Europa GT Europa 1900",
+    "type": "Coupe"
+  },
+  {
+    "id": "bizzarrini-5300-gt-5300-gt-america",
+    "name": "5300 GT America",
+    "type": "Coupe"
+  },
+  {
+    "id": "bizzarrini-5300-gt-5300-gt-corsa",
+    "name": "5300 GT Corsa",
+    "type": "Coupe"
+  },
+  {
+    "id": "bizzarrini-5300-gt-5300-gt-si-spyder",
+    "name": "5300 GT S.I. Spyder",
+    "type": "Spider"
+  },
+  {
+    "id": "bizzarrini-5300-gt-5300-gt-strada",
+    "name": "5300 GT Strada",
+    "type": "Coupe"
+  },
+  {
+    "id": "bizzarrini-p538-p538s",
+    "name": "P538S",
+    "type": "Roadster"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "rambler-ambassador-1-gen-1958-1959",
+    "name": "Ambassador 1ª gen (1958-1959)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-ambassador-2-gen-1960-1961",
+    "name": "Ambassador 2ª gen (1960-1961)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-ambassador-3-gen-1962",
+    "name": "Ambassador 3ª gen (1962)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-ambassador-4-gen-1963-1964",
+    "name": "Ambassador 4ª gen (1963-1964)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-ambassador-5-gen-1965-ultimo-con-badge-rambler",
+    "name": "Ambassador 5ª gen (1965, ultimo con badge Rambler)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-american-1-gen-1958-1960",
+    "name": "American 1ª gen (1958-1960)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-american-2-gen-1961-1963",
+    "name": "American 2ª gen (1961-1963)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-american-3-gen-1964-1969",
+    "name": "American 3ª gen (1964-1969)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-classic-1-gen-1961-1962",
+    "name": "Classic 1ª gen (1961-1962)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-classic-2-gen-1963-1964",
+    "name": "Classic 2ª gen (1963-1964)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-classic-3-gen-1965-1966",
+    "name": "Classic 3ª gen (1965-1966)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-rambler-nash-rambler-1-gen",
+    "name": "Nash Rambler (1ª gen)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "rambler-hornet-rambler-hornet-australia-ami",
+    "name": "Rambler Hornet (Australia, AMI)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-marlin-rambler-marlin-1965",
+    "name": "Rambler Marlin (1965)",
+    "type": "Coupe"
+  },
+  {
+    "id": "rambler-rebel-rambler-rebel-1967",
+    "name": "Rambler Rebel (1967)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-rebel-rambler-rebel-australia-ami",
+    "name": "Rambler Rebel (Australia, AMI)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-rebel-rebel-1957-4-door-hardtop",
+    "name": "Rebel 1957 (4-door hardtop)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-rambler-six-serie-1956-1960",
+    "name": "Six Serie 1956-1960",
+    "type": "Sedan"
+  },
+  {
+    "id": "rambler-rambler-v8-serie-1957-1960",
+    "name": "V8 Serie 1957-1960",
+    "type": "Sedan"
+  }
+]

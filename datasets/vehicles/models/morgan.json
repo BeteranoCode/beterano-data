@@ -1,0 +1,57 @@
+[
+  {
+    "id": "morgan-3-wheeler-f-series",
+    "name": "3-Wheeler F-Series",
+    "type": "Microcar"
+  },
+  {
+    "id": "morgan-3-wheeler-v-twin",
+    "name": "3-Wheeler V-Twin",
+    "type": "Microcar"
+  },
+  {
+    "id": "morgan-4-4-4-4-1600",
+    "name": "4/4 1600",
+    "type": "Roadster"
+  },
+  {
+    "id": "morgan-4-4-series-i",
+    "name": "4/4 Series I",
+    "type": "Roadster"
+  },
+  {
+    "id": "morgan-4-4-series-ii",
+    "name": "4/4 Series II",
+    "type": "Roadster"
+  },
+  {
+    "id": "morgan-4-4-series-iii",
+    "name": "4/4 Series III",
+    "type": "Roadster"
+  },
+  {
+    "id": "morgan-4-4-series-iv",
+    "name": "4/4 Series IV",
+    "type": "Roadster"
+  },
+  {
+    "id": "morgan-4-4-series-v",
+    "name": "4/4 Series V",
+    "type": "Roadster"
+  },
+  {
+    "id": "morgan-plus-4-1a-serie-1950-1969",
+    "name": "Plus 4 1a serie (1950-1969)",
+    "type": "Roadster"
+  },
+  {
+    "id": "morgan-plus-4-2a-serie-1985-2000",
+    "name": "Plus 4 2a serie (1985-2000)",
+    "type": "Roadster"
+  },
+  {
+    "id": "morgan-plus-4-plus-plus-4-plus",
+    "name": "Plus 4 Plus",
+    "type": "Coupe"
+  }
+]

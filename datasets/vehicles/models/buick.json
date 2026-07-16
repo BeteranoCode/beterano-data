@@ -1,0 +1,157 @@
+[
+  {
+    "id": "buick-centurion-centurion-1971-1973",
+    "name": "Centurion (1971-1973)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-century-century-fwd-a-body-1982-1996",
+    "name": "Century FWD A-body (1982-1996)",
+    "type": "Sedan"
+  },
+  {
+    "id": "buick-electra-electra-6a-gen-fwd-c-body-1985-1990",
+    "name": "Electra 6a gen FWD C-body (1985-1990)",
+    "type": "Sedan"
+  },
+  {
+    "id": "buick-estate-wagon-estate-wagon-rwd-1977-1990",
+    "name": "Estate Wagon RWD (1977-1990)",
+    "type": "Wagon"
+  },
+  {
+    "id": "buick-gran-sport-gran-sport-gs-1965-1972",
+    "name": "Gran Sport / GS (1965-1972)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-gran-sport-gsx-1970-1972",
+    "name": "Gran Sport GSX (1970-1972)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-invicta-invicta-1959-1963",
+    "name": "Invicta (1959-1963)",
+    "type": "Sedan"
+  },
+  {
+    "id": "buick-lesabre-lesabre-6a-gen-h-body-1986-1991",
+    "name": "LeSabre 6a gen H-body (1986-1991)",
+    "type": "Sedan"
+  },
+  {
+    "id": "buick-lesabre-lesabre-7a-gen-1992-1999",
+    "name": "LeSabre 7a gen (1992-1999)",
+    "type": "Sedan"
+  },
+  {
+    "id": "buick-park-avenue-park-avenue-1a-gen-1991-1996",
+    "name": "Park Avenue 1a gen (1991-1996)",
+    "type": "Sedan"
+  },
+  {
+    "id": "buick-reatta-reatta-1988-1991",
+    "name": "Reatta (1988-1991)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-reatta-reatta-convertible-1990-1991",
+    "name": "Reatta Convertible (1990-1991)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "buick-regal-regal-2a-gen-g-body-1978-1987",
+    "name": "Regal 2a gen G-body (1978-1987)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-regal-regal-3a-gen-w-body-1988-1996",
+    "name": "Regal 3a gen W-body (1988-1996)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-regal-regal-gnx-1987",
+    "name": "Regal GNX (1987)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-riviera-riviera-1a-gen-1963-1965",
+    "name": "Riviera 1a gen (1963-1965)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-riviera-riviera-2a-gen-1966-1970",
+    "name": "Riviera 2a gen (1966-1970)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-riviera-riviera-3a-gen-boattail-1971-1973",
+    "name": "Riviera 3a gen Boattail (1971-1973)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-riviera-riviera-4a-gen-1974-1976",
+    "name": "Riviera 4a gen (1974-1976)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-riviera-riviera-5a-gen-1977-1978",
+    "name": "Riviera 5a gen (1977-1978)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-riviera-riviera-6a-gen-1979-1985",
+    "name": "Riviera 6a gen (1979-1985)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-riviera-riviera-7a-gen-1986-1993",
+    "name": "Riviera 7a gen (1986-1993)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-riviera-riviera-8a-gen-1995-1999",
+    "name": "Riviera 8a gen (1995-1999)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-roadmaster-roadmaster-1991-1996",
+    "name": "Roadmaster (1991-1996)",
+    "type": "Wagon"
+  },
+  {
+    "id": "buick-roadmaster-roadmaster-1992-1996",
+    "name": "Roadmaster (1992-1996)",
+    "type": "Sedan"
+  },
+  {
+    "id": "buick-skyhawk-skyhawk-2a-gen-j-body-1982-1989",
+    "name": "Skyhawk 2a gen J-body (1982-1989)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-skylark-skylark-4a-gen-x-body-1980-1985",
+    "name": "Skylark 4a gen X-body (1980-1985)",
+    "type": "Sedan"
+  },
+  {
+    "id": "buick-skylark-skylark-5a-gen-n-body-1986-1991",
+    "name": "Skylark 5a gen N-body (1986-1991)",
+    "type": "Sedan"
+  },
+  {
+    "id": "buick-skylark-skylark-6a-gen-n-body-1992-1998",
+    "name": "Skylark 6a gen N-body (1992-1998)",
+    "type": "Sedan"
+  },
+  {
+    "id": "buick-somerset-somerset-n-body-1985-1987",
+    "name": "Somerset N-body (1985-1987)",
+    "type": "Coupe"
+  },
+  {
+    "id": "buick-wildcat-wildcat-1963-1970",
+    "name": "Wildcat (1963-1970)",
+    "type": "Coupe"
+  }
+]

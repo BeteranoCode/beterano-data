@@ -1,0 +1,62 @@
+[
+  {
+    "id": "hino-blue-ribbon-blue-ribbon-ht-hu22",
+    "name": "Blue Ribbon HT/HU22",
+    "type": "Bus"
+  },
+  {
+    "id": "hino-blue-ribbon-blue-ribbon-hu2m-u",
+    "name": "Blue Ribbon HU2M (U-)",
+    "type": "Bus"
+  },
+  {
+    "id": "hino-blue-ribbon-blue-ribbon-rt-ru22",
+    "name": "Blue Ribbon RT/RU22",
+    "type": "Bus"
+  },
+  {
+    "id": "hino-briska-briska-fg10",
+    "name": "Briska (FG10)",
+    "type": "Pickup"
+  },
+  {
+    "id": "hino-briska-briska-1300-fh100",
+    "name": "Briska 1300 (FH100)",
+    "type": "Pickup"
+  },
+  {
+    "id": "hino-contessa-contessa-1300-pd",
+    "name": "Contessa 1300 (PD)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hino-contessa-contessa-1300-coupe-pd",
+    "name": "Contessa 1300 Coupe (PD)",
+    "type": "Coupe"
+  },
+  {
+    "id": "hino-contessa-contessa-900-pc",
+    "name": "Contessa 900 (PC)",
+    "type": "Sedan"
+  },
+  {
+    "id": "hino-ranger-ranger-1a-gen-km",
+    "name": "Ranger 1a gen (KM)",
+    "type": "Camion"
+  },
+  {
+    "id": "hino-ranger-ranger-2a-gen-kl",
+    "name": "Ranger 2a gen (KL)",
+    "type": "Camion"
+  },
+  {
+    "id": "hino-ranger-ranger-day-cab",
+    "name": "Ranger Day Cab",
+    "type": "Camion"
+  },
+  {
+    "id": "hino-super-dolphin-super-dolphin-1a-gen",
+    "name": "Super Dolphin (1a gen)",
+    "type": "Camion"
+  }
+]

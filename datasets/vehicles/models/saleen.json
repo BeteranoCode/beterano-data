@@ -1,0 +1,32 @@
+[
+  {
+    "id": "saleen-saleen-mustang-fox-body-1984-1993",
+    "name": "Mustang Fox body (1984-1993)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "saleen-saleen-s351-sn-95",
+    "name": "S351 SN-95",
+    "type": "Coupe"
+  },
+  {
+    "id": "saleen-saleen-sa-10-fox-body",
+    "name": "SA-10 Fox body",
+    "type": "Hatchback"
+  },
+  {
+    "id": "saleen-saleen-sc-fox-body",
+    "name": "SC Fox body",
+    "type": "Hatchback"
+  },
+  {
+    "id": "saleen-saleen-sr-sn-95",
+    "name": "SR SN-95",
+    "type": "Coupe"
+  },
+  {
+    "id": "saleen-saleen-ssc-fox-body",
+    "name": "SSC Fox body",
+    "type": "Hatchback"
+  }
+]

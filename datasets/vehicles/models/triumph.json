@@ -1,0 +1,157 @@
+[
+  {
+    "id": "triumph-1300-1300-1300-tc",
+    "name": "1300 / 1300 TC",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-1500-1500-1500-tc",
+    "name": "1500 / 1500 TC",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-1800-2000-roadster-roadster",
+    "name": "1800/2000 Roadster",
+    "type": "Roadster"
+  },
+  {
+    "id": "triumph-2500-25-pi-2500-tc-s",
+    "name": "2.5 PI / 2500 TC-S",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-2000-mk1-mk2",
+    "name": "2000 Mk1 / Mk2",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-acclaim-acclaim",
+    "name": "Acclaim",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-courier-courier",
+    "name": "Courier",
+    "type": "Van"
+  },
+  {
+    "id": "triumph-dolomite-1300-1500",
+    "name": "Dolomite 1300 / 1500",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-dolomite-1850",
+    "name": "Dolomite 1850",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-dolomite-sprint",
+    "name": "Dolomite Sprint",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-gt6-mk1-mk2-mk3",
+    "name": "GT6 Mk1/Mk2/Mk3",
+    "type": "Coupe"
+  },
+  {
+    "id": "triumph-herald-1200-12-50-13-60",
+    "name": "Herald 1200 / 12-50 / 13-60",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-herald-948",
+    "name": "Herald 948",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-italia-italia-2000-gt",
+    "name": "Italia 2000 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "triumph-mayflower-mayflower",
+    "name": "Mayflower",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-renown-razoredge-tda-tdb-tdc",
+    "name": "Renown Razoredge (TDA/TDB/TDC)",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-spitfire-1500",
+    "name": "Spitfire 1500",
+    "type": "Cabrio"
+  },
+  {
+    "id": "triumph-spitfire-mk-i-mk-ii",
+    "name": "Spitfire Mk I / Mk II",
+    "type": "Cabrio"
+  },
+  {
+    "id": "triumph-spitfire-mk-iii",
+    "name": "Spitfire Mk III",
+    "type": "Cabrio"
+  },
+  {
+    "id": "triumph-spitfire-mk-iv",
+    "name": "Spitfire Mk IV",
+    "type": "Cabrio"
+  },
+  {
+    "id": "triumph-stag-stag",
+    "name": "Stag",
+    "type": "Cabrio"
+  },
+  {
+    "id": "triumph-toledo-toledo",
+    "name": "Toledo",
+    "type": "Sedan"
+  },
+  {
+    "id": "triumph-tr2-tr2",
+    "name": "TR2",
+    "type": "Roadster"
+  },
+  {
+    "id": "triumph-tr3-tr3-tr3a",
+    "name": "TR3 / TR3A",
+    "type": "Roadster"
+  },
+  {
+    "id": "triumph-tr4-tr4-tr4a",
+    "name": "TR4 / TR4A",
+    "type": "Roadster"
+  },
+  {
+    "id": "triumph-tr5-tr5-pi-tr250",
+    "name": "TR5 PI / TR250",
+    "type": "Roadster"
+  },
+  {
+    "id": "triumph-tr6-tr6",
+    "name": "TR6",
+    "type": "Roadster"
+  },
+  {
+    "id": "triumph-tr7-tr7",
+    "name": "TR7",
+    "type": "Coupe"
+  },
+  {
+    "id": "triumph-tr8-tr8",
+    "name": "TR8",
+    "type": "Coupe"
+  },
+  {
+    "id": "triumph-vitesse-2-litre-mk2",
+    "name": "Vitesse 2-litre / Mk2",
+    "type": "Cabrio"
+  },
+  {
+    "id": "triumph-vitesse-6-1600",
+    "name": "Vitesse 6 (1600)",
+    "type": "Cabrio"
+  }
+]

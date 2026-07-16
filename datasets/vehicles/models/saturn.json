@@ -1,0 +1,32 @@
+[
+  {
+    "id": "saturn-sc-s-series-1st-gen",
+    "name": "SC S-Series 1st Gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "saturn-sc-s-series-2nd-gen",
+    "name": "SC S-Series 2nd Gen",
+    "type": "Coupe"
+  },
+  {
+    "id": "saturn-sl-s-series-1st-gen",
+    "name": "SL S-Series 1st Gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "saturn-sl-s-series-2nd-gen",
+    "name": "SL S-Series 2nd Gen",
+    "type": "Sedan"
+  },
+  {
+    "id": "saturn-sw-s-series-1st-gen",
+    "name": "SW S-Series 1st Gen",
+    "type": "Wagon"
+  },
+  {
+    "id": "saturn-sw-s-series-2nd-gen",
+    "name": "SW S-Series 2nd Gen",
+    "type": "Wagon"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "scania-1-series-1-series-l-lb110-111",
+    "name": "1-series (L/LB110-111)",
+    "type": "Camion"
+  },
+  {
+    "id": "scania-1-series-1-series-l-lb140-141",
+    "name": "1-series (L/LB140-141)",
+    "type": "Camion"
+  },
+  {
+    "id": "scania-1-series-1-series-l-lb80-86",
+    "name": "1-series (L/LB80-86)",
+    "type": "Camion"
+  },
+  {
+    "id": "scania-2-series-2-series-112",
+    "name": "2-series (112)",
+    "type": "Camion"
+  },
+  {
+    "id": "scania-2-series-2-series-142",
+    "name": "2-series (142)",
+    "type": "Camion"
+  },
+  {
+    "id": "scania-2-series-2-series-82",
+    "name": "2-series (82)",
+    "type": "Camion"
+  },
+  {
+    "id": "scania-2-series-2-series-92",
+    "name": "2-series (92)",
+    "type": "Camion"
+  },
+  {
+    "id": "scania-3-series-3-series-113",
+    "name": "3-series (113)",
+    "type": "Camion"
+  },
+  {
+    "id": "scania-3-series-3-series-143",
+    "name": "3-series (143)",
+    "type": "Camion"
+  },
+  {
+    "id": "scania-3-series-3-series-93",
+    "name": "3-series (93)",
+    "type": "Camion"
+  },
+  {
+    "id": "scania-3-series-bus-3-series-k113-chasis",
+    "name": "3-series bus 3-series (K113 chasis)",
+    "type": "Bus"
+  },
+  {
+    "id": "scania-3-series-bus-3-series-n113-chasis",
+    "name": "3-series bus 3-series (N113 chasis)",
+    "type": "Bus"
+  }
+]

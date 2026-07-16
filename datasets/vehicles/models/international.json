@@ -1,0 +1,47 @@
+[
+  {
+    "id": "international-cargostar-cargostar-coe",
+    "name": "Cargostar (COE)",
+    "type": "Camion"
+  },
+  {
+    "id": "international-light-line-d-series-light-line",
+    "name": "D-Series (Light Line)",
+    "type": "Pickup"
+  },
+  {
+    "id": "international-fleetstar-fleetstar",
+    "name": "Fleetstar",
+    "type": "Camion"
+  },
+  {
+    "id": "international-loadstar-loadstar",
+    "name": "Loadstar",
+    "type": "Camion"
+  },
+  {
+    "id": "international-scout-scout-80",
+    "name": "Scout 80",
+    "type": "SUV"
+  },
+  {
+    "id": "international-scout-scout-800-800a-800b",
+    "name": "Scout 800/800A/800B",
+    "type": "SUV"
+  },
+  {
+    "id": "international-scout-scout-ii",
+    "name": "Scout II",
+    "type": "SUV"
+  },
+  {
+    "id": "international-travelall-1000-1200-final-gen",
+    "name": "Travelall 1000-1200 (final gen)",
+    "type": "SUV"
+  },
+  {
+    "id": "international-travelette-crew-cab-light-line",
+    "name": "Travelette Crew Cab (Light Line)",
+    "type": "Pickup"
+  }
+]

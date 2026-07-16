@@ -1,0 +1,27 @@
+[
+  {
+    "id": "parilla-atlante-175-atlante-3-ruedas",
+    "name": "Atlante 175 Atlante (3 ruedas)",
+    "type": "Camion"
+  },
+  {
+    "id": "parilla-bulldog-125-bulldog-3-ruedas-motor-sobre-rueda-delantera",
+    "name": "Bulldog 125 Bulldog (3 ruedas, motor sobre rueda delantera)",
+    "type": "Camion"
+  },
+  {
+    "id": "parilla-bulldog-150-bulldog-3-ruedas-chasis-tipo-mastino",
+    "name": "Bulldog 150 Bulldog (3 ruedas, chasis tipo Mastino)",
+    "type": "Camion"
+  },
+  {
+    "id": "parilla-mastino-250-mastino-3-ruedas",
+    "name": "Mastino 250 Mastino (3 ruedas)",
+    "type": "Camion"
+  },
+  {
+    "id": "parilla-motofurgone-250-motofurgone-3-ruedas",
+    "name": "Motofurgone 250 Motofurgone (3 ruedas)",
+    "type": "Camion"
+  }
+]

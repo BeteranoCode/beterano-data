@@ -1,0 +1,227 @@
+[
+  {
+    "id": "austin-1100-ado16",
+    "name": "1100 ADO16",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-1300-ado16",
+    "name": "1300 ADO16",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-princess-18-22-princess",
+    "name": "18-22 / Princess",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-1800-ado17-landcrab",
+    "name": "1800 ADO17 (Landcrab)",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-2200-ado17-landcrab",
+    "name": "2200 ADO17 (Landcrab)",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-westminster-a110-westminster",
+    "name": "A110 Westminster",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-a30-a30",
+    "name": "A30",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-a35-a35",
+    "name": "A35",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-cambridge-a40-cambridge",
+    "name": "A40 Cambridge",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-a40-devon-a40-devon-dorset",
+    "name": "A40 Devon/Dorset",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-a40-farina-a40-farina-mk1",
+    "name": "A40 Farina Mk1",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-a40-farina-a40-farina-mk2",
+    "name": "A40 Farina Mk2",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-a40-somerset-a40-somerset",
+    "name": "A40 Somerset",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-a40-sports-a40-sports",
+    "name": "A40 Sports",
+    "type": "Roadster"
+  },
+  {
+    "id": "austin-cambridge-a50-cambridge",
+    "name": "A50 Cambridge",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-cambridge-a55-cambridge-mk1",
+    "name": "A55 Cambridge Mk1",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-cambridge-a55-cambridge-mk2-farina",
+    "name": "A55 Cambridge Mk2 (Farina)",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-cambridge-a60-cambridge-farina",
+    "name": "A60 Cambridge (Farina)",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-a70-hampshire-a70-hampshire",
+    "name": "A70 Hampshire",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-a70-hereford-a70-hereford",
+    "name": "A70 Hereford",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-a90-atlantic-a90-atlantic",
+    "name": "A90 Atlantic",
+    "type": "Cabrio"
+  },
+  {
+    "id": "austin-westminster-a90-a95-westminster",
+    "name": "A90/A95 Westminster",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-westminster-a99-westminster",
+    "name": "A99 Westminster",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-allegro-allegro-series-1-3",
+    "name": "Allegro (Series 1-3)",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-ambassador-ambassador",
+    "name": "Ambassador",
+    "type": "Hatchback"
+  },
+  {
+    "id": "austin-3-litre-austin-3-litre",
+    "name": "Austin 3-Litre",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-champ-austin-champ",
+    "name": "Austin Champ",
+    "type": "SUV"
+  },
+  {
+    "id": "austin-eight-austin-eight",
+    "name": "Austin Eight",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-gipsy-austin-gipsy",
+    "name": "Austin Gipsy",
+    "type": "SUV"
+  },
+  {
+    "id": "austin-mini-cooper-austin-mini-cooper",
+    "name": "Austin Mini Cooper",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-mini-cooper-s-austin-mini-cooper-s",
+    "name": "Austin Mini Cooper S",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-mini-austin-mini-mk1-mk2",
+    "name": "Austin Mini Mk1/Mk2",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-mini-moke-austin-mini-moke",
+    "name": "Austin Mini Moke",
+    "type": "SUV"
+  },
+  {
+    "id": "austin-seven-austin-seven",
+    "name": "Austin Seven",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-fx3-fx3-taxi",
+    "name": "FX3 Taxi",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-fx4-fx4-taxi",
+    "name": "FX4 Taxi",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-maestro-maestro",
+    "name": "Maestro",
+    "type": "Hatchback"
+  },
+  {
+    "id": "austin-maxi-maxi-1500",
+    "name": "Maxi 1500",
+    "type": "Hatchback"
+  },
+  {
+    "id": "austin-maxi-maxi-1750",
+    "name": "Maxi 1750",
+    "type": "Hatchback"
+  },
+  {
+    "id": "austin-metro-metro-mk1",
+    "name": "Metro Mk1",
+    "type": "Hatchback"
+  },
+  {
+    "id": "austin-metropolitan-metropolitan",
+    "name": "Metropolitan",
+    "type": "Coupe"
+  },
+  {
+    "id": "austin-montego-montego",
+    "name": "Montego",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-montego-montego-estate",
+    "name": "Montego Estate",
+    "type": "Wagon"
+  },
+  {
+    "id": "austin-ten-ten-four",
+    "name": "Ten-Four",
+    "type": "Sedan"
+  },
+  {
+    "id": "austin-twelve-twelve-four",
+    "name": "Twelve-Four",
+    "type": "Sedan"
+  }
+]

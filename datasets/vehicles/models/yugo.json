@@ -1,0 +1,27 @@
+[
+  {
+    "id": "yugo-yugo-gv-plus-yugo-gv-eeuu-1985-1992",
+    "name": "GV Plus Yugo GV (EE.UU., 1985-1992)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "yugo-yugo-cabrio-gvc-cabrio-eeuu",
+    "name": "GVC Cabrio (EE.UU.)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "yugo-yugo-gvx-yugo-gv-eeuu-1985-1992",
+    "name": "GVX Yugo GV (EE.UU., 1985-1992)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "yugo-yugo-sana-sana-reino-unido-1990-1992",
+    "name": "Sana (Reino Unido, 1990-1992)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "yugo-yugo-gv-yugo-gv-eeuu-1985-1992",
+    "name": "Yugo GV (EE.UU., 1985-1992)",
+    "type": "Hatchback"
+  }
+]

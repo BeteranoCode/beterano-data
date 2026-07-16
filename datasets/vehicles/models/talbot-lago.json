@@ -1,0 +1,87 @@
+[
+  {
+    "id": "talbot-lago-baby-baby-t120-3-litres",
+    "name": "Baby T120 3-litres",
+    "type": "Cabrio"
+  },
+  {
+    "id": "talbot-lago-baby-baby-t15-posguerra",
+    "name": "Baby T15 (posguerra)",
+    "type": "Coupe"
+  },
+  {
+    "id": "talbot-lago-baby-baby-t23-4-litres",
+    "name": "Baby T23 4-litres",
+    "type": "Cabrio"
+  },
+  {
+    "id": "talbot-lago-baby-baby-15-prebelico",
+    "name": "Baby-15 (prebelico)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "talbot-lago-cadette-cadette-15",
+    "name": "Cadette-15",
+    "type": "Sedan"
+  },
+  {
+    "id": "talbot-lago-major-major-3-litres",
+    "name": "Major 3-litres",
+    "type": "Sedan"
+  },
+  {
+    "id": "talbot-lago-major-major-4-litres",
+    "name": "Major 4-litres",
+    "type": "Sedan"
+  },
+  {
+    "id": "talbot-lago-master-master-3-litres",
+    "name": "Master 3-litres",
+    "type": "Sedan"
+  },
+  {
+    "id": "talbot-lago-master-master-4-litres",
+    "name": "Master 4-litres",
+    "type": "Sedan"
+  },
+  {
+    "id": "talbot-lago-minor-minor-t4",
+    "name": "Minor T4",
+    "type": "Sedan"
+  },
+  {
+    "id": "talbot-lago-sport-2500-t14-ls",
+    "name": "Sport 2500 T14 LS",
+    "type": "Coupe"
+  },
+  {
+    "id": "talbot-lago-america-t14-america-bmw-v8",
+    "name": "T14 America (BMW V8)",
+    "type": "Coupe"
+  },
+  {
+    "id": "talbot-lago-america-t14-america-simca-v8",
+    "name": "T14 America (Simca V8)",
+    "type": "Coupe"
+  },
+  {
+    "id": "talbot-lago-t150-t150-lago-special",
+    "name": "T150 / Lago Special",
+    "type": "Coupe"
+  },
+  {
+    "id": "talbot-lago-t150-t150c-ss-goutte-d-eau",
+    "name": "T150C SS (Goutte d'Eau)",
+    "type": "Coupe"
+  },
+  {
+    "id": "talbot-lago-grand-sport-t26-grand-sport-gs",
+    "name": "T26 Grand Sport (GS)",
+    "type": "Coupe"
+  },
+  {
+    "id": "talbot-lago-record-t26-record",
+    "name": "T26 Record",
+    "type": "Sedan"
+  }
+]

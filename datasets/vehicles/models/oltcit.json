@@ -1,0 +1,32 @@
+[
+  {
+    "id": "oltcit-club-oltcit-club-11-r-ta",
+    "name": "Oltcit Club (11 R-TA)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "oltcit-club-oltcit-club-11r",
+    "name": "Oltcit Club 11R",
+    "type": "Hatchback"
+  },
+  {
+    "id": "oltcit-club-oltcit-club-11rl",
+    "name": "Oltcit Club 11RL",
+    "type": "Hatchback"
+  },
+  {
+    "id": "oltcit-club-oltcit-club-12-trs",
+    "name": "Oltcit Club 12 TRS",
+    "type": "Hatchback"
+  },
+  {
+    "id": "oltcit-special-oltcit-special",
+    "name": "Oltcit Special",
+    "type": "Hatchback"
+  },
+  {
+    "id": "oltcit-club-12-cs-oltcit-oltena-club-12-cs",
+    "name": "Oltcit/Oltena Club 12 CS",
+    "type": "Pickup"
+  }
+]

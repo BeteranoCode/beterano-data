@@ -1,0 +1,17 @@
+[
+  {
+    "id": "aixam-325-1a-generacion-325",
+    "name": "1a generacion (325)",
+    "type": "Microcar"
+  },
+  {
+    "id": "aixam-400-1a-generacion-400-500-i",
+    "name": "1a generacion (400/500 i)",
+    "type": "Microcar"
+  },
+  {
+    "id": "aixam-500-1a-generacion-400-500-i",
+    "name": "1a generacion (400/500 i)",
+    "type": "Microcar"
+  }
+]

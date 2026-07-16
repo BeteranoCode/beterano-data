@@ -1,0 +1,17 @@
+[
+  {
+    "id": "jawa-700-jawa-700-licencia-dkw-f2",
+    "name": "Jawa 700 (licencia DKW F2)",
+    "type": "Sedan"
+  },
+  {
+    "id": "jawa-750-jawa-750-sport",
+    "name": "Jawa 750 Sport",
+    "type": "Coupe"
+  },
+  {
+    "id": "jawa-minor-jawa-minor-600",
+    "name": "Jawa Minor (600)",
+    "type": "Sedan"
+  }
+]

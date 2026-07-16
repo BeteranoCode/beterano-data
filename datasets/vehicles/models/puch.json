@@ -1,0 +1,77 @@
+[
+  {
+    "id": "puch-alpenwagen-type-viii-14-38-ps",
+    "name": "Alpenwagen Type VIII (14/38 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "puch-alpenwagen-type-xii-6-20-ps",
+    "name": "Alpenwagen Type XII (6/20 PS)",
+    "type": "Sedan"
+  },
+  {
+    "id": "puch-haflinger-700-ap-1a-y-2a-serie",
+    "name": "Haflinger 700 AP (1a y 2a serie)",
+    "type": "SUV"
+  },
+  {
+    "id": "puch-pinzgauer-710-1a-generacion-4x4",
+    "name": "Pinzgauer 710 (1a generacion, 4x4)",
+    "type": "SUV"
+  },
+  {
+    "id": "puch-pinzgauer-712-1a-generacion-6x6",
+    "name": "Pinzgauer 712 (1a generacion, 6x6)",
+    "type": "Camion"
+  },
+  {
+    "id": "puch-126-puch-126",
+    "name": "Puch 126",
+    "type": "Microcar"
+  },
+  {
+    "id": "puch-500-puch-500",
+    "name": "Puch 500",
+    "type": "Microcar"
+  },
+  {
+    "id": "puch-500-puch-500-d",
+    "name": "Puch 500 D",
+    "type": "Microcar"
+  },
+  {
+    "id": "puch-500-puch-500-dl",
+    "name": "Puch 500 DL",
+    "type": "Microcar"
+  },
+  {
+    "id": "puch-500-puch-500-s",
+    "name": "Puch 500 S",
+    "type": "Microcar"
+  },
+  {
+    "id": "puch-650-puch-650-t",
+    "name": "Puch 650 T",
+    "type": "Microcar"
+  },
+  {
+    "id": "puch-650-puch-650-tr",
+    "name": "Puch 650 TR",
+    "type": "Microcar"
+  },
+  {
+    "id": "puch-650-puch-650-tr-ii",
+    "name": "Puch 650 TR II",
+    "type": "Microcar"
+  },
+  {
+    "id": "puch-700-puch-700-c-combi",
+    "name": "Puch 700 C (Combi)",
+    "type": "Wagon"
+  },
+  {
+    "id": "puch-700-puch-700-e-combi",
+    "name": "Puch 700 E (Combi)",
+    "type": "Wagon"
+  }
+]

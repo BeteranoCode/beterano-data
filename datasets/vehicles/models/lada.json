@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lada-2101-vaz-2101-lada-1200",
+    "name": "VAZ-2101 (Lada 1200)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lada-2101-vaz-2101-lada-1300",
+    "name": "VAZ-2101 (Lada 1300)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lada-2102-vaz-2102-lada-1200-combi",
+    "name": "VAZ-2102 (Lada 1200 Combi)",
+    "type": "Wagon"
+  },
+  {
+    "id": "lada-2103-vaz-2103-lada-1500",
+    "name": "VAZ-2103 (Lada 1500)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lada-2103-vaz-21033-lada-1300",
+    "name": "VAZ-21033 (Lada 1300)",
+    "type": "Sedan"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "freightliner-fla-fla-series-coe",
+    "name": "FLA-Series (COE)",
+    "type": "Camion"
+  },
+  {
+    "id": "freightliner-flb-flb-series-coe",
+    "name": "FLB-Series (COE)",
+    "type": "Camion"
+  },
+  {
+    "id": "freightliner-flc-120-flc-series-conventional",
+    "name": "FLC 120 FLC-Series (Conventional)",
+    "type": "Camion"
+  },
+  {
+    "id": "freightliner-flt-flt-series-coe",
+    "name": "FLT-Series (COE)",
+    "type": "Camion"
+  },
+  {
+    "id": "freightliner-white-freightliner-wfc-wfc-120-conventional",
+    "name": "White-Freightliner WFC WFC 120 (Conventional)",
+    "type": "Camion"
+  },
+  {
+    "id": "freightliner-white-freightliner-wft-wft-coe",
+    "name": "White-Freightliner WFT WFT (COE)",
+    "type": "Camion"
+  }
+]

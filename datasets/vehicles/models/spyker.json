@@ -1,0 +1,47 @@
+[
+  {
+    "id": "spyker-3-hp-spijker-3-hp",
+    "name": "Spijker 3 HP",
+    "type": "Roadster"
+  },
+  {
+    "id": "spyker-5-hp-spijker-5-hp",
+    "name": "Spijker 5 HP",
+    "type": "Roadster"
+  },
+  {
+    "id": "spyker-13-30-c1-spyker-13-30-c1",
+    "name": "Spyker 13/30 C1",
+    "type": "Cabrio"
+  },
+  {
+    "id": "spyker-18-hp-spyker-14-18-hp",
+    "name": "Spyker 14/18 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "spyker-25-30-spyker-25-30-hp",
+    "name": "Spyker 25/30 HP",
+    "type": "Cabrio"
+  },
+  {
+    "id": "spyker-c4-spyker-30-40-c4",
+    "name": "Spyker 30/40 C4",
+    "type": "Sedan"
+  },
+  {
+    "id": "spyker-60-hp-spyker-60-hp-4wd",
+    "name": "Spyker 60 HP (4WD)",
+    "type": "Roadster"
+  },
+  {
+    "id": "spyker-c1-aerocoque-spyker-c1-aerocoque",
+    "name": "Spyker C1 Aerocoque",
+    "type": "Coupe"
+  },
+  {
+    "id": "spyker-c2-spyker-c2-2-toneladas",
+    "name": "Spyker C2 (2 toneladas)",
+    "type": "Camion"
+  }
+]

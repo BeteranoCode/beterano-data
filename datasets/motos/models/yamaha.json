@@ -1,0 +1,172 @@
+[
+  {
+    "id": "yamaha-dt125-dt125-air-cooled",
+    "name": "DT125 (air-cooled)",
+    "type": "Enduro"
+  },
+  {
+    "id": "yamaha-fj1100-fj1100-36y",
+    "name": "FJ1100 (36Y)",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "yamaha-fj1200-fj1200-1tx-3cv-3xw",
+    "name": "FJ1200 (1TX/3CV/3XW)",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "yamaha-fz600-fz600",
+    "name": "FZ600",
+    "type": "Supersport"
+  },
+  {
+    "id": "yamaha-fz750-fz750-genesis-1fn",
+    "name": "FZ750 Genesis (1FN)",
+    "type": "Supersport"
+  },
+  {
+    "id": "yamaha-fzr1000-fzr1000-exup-3le",
+    "name": "FZR1000 EXUP (3LE)",
+    "type": "Supersport"
+  },
+  {
+    "id": "yamaha-fzr600-fzr600-3he",
+    "name": "FZR600 (3HE)",
+    "type": "Supersport"
+  },
+  {
+    "id": "yamaha-gts1000-gts1000-4bh",
+    "name": "GTS1000 (4BH)",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "yamaha-rd250lc-rd250lc-4l1",
+    "name": "RD250LC (4L1)",
+    "type": "Supersport"
+  },
+  {
+    "id": "yamaha-rd350-rd350-air-cooled",
+    "name": "RD350 (air-cooled)",
+    "type": "Naked"
+  },
+  {
+    "id": "yamaha-rd350-ypvs-rd350-ypvs-rd350r-31k-1ww-3ym",
+    "name": "RD350 YPVS / RD350R (31K/1WW/3YM)",
+    "type": "Supersport"
+  },
+  {
+    "id": "yamaha-rd350lc-rd350lc-4l0",
+    "name": "RD350LC (4L0)",
+    "type": "Supersport"
+  },
+  {
+    "id": "yamaha-rd400-rd400",
+    "name": "RD400",
+    "type": "Naked"
+  },
+  {
+    "id": "yamaha-rd500lc-rd500lc-rz500-1ge",
+    "name": "RD500LC / RZ500 (1GE)",
+    "type": "Supersport"
+  },
+  {
+    "id": "yamaha-sr500-sr500",
+    "name": "SR500",
+    "type": "Naked"
+  },
+  {
+    "id": "yamaha-tdm850-tdm850-1a-gen-3vd",
+    "name": "TDM850 1a gen (3VD)",
+    "type": "Sporttourer"
+  },
+  {
+    "id": "yamaha-trx850-trx850-4nx-4un",
+    "name": "TRX850 (4NX/4UN)",
+    "type": "Supersport"
+  },
+  {
+    "id": "yamaha-tzr250-tzr250-1kt-2xt-3xv",
+    "name": "TZR250 (1KT/2XT/3XV)",
+    "type": "Supersport"
+  },
+  {
+    "id": "yamaha-xj600-xj600-pre-diversion-51j",
+    "name": "XJ600 (pre-Diversion, 51J)",
+    "type": "Naked"
+  },
+  {
+    "id": "yamaha-xj650-xj650-seca",
+    "name": "XJ650 Seca",
+    "type": "Naked"
+  },
+  {
+    "id": "yamaha-xj900-xj900f-58l",
+    "name": "XJ900F (58L)",
+    "type": "Naked"
+  },
+  {
+    "id": "yamaha-xjr1200-xjr1200-4pu",
+    "name": "XJR1200 (4PU)",
+    "type": "Naked"
+  },
+  {
+    "id": "yamaha-xs1100-xs-eleven",
+    "name": "XS1100 XS Eleven",
+    "type": "Naked"
+  },
+  {
+    "id": "yamaha-xs650-xs650-xs-1",
+    "name": "XS650 / XS-1",
+    "type": "Naked"
+  },
+  {
+    "id": "yamaha-xs750-xs750",
+    "name": "XS750",
+    "type": "Naked"
+  },
+  {
+    "id": "yamaha-xs850-xs850",
+    "name": "XS850",
+    "type": "Naked"
+  },
+  {
+    "id": "yamaha-xt500-xt500",
+    "name": "XT500",
+    "type": "Enduro"
+  },
+  {
+    "id": "yamaha-xt600z-tenere-xt600z-tenere-1a-gen-34l-1vj",
+    "name": "XT600Z Tenere 1a gen (34L/1VJ)",
+    "type": "Adventure"
+  },
+  {
+    "id": "yamaha-xv1000-tr1-xv1000-tr1",
+    "name": "XV1000 TR1",
+    "type": "Naked"
+  },
+  {
+    "id": "yamaha-xv1100-virago-xv1100",
+    "name": "XV1100 Virago",
+    "type": "Cruiser"
+  },
+  {
+    "id": "yamaha-xv750-virago-xv750",
+    "name": "XV750 Virago",
+    "type": "Cruiser"
+  },
+  {
+    "id": "yamaha-xv920-xv920-virago",
+    "name": "XV920 Virago",
+    "type": "Cruiser"
+  },
+  {
+    "id": "yamaha-yzf-r7-yzf-r7-ow02-rj01",
+    "name": "YZF-R7 OW02 (RJ01)",
+    "type": "Supersport"
+  },
+  {
+    "id": "yamaha-yzf750-yzf750r-sp-4hn",
+    "name": "YZF750R / SP (4HN)",
+    "type": "Supersport"
+  }
+]

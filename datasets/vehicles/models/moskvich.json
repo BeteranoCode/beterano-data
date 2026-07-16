@@ -1,0 +1,97 @@
+[
+  {
+    "id": "moskvich-2137-2137",
+    "name": "2137",
+    "type": "Wagon"
+  },
+  {
+    "id": "moskvich-2138-2138",
+    "name": "2138",
+    "type": "Sedan"
+  },
+  {
+    "id": "moskvich-2140-2140",
+    "name": "2140",
+    "type": "Sedan"
+  },
+  {
+    "id": "moskvich-2141-aleko-2141",
+    "name": "2141 Aleko",
+    "type": "Hatchback"
+  },
+  {
+    "id": "moskvich-2141-aleko-2141-diesel",
+    "name": "2141 Aleko 2141 diesel",
+    "type": "Hatchback"
+  },
+  {
+    "id": "moskvich-400-400-420",
+    "name": "400-420",
+    "type": "Sedan"
+  },
+  {
+    "id": "moskvich-401-401-420",
+    "name": "401-420",
+    "type": "Sedan"
+  },
+  {
+    "id": "moskvich-402-402",
+    "name": "402",
+    "type": "Sedan"
+  },
+  {
+    "id": "moskvich-403-403",
+    "name": "403",
+    "type": "Sedan"
+  },
+  {
+    "id": "moskvich-407-407",
+    "name": "407",
+    "type": "Sedan"
+  },
+  {
+    "id": "moskvich-408-408",
+    "name": "408",
+    "type": "Sedan"
+  },
+  {
+    "id": "moskvich-410-410-4x4",
+    "name": "410 4x4",
+    "type": "Sedan"
+  },
+  {
+    "id": "moskvich-411-411-4x4",
+    "name": "411 4x4",
+    "type": "Wagon"
+  },
+  {
+    "id": "moskvich-412-412",
+    "name": "412",
+    "type": "Sedan"
+  },
+  {
+    "id": "moskvich-423-423n",
+    "name": "423N",
+    "type": "Wagon"
+  },
+  {
+    "id": "moskvich-426-426",
+    "name": "426",
+    "type": "Wagon"
+  },
+  {
+    "id": "moskvich-427-427",
+    "name": "427",
+    "type": "Wagon"
+  },
+  {
+    "id": "moskvich-433-433",
+    "name": "433",
+    "type": "Van"
+  },
+  {
+    "id": "moskvich-434-434",
+    "name": "434",
+    "type": "Van"
+  }
+]

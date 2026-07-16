@@ -1,0 +1,82 @@
+[
+  {
+    "id": "rosengart-ariette-ariette",
+    "name": "Ariette",
+    "type": "Sedan"
+  },
+  {
+    "id": "rosengart-ariette-ariette-break",
+    "name": "Ariette Break",
+    "type": "Wagon"
+  },
+  {
+    "id": "rosengart-artisane-artisane",
+    "name": "Artisane",
+    "type": "Sedan"
+  },
+  {
+    "id": "rosengart-lr2-lr2",
+    "name": "LR2",
+    "type": "Sedan"
+  },
+  {
+    "id": "rosengart-lr4-lr4-cinq",
+    "name": "LR4 (Cinq)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rosengart-lr4-lr44-47-batalla-larga-2-35-m",
+    "name": "LR44/47 (batalla larga 2,35 m)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rosengart-lr4-lr45-batalla-larga-2-60-m",
+    "name": "LR45 (batalla larga 2,60 m)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rosengart-lr6-lr6",
+    "name": "LR6",
+    "type": "Sedan"
+  },
+  {
+    "id": "rosengart-supercinq-lr4-n2",
+    "name": "Supercinq LR4 N2",
+    "type": "Sedan"
+  },
+  {
+    "id": "rosengart-supercinq-lr4-r1",
+    "name": "Supercinq LR4 R1",
+    "type": "Sedan"
+  },
+  {
+    "id": "rosengart-supersept-supersept-sutosix",
+    "name": "Supersept (Sutosix)",
+    "type": "Sedan"
+  },
+  {
+    "id": "rosengart-supertraction-lr500",
+    "name": "Supertraction LR500",
+    "type": "Sedan"
+  },
+  {
+    "id": "rosengart-supertraction-lr505-aerodynamique",
+    "name": "Supertraction LR505 Aerodynamique",
+    "type": "Sedan"
+  },
+  {
+    "id": "rosengart-supertraction-lr539",
+    "name": "Supertraction LR539",
+    "type": "Coupe"
+  },
+  {
+    "id": "rosengart-supertrahuit-supertrahuit",
+    "name": "Supertrahuit",
+    "type": "Coupe"
+  },
+  {
+    "id": "rosengart-vivor-vivor",
+    "name": "Vivor",
+    "type": "Van"
+  }
+]

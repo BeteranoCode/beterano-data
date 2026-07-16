@@ -1,0 +1,102 @@
+[
+  {
+    "id": "goliath-atlas-atlas",
+    "name": "Atlas",
+    "type": "Camion"
+  },
+  {
+    "id": "goliath-express-express-1100",
+    "name": "Express 1100",
+    "type": "Van"
+  },
+  {
+    "id": "goliath-express-express-700",
+    "name": "Express 700",
+    "type": "Van"
+  },
+  {
+    "id": "goliath-express-express-900",
+    "name": "Express 900",
+    "type": "Van"
+  },
+  {
+    "id": "goliath-f-200-f-200-dreirad",
+    "name": "F 200 (Dreirad)",
+    "type": "Pickup"
+  },
+  {
+    "id": "goliath-f-400-f-400-dreirad",
+    "name": "F 400 (Dreirad)",
+    "type": "Pickup"
+  },
+  {
+    "id": "goliath-fw-200-fw-200-dreirad",
+    "name": "FW 200 (Dreirad)",
+    "type": "Pickup"
+  },
+  {
+    "id": "goliath-fw-400-fw-400-dreirad",
+    "name": "FW 400 (Dreirad)",
+    "type": "Pickup"
+  },
+  {
+    "id": "goliath-gd-750-gd-750-dreirad",
+    "name": "GD 750 (Dreirad)",
+    "type": "Pickup"
+  },
+  {
+    "id": "goliath-goli-goli-1a-serie-dreirad",
+    "name": "Goli (1a serie, Dreirad)",
+    "type": "Pickup"
+  },
+  {
+    "id": "goliath-goli-goli-2a-serie-dreirad",
+    "name": "Goli (2a serie, Dreirad)",
+    "type": "Pickup"
+  },
+  {
+    "id": "goliath-1100-goliath-1100",
+    "name": "Goliath 1100",
+    "type": "Sedan"
+  },
+  {
+    "id": "goliath-gp-700-gp-700",
+    "name": "GP 700",
+    "type": "Sedan"
+  },
+  {
+    "id": "goliath-gp-700-e-gp-700-e",
+    "name": "GP 700 E",
+    "type": "Sedan"
+  },
+  {
+    "id": "goliath-gp-700-sport-gp-700-sport",
+    "name": "GP 700 Sport",
+    "type": "Coupe"
+  },
+  {
+    "id": "goliath-gp-900-gp-900",
+    "name": "GP 900",
+    "type": "Wagon"
+  },
+  {
+    "id": "goliath-gp-900-gp-900-e",
+    "name": "GP 900 E",
+    "type": "Sedan"
+  },
+  {
+    "id": "goliath-gp-900-gp-900-v",
+    "name": "GP 900 V",
+    "type": "Sedan"
+  },
+  {
+    "id": "goliath-gv-800-gv-800",
+    "name": "GV 800",
+    "type": "Van"
+  },
+  {
+    "id": "goliath-pionier-pionier-dreirad",
+    "name": "Pionier (Dreirad)",
+    "type": "Microcar"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "bedford-beagle-beagle-derivado-ha",
+    "name": "Beagle (derivado HA)",
+    "type": "Wagon"
+  },
+  {
+    "id": "bedford-ca-ca-mk1",
+    "name": "CA Mk1",
+    "type": "Van"
+  },
+  {
+    "id": "bedford-ca-ca-mk2",
+    "name": "CA Mk2",
+    "type": "Van"
+  },
+  {
+    "id": "bedford-cf-cf-series-1",
+    "name": "CF Series 1",
+    "type": "Van"
+  },
+  {
+    "id": "bedford-cf-cf-series-1-facelift",
+    "name": "CF Series 1 facelift",
+    "type": "Van"
+  },
+  {
+    "id": "bedford-cf-cf2",
+    "name": "CF2",
+    "type": "Van"
+  },
+  {
+    "id": "bedford-chevanne-chevanne-base-vauxhall-chevette",
+    "name": "Chevanne (base Vauxhall Chevette)",
+    "type": "Van"
+  },
+  {
+    "id": "bedford-ha-ha-base-vauxhall-viva-ha",
+    "name": "HA (base Vauxhall Viva HA)",
+    "type": "Van"
+  },
+  {
+    "id": "bedford-kb-kb-base-isuzu-faster",
+    "name": "KB (base Isuzu Faster)",
+    "type": "Pickup"
+  },
+  {
+    "id": "bedford-km-km-16-ton",
+    "name": "KM (16 ton)",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-midi-midi-base-isuzu-fargo",
+    "name": "Midi (base Isuzu Fargo)",
+    "type": "Van"
+  },
+  {
+    "id": "bedford-mj-mj-militar-4x4-4-ton",
+    "name": "MJ (militar 4x4 4 ton)",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-mk-mk-militar-4x4-4-ton",
+    "name": "MK (militar 4x4 4 ton)",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-mw-mw-militar-15-cwt",
+    "name": "MW (militar 15 cwt)",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-o-series-ox-oy-ow",
+    "name": "O-Series OX / OY / OW",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-ob-ob-chasis-autocar",
+    "name": "OB (chasis autocar)",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-ql-ql-militar-4x4",
+    "name": "QL (militar 4x4)",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-rascal-rascal-base-suzuki-super-carry",
+    "name": "Rascal (base Suzuki Super Carry)",
+    "type": "Van"
+  },
+  {
+    "id": "bedford-rl-rl-militar-4x4-3-ton",
+    "name": "RL (militar 4x4 3 ton)",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-s-type-s-type-big-bedford",
+    "name": "S type (Big Bedford)",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-sb-sb-sbg-sb3",
+    "name": "SB / SBG / SB3",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-sb-sb1",
+    "name": "SB1",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-sb-sb13",
+    "name": "SB13",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-sb-sb5",
+    "name": "SB5",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-sb-sb8",
+    "name": "SB8",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-sb-sbo",
+    "name": "SBO",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-ta-ta-td-a-type",
+    "name": "TA / TD (A-type)",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-tj-tj-j-series",
+    "name": "TJ / J-series",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-tk-tk",
+    "name": "TK",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-tl-tl",
+    "name": "TL",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-tm-tm",
+    "name": "TM",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-val-val14",
+    "name": "VAL14",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-val-val70",
+    "name": "VAL70",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-vam-vam14",
+    "name": "VAM14",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-vam-vam3",
+    "name": "VAM3",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-vam-vam5",
+    "name": "VAM5",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-vam-vam70",
+    "name": "VAM70",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-wt-wt-wtl-wth",
+    "name": "WT / WTL / WTH",
+    "type": "Camion"
+  },
+  {
+    "id": "bedford-y-series-ylq-10-m",
+    "name": "Y series YLQ (10 m)",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-y-series-ymt-11-m",
+    "name": "Y series YMT (11 m)",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-y-series-ynt-11-m",
+    "name": "Y series YNT (11 m)",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-y-series-ynv-venturer-12-m",
+    "name": "Y series YNV Venturer (12 m)",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-y-series-yrq-10-m",
+    "name": "Y series YRQ (10 m)",
+    "type": "Bus"
+  },
+  {
+    "id": "bedford-y-series-yrt-11-m",
+    "name": "Y series YRT (11 m)",
+    "type": "Bus"
+  }
+]

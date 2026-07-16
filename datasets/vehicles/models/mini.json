@@ -1,0 +1,97 @@
+[
+  {
+    "id": "mini-mini-1275-gt-1275-gt",
+    "name": "1275 GT",
+    "type": "Sedan"
+  },
+  {
+    "id": "mini-mini-cabriolet-cabriolet",
+    "name": "Cabriolet",
+    "type": "Cabrio"
+  },
+  {
+    "id": "mini-mini-clubman-estate-clubman-estate",
+    "name": "Clubman Estate",
+    "type": "Wagon"
+  },
+  {
+    "id": "mini-mini-clubman-clubman-saloon",
+    "name": "Clubman saloon",
+    "type": "Sedan"
+  },
+  {
+    "id": "mini-mini-cooper-cooper-mpi",
+    "name": "Cooper (MPi)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mini-mini-cooper-cooper-revival-carb-spi",
+    "name": "Cooper (revival, carb/SPi)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mini-mini-cooper-cooper-mk-i-997",
+    "name": "Cooper Mk I (997)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mini-mini-cooper-cooper-mk-i-ii-998",
+    "name": "Cooper Mk I-II (998)",
+    "type": "Sedan"
+  },
+  {
+    "id": "mini-mini-cooper-s-cooper-s-mk-i-iii",
+    "name": "Cooper S Mk I-III",
+    "type": "Sedan"
+  },
+  {
+    "id": "mini-mini-countryman-traveller-estate-mk-i-ii",
+    "name": "Countryman / Traveller Estate Mk I-II",
+    "type": "Wagon"
+  },
+  {
+    "id": "mini-mini-mk-i",
+    "name": "Mini Mk I",
+    "type": "Sedan"
+  },
+  {
+    "id": "mini-mini-mk-ii",
+    "name": "Mini Mk II",
+    "type": "Sedan"
+  },
+  {
+    "id": "mini-mini-mk-iii-iv",
+    "name": "Mini Mk III-IV",
+    "type": "Sedan"
+  },
+  {
+    "id": "mini-mini-mk-iii-v",
+    "name": "Mini Mk III-V",
+    "type": "Sedan"
+  },
+  {
+    "id": "mini-mini-mk-vi",
+    "name": "Mini Mk VI",
+    "type": "Sedan"
+  },
+  {
+    "id": "mini-mini-mk-vii",
+    "name": "Mini Mk VII",
+    "type": "Sedan"
+  },
+  {
+    "id": "mini-mini-moke-moke-uk-australia-portugal",
+    "name": "Moke (UK/Australia/Portugal)",
+    "type": "Microcar"
+  },
+  {
+    "id": "mini-mini-pickup-pick-up",
+    "name": "Pickup Pick-up",
+    "type": "Pickup"
+  },
+  {
+    "id": "mini-mini-van-van",
+    "name": "Van",
+    "type": "Van"
+  }
+]

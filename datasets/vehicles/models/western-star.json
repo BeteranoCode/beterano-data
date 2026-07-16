@@ -1,0 +1,17 @@
+[
+  {
+    "id": "western-star-4864-heritage",
+    "name": "4864 Heritage",
+    "type": "Camion"
+  },
+  {
+    "id": "western-star-4964-heritage",
+    "name": "4964 Heritage",
+    "type": "Camion"
+  },
+  {
+    "id": "western-star-lsvw-lsvw-base-iveco-vm-90",
+    "name": "LSVW (base Iveco VM 90)",
+    "type": "Camion"
+  }
+]

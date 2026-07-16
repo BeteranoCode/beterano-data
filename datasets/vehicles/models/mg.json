@@ -1,0 +1,127 @@
+[
+  {
+    "id": "mg-mg-1100-ado16-1100",
+    "name": "ADO16 1100",
+    "type": "Sedan"
+  },
+  {
+    "id": "mg-mg-1300-ado16-1300",
+    "name": "ADO16 1300",
+    "type": "Sedan"
+  },
+  {
+    "id": "mg-mg-maestro-mg-maestro-1600",
+    "name": "MG Maestro 1600",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mg-mg-maestro-mg-maestro-20-efi",
+    "name": "MG Maestro 2.0 EFi",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mg-mg-maestro-mg-maestro-turbo",
+    "name": "MG Maestro Turbo",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mg-mg-metro-mg-metro",
+    "name": "MG Metro",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mg-mg-metro-mg-metro-turbo",
+    "name": "MG Metro Turbo",
+    "type": "Hatchback"
+  },
+  {
+    "id": "mg-mg-montego-mg-montego-20-efi",
+    "name": "MG Montego 2.0 EFi",
+    "type": "Sedan"
+  },
+  {
+    "id": "mg-mg-montego-mg-montego-turbo",
+    "name": "MG Montego Turbo",
+    "type": "Sedan"
+  },
+  {
+    "id": "mg-mg-rv8-mg-rv8",
+    "name": "MG RV8",
+    "type": "Roadster"
+  },
+  {
+    "id": "mg-mga-mga-1500",
+    "name": "MGA 1500",
+    "type": "Roadster"
+  },
+  {
+    "id": "mg-mga-mga-1600",
+    "name": "MGA 1600",
+    "type": "Roadster"
+  },
+  {
+    "id": "mg-mga-mga-1600-mk-ii",
+    "name": "MGA 1600 Mk II",
+    "type": "Roadster"
+  },
+  {
+    "id": "mg-mga-mga-twin-cam",
+    "name": "MGA Twin Cam",
+    "type": "Roadster"
+  },
+  {
+    "id": "mg-mgb-gt-mgb-gt",
+    "name": "MGB GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "mg-mgb-gt-v8-mgb-gt-v8",
+    "name": "MGB GT V8",
+    "type": "Coupe"
+  },
+  {
+    "id": "mg-mgb-mgb-roadster",
+    "name": "MGB Roadster",
+    "type": "Roadster"
+  },
+  {
+    "id": "mg-mgc-mgc",
+    "name": "MGC",
+    "type": "Coupe"
+  },
+  {
+    "id": "mg-mg-midget-1500",
+    "name": "Midget 1500",
+    "type": "Roadster"
+  },
+  {
+    "id": "mg-mg-midget-mk-i",
+    "name": "Midget Mk I",
+    "type": "Roadster"
+  },
+  {
+    "id": "mg-mg-midget-mk-ii",
+    "name": "Midget Mk II",
+    "type": "Roadster"
+  },
+  {
+    "id": "mg-mg-midget-mk-iii",
+    "name": "Midget Mk III",
+    "type": "Roadster"
+  },
+  {
+    "id": "mg-mg-tc-t-type-tc",
+    "name": "T-type TC",
+    "type": "Roadster"
+  },
+  {
+    "id": "mg-mg-td-t-type-td",
+    "name": "T-type TD",
+    "type": "Roadster"
+  },
+  {
+    "id": "mg-mg-tf-t-type-tf",
+    "name": "T-type TF",
+    "type": "Roadster"
+  }
+]

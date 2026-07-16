@@ -1,0 +1,327 @@
+[
+  {
+    "id": "packard-200-200-24a-25a-serie",
+    "name": "200 (24a-25a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-250-250-24a-25a-serie",
+    "name": "250 (24a-25a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-300-300-24a-25a-serie",
+    "name": "300 (24a-25a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-caribbean-caribbean-1a-gen-26a-serie",
+    "name": "Caribbean (1a gen, 26a Serie)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "packard-caribbean-caribbean-1a-gen-54a-serie",
+    "name": "Caribbean (1a gen, 54a Serie)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "packard-caribbean-caribbean-2a-gen-55a-serie",
+    "name": "Caribbean (2a gen, 55a Serie)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "packard-caribbean-caribbean-2a-gen-56a-serie",
+    "name": "Caribbean (2a gen, 56a Serie)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "packard-cavalier-cavalier-26a-54a-serie",
+    "name": "Cavalier (26a-54a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-clipper-clipper-1a-gen",
+    "name": "Clipper (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-clipper-clipper-2a-gen-26a-54a-serie",
+    "name": "Clipper (2a gen, 26a-54a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-clipper-clipper-2a-gen-55a-serie",
+    "name": "Clipper (2a gen, 55a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-clipper-clipper-2a-gen-56a-serie",
+    "name": "Clipper (2a gen, 56a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-clipper-clipper-3a-gen-57l",
+    "name": "Clipper (3a gen, 57L)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-clipper-six-clipper-1a-gen-21a-serie",
+    "name": "Clipper Six Clipper (1a gen, 21a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-custom-eight-custom-eight-22a-23a-serie",
+    "name": "Custom Eight (22a-23a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-custom-super-clipper-clipper-1a-gen-21a-serie",
+    "name": "Custom Super Clipper Clipper (1a gen, 21a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-custom-super-eight-one-eighty-one-eighty-18a-20a-serie",
+    "name": "Custom Super Eight One-Eighty One-Eighty (18a-20a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-eight-eight-16a-serie",
+    "name": "Eight (16a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-executive-executive-56a-serie",
+    "name": "Executive (56a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-four-hundred-four-hundred-55a-serie",
+    "name": "Four Hundred (55a Serie)",
+    "type": "Coupe"
+  },
+  {
+    "id": "packard-four-hundred-four-hundred-56a-serie",
+    "name": "Four Hundred (56a Serie)",
+    "type": "Coupe"
+  },
+  {
+    "id": "packard-light-eight-light-eight-9a-serie",
+    "name": "Light Eight (9a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-mayfair-mayfair-24a-26a-serie",
+    "name": "Mayfair (24a-26a Serie)",
+    "type": "Coupe"
+  },
+  {
+    "id": "packard-model-18-serie-na-nc",
+    "name": "Model 18 Serie NA-NC",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-model-24-serie-s",
+    "name": "Model 24 Serie S",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-model-30-serie-u",
+    "name": "Model 30 Serie U",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-model-a-model-a",
+    "name": "Model A",
+    "type": "Roadster"
+  },
+  {
+    "id": "packard-model-b-model-b",
+    "name": "Model B",
+    "type": "Roadster"
+  },
+  {
+    "id": "packard-model-c-model-c",
+    "name": "Model C",
+    "type": "Roadster"
+  },
+  {
+    "id": "packard-model-f-model-f",
+    "name": "Model F",
+    "type": "Roadster"
+  },
+  {
+    "id": "packard-model-k-model-k",
+    "name": "Model K",
+    "type": "Roadster"
+  },
+  {
+    "id": "packard-model-l-model-l",
+    "name": "Model L",
+    "type": "Roadster"
+  },
+  {
+    "id": "packard-model-n-model-n",
+    "name": "Model N",
+    "type": "Roadster"
+  },
+  {
+    "id": "packard-one-twenty-one-twenty-1a-gen-120-a",
+    "name": "One-Twenty (1a gen, 120-A)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-one-twenty-one-twenty-1a-gen-120-b-c",
+    "name": "One-Twenty (1a gen, 120-B/C)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-one-twenty-one-twenty-2a-gen-17a-19a-serie",
+    "name": "One-Twenty (2a gen, 17a-19a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-pacific-pacific-54a-serie",
+    "name": "Pacific (54a Serie)",
+    "type": "Coupe"
+  },
+  {
+    "id": "packard-hawk-packard-hawk-58l",
+    "name": "Packard Hawk (58L)",
+    "type": "Coupe"
+  },
+  {
+    "id": "packard-packard-serie-58l",
+    "name": "Packard Serie 58L",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-patrician-patrician-2a-gen-26a-serie",
+    "name": "Patrician (2a gen, 26a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-patrician-patrician-2a-gen-54a-serie",
+    "name": "Patrician (2a gen, 54a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-patrician-patrician-3a-gen-55a-serie",
+    "name": "Patrician (3a gen, 55a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-patrician-patrician-3a-gen-56a-serie",
+    "name": "Patrician (3a gen, 56a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-patrician-patrician-400-1a-gen",
+    "name": "Patrician 400 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-packard-series-e-series-e-1-a-7-5-t",
+    "name": "Series E (1 a 7,5 t)",
+    "type": "Camion"
+  },
+  {
+    "id": "packard-eight-single-eight",
+    "name": "Single Eight",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-single-six-single-six-2a-gen",
+    "name": "Single Six (2a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-one-ten-six-one-ten-16a-20a-serie",
+    "name": "Six / One-Ten (16a-20a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-six-115-c-15a-serie",
+    "name": "Six 115-C (15a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-six-six-2a-5a-serie",
+    "name": "Six 2a-5a Serie",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-six-six-38-1a-gen",
+    "name": "Six 38 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-six-six-48-1a-gen",
+    "name": "Six 48 (1a gen)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-speedster-eight-speedster-eight-7a-serie",
+    "name": "Speedster Eight (7a Serie)",
+    "type": "Roadster"
+  },
+  {
+    "id": "packard-eight-standard-eight-22a-23a-serie",
+    "name": "Standard Eight (22a-23a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-eight-standard-eight-9a-10a-serie",
+    "name": "Standard Eight (9a-10a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-super-clipper-clipper-1a-gen-21a-serie",
+    "name": "Super Clipper Clipper (1a gen, 21a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-super-eight-super-eight-10a-14a-serie",
+    "name": "Super Eight (10a-14a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-super-eight-super-eight-15a-17a-serie",
+    "name": "Super Eight (15a-17a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-super-eight-super-eight-22a-23a-serie",
+    "name": "Super Eight (22a-23a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-super-eight-one-sixty-one-sixty-18a-20a-serie",
+    "name": "Super Eight One-Sixty One-Sixty (18a-20a Serie)",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-packard-truck-1-5-toneladas",
+    "name": "Truck 1,5 toneladas",
+    "type": "Camion"
+  },
+  {
+    "id": "packard-packard-truck-3-toneladas",
+    "name": "Truck 3 toneladas",
+    "type": "Camion"
+  },
+  {
+    "id": "packard-twelve-twelve-10a-11a-serie",
+    "name": "Twelve 10a-11a Serie",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-twelve-twelve-12a-17a-serie",
+    "name": "Twelve 12a-17a Serie",
+    "type": "Sedan"
+  },
+  {
+    "id": "packard-twin-six-twin-six-1a-gen",
+    "name": "Twin Six (1a gen)",
+    "type": "Sedan"
+  }
+]

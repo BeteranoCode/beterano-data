@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ferrari-250-gte-2-2-250-gte",
+    "name": "250 GTE 2+2",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-275-gtb-275-gtb",
+    "name": "275 GTB",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-275-gtb-4-275-gtb-4",
+    "name": "275 GTB/4",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-275-gts-275-gts",
+    "name": "275 GTS",
+    "type": "Spider"
+  },
+  {
+    "id": "ferrari-288-gto-288-gto",
+    "name": "288 GTO",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-308-308-gtb-gts",
+    "name": "308 GTB/GTS",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-308-308-gtb-gts-qv",
+    "name": "308 GTB/GTS QV",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-308-308-gtbi-gtsi",
+    "name": "308 GTBi/GTSi",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-328-328-gtb-gts",
+    "name": "328 GTB/GTS",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-330-gt-2-2-330-gt-2-2",
+    "name": "330 GT 2+2",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-330-gtc-330-gtc-gts",
+    "name": "330 GTC/GTS",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-348-348-spider",
+    "name": "348 Spider",
+    "type": "Spider"
+  },
+  {
+    "id": "ferrari-348-348-tb-ts-gtb-gts",
+    "name": "348 tb/ts (GTB/GTS)",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-365-gt-2-2-365-gt-2-2",
+    "name": "365 GT 2+2",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-365-gt4-2-2-365-gt4-2-2",
+    "name": "365 GT4 2+2",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-365-gtb-4-daytona-365-gtb-4",
+    "name": "365 GTB/4 Daytona",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-365-gtc-4-365-gtc-4",
+    "name": "365 GTC/4",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-365-gtc-365-gtc-gts",
+    "name": "365 GTC/GTS",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-365-gts-4-daytona-spider-365-gts-4",
+    "name": "365 GTS/4 Daytona Spider",
+    "type": "Spider"
+  },
+  {
+    "id": "ferrari-400-400-400i",
+    "name": "400 / 400i",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-412-412",
+    "name": "412",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-456-456-gt-gta",
+    "name": "456 GT/GTA",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-512-tr-512-tr",
+    "name": "512 TR",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-berlinetta-boxer-365-gt4-bb",
+    "name": "Berlinetta Boxer 365 GT4 BB",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-berlinetta-boxer-512-bb",
+    "name": "Berlinetta Boxer 512 BB",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-berlinetta-boxer-512-bbi",
+    "name": "Berlinetta Boxer 512 BBi",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-dino-206-gt-206-gt",
+    "name": "Dino 206 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-dino-246-gt-246-gt",
+    "name": "Dino 246 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-dino-246-gts-246-gts",
+    "name": "Dino 246 GTS",
+    "type": "Spider"
+  },
+  {
+    "id": "ferrari-dino-308-gt4-308-gt4",
+    "name": "Dino 308 GT4",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-f355-f355-berlinetta-gts",
+    "name": "F355 Berlinetta/GTS",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-f355-f355-spider",
+    "name": "F355 Spider",
+    "type": "Spider"
+  },
+  {
+    "id": "ferrari-f40-f40",
+    "name": "F40",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-f50-f50",
+    "name": "F50",
+    "type": "Spider"
+  },
+  {
+    "id": "ferrari-f512-m-f512-m",
+    "name": "F512 M",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-mondial-mondial-32",
+    "name": "Mondial 3.2",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-mondial-mondial-8",
+    "name": "Mondial 8",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-mondial-mondial-qv",
+    "name": "Mondial QV",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-mondial-mondial-t",
+    "name": "Mondial t",
+    "type": "Coupe"
+  },
+  {
+    "id": "ferrari-testarossa-testarossa",
+    "name": "Testarossa",
+    "type": "Coupe"
+  }
+]

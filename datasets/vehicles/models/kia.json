@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kia-avella-avella",
+    "name": "Avella",
+    "type": "Hatchback"
+  },
+  {
+    "id": "kia-besta-besta",
+    "name": "Besta",
+    "type": "Van"
+  },
+  {
+    "id": "kia-capital-capital",
+    "name": "Capital",
+    "type": "Sedan"
+  },
+  {
+    "id": "kia-ceres-ceres",
+    "name": "Ceres",
+    "type": "Pickup"
+  },
+  {
+    "id": "kia-concord-concord",
+    "name": "Concord",
+    "type": "Sedan"
+  },
+  {
+    "id": "kia-elan-elan-m100-vigato",
+    "name": "Elan (M100 / Vigato)",
+    "type": "Roadster"
+  },
+  {
+    "id": "kia-pride-pride-i-ma-mb",
+    "name": "Pride I (MA/MB)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "kia-pride-pride-ii-da",
+    "name": "Pride II (DA)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "kia-pride-pride-wagon-da",
+    "name": "Pride Wagon (DA)",
+    "type": "Wagon"
+  },
+  {
+    "id": "kia-rocsta-rocsta",
+    "name": "Rocsta",
+    "type": "SUV"
+  },
+  {
+    "id": "kia-sephia-sephia-i",
+    "name": "Sephia I",
+    "type": "Sedan"
+  },
+  {
+    "id": "kia-bongo-wide-bongo-2a-gen",
+    "name": "Wide Bongo (2a gen)",
+    "type": "Pickup"
+  }
+]

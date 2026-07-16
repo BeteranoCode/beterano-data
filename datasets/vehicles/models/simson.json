@@ -1,0 +1,37 @@
+[
+  {
+    "id": "simson-supra-supra-typ-a",
+    "name": "Supra Typ A",
+    "type": "Sedan"
+  },
+  {
+    "id": "simson-supra-supra-typ-j",
+    "name": "Supra Typ J",
+    "type": "Sedan"
+  },
+  {
+    "id": "simson-supra-supra-typ-r",
+    "name": "Supra Typ R",
+    "type": "Sedan"
+  },
+  {
+    "id": "simson-supra-supra-typ-rj",
+    "name": "Supra Typ RJ",
+    "type": "Sedan"
+  },
+  {
+    "id": "simson-supra-supra-typ-s",
+    "name": "Supra Typ S",
+    "type": "Roadster"
+  },
+  {
+    "id": "simson-supra-supra-typ-s-sport-ss",
+    "name": "Supra Typ S Sport (SS)",
+    "type": "Roadster"
+  },
+  {
+    "id": "simson-supra-supra-typ-so",
+    "name": "Supra Typ So",
+    "type": "Sedan"
+  }
+]

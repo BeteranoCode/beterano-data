@@ -1,0 +1,47 @@
+[
+  {
+    "id": "auto-union-1000-s-universal-auto-union-1000-s-argentina-iasf",
+    "name": "1000 S Universal Auto Union 1000 S (Argentina, IASF)",
+    "type": "Wagon"
+  },
+  {
+    "id": "auto-union-1000-se-fissore-auto-union-1000-se-argentina-iasf-carroceria-fissore-face",
+    "name": "1000 SE Fissore Auto Union 1000 SE (Argentina, IASF / carroceria Fissore-FACE)",
+    "type": "Coupe"
+  },
+  {
+    "id": "auto-union-1000-universal-auto-union-1000-alemania",
+    "name": "1000 Universal Auto Union 1000 (Alemania)",
+    "type": "Wagon"
+  },
+  {
+    "id": "auto-union-1000-auto-union-1000-alemania",
+    "name": "Auto Union 1000 (Alemania)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auto-union-1000-s-auto-union-1000-s-alemania",
+    "name": "Auto Union 1000 S (Alemania)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auto-union-1000-s-auto-union-1000-s-argentina-iasf",
+    "name": "Auto Union 1000 S (Argentina, IASF)",
+    "type": "Sedan"
+  },
+  {
+    "id": "auto-union-1000-sp-auto-union-1000-sp-alemania-carroceria-baur",
+    "name": "Auto Union 1000 Sp (Alemania, carroceria Baur)",
+    "type": "Coupe"
+  },
+  {
+    "id": "auto-union-combi-auto-union-combi-furgon-argentina-iasf-base-dkw-f89-l",
+    "name": "Auto Union Combi / Furgon (Argentina, IASF, base DKW F89 L)",
+    "type": "Van"
+  },
+  {
+    "id": "auto-union-pick-up-auto-union-pick-up-argentina-iasf-base-dkw-f89-l",
+    "name": "Auto Union Pick-up (Argentina, IASF, base DKW F89 L)",
+    "type": "Pickup"
+  }
+]

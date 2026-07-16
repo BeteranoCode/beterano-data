@@ -1,0 +1,177 @@
+[
+  {
+    "id": "willys-aero-aero-toledo-era-kaiser",
+    "name": "Aero (Toledo, era Kaiser)",
+    "type": "Sedan"
+  },
+  {
+    "id": "willys-aero-aero-toledo",
+    "name": "Aero (Toledo)",
+    "type": "Sedan"
+  },
+  {
+    "id": "willys-aero-willys-aero-willys-brasil",
+    "name": "Aero Willys (Brasil)",
+    "type": "Sedan"
+  },
+  {
+    "id": "willys-americar-americar-modelos-37-38-48-441-442",
+    "name": "Americar (modelos 37/38/48/441/442)",
+    "type": "Sedan"
+  },
+  {
+    "id": "willys-cj-2a-cj-2a",
+    "name": "CJ-2A",
+    "type": "SUV"
+  },
+  {
+    "id": "willys-cj-3a-cj-3a",
+    "name": "CJ-3A",
+    "type": "SUV"
+  },
+  {
+    "id": "willys-cj-3b-cj-3b",
+    "name": "CJ-3B",
+    "type": "SUV"
+  },
+  {
+    "id": "willys-cj-5-cj-5-era-willys-motors",
+    "name": "CJ-5 (era Willys Motors)",
+    "type": "SUV"
+  },
+  {
+    "id": "willys-cj-6-cj-6-era-willys-motors",
+    "name": "CJ-6 (era Willys Motors)",
+    "type": "SUV"
+  },
+  {
+    "id": "willys-forward-control-fc-150-fc-150-era-willys-motors",
+    "name": "Forward Control FC-150 FC-150 (era Willys Motors)",
+    "type": "Pickup"
+  },
+  {
+    "id": "willys-forward-control-fc-170-fc-170-era-willys-motors",
+    "name": "Forward Control FC-170 FC-170 (era Willys Motors)",
+    "type": "Pickup"
+  },
+  {
+    "id": "willys-interlagos-interlagos-alpine-a108-brasil",
+    "name": "Interlagos (Alpine A108, Brasil)",
+    "type": "Coupe"
+  },
+  {
+    "id": "willys-itamaraty-itamaraty-brasil",
+    "name": "Itamaraty (Brasil)",
+    "type": "Sedan"
+  },
+  {
+    "id": "willys-jeep-station-wagon-station-wagon-463-663",
+    "name": "Jeep Station Wagon Station Wagon (463/663)",
+    "type": "Wagon"
+  },
+  {
+    "id": "willys-jeep-station-wagon-station-wagon-473-475-6-226",
+    "name": "Jeep Station Wagon Station Wagon (473/475/6-226)",
+    "type": "Wagon"
+  },
+  {
+    "id": "willys-jeep-station-wagon-station-wagon-6-226",
+    "name": "Jeep Station Wagon Station Wagon (6-226)",
+    "type": "Wagon"
+  },
+  {
+    "id": "willys-jeep-station-wagon-station-wagon-6-230",
+    "name": "Jeep Station Wagon Station Wagon (6-230)",
+    "type": "Wagon"
+  },
+  {
+    "id": "willys-jeep-station-wagon-station-wagon-685",
+    "name": "Jeep Station Wagon Station Wagon (685)",
+    "type": "Wagon"
+  },
+  {
+    "id": "willys-jeep-truck-truck-2t-4t",
+    "name": "Jeep Truck Truck (2T/4T)",
+    "type": "Pickup"
+  },
+  {
+    "id": "willys-jeep-truck-truck-473-475-685",
+    "name": "Jeep Truck Truck (473/475/685)",
+    "type": "Pickup"
+  },
+  {
+    "id": "willys-jeep-truck-truck-6-226",
+    "name": "Jeep Truck Truck (6-226)",
+    "type": "Pickup"
+  },
+  {
+    "id": "willys-jeep-truck-truck-6-230",
+    "name": "Jeep Truck Truck (6-230)",
+    "type": "Pickup"
+  },
+  {
+    "id": "willys-jeep-jeep-willys-brasil-base-cj-5",
+    "name": "Jeep Willys (Brasil, base CJ-5)",
+    "type": "SUV"
+  },
+  {
+    "id": "willys-jeepster-jeepster-vj-2",
+    "name": "Jeepster VJ-2",
+    "type": "Cabrio"
+  },
+  {
+    "id": "willys-jeepster-jeepster-vj-3",
+    "name": "Jeepster VJ-3",
+    "type": "Cabrio"
+  },
+  {
+    "id": "willys-model-77-willys-77",
+    "name": "Model 77 Willys 77",
+    "type": "Sedan"
+  },
+  {
+    "id": "willys-pick-up-pick-up-willys-jeep-brasil-luego-f-75",
+    "name": "Pick-Up Willys / Jeep (Brasil, luego F-75)",
+    "type": "Pickup"
+  },
+  {
+    "id": "willys-rural-rural-willys-brasil",
+    "name": "Rural Willys (Brasil)",
+    "type": "SUV"
+  },
+  {
+    "id": "willys-whippet-whippet-96-96a",
+    "name": "Whippet 96 / 96A",
+    "type": "Sedan"
+  },
+  {
+    "id": "willys-dauphine-willys-dauphine-brasil",
+    "name": "Willys Dauphine (Brasil)",
+    "type": "Sedan"
+  },
+  {
+    "id": "willys-gordini-willys-gordini-gordini-iii-brasil",
+    "name": "Willys Gordini / Gordini III (Brasil)",
+    "type": "Sedan"
+  },
+  {
+    "id": "willys-m38-willys-m38-mc",
+    "name": "Willys M38 (MC)",
+    "type": "SUV"
+  },
+  {
+    "id": "willys-m38a1-willys-m38a1-md",
+    "name": "Willys M38A1 (MD)",
+    "type": "SUV"
+  },
+  {
+    "id": "willys-mb-willys-mb",
+    "name": "Willys MB",
+    "type": "SUV"
+  },
+  {
+    "id": "willys-willys-knight-willys-knight-sleeve-valve",
+    "name": "Willys-Knight (sleeve-valve)",
+    "type": "Sedan"
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "lancia-appia-appia-berlina-serie-1-3",
+    "name": "Appia Berlina (Serie 1-3)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-appia-appia-coup-gt-pininfarina-zagato",
+    "name": "Appia Coupé/GT (Pininfarina/Zagato)",
+    "type": "Coupe"
+  },
+  {
+    "id": "lancia-aprilia-aprilia-1937-1949",
+    "name": "Aprilia (1937-1949)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-ardea-ardea-1939-1953",
+    "name": "Ardea (1939-1953)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-aurelia-aurelia-b20-gt",
+    "name": "Aurelia B20 GT",
+    "type": "Coupe"
+  },
+  {
+    "id": "lancia-aurelia-aurelia-b24-spider-convertible",
+    "name": "Aurelia B24 Spider/Convertible",
+    "type": "Spider"
+  },
+  {
+    "id": "lancia-aurelia-aurelia-berlina-b10-b22",
+    "name": "Aurelia Berlina (B10-B22)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-beta-beta-berlina",
+    "name": "Beta Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-beta-beta-coup",
+    "name": "Beta Coupé",
+    "type": "Coupe"
+  },
+  {
+    "id": "lancia-beta-beta-hpe",
+    "name": "Beta HPE",
+    "type": "Wagon"
+  },
+  {
+    "id": "lancia-montecarlo-beta-montecarlo",
+    "name": "Beta Montecarlo",
+    "type": "Coupe"
+  },
+  {
+    "id": "lancia-beta-beta-spider-zagato",
+    "name": "Beta Spider (Zagato)",
+    "type": "Spider"
+  },
+  {
+    "id": "lancia-beta-beta-trevi",
+    "name": "Beta Trevi",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-dedra-dedra-tipo-835",
+    "name": "Dedra (Tipo 835)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-dedra-dedra-station-wagon",
+    "name": "Dedra Station Wagon",
+    "type": "Wagon"
+  },
+  {
+    "id": "lancia-dedra-dedra-turbodiesel",
+    "name": "Dedra turbodiesel",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-delta-delta-i-tipo-831",
+    "name": "Delta (I, Tipo 831)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "lancia-delta-delta-ii-tipo-836",
+    "name": "Delta (II, Tipo 836)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "lancia-delta-delta-hf-integrale-16v",
+    "name": "Delta HF Integrale 16v",
+    "type": "Hatchback"
+  },
+  {
+    "id": "lancia-delta-delta-hf-integrale-8v",
+    "name": "Delta HF Integrale 8v",
+    "type": "Hatchback"
+  },
+  {
+    "id": "lancia-delta-delta-hf-integrale-evoluzione",
+    "name": "Delta HF Integrale Evoluzione",
+    "type": "Hatchback"
+  },
+  {
+    "id": "lancia-delta-delta-hf-turbo",
+    "name": "Delta HF Turbo",
+    "type": "Hatchback"
+  },
+  {
+    "id": "lancia-delta-delta-hpe-ii",
+    "name": "Delta HPE (II)",
+    "type": "Hatchback"
+  },
+  {
+    "id": "lancia-flaminia-flaminia-berlina",
+    "name": "Flaminia Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-flaminia-flaminia-coup-pininfarina",
+    "name": "Flaminia Coupé (Pininfarina)",
+    "type": "Coupe"
+  },
+  {
+    "id": "lancia-flaminia-flaminia-gt-gtl-convertible-touring",
+    "name": "Flaminia GT/GTL/Convertible (Touring)",
+    "type": "Cabrio"
+  },
+  {
+    "id": "lancia-flaminia-flaminia-sport-super-sport-zagato",
+    "name": "Flaminia Sport/Super Sport (Zagato)",
+    "type": "Coupe"
+  },
+  {
+    "id": "lancia-flavia-flavia-berlina",
+    "name": "Flavia Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-flavia-flavia-coup-pininfarina",
+    "name": "Flavia Coupé (Pininfarina)",
+    "type": "Coupe"
+  },
+  {
+    "id": "lancia-flavia-flavia-sport-zagato",
+    "name": "Flavia Sport (Zagato)",
+    "type": "Coupe"
+  },
+  {
+    "id": "lancia-fulvia-fulvia-berlina",
+    "name": "Fulvia Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-fulvia-fulvia-coup",
+    "name": "Fulvia Coupé",
+    "type": "Coupe"
+  },
+  {
+    "id": "lancia-fulvia-fulvia-coup-hf",
+    "name": "Fulvia Coupé HF",
+    "type": "Coupe"
+  },
+  {
+    "id": "lancia-fulvia-fulvia-sport-zagato",
+    "name": "Fulvia Sport (Zagato)",
+    "type": "Coupe"
+  },
+  {
+    "id": "lancia-gamma-gamma-berlina",
+    "name": "Gamma Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-gamma-gamma-coup",
+    "name": "Gamma Coupé",
+    "type": "Coupe"
+  },
+  {
+    "id": "lancia-kappa-kappa-24-jtd",
+    "name": "Kappa 2.4 JTD",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-kappa-kappa-berlina",
+    "name": "Kappa Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-kappa-kappa-station-wagon",
+    "name": "Kappa Station Wagon",
+    "type": "Wagon"
+  },
+  {
+    "id": "lancia-lambda-lambda-1922-1931",
+    "name": "Lambda (1922-1931)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-2000-lancia-2000-berlina",
+    "name": "Lancia 2000 Berlina",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-prisma-prisma-tipo-831",
+    "name": "Prisma (Tipo 831)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-prisma-prisma-turbodiesel",
+    "name": "Prisma turbodiesel",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-stratos-stratos-hf",
+    "name": "Stratos HF",
+    "type": "Coupe"
+  },
+  {
+    "id": "lancia-thema-thema-tipo-834",
+    "name": "Thema (Tipo 834)",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-thema-thema-832",
+    "name": "Thema 8.32",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-thema-thema-station-wagon",
+    "name": "Thema Station Wagon",
+    "type": "Wagon"
+  },
+  {
+    "id": "lancia-thema-thema-turbodiesel",
+    "name": "Thema turbodiesel",
+    "type": "Sedan"
+  },
+  {
+    "id": "lancia-y10-y10",
+    "name": "Y10",
+    "type": "Hatchback"
+  }
+]
