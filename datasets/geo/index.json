@@ -1,0 +1,16 @@
+{
+  "countries": 250,
+  "countriesWithCities": 10,
+  "citiesByCountry": {
+    "ES": 69,
+    "PT": 26,
+    "FR": 36,
+    "DE": 38,
+    "AT": 20,
+    "IT": 41,
+    "NL": 20,
+    "BE": 20,
+    "CH": 20,
+    "GB": 32
+  }
+}
