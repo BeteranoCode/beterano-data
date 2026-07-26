@@ -1,0 +1,42 @@
+[
+  {
+    "code": "KG-B",
+    "name": "Batken Oblasty",
+    "cities": []
+  },
+  {
+    "code": "KG-GB",
+    "name": "Bishkek Shaary",
+    "cities": []
+  },
+  {
+    "code": "KG-C",
+    "name": "Chuy Oblasty (Bishkek)",
+    "cities": []
+  },
+  {
+    "code": "KG-J",
+    "name": "Jalal-Abad Oblasty",
+    "cities": []
+  },
+  {
+    "code": "KG-N",
+    "name": "Naryn Oblasty",
+    "cities": []
+  },
+  {
+    "code": "KG-O",
+    "name": "Osh Oblasty",
+    "cities": []
+  },
+  {
+    "code": "KG-T",
+    "name": "Talas Oblasty",
+    "cities": []
+  },
+  {
+    "code": "KG-Y",
+    "name": "Ysyk-Kol Oblasty (Karakol)",
+    "cities": []
+  }
+]

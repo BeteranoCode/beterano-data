@@ -1,0 +1,62 @@
+[
+  {
+    "code": "GE-AB",
+    "name": "Abkhazia (Sokhumi)",
+    "cities": []
+  },
+  {
+    "code": "GE-AJ",
+    "name": "Ajaria (Bat'umi)",
+    "cities": []
+  },
+  {
+    "code": "GE-GU",
+    "name": "Guria",
+    "cities": []
+  },
+  {
+    "code": "GE-IM",
+    "name": "Imereti",
+    "cities": []
+  },
+  {
+    "code": "GE-KA",
+    "name": "K'akheti",
+    "cities": []
+  },
+  {
+    "code": "GE-KK",
+    "name": "Kvemo Kartli",
+    "cities": []
+  },
+  {
+    "code": "GE-MM",
+    "name": "Mtshkheta-Mtianeti",
+    "cities": []
+  },
+  {
+    "code": "GE-RL",
+    "name": "Rach'a-Lexhkumi-KvemoSvaneti",
+    "cities": []
+  },
+  {
+    "code": "GE-SZ",
+    "name": "Samegrelo-Zemo Svaneti",
+    "cities": []
+  },
+  {
+    "code": "GE-SJ",
+    "name": "Samtskhe-Javakheti",
+    "cities": []
+  },
+  {
+    "code": "GE-SK",
+    "name": "Shida Kartli",
+    "cities": []
+  },
+  {
+    "code": "GE-TB",
+    "name": "Tbilisi",
+    "cities": []
+  }
+]

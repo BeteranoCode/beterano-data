@@ -1,0 +1,387 @@
+[
+  {
+    "code": "TH-37",
+    "name": "Amnat Charoen",
+    "cities": []
+  },
+  {
+    "code": "TH-15",
+    "name": "Ang Thong",
+    "cities": []
+  },
+  {
+    "code": "TH-38",
+    "name": "Bueng Kan",
+    "cities": []
+  },
+  {
+    "code": "TH-31",
+    "name": "Buri Ram",
+    "cities": []
+  },
+  {
+    "code": "TH-24",
+    "name": "Chachoengsao",
+    "cities": []
+  },
+  {
+    "code": "TH-18",
+    "name": "Chai Nat",
+    "cities": []
+  },
+  {
+    "code": "TH-36",
+    "name": "Chaiyaphum",
+    "cities": []
+  },
+  {
+    "code": "TH-22",
+    "name": "Chanthaburi",
+    "cities": []
+  },
+  {
+    "code": "TH-50",
+    "name": "Chiang Mai",
+    "cities": []
+  },
+  {
+    "code": "TH-57",
+    "name": "Chiang Rai",
+    "cities": []
+  },
+  {
+    "code": "TH-20",
+    "name": "Chon Buri",
+    "cities": []
+  },
+  {
+    "code": "TH-86",
+    "name": "Chumphon",
+    "cities": []
+  },
+  {
+    "code": "TH-46",
+    "name": "Kalasin",
+    "cities": []
+  },
+  {
+    "code": "TH-62",
+    "name": "Kamphaeng Phet",
+    "cities": []
+  },
+  {
+    "code": "TH-71",
+    "name": "Kanchanaburi",
+    "cities": []
+  },
+  {
+    "code": "TH-40",
+    "name": "Khon Kaen",
+    "cities": []
+  },
+  {
+    "code": "TH-81",
+    "name": "Krabi",
+    "cities": []
+  },
+  {
+    "code": "TH-10",
+    "name": "Krung Thep Mahanakhon (Bangkok)",
+    "cities": []
+  },
+  {
+    "code": "TH-52",
+    "name": "Lampang",
+    "cities": []
+  },
+  {
+    "code": "TH-51",
+    "name": "Lamphun",
+    "cities": []
+  },
+  {
+    "code": "TH-42",
+    "name": "Loei",
+    "cities": []
+  },
+  {
+    "code": "TH-16",
+    "name": "Lop Buri",
+    "cities": []
+  },
+  {
+    "code": "TH-58",
+    "name": "Mae Hong Son",
+    "cities": []
+  },
+  {
+    "code": "TH-44",
+    "name": "Maha Sarakham",
+    "cities": []
+  },
+  {
+    "code": "TH-49",
+    "name": "Mukdahan",
+    "cities": []
+  },
+  {
+    "code": "TH-26",
+    "name": "Nakhon Nayok",
+    "cities": []
+  },
+  {
+    "code": "TH-48",
+    "name": "Nakhon Phanom",
+    "cities": []
+  },
+  {
+    "code": "TH-73",
+    "name": "Nakhon Phathom",
+    "cities": []
+  },
+  {
+    "code": "TH-30",
+    "name": "Nakhon Ratchasima",
+    "cities": []
+  },
+  {
+    "code": "TH-60",
+    "name": "Nakhon Sawan",
+    "cities": []
+  },
+  {
+    "code": "TH-80",
+    "name": "Nakhon Si Thammarat",
+    "cities": []
+  },
+  {
+    "code": "TH-55",
+    "name": "Nan",
+    "cities": []
+  },
+  {
+    "code": "TH-96",
+    "name": "Narathiwat",
+    "cities": []
+  },
+  {
+    "code": "TH-39",
+    "name": "Nong Bua Lam Phu",
+    "cities": []
+  },
+  {
+    "code": "TH-43",
+    "name": "Nong Khai",
+    "cities": []
+  },
+  {
+    "code": "TH-12",
+    "name": "Nonthaburi",
+    "cities": []
+  },
+  {
+    "code": "TH-13",
+    "name": "Pathum Thani",
+    "cities": []
+  },
+  {
+    "code": "TH-94",
+    "name": "Pattani",
+    "cities": []
+  },
+  {
+    "code": "TH-82",
+    "name": "Phangnga",
+    "cities": []
+  },
+  {
+    "code": "TH-93",
+    "name": "Phatthalung",
+    "cities": []
+  },
+  {
+    "code": "TH-56",
+    "name": "Phayao",
+    "cities": []
+  },
+  {
+    "code": "TH-67",
+    "name": "Phetchabun",
+    "cities": []
+  },
+  {
+    "code": "TH-76",
+    "name": "Phetchaburi",
+    "cities": []
+  },
+  {
+    "code": "TH-66",
+    "name": "Phichit",
+    "cities": []
+  },
+  {
+    "code": "TH-65",
+    "name": "Phitsanulok",
+    "cities": []
+  },
+  {
+    "code": "TH-14",
+    "name": "Phra Nakhon Si Ayutthaya",
+    "cities": []
+  },
+  {
+    "code": "TH-54",
+    "name": "Phrae",
+    "cities": []
+  },
+  {
+    "code": "TH-83",
+    "name": "Phuket",
+    "cities": []
+  },
+  {
+    "code": "TH-25",
+    "name": "Prachin Buri",
+    "cities": []
+  },
+  {
+    "code": "TH-77",
+    "name": "Prachuap Khiri Khan",
+    "cities": []
+  },
+  {
+    "code": "TH-85",
+    "name": "Ranong",
+    "cities": []
+  },
+  {
+    "code": "TH-70",
+    "name": "Ratchaburi",
+    "cities": []
+  },
+  {
+    "code": "TH-21",
+    "name": "Rayong",
+    "cities": []
+  },
+  {
+    "code": "TH-45",
+    "name": "Roi Et",
+    "cities": []
+  },
+  {
+    "code": "TH-27",
+    "name": "Sa Kaeo",
+    "cities": []
+  },
+  {
+    "code": "TH-47",
+    "name": "Sakon Nakhon",
+    "cities": []
+  },
+  {
+    "code": "TH-11",
+    "name": "Samut Prakan",
+    "cities": []
+  },
+  {
+    "code": "TH-74",
+    "name": "Samut Sakhon",
+    "cities": []
+  },
+  {
+    "code": "TH-75",
+    "name": "Samut Songkhram",
+    "cities": []
+  },
+  {
+    "code": "TH-19",
+    "name": "Saraburi",
+    "cities": []
+  },
+  {
+    "code": "TH-91",
+    "name": "Satun",
+    "cities": []
+  },
+  {
+    "code": "TH-33",
+    "name": "Si Sa ket",
+    "cities": []
+  },
+  {
+    "code": "TH-17",
+    "name": "Sing Buri",
+    "cities": []
+  },
+  {
+    "code": "TH-90",
+    "name": "Songkhla",
+    "cities": []
+  },
+  {
+    "code": "TH-64",
+    "name": "Sukhothai",
+    "cities": []
+  },
+  {
+    "code": "TH-72",
+    "name": "Suphan Buri",
+    "cities": []
+  },
+  {
+    "code": "TH-84",
+    "name": "Surat Thani",
+    "cities": []
+  },
+  {
+    "code": "TH-32",
+    "name": "Surin",
+    "cities": []
+  },
+  {
+    "code": "TH-63",
+    "name": "Tak",
+    "cities": []
+  },
+  {
+    "code": "TH-92",
+    "name": "Trang",
+    "cities": []
+  },
+  {
+    "code": "TH-23",
+    "name": "Trat",
+    "cities": []
+  },
+  {
+    "code": "TH-34",
+    "name": "Ubon Ratchathani",
+    "cities": []
+  },
+  {
+    "code": "TH-41",
+    "name": "Udon Thani",
+    "cities": []
+  },
+  {
+    "code": "TH-61",
+    "name": "Uthai Thani",
+    "cities": []
+  },
+  {
+    "code": "TH-53",
+    "name": "Uttaradit",
+    "cities": []
+  },
+  {
+    "code": "TH-95",
+    "name": "Yala",
+    "cities": []
+  },
+  {
+    "code": "TH-35",
+    "name": "Yasothon",
+    "cities": []
+  }
+]

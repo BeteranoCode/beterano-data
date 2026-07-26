@@ -1,0 +1,76 @@
+[
+  {
+    "code": "AT-1",
+    "name": "Burgenland",
+    "cities": [
+      "Eisenstadt"
+    ]
+  },
+  {
+    "code": "AT-2",
+    "name": "Kärnten",
+    "cities": [
+      "Klagenfurt",
+      "Villach",
+      "Wolfsberg"
+    ]
+  },
+  {
+    "code": "AT-3",
+    "name": "Niederösterreich",
+    "cities": [
+      "Baden",
+      "Krems an der Donau",
+      "Sankt Pölten",
+      "Wiener Neustadt"
+    ]
+  },
+  {
+    "code": "AT-4",
+    "name": "Oberösterreich",
+    "cities": [
+      "Leonding",
+      "Linz",
+      "Steyr",
+      "Wels"
+    ]
+  },
+  {
+    "code": "AT-5",
+    "name": "Salzburg",
+    "cities": [
+      "Salzburg"
+    ]
+  },
+  {
+    "code": "AT-6",
+    "name": "Steiermark",
+    "cities": [
+      "Graz",
+      "Leoben"
+    ]
+  },
+  {
+    "code": "AT-7",
+    "name": "Tirol",
+    "cities": [
+      "Innsbruck"
+    ]
+  },
+  {
+    "code": "AT-8",
+    "name": "Vorarlberg",
+    "cities": [
+      "Bregenz",
+      "Dornbirn",
+      "Feldkirch"
+    ]
+  },
+  {
+    "code": "AT-9",
+    "name": "Wien",
+    "cities": [
+      "Wien"
+    ]
+  }
+]

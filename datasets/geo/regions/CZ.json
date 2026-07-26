@@ -1,0 +1,72 @@
+[
+  {
+    "code": "CZ-10",
+    "name": "Hlavní město Praha",
+    "cities": []
+  },
+  {
+    "code": "CZ-31",
+    "name": "Jihočeský kraj",
+    "cities": []
+  },
+  {
+    "code": "CZ-64",
+    "name": "Jihomoravský kraj",
+    "cities": []
+  },
+  {
+    "code": "CZ-41",
+    "name": "Karlovarský kraj",
+    "cities": []
+  },
+  {
+    "code": "CZ-52",
+    "name": "Královéhradecký kraj",
+    "cities": []
+  },
+  {
+    "code": "CZ-51",
+    "name": "Liberecký kraj",
+    "cities": []
+  },
+  {
+    "code": "CZ-80",
+    "name": "Moravskoslezský kraj",
+    "cities": []
+  },
+  {
+    "code": "CZ-71",
+    "name": "Olomoucký kraj",
+    "cities": []
+  },
+  {
+    "code": "CZ-53",
+    "name": "Pardubický kraj",
+    "cities": []
+  },
+  {
+    "code": "CZ-32",
+    "name": "Plzeňský kraj",
+    "cities": []
+  },
+  {
+    "code": "CZ-20",
+    "name": "Středočeský kraj",
+    "cities": []
+  },
+  {
+    "code": "CZ-42",
+    "name": "Ústecký kraj",
+    "cities": []
+  },
+  {
+    "code": "CZ-63",
+    "name": "Vysočina",
+    "cities": []
+  },
+  {
+    "code": "CZ-72",
+    "name": "Zlínský kraj",
+    "cities": []
+  }
+]

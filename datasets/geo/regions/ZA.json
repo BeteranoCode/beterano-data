@@ -1,0 +1,47 @@
+[
+  {
+    "code": "ZA-EC",
+    "name": "Eastern Cape",
+    "cities": []
+  },
+  {
+    "code": "ZA-FS",
+    "name": "Free State",
+    "cities": []
+  },
+  {
+    "code": "ZA-GT",
+    "name": "Gauteng",
+    "cities": []
+  },
+  {
+    "code": "ZA-NL",
+    "name": "KwaZulu-Natal",
+    "cities": []
+  },
+  {
+    "code": "ZA-LP",
+    "name": "Limpopo",
+    "cities": []
+  },
+  {
+    "code": "ZA-MP",
+    "name": "Mpumalanga",
+    "cities": []
+  },
+  {
+    "code": "ZA-NW",
+    "name": "North West",
+    "cities": []
+  },
+  {
+    "code": "ZA-NC",
+    "name": "Northern Cape",
+    "cities": []
+  },
+  {
+    "code": "ZA-WC",
+    "name": "Western Cape",
+    "cities": []
+  }
+]

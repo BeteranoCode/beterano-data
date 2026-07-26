@@ -1,0 +1,82 @@
+[
+  {
+    "code": "KZ-ALA",
+    "name": "Almaty",
+    "cities": []
+  },
+  {
+    "code": "KZ-AKM",
+    "name": "Aqmola",
+    "cities": []
+  },
+  {
+    "code": "KZ-AKT",
+    "name": "Aqtobe",
+    "cities": []
+  },
+  {
+    "code": "KZ-AST",
+    "name": "Astana",
+    "cities": []
+  },
+  {
+    "code": "KZ-ATY",
+    "name": "Atyrau",
+    "cities": []
+  },
+  {
+    "code": "KZ-ZAP",
+    "name": "Batys Qazaqstan",
+    "cities": []
+  },
+  {
+    "code": "KZ-undefined",
+    "name": "Bayqongyr",
+    "cities": []
+  },
+  {
+    "code": "KZ-MAN",
+    "name": "Mangghystau",
+    "cities": []
+  },
+  {
+    "code": "KZ-YUZ",
+    "name": "Ongtustik Qazaqstan",
+    "cities": []
+  },
+  {
+    "code": "KZ-PAV",
+    "name": "Pavlodar",
+    "cities": []
+  },
+  {
+    "code": "KZ-KAR",
+    "name": "Qaraghandy",
+    "cities": []
+  },
+  {
+    "code": "KZ-KUS",
+    "name": "Qostanay",
+    "cities": []
+  },
+  {
+    "code": "KZ-KZY",
+    "name": "Qyzylorda",
+    "cities": []
+  },
+  {
+    "code": "KZ-VOS",
+    "name": "Shyghys Qazaqstan",
+    "cities": []
+  },
+  {
+    "code": "KZ-SEV",
+    "name": "Soltustik Qazaqstan",
+    "cities": []
+  },
+  {
+    "code": "KZ-ZHA",
+    "name": "Zhambyl",
+    "cities": []
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "code": "CV-BV",
+    "name": "Boa Vista",
+    "cities": []
+  },
+  {
+    "code": "CV-BR",
+    "name": "Brava",
+    "cities": []
+  },
+  {
+    "code": "CV-CS",
+    "name": "Calheta de São Miguel",
+    "cities": []
+  },
+  {
+    "code": "CV-MA",
+    "name": "Maio",
+    "cities": []
+  },
+  {
+    "code": "CV-MO",
+    "name": "Mosteiros",
+    "cities": []
+  },
+  {
+    "code": "CV-PA",
+    "name": "Paúl",
+    "cities": []
+  },
+  {
+    "code": "CV-PN",
+    "name": "Porto Novo",
+    "cities": []
+  },
+  {
+    "code": "CV-PR",
+    "name": "Praia",
+    "cities": []
+  },
+  {
+    "code": "CV-RB",
+    "name": "Ribeira Brava",
+    "cities": []
+  },
+  {
+    "code": "CV-RG",
+    "name": "Ribeira Grande",
+    "cities": []
+  },
+  {
+    "code": "CV-SL",
+    "name": "Sal",
+    "cities": []
+  },
+  {
+    "code": "CV-CA",
+    "name": "Santa Catarina",
+    "cities": []
+  },
+  {
+    "code": "CV-CR",
+    "name": "Santa Cruz",
+    "cities": []
+  },
+  {
+    "code": "CV-SD",
+    "name": "São Domingos",
+    "cities": []
+  },
+  {
+    "code": "CV-SF",
+    "name": "São Filipe",
+    "cities": []
+  },
+  {
+    "code": "CV-SN",
+    "name": "São Nicolau",
+    "cities": []
+  },
+  {
+    "code": "CV-SV",
+    "name": "São Vicente",
+    "cities": []
+  },
+  {
+    "code": "CV-TA",
+    "name": "Tarrafal",
+    "cities": []
+  },
+  {
+    "code": "CV-TS",
+    "name": "Tarrafal de São Nicolau",
+    "cities": []
+  }
+]

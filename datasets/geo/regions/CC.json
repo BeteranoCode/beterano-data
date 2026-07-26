@@ -1,0 +1,32 @@
+[
+  {
+    "code": "CC-DI",
+    "name": "Direction Island",
+    "cities": []
+  },
+  {
+    "code": "CC-HM",
+    "name": "Home Island",
+    "cities": []
+  },
+  {
+    "code": "CC-HR",
+    "name": "Horsburgh Island",
+    "cities": []
+  },
+  {
+    "code": "CC-NK",
+    "name": "North Keeling Island",
+    "cities": []
+  },
+  {
+    "code": "CC-SI",
+    "name": "South Island",
+    "cities": []
+  },
+  {
+    "code": "CC-WI",
+    "name": "West Island",
+    "cities": []
+  }
+]

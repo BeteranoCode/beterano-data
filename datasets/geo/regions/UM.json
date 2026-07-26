@@ -1,0 +1,57 @@
+[
+  {
+    "code": "UM-BN",
+    "name": "Bajo Nuevo Bank",
+    "cities": []
+  },
+  {
+    "code": "UM-81",
+    "name": "Baker Island",
+    "cities": []
+  },
+  {
+    "code": "UM-84",
+    "name": "Howland Island",
+    "cities": []
+  },
+  {
+    "code": "UM-86",
+    "name": "Jarvis Island",
+    "cities": []
+  },
+  {
+    "code": "UM-67",
+    "name": "Johnston Atoll",
+    "cities": []
+  },
+  {
+    "code": "UM-89",
+    "name": "Kingman Reef",
+    "cities": []
+  },
+  {
+    "code": "UM-71",
+    "name": "Midway Islands",
+    "cities": []
+  },
+  {
+    "code": "UM-76",
+    "name": "Navassa Island",
+    "cities": []
+  },
+  {
+    "code": "UM-95",
+    "name": "Palmyra Atoll",
+    "cities": []
+  },
+  {
+    "code": "UM-SB",
+    "name": "Serranilla Bank",
+    "cities": []
+  },
+  {
+    "code": "UM-79",
+    "name": "Wake Island",
+    "cities": []
+  }
+]

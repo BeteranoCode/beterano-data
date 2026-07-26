@@ -1,0 +1,117 @@
+[
+  {
+    "code": "ME-01",
+    "name": "Andrijevica",
+    "cities": []
+  },
+  {
+    "code": "ME-02",
+    "name": "Bar",
+    "cities": []
+  },
+  {
+    "code": "ME-03",
+    "name": "Berane",
+    "cities": []
+  },
+  {
+    "code": "ME-04",
+    "name": "Bijelo Polje",
+    "cities": []
+  },
+  {
+    "code": "ME-05",
+    "name": "Budva",
+    "cities": []
+  },
+  {
+    "code": "ME-06",
+    "name": "Cetinje",
+    "cities": []
+  },
+  {
+    "code": "ME-07",
+    "name": "Danilovgrad",
+    "cities": []
+  },
+  {
+    "code": "ME-22",
+    "name": "Gusinje",
+    "cities": []
+  },
+  {
+    "code": "ME-08",
+    "name": "Herceg Novi",
+    "cities": []
+  },
+  {
+    "code": "ME-09",
+    "name": "Kolašin",
+    "cities": []
+  },
+  {
+    "code": "ME-10",
+    "name": "Kotor",
+    "cities": []
+  },
+  {
+    "code": "ME-11",
+    "name": "Mojkovac",
+    "cities": []
+  },
+  {
+    "code": "ME-12",
+    "name": "Nikšić",
+    "cities": []
+  },
+  {
+    "code": "ME-23",
+    "name": "Petnica",
+    "cities": []
+  },
+  {
+    "code": "ME-13",
+    "name": "Plav",
+    "cities": []
+  },
+  {
+    "code": "ME-15",
+    "name": "Pljevlja",
+    "cities": []
+  },
+  {
+    "code": "ME-14",
+    "name": "Plužine",
+    "cities": []
+  },
+  {
+    "code": "ME-16",
+    "name": "Podgorica",
+    "cities": []
+  },
+  {
+    "code": "ME-17",
+    "name": "Rožaje",
+    "cities": []
+  },
+  {
+    "code": "ME-18",
+    "name": "Šavnik",
+    "cities": []
+  },
+  {
+    "code": "ME-19",
+    "name": "Tivat",
+    "cities": []
+  },
+  {
+    "code": "ME-20",
+    "name": "Ulcinj",
+    "cities": []
+  },
+  {
+    "code": "ME-21",
+    "name": "Žabljak",
+    "cities": []
+  }
+]

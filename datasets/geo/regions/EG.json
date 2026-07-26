@@ -1,0 +1,147 @@
+[
+  {
+    "code": "EG-ALX",
+    "name": "Alexandria",
+    "cities": []
+  },
+  {
+    "code": "EG-ASN",
+    "name": "Aswan",
+    "cities": []
+  },
+  {
+    "code": "EG-AST",
+    "name": "Asyout",
+    "cities": []
+  },
+  {
+    "code": "EG-BNS",
+    "name": "Bani Sueif",
+    "cities": []
+  },
+  {
+    "code": "EG-BH",
+    "name": "Beheira",
+    "cities": []
+  },
+  {
+    "code": "EG-C",
+    "name": "Cairo",
+    "cities": []
+  },
+  {
+    "code": "EG-DK",
+    "name": "Daqahlia",
+    "cities": []
+  },
+  {
+    "code": "EG-DT",
+    "name": "Dumiat",
+    "cities": []
+  },
+  {
+    "code": "EG-BA",
+    "name": "El Bahr El Ahmar",
+    "cities": []
+  },
+  {
+    "code": "EG-IS",
+    "name": "El Ismailia",
+    "cities": []
+  },
+  {
+    "code": "EG-SUZ",
+    "name": "El Suez",
+    "cities": []
+  },
+  {
+    "code": "EG-WAD",
+    "name": "El Wadi El Gedeed",
+    "cities": []
+  },
+  {
+    "code": "EG-FYM",
+    "name": "Fayoum",
+    "cities": []
+  },
+  {
+    "code": "EG-GH",
+    "name": "Gharbia",
+    "cities": []
+  },
+  {
+    "code": "EG-GZ",
+    "name": "Giza",
+    "cities": []
+  },
+  {
+    "code": "EG-HU",
+    "name": "Helwan",
+    "cities": []
+  },
+  {
+    "code": "EG-KFS",
+    "name": "Kafr El Sheikh",
+    "cities": []
+  },
+  {
+    "code": "EG-LX",
+    "name": "Luxor",
+    "cities": []
+  },
+  {
+    "code": "EG-MT",
+    "name": "Matrouh",
+    "cities": []
+  },
+  {
+    "code": "EG-MN",
+    "name": "Menia",
+    "cities": []
+  },
+  {
+    "code": "EG-MNF",
+    "name": "Menofia",
+    "cities": []
+  },
+  {
+    "code": "EG-SIN",
+    "name": "North Sinai",
+    "cities": []
+  },
+  {
+    "code": "EG-PTS",
+    "name": "Port Said",
+    "cities": []
+  },
+  {
+    "code": "EG-KB",
+    "name": "Qalubia",
+    "cities": []
+  },
+  {
+    "code": "EG-KN",
+    "name": "Qena",
+    "cities": []
+  },
+  {
+    "code": "EG-SHR",
+    "name": "Sharqia",
+    "cities": []
+  },
+  {
+    "code": "EG-SU",
+    "name": "Sixth of October",
+    "cities": []
+  },
+  {
+    "code": "EG-SHG",
+    "name": "Sohag",
+    "cities": []
+  },
+  {
+    "code": "EG-JS",
+    "name": "South Sinai",
+    "cities": []
+  }
+]

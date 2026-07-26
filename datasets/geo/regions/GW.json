@@ -1,0 +1,47 @@
+[
+  {
+    "code": "GW-BA",
+    "name": "Bafatá",
+    "cities": []
+  },
+  {
+    "code": "GW-BM",
+    "name": "Biombo",
+    "cities": []
+  },
+  {
+    "code": "GW-BS",
+    "name": "Bissau",
+    "cities": []
+  },
+  {
+    "code": "GW-BL",
+    "name": "Bolama-Bijagos",
+    "cities": []
+  },
+  {
+    "code": "GW-CA",
+    "name": "Cacheu",
+    "cities": []
+  },
+  {
+    "code": "GW-GA",
+    "name": "Gabú",
+    "cities": []
+  },
+  {
+    "code": "GW-OI",
+    "name": "Oio",
+    "cities": []
+  },
+  {
+    "code": "GW-QU",
+    "name": "Quinara",
+    "cities": []
+  },
+  {
+    "code": "GW-TO",
+    "name": "Tombali",
+    "cities": []
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "code": "SR-BR",
+    "name": "Brokopondo",
+    "cities": []
+  },
+  {
+    "code": "SR-CM",
+    "name": "Commewijne",
+    "cities": []
+  },
+  {
+    "code": "SR-CR",
+    "name": "Coronie",
+    "cities": []
+  },
+  {
+    "code": "SR-MA",
+    "name": "Marowijne",
+    "cities": []
+  },
+  {
+    "code": "SR-NI",
+    "name": "Nickerie",
+    "cities": []
+  },
+  {
+    "code": "SR-PR",
+    "name": "Para",
+    "cities": []
+  },
+  {
+    "code": "SR-PM",
+    "name": "Paramaribo",
+    "cities": []
+  },
+  {
+    "code": "SR-SA",
+    "name": "Saramacca",
+    "cities": []
+  },
+  {
+    "code": "SR-SI",
+    "name": "Sipaliwini",
+    "cities": []
+  },
+  {
+    "code": "SR-WA",
+    "name": "Wanica",
+    "cities": []
+  }
+]

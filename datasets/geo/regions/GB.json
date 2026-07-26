@@ -1,0 +1,58 @@
+[
+  {
+    "code": "GB-SCT",
+    "name": "Escocia",
+    "cities": [
+      "Aberdeen",
+      "Dundee",
+      "Edinburgh",
+      "Glasgow"
+    ]
+  },
+  {
+    "code": "GB-WLS",
+    "name": "Gales",
+    "cities": [
+      "Cardiff"
+    ]
+  },
+  {
+    "code": "GB-ENG",
+    "name": "Inglaterra",
+    "cities": [
+      "Birmingham",
+      "Brighton",
+      "Bristol",
+      "Cambridge",
+      "Coventry",
+      "Derby",
+      "Kingston upon Hull",
+      "Leeds",
+      "Leicester",
+      "Liverpool",
+      "London",
+      "Manchester",
+      "Milton Keynes",
+      "Newcastle upon Tyne",
+      "Norwich",
+      "Nottingham",
+      "Oxford",
+      "Plymouth",
+      "Portsmouth",
+      "Preston",
+      "Reading",
+      "Sheffield",
+      "Southampton",
+      "Stoke-on-Trent",
+      "Wolverhampton",
+      "York"
+    ]
+  },
+  {
+    "code": "GB-NIR",
+    "name": "Irlanda del Norte",
+    "cities": [
+      "Belfast"
+    ]
+  }
+]

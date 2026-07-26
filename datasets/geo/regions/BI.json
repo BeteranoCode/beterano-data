@@ -1,0 +1,87 @@
+[
+  {
+    "code": "BI-BB",
+    "name": "Bubanza",
+    "cities": []
+  },
+  {
+    "code": "BI-BM",
+    "name": "Bujumbura Mairie",
+    "cities": []
+  },
+  {
+    "code": "BI-BL",
+    "name": "Bujumbura Rural",
+    "cities": []
+  },
+  {
+    "code": "BI-BR",
+    "name": "Bururi",
+    "cities": []
+  },
+  {
+    "code": "BI-CA",
+    "name": "Cankuzo",
+    "cities": []
+  },
+  {
+    "code": "BI-CI",
+    "name": "Cibitoke",
+    "cities": []
+  },
+  {
+    "code": "BI-GI",
+    "name": "Gitega",
+    "cities": []
+  },
+  {
+    "code": "BI-KR",
+    "name": "Karuzi",
+    "cities": []
+  },
+  {
+    "code": "BI-KY",
+    "name": "Kayanza",
+    "cities": []
+  },
+  {
+    "code": "BI-KI",
+    "name": "Kirundo",
+    "cities": []
+  },
+  {
+    "code": "BI-MA",
+    "name": "Makamba",
+    "cities": []
+  },
+  {
+    "code": "BI-MU",
+    "name": "Muramvya",
+    "cities": []
+  },
+  {
+    "code": "BI-MY",
+    "name": "Muyinga",
+    "cities": []
+  },
+  {
+    "code": "BI-MW",
+    "name": "Mwaro",
+    "cities": []
+  },
+  {
+    "code": "BI-NG",
+    "name": "Ngozi",
+    "cities": []
+  },
+  {
+    "code": "BI-RT",
+    "name": "Rutana",
+    "cities": []
+  },
+  {
+    "code": "BI-RY",
+    "name": "Ruyigi",
+    "cities": []
+  }
+]

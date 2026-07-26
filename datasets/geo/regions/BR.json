@@ -1,0 +1,137 @@
+[
+  {
+    "code": "BR-AC",
+    "name": "Acre",
+    "cities": []
+  },
+  {
+    "code": "BR-AL",
+    "name": "Alagoas",
+    "cities": []
+  },
+  {
+    "code": "BR-AP",
+    "name": "Amapá",
+    "cities": []
+  },
+  {
+    "code": "BR-AM",
+    "name": "Amazonas",
+    "cities": []
+  },
+  {
+    "code": "BR-BA",
+    "name": "Bahia",
+    "cities": []
+  },
+  {
+    "code": "BR-CE",
+    "name": "Ceará",
+    "cities": []
+  },
+  {
+    "code": "BR-DF",
+    "name": "Distrito Federal",
+    "cities": []
+  },
+  {
+    "code": "BR-ES",
+    "name": "Espírito Santo",
+    "cities": []
+  },
+  {
+    "code": "BR-GO",
+    "name": "Goiás",
+    "cities": []
+  },
+  {
+    "code": "BR-MA",
+    "name": "Maranhão",
+    "cities": []
+  },
+  {
+    "code": "BR-MT",
+    "name": "Mato Grosso",
+    "cities": []
+  },
+  {
+    "code": "BR-MS",
+    "name": "Mato Grosso do Sul",
+    "cities": []
+  },
+  {
+    "code": "BR-MG",
+    "name": "Minas Gerais",
+    "cities": []
+  },
+  {
+    "code": "BR-PA",
+    "name": "Pará",
+    "cities": []
+  },
+  {
+    "code": "BR-PB",
+    "name": "Paraíba",
+    "cities": []
+  },
+  {
+    "code": "BR-PR",
+    "name": "Paraná",
+    "cities": []
+  },
+  {
+    "code": "BR-PE",
+    "name": "Pernambuco",
+    "cities": []
+  },
+  {
+    "code": "BR-PI",
+    "name": "Piauí",
+    "cities": []
+  },
+  {
+    "code": "BR-RJ",
+    "name": "Rio de Janeiro",
+    "cities": []
+  },
+  {
+    "code": "BR-RN",
+    "name": "Rio Grande do Norte",
+    "cities": []
+  },
+  {
+    "code": "BR-RS",
+    "name": "Rio Grande do Sul",
+    "cities": []
+  },
+  {
+    "code": "BR-RO",
+    "name": "Rondônia",
+    "cities": []
+  },
+  {
+    "code": "BR-RR",
+    "name": "Roraima",
+    "cities": []
+  },
+  {
+    "code": "BR-SC",
+    "name": "Santa Catarina",
+    "cities": []
+  },
+  {
+    "code": "BR-SP",
+    "name": "São Paulo",
+    "cities": []
+  },
+  {
+    "code": "BR-SE",
+    "name": "Sergipe",
+    "cities": []
+  },
+  {
+    "code": "BR-TO",
+    "name": "Tocantins",
+    "cities": []
+  }
+]

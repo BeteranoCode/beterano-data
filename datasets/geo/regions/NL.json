@@ -1,0 +1,91 @@
+[
+  {
+    "code": "NL-DR",
+    "name": "Drenthe",
+    "cities": []
+  },
+  {
+    "code": "NL-FL",
+    "name": "Flevoland",
+    "cities": [
+      "Almere"
+    ]
+  },
+  {
+    "code": "NL-FR",
+    "name": "Fryslân",
+    "cities": []
+  },
+  {
+    "code": "NL-GE",
+    "name": "Gelderland",
+    "cities": [
+      "Apeldoorn",
+      "Arnhem",
+      "Nijmegen"
+    ]
+  },
+  {
+    "code": "NL-GR",
+    "name": "Groningen",
+    "cities": [
+      "Groningen"
+    ]
+  },
+  {
+    "code": "NL-LI",
+    "name": "Limburg",
+    "cities": [
+      "Maastricht"
+    ]
+  },
+  {
+    "code": "NL-NB",
+    "name": "Noord-Brabant",
+    "cities": [
+      "'s-Hertogenbosch",
+      "Breda",
+      "Eindhoven",
+      "Tilburg"
+    ]
+  },
+  {
+    "code": "NL-NH",
+    "name": "Noord-Holland",
+    "cities": [
+      "Amsterdam",
+      "Haarlem",
+      "Zaanstad"
+    ]
+  },
+  {
+    "code": "NL-OV",
+    "name": "Overijssel",
+    "cities": [
+      "Enschede"
+    ]
+  },
+  {
+    "code": "NL-UT",
+    "name": "Utrecht",
+    "cities": [
+      "Amersfoort",
+      "Utrecht"
+    ]
+  },
+  {
+    "code": "NL-ZE",
+    "name": "Zeeland",
+    "cities": []
+  },
+  {
+    "code": "NL-ZH",
+    "name": "Zuid-Holland",
+    "cities": [
+      "Den Haag",
+      "Dordrecht",
+      "Leiden",
+      "Rotterdam"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "code": "GM-B",
+    "name": "Banjul",
+    "cities": []
+  },
+  {
+    "code": "GM-M",
+    "name": "Central River",
+    "cities": []
+  },
+  {
+    "code": "GM-L",
+    "name": "Lower River",
+    "cities": []
+  },
+  {
+    "code": "GM-N",
+    "name": "North Bank",
+    "cities": []
+  },
+  {
+    "code": "GM-U",
+    "name": "Upper River",
+    "cities": []
+  },
+  {
+    "code": "GM-W",
+    "name": "Western",
+    "cities": []
+  }
+]

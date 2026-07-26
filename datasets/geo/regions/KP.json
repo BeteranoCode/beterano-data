@@ -1,0 +1,57 @@
+[
+  {
+    "code": "KP-04",
+    "name": "Chagang-do (Chagang Province)",
+    "cities": []
+  },
+  {
+    "code": "KP-09",
+    "name": "Hamgyong-bukto (North Hamgyong Province)",
+    "cities": []
+  },
+  {
+    "code": "KP-08",
+    "name": "Hamgyong-namdo (South Hamgyong Province)",
+    "cities": []
+  },
+  {
+    "code": "KP-06",
+    "name": "Hwanghae-bukto (North Hwanghae Province)",
+    "cities": []
+  },
+  {
+    "code": "KP-05",
+    "name": "Hwanghae-namdo (South Hwanghae Province)",
+    "cities": []
+  },
+  {
+    "code": "KP-07",
+    "name": "Kangwon-do (Kangwon Province)",
+    "cities": []
+  },
+  {
+    "code": "KP-13",
+    "name": "Nasŏn (Najin-Sŏnbong)",
+    "cities": []
+  },
+  {
+    "code": "KP-03",
+    "name": "P'yongan-bukto (North P'yongan Province)",
+    "cities": []
+  },
+  {
+    "code": "KP-02",
+    "name": "P'yongan-namdo (South P'yongan Province)",
+    "cities": []
+  },
+  {
+    "code": "KP-01",
+    "name": "P'yongyang-si (P'yongyang City)",
+    "cities": []
+  },
+  {
+    "code": "KP-10",
+    "name": "Yanggang-do (Yanggang Province)",
+    "cities": []
+  }
+]

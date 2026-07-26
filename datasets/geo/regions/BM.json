@@ -1,0 +1,57 @@
+[
+  {
+    "code": "BM-03",
+    "name": "City of Hamilton",
+    "cities": []
+  },
+  {
+    "code": "BM-01",
+    "name": "Devonshire Parish",
+    "cities": []
+  },
+  {
+    "code": "BM-02",
+    "name": "Hamilton Parish",
+    "cities": []
+  },
+  {
+    "code": "BM-04",
+    "name": "Paget Parish",
+    "cities": []
+  },
+  {
+    "code": "BM-05",
+    "name": "Pembroke Parish",
+    "cities": []
+  },
+  {
+    "code": "BM-08",
+    "name": "Sandys Parish",
+    "cities": []
+  },
+  {
+    "code": "BM-09",
+    "name": "Smith's Parish",
+    "cities": []
+  },
+  {
+    "code": "BM-10",
+    "name": "Southampton Parish",
+    "cities": []
+  },
+  {
+    "code": "BM-07",
+    "name": "St. George's Parish",
+    "cities": []
+  },
+  {
+    "code": "BM-06",
+    "name": "Town of St. George",
+    "cities": []
+  },
+  {
+    "code": "BM-11",
+    "name": "Warwick Parish",
+    "cities": []
+  }
+]

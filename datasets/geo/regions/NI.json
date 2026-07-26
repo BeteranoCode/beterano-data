@@ -1,0 +1,87 @@
+[
+  {
+    "code": "NI-AN",
+    "name": "Atlántico Norte",
+    "cities": []
+  },
+  {
+    "code": "NI-AS",
+    "name": "Atlántico Sur",
+    "cities": []
+  },
+  {
+    "code": "NI-BO",
+    "name": "Boaco",
+    "cities": []
+  },
+  {
+    "code": "NI-CA",
+    "name": "Carazo",
+    "cities": []
+  },
+  {
+    "code": "NI-CI",
+    "name": "Chinandega",
+    "cities": []
+  },
+  {
+    "code": "NI-CO",
+    "name": "Chontales",
+    "cities": []
+  },
+  {
+    "code": "NI-ES",
+    "name": "Estelí",
+    "cities": []
+  },
+  {
+    "code": "NI-GR",
+    "name": "Granada",
+    "cities": []
+  },
+  {
+    "code": "NI-JI",
+    "name": "Jinotega",
+    "cities": []
+  },
+  {
+    "code": "NI-LE",
+    "name": "León",
+    "cities": []
+  },
+  {
+    "code": "NI-MD",
+    "name": "Madriz",
+    "cities": []
+  },
+  {
+    "code": "NI-MN",
+    "name": "Managua",
+    "cities": []
+  },
+  {
+    "code": "NI-MS",
+    "name": "Masaya",
+    "cities": []
+  },
+  {
+    "code": "NI-MT",
+    "name": "Matagalpa",
+    "cities": []
+  },
+  {
+    "code": "NI-NS",
+    "name": "Nueva Segovia",
+    "cities": []
+  },
+  {
+    "code": "NI-SJ",
+    "name": "Río San Juan",
+    "cities": []
+  },
+  {
+    "code": "NI-RI",
+    "name": "Rivas",
+    "cities": []
+  }
+]

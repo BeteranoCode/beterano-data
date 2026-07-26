@@ -1,0 +1,37 @@
+[
+  {
+    "code": "NP-3",
+    "name": "Bagmati Province",
+    "cities": []
+  },
+  {
+    "code": "NP-4",
+    "name": "Gandaki Province",
+    "cities": []
+  },
+  {
+    "code": "NP-6",
+    "name": "Karnali Province",
+    "cities": []
+  },
+  {
+    "code": "NP-5",
+    "name": "Lumbini Province",
+    "cities": []
+  },
+  {
+    "code": "NP-2",
+    "name": "Madhesh Province",
+    "cities": []
+  },
+  {
+    "code": "NP-1",
+    "name": "Province No. 1",
+    "cities": []
+  },
+  {
+    "code": "NP-7",
+    "name": "Sudurpashchim Province",
+    "cities": []
+  }
+]

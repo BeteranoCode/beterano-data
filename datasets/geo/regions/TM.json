@@ -1,0 +1,32 @@
+[
+  {
+    "code": "TM-A",
+    "name": "Ahal",
+    "cities": []
+  },
+  {
+    "code": "TM-S",
+    "name": "Asgabat",
+    "cities": []
+  },
+  {
+    "code": "TM-B",
+    "name": "Balkan",
+    "cities": []
+  },
+  {
+    "code": "TM-D",
+    "name": "Dashoguz",
+    "cities": []
+  },
+  {
+    "code": "TM-L",
+    "name": "Lebap",
+    "cities": []
+  },
+  {
+    "code": "TM-M",
+    "name": "Mary",
+    "cities": []
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "code": "OM-DA",
+    "name": "Ad Dakhiliyah",
+    "cities": []
+  },
+  {
+    "code": "OM-BU",
+    "name": "Al Buraymi",
+    "cities": []
+  },
+  {
+    "code": "OM-WU",
+    "name": "Al Wusta",
+    "cities": []
+  },
+  {
+    "code": "OM-ZA",
+    "name": "Az Zahirah",
+    "cities": []
+  },
+  {
+    "code": "OM-BS",
+    "name": "Janub al Batinah",
+    "cities": []
+  },
+  {
+    "code": "OM-SS",
+    "name": "Janub ash Sharqiyah",
+    "cities": []
+  },
+  {
+    "code": "OM-MA",
+    "name": "Masqat",
+    "cities": []
+  },
+  {
+    "code": "OM-MU",
+    "name": "Musandam",
+    "cities": []
+  },
+  {
+    "code": "OM-BJ",
+    "name": "Shamal al Batinah",
+    "cities": []
+  },
+  {
+    "code": "OM-SJ",
+    "name": "Shamal ash Sharqiyah",
+    "cities": []
+  },
+  {
+    "code": "OM-ZU",
+    "name": "Zufar",
+    "cities": []
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "code": "CN-AH",
+    "name": "Anhui",
+    "cities": []
+  },
+  {
+    "code": "CN-BJ",
+    "name": "Beijing",
+    "cities": []
+  },
+  {
+    "code": "CN-CQ",
+    "name": "Chongqing",
+    "cities": []
+  },
+  {
+    "code": "CN-FJ",
+    "name": "Fujian",
+    "cities": []
+  },
+  {
+    "code": "CN-GS",
+    "name": "Gansu",
+    "cities": []
+  },
+  {
+    "code": "CN-GD",
+    "name": "Guangdong",
+    "cities": []
+  },
+  {
+    "code": "CN-GX",
+    "name": "Guangxi",
+    "cities": []
+  },
+  {
+    "code": "CN-GZ",
+    "name": "Guizhou",
+    "cities": []
+  },
+  {
+    "code": "CN-HI",
+    "name": "Hainan",
+    "cities": []
+  },
+  {
+    "code": "CN-HE",
+    "name": "Hebei",
+    "cities": []
+  },
+  {
+    "code": "CN-HL",
+    "name": "Heilongjiang",
+    "cities": []
+  },
+  {
+    "code": "CN-HA",
+    "name": "Henan",
+    "cities": []
+  },
+  {
+    "code": "CN-HK",
+    "name": "Hong Kong",
+    "cities": []
+  },
+  {
+    "code": "CN-HB",
+    "name": "Hubei",
+    "cities": []
+  },
+  {
+    "code": "CN-HN",
+    "name": "Hunan",
+    "cities": []
+  },
+  {
+    "code": "CN-NM",
+    "name": "Inner Mongolia",
+    "cities": []
+  },
+  {
+    "code": "CN-JS",
+    "name": "Jiangsu",
+    "cities": []
+  },
+  {
+    "code": "CN-JX",
+    "name": "Jiangxi",
+    "cities": []
+  },
+  {
+    "code": "CN-JL",
+    "name": "Jilin",
+    "cities": []
+  },
+  {
+    "code": "CN-LN",
+    "name": "Liaoning",
+    "cities": []
+  },
+  {
+    "code": "CN-MO",
+    "name": "Macau",
+    "cities": []
+  },
+  {
+    "code": "CN-NX",
+    "name": "Ningxia",
+    "cities": []
+  },
+  {
+    "code": "CN-QH",
+    "name": "Qinghai",
+    "cities": []
+  },
+  {
+    "code": "CN-SN",
+    "name": "Shaanxi",
+    "cities": []
+  },
+  {
+    "code": "CN-SD",
+    "name": "Shandong",
+    "cities": []
+  },
+  {
+    "code": "CN-SH",
+    "name": "Shanghai",
+    "cities": []
+  },
+  {
+    "code": "CN-SX",
+    "name": "Shanxi",
+    "cities": []
+  },
+  {
+    "code": "CN-SC",
+    "name": "Sichuan",
+    "cities": []
+  },
+  {
+    "code": "CN-TJ",
+    "name": "Tianjin",
+    "cities": []
+  },
+  {
+    "code": "CN-XZ",
+    "name": "Tibet",
+    "cities": []
+  },
+  {
+    "code": "CN-XJ",
+    "name": "Xinjiang",
+    "cities": []
+  },
+  {
+    "code": "CN-YN",
+    "name": "Yunnan",
+    "cities": []
+  },
+  {
+    "code": "CN-ZJ",
+    "name": "Zhejiang",
+    "cities": []
+  }
+]

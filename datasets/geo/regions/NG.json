@@ -1,0 +1,187 @@
+[
+  {
+    "code": "NG-AB",
+    "name": "Abia",
+    "cities": []
+  },
+  {
+    "code": "NG-FC",
+    "name": "Abuja Federal Capital Territory",
+    "cities": []
+  },
+  {
+    "code": "NG-AD",
+    "name": "Adamawa",
+    "cities": []
+  },
+  {
+    "code": "NG-AK",
+    "name": "Akwa Ibom",
+    "cities": []
+  },
+  {
+    "code": "NG-AN",
+    "name": "Anambra",
+    "cities": []
+  },
+  {
+    "code": "NG-BA",
+    "name": "Bauchi",
+    "cities": []
+  },
+  {
+    "code": "NG-BY",
+    "name": "Bayelsa",
+    "cities": []
+  },
+  {
+    "code": "NG-BE",
+    "name": "Benue",
+    "cities": []
+  },
+  {
+    "code": "NG-BO",
+    "name": "Borno",
+    "cities": []
+  },
+  {
+    "code": "NG-CR",
+    "name": "Cross River",
+    "cities": []
+  },
+  {
+    "code": "NG-DE",
+    "name": "Delta",
+    "cities": []
+  },
+  {
+    "code": "NG-EB",
+    "name": "Ebonyi",
+    "cities": []
+  },
+  {
+    "code": "NG-ED",
+    "name": "Edo",
+    "cities": []
+  },
+  {
+    "code": "NG-EK",
+    "name": "Ekiti",
+    "cities": []
+  },
+  {
+    "code": "NG-EN",
+    "name": "Enugu",
+    "cities": []
+  },
+  {
+    "code": "NG-GO",
+    "name": "Gombe",
+    "cities": []
+  },
+  {
+    "code": "NG-IM",
+    "name": "Imo",
+    "cities": []
+  },
+  {
+    "code": "NG-JI",
+    "name": "Jigawa",
+    "cities": []
+  },
+  {
+    "code": "NG-KD",
+    "name": "Kaduna",
+    "cities": []
+  },
+  {
+    "code": "NG-KN",
+    "name": "Kano",
+    "cities": []
+  },
+  {
+    "code": "NG-KT",
+    "name": "Katsina",
+    "cities": []
+  },
+  {
+    "code": "NG-KE",
+    "name": "Kebbi",
+    "cities": []
+  },
+  {
+    "code": "NG-KO",
+    "name": "Kogi",
+    "cities": []
+  },
+  {
+    "code": "NG-KW",
+    "name": "Kwara",
+    "cities": []
+  },
+  {
+    "code": "NG-LA",
+    "name": "Lagos",
+    "cities": []
+  },
+  {
+    "code": "NG-NA",
+    "name": "Nasarawa",
+    "cities": []
+  },
+  {
+    "code": "NG-NI",
+    "name": "Niger",
+    "cities": []
+  },
+  {
+    "code": "NG-OG",
+    "name": "Ogun",
+    "cities": []
+  },
+  {
+    "code": "NG-ON",
+    "name": "Ondo",
+    "cities": []
+  },
+  {
+    "code": "NG-OS",
+    "name": "Osun",
+    "cities": []
+  },
+  {
+    "code": "NG-OY",
+    "name": "Oyo",
+    "cities": []
+  },
+  {
+    "code": "NG-PL",
+    "name": "Plateau",
+    "cities": []
+  },
+  {
+    "code": "NG-RI",
+    "name": "Rivers",
+    "cities": []
+  },
+  {
+    "code": "NG-SO",
+    "name": "Sokoto",
+    "cities": []
+  },
+  {
+    "code": "NG-TA",
+    "name": "Taraba",
+    "cities": []
+  },
+  {
+    "code": "NG-YO",
+    "name": "Yobe",
+    "cities": []
+  },
+  {
+    "code": "NG-ZA",
+    "name": "Zamfara",
+    "cities": []
+  }
+]

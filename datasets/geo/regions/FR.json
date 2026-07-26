@@ -1,0 +1,193 @@
+[
+  {
+    "code": "FR-A",
+    "name": "Alsace",
+    "cities": [
+      "Mulhouse",
+      "Strasbourg"
+    ]
+  },
+  {
+    "code": "FR-B",
+    "name": "Aquitaine",
+    "cities": [
+      "Bordeaux"
+    ]
+  },
+  {
+    "code": "FR-C",
+    "name": "Auvergne",
+    "cities": [
+      "Clermont-Ferrand"
+    ]
+  },
+  {
+    "code": "FR-P",
+    "name": "Basse-Normandie",
+    "cities": [
+      "Caen"
+    ]
+  },
+  {
+    "code": "FR-D",
+    "name": "Bourgogne",
+    "cities": [
+      "Dijon"
+    ]
+  },
+  {
+    "code": "FR-E",
+    "name": "Bretagne",
+    "cities": [
+      "Brest",
+      "Rennes"
+    ]
+  },
+  {
+    "code": "FR-F",
+    "name": "Centre",
+    "cities": [
+      "Orléans",
+      "Tours"
+    ]
+  },
+  {
+    "code": "FR-G",
+    "name": "Champagne-Ardenne",
+    "cities": [
+      "Reims"
+    ]
+  },
+  {
+    "code": "FR-H",
+    "name": "Corse",
+    "cities": []
+  },
+  {
+    "code": "FR-I",
+    "name": "Franche-Comté",
+    "cities": [
+      "Besançon"
+    ]
+  },
+  {
+    "code": "FR-GP",
+    "name": "Guadeloupe",
+    "cities": []
+  },
+  {
+    "code": "FR-GF",
+    "name": "Guyane",
+    "cities": []
+  },
+  {
+    "code": "FR-Q",
+    "name": "Haute-Normandie",
+    "cities": [
+      "Le Havre",
+      "Rouen"
+    ]
+  },
+  {
+    "code": "FR-J",
+    "name": "Île-de-France",
+    "cities": [
+      "Paris"
+    ]
+  },
+  {
+    "code": "FR-RE",
+    "name": "La Réunion",
+    "cities": []
+  },
+  {
+    "code": "FR-K",
+    "name": "Languedoc-Roussillon",
+    "cities": [
+      "Montpellier",
+      "Nîmes",
+      "Perpignan"
+    ]
+  },
+  {
+    "code": "FR-L",
+    "name": "Limousin",
+    "cities": [
+      "Limoges"
+    ]
+  },
+  {
+    "code": "FR-M",
+    "name": "Lorraine",
+    "cities": [
+      "Metz",
+      "Nancy"
+    ]
+  },
+  {
+    "code": "FR-MQ",
+    "name": "Martinique",
+    "cities": []
+  },
+  {
+    "code": "FR-YT",
+    "name": "Mayotte",
+    "cities": []
+  },
+  {
+    "code": "FR-N",
+    "name": "Midi-Pyrénées",
+    "cities": [
+      "Toulouse"
+    ]
+  },
+  {
+    "code": "FR-O",
+    "name": "Nord-Pas-de-Calais",
+    "cities": [
+      "Lille"
+    ]
+  },
+  {
+    "code": "FR-R",
+    "name": "Pays-de-la-Loire",
+    "cities": [
+      "Angers",
+      "Le Mans",
+      "Nantes"
+    ]
+  },
+  {
+    "code": "FR-S",
+    "name": "Picardie",
+    "cities": [
+      "Amiens"
+    ]
+  },
+  {
+    "code": "FR-T",
+    "name": "Poitou-Charentes",
+    "cities": []
+  },
+  {
+    "code": "FR-U",
+    "name": "Provence-Alpes-Côte-d'Azur",
+    "cities": [
+      "Aix-en-Provence",
+      "Marseille",
+      "Nice",
+      "Toulon"
+    ]
+  },
+  {
+    "code": "FR-V",
+    "name": "Rhône-Alpes",
+    "cities": [
+      "Annecy",
+      "Grenoble",
+      "Lyon",
+      "Saint-Étienne",
+      "Villeurbanne"
+    ]
+  }
+]

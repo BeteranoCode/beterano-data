@@ -1,90 +1,171 @@
-// Ciudades curadas por país (grafía local, la que espera el usuario y la que
-// suele venir en los anuncios). Alcance: países donde opera Beterano. El resto
-// de países del catálogo ISO quedan sin ciudades por ahora — la estructura
-// per-país (cities/<code>.json) está lista para ampliar.
+// Ciudades curadas, ANIDADAS por región (código ISO 3166-2 de primer orden:
+// CCAA en ES, Länder en DE, Region en IT, distrito en PT, nación en GB…). Grafía
+// local, la que espera el usuario y la que suele venir en los anuncios.
 //
-// Fuente de autoría de las ciudades. `bake-geo.mjs` la lee (o el xlsx si existe)
-// y hornea datasets/geo/cities/<code>.json. Editable a mano o en Excel.
+// Alcance: los países donde opera Beterano. `bake-geo.mjs` usa esto para (a)
+// anidar las ciudades bajo su región en regions/<code>.json y (b) derivar el
+// listado plano cities/<code>.json (compat con consumidores que aún no usan
+// regiones). Los códigos de región deben coincidir con los de primer orden que
+// produce el bake (iso-3166-2). Editable a mano.
 
-export const CITIES_BY_COUNTRY = {
-  // --- España: 50 capitales de provincia + Ceuta/Melilla + grandes ciudades ---
-  ES: [
-    "A Coruña", "Albacete", "Alicante", "Almería", "Ávila", "Badajoz", "Barcelona",
-    "Bilbao", "Burgos", "Cáceres", "Cádiz", "Castellón de la Plana", "Ceuta",
-    "Ciudad Real", "Córdoba", "Cuenca", "Girona", "Granada", "Guadalajara", "Huelva",
-    "Huesca", "Jaén", "Las Palmas de Gran Canaria", "León", "Lleida", "Logroño",
-    "Lugo", "Madrid", "Málaga", "Melilla", "Murcia", "Ourense", "Oviedo", "Palencia",
-    "Palma", "Pamplona", "Pontevedra", "Salamanca", "San Sebastián", "Santander",
-    "Santa Cruz de Tenerife", "Segovia", "Sevilla", "Soria", "Tarragona", "Teruel",
-    "Toledo", "Valencia", "Valladolid", "Vitoria-Gasteiz", "Zamora", "Zaragoza",
-    // grandes ciudades no capitales
-    "Vigo", "Gijón", "L'Hospitalet de Llobregat", "Móstoles", "Getafe", "Cartagena",
-    "Jerez de la Frontera", "Sabadell", "Terrassa", "Marbella", "Alcalá de Henares",
-    "Fuenlabrada", "Elche", "Leganés", "Badalona", "Dos Hermanas", "Mataró",
-  ],
-  // --- Portugal: capitales de distrito + grandes ciudades ---
-  PT: [
-    "Lisboa", "Porto", "Vila Nova de Gaia", "Amadora", "Braga", "Coimbra", "Funchal",
-    "Setúbal", "Almada", "Aveiro", "Faro", "Évora", "Guarda", "Leiria", "Viseu",
-    "Viana do Castelo", "Vila Real", "Bragança", "Castelo Branco", "Portalegre",
-    "Beja", "Santarém", "Ponta Delgada", "Angra do Heroísmo", "Guimarães", "Cascais",
-  ],
-  // --- Francia: mayores ciudades ---
-  FR: [
-    "Paris", "Marseille", "Lyon", "Toulouse", "Nice", "Nantes", "Montpellier",
-    "Strasbourg", "Bordeaux", "Lille", "Rennes", "Reims", "Le Havre", "Saint-Étienne",
-    "Toulon", "Grenoble", "Dijon", "Angers", "Nîmes", "Villeurbanne", "Clermont-Ferrand",
-    "Le Mans", "Aix-en-Provence", "Brest", "Tours", "Amiens", "Limoges", "Annecy",
-    "Perpignan", "Metz", "Besançon", "Orléans", "Rouen", "Mulhouse", "Caen", "Nancy",
-  ],
-  // --- Alemania: mayores ciudades ---
-  DE: [
-    "Berlin", "Hamburg", "München", "Köln", "Frankfurt am Main", "Stuttgart",
-    "Düsseldorf", "Leipzig", "Dortmund", "Essen", "Bremen", "Dresden", "Hannover",
-    "Nürnberg", "Duisburg", "Bochum", "Wuppertal", "Bielefeld", "Bonn", "Münster",
-    "Karlsruhe", "Mannheim", "Augsburg", "Wiesbaden", "Mönchengladbach", "Gelsenkirchen",
-    "Braunschweig", "Kiel", "Aachen", "Freiburg im Breisgau", "Krefeld", "Mainz",
-    "Lübeck", "Erfurt", "Rostock", "Kassel", "Saarbrücken", "Regensburg",
-  ],
-  // --- Austria: capitales de estado + ciudades ---
-  AT: [
-    "Wien", "Graz", "Linz", "Salzburg", "Innsbruck", "Klagenfurt", "Villach", "Wels",
-    "Sankt Pölten", "Dornbirn", "Wiener Neustadt", "Steyr", "Feldkirch", "Bregenz",
-    "Leonding", "Baden", "Wolfsberg", "Leoben", "Krems an der Donau", "Eisenstadt",
-  ],
-  // --- Italia: capoluoghi y grandes ciudades ---
-  IT: [
-    "Roma", "Milano", "Napoli", "Torino", "Palermo", "Genova", "Bologna", "Firenze",
-    "Bari", "Catania", "Venezia", "Verona", "Messina", "Padova", "Trieste", "Brescia",
-    "Parma", "Taranto", "Prato", "Modena", "Reggio Calabria", "Reggio Emilia",
-    "Perugia", "Livorno", "Ravenna", "Cagliari", "Foggia", "Rimini", "Salerno",
-    "Ferrara", "Sassari", "Latina", "Monza", "Bergamo", "Pescara", "Vicenza",
-    "Bolzano", "Novara", "Ancona", "Lecce", "La Spezia",
-  ],
-  // --- Países Bajos ---
-  NL: [
-    "Amsterdam", "Rotterdam", "Den Haag", "Utrecht", "Eindhoven", "Groningen", "Tilburg",
-    "Almere", "Breda", "Nijmegen", "Enschede", "Haarlem", "Arnhem", "Zaanstad",
-    "Amersfoort", "Apeldoorn", "'s-Hertogenbosch", "Maastricht", "Leiden", "Dordrecht",
-  ],
-  // --- Bélgica ---
-  BE: [
-    "Bruxelles", "Antwerpen", "Gent", "Charleroi", "Liège", "Brugge", "Namur", "Leuven",
-    "Mons", "Aalst", "Mechelen", "La Louvière", "Kortrijk", "Hasselt", "Oostende",
-    "Tournai", "Genk", "Seraing", "Roeselare", "Verviers",
-  ],
-  // --- Suiza ---
-  CH: [
-    "Zürich", "Genève", "Basel", "Bern", "Lausanne", "Winterthur", "Luzern",
-    "Sankt Gallen", "Lugano", "Biel/Bienne", "Thun", "Köniz", "La Chaux-de-Fonds",
-    "Fribourg", "Schaffhausen", "Chur", "Neuchâtel", "Sion", "Uster", "Zug",
-  ],
-  // --- Reino Unido ---
-  GB: [
-    "London", "Birmingham", "Manchester", "Glasgow", "Liverpool", "Leeds", "Sheffield",
-    "Edinburgh", "Bristol", "Cardiff", "Belfast", "Leicester", "Coventry", "Nottingham",
-    "Newcastle upon Tyne", "Brighton", "Kingston upon Hull", "Plymouth", "Stoke-on-Trent",
-    "Wolverhampton", "Derby", "Southampton", "Portsmouth", "Aberdeen", "Dundee",
-    "Reading", "Preston", "Milton Keynes", "Norwich", "Oxford", "Cambridge", "York",
-  ],
+export const CITIES_BY_REGION = {
+  // --- España: 50 capitales de provincia + Ceuta/Melilla + grandes ciudades, por CCAA ---
+  ES: {
+    "ES-GA": ["A Coruña", "Lugo", "Ourense", "Pontevedra", "Vigo"],
+    "ES-AS": ["Oviedo", "Gijón"],
+    "ES-CB": ["Santander"],
+    "ES-PV": ["Bilbao", "San Sebastián", "Vitoria-Gasteiz"],
+    "ES-NC": ["Pamplona"],
+    "ES-RI": ["Logroño"],
+    "ES-AR": ["Zaragoza", "Huesca", "Teruel"],
+    "ES-CT": ["Barcelona", "Girona", "Lleida", "Tarragona", "L'Hospitalet de Llobregat", "Sabadell", "Terrassa", "Badalona", "Mataró"],
+    "ES-MD": ["Madrid", "Móstoles", "Getafe", "Alcalá de Henares", "Fuenlabrada", "Leganés"],
+    "ES-CL": ["Ávila", "Burgos", "León", "Palencia", "Salamanca", "Segovia", "Soria", "Valladolid", "Zamora"],
+    "ES-CM": ["Albacete", "Ciudad Real", "Cuenca", "Guadalajara", "Toledo"],
+    "ES-EX": ["Badajoz", "Cáceres"],
+    "ES-VC": ["Valencia", "Alicante", "Castellón de la Plana", "Elche"],
+    "ES-MC": ["Murcia", "Cartagena"],
+    "ES-AN": ["Almería", "Cádiz", "Córdoba", "Granada", "Huelva", "Jaén", "Málaga", "Sevilla", "Jerez de la Frontera", "Marbella", "Dos Hermanas"],
+    "ES-CN": ["Las Palmas de Gran Canaria", "Santa Cruz de Tenerife"],
+    "ES-IB": ["Palma"],
+    "ES-CE": ["Ceuta"],
+    "ES-ML": ["Melilla"],
+  },
+  // --- Portugal: capitales de distrito + grandes ciudades, por distrito ---
+  PT: {
+    "PT-11": ["Lisboa", "Amadora", "Cascais"],
+    "PT-13": ["Porto", "Vila Nova de Gaia"],
+    "PT-03": ["Braga", "Guimarães"],
+    "PT-06": ["Coimbra"],
+    "PT-01": ["Aveiro"],
+    "PT-08": ["Faro"],
+    "PT-07": ["Évora"],
+    "PT-09": ["Guarda"],
+    "PT-10": ["Leiria"],
+    "PT-18": ["Viseu"],
+    "PT-16": ["Viana do Castelo"],
+    "PT-17": ["Vila Real"],
+    "PT-04": ["Bragança"],
+    "PT-05": ["Castelo Branco"],
+    "PT-12": ["Portalegre"],
+    "PT-02": ["Beja"],
+    "PT-14": ["Santarém"],
+    "PT-15": ["Setúbal", "Almada"],
+    "PT-20": ["Ponta Delgada", "Angra do Heroísmo"],
+    "PT-30": ["Funchal"],
+  },
+  // --- Francia: por región (ISO 3166-2:FR clásico) ---
+  FR: {
+    "FR-J": ["Paris"],
+    "FR-U": ["Marseille", "Nice", "Toulon", "Aix-en-Provence"],
+    "FR-V": ["Lyon", "Villeurbanne", "Grenoble", "Annecy", "Saint-Étienne"],
+    "FR-N": ["Toulouse"],
+    "FR-B": ["Bordeaux"],
+    "FR-R": ["Nantes", "Angers", "Le Mans"],
+    "FR-K": ["Montpellier", "Nîmes", "Perpignan"],
+    "FR-A": ["Strasbourg", "Mulhouse"],
+    "FR-O": ["Lille"],
+    "FR-E": ["Rennes", "Brest"],
+    "FR-G": ["Reims"],
+    "FR-Q": ["Le Havre", "Rouen"],
+    "FR-P": ["Caen"],
+    "FR-D": ["Dijon"],
+    "FR-C": ["Clermont-Ferrand"],
+    "FR-L": ["Limoges"],
+    "FR-I": ["Besançon"],
+    "FR-M": ["Metz", "Nancy"],
+    "FR-S": ["Amiens"],
+    "FR-F": ["Tours", "Orléans"],
+  },
+  // --- Alemania: por Land ---
+  DE: {
+    "DE-BE": ["Berlin"],
+    "DE-HH": ["Hamburg"],
+    "DE-BY": ["München", "Nürnberg", "Augsburg", "Regensburg"],
+    "DE-NW": ["Köln", "Düsseldorf", "Dortmund", "Essen", "Duisburg", "Bochum", "Wuppertal", "Bielefeld", "Bonn", "Münster", "Mönchengladbach", "Gelsenkirchen", "Aachen", "Krefeld"],
+    "DE-HE": ["Frankfurt am Main", "Wiesbaden", "Kassel"],
+    "DE-BW": ["Stuttgart", "Karlsruhe", "Mannheim", "Freiburg im Breisgau"],
+    "DE-SN": ["Leipzig", "Dresden"],
+    "DE-NI": ["Hannover", "Braunschweig"],
+    "DE-HB": ["Bremen"],
+    "DE-SH": ["Kiel", "Lübeck"],
+    "DE-RP": ["Mainz"],
+    "DE-TH": ["Erfurt"],
+    "DE-MV": ["Rostock"],
+    "DE-SL": ["Saarbrücken"],
+  },
+  // --- Austria: por Land ---
+  AT: {
+    "AT-9": ["Wien"],
+    "AT-6": ["Graz", "Leoben"],
+    "AT-4": ["Linz", "Wels", "Steyr", "Leonding"],
+    "AT-5": ["Salzburg"],
+    "AT-7": ["Innsbruck"],
+    "AT-2": ["Klagenfurt", "Villach", "Wolfsberg"],
+    "AT-8": ["Dornbirn", "Feldkirch", "Bregenz"],
+    "AT-3": ["Sankt Pölten", "Wiener Neustadt", "Baden", "Krems an der Donau"],
+    "AT-1": ["Eisenstadt"],
+  },
+  // --- Italia: por región ---
+  IT: {
+    "IT-62": ["Roma", "Latina"],
+    "IT-25": ["Milano", "Brescia", "Monza", "Bergamo"],
+    "IT-72": ["Napoli", "Salerno"],
+    "IT-21": ["Torino", "Novara"],
+    "IT-82": ["Palermo", "Catania", "Messina"],
+    "IT-42": ["Genova", "La Spezia"],
+    "IT-45": ["Bologna", "Parma", "Modena", "Reggio Emilia", "Ravenna", "Ferrara", "Rimini"],
+    "IT-52": ["Firenze", "Prato", "Livorno"],
+    "IT-75": ["Bari", "Taranto", "Foggia", "Lecce"],
+    "IT-34": ["Venezia", "Verona", "Padova", "Vicenza"],
+    "IT-36": ["Trieste"],
+    "IT-78": ["Reggio Calabria"],
+    "IT-57": ["Ancona"],
+    "IT-88": ["Cagliari", "Sassari"],
+    "IT-65": ["Pescara"],
+    "IT-32": ["Bolzano"],
+    "IT-55": ["Perugia"],
+  },
+  // --- Países Bajos: por provincia ---
+  NL: {
+    "NL-NH": ["Amsterdam", "Haarlem", "Zaanstad"],
+    "NL-ZH": ["Rotterdam", "Den Haag", "Leiden", "Dordrecht"],
+    "NL-UT": ["Utrecht", "Amersfoort"],
+    "NL-NB": ["Eindhoven", "Tilburg", "Breda", "'s-Hertogenbosch"],
+    "NL-GR": ["Groningen"],
+    "NL-FL": ["Almere"],
+    "NL-GE": ["Nijmegen", "Arnhem", "Apeldoorn"],
+    "NL-OV": ["Enschede"],
+    "NL-LI": ["Maastricht"],
+  },
+  // --- Bélgica: por región ---
+  BE: {
+    "BE-BRU": ["Bruxelles"],
+    "BE-VLG": ["Antwerpen", "Gent", "Brugge", "Leuven", "Aalst", "Mechelen", "Kortrijk", "Hasselt", "Oostende", "Genk", "Roeselare"],
+    "BE-WAL": ["Charleroi", "Liège", "Namur", "Mons", "La Louvière", "Tournai", "Seraing", "Verviers"],
+  },
+  // --- Suiza: por cantón ---
+  CH: {
+    "CH-ZH": ["Zürich", "Winterthur", "Uster"],
+    "CH-GE": ["Genève"],
+    "CH-BS": ["Basel"],
+    "CH-BE": ["Bern", "Thun", "Köniz", "Biel/Bienne"],
+    "CH-VD": ["Lausanne"],
+    "CH-LU": ["Luzern"],
+    "CH-SG": ["Sankt Gallen"],
+    "CH-TI": ["Lugano"],
+    "CH-NE": ["La Chaux-de-Fonds", "Neuchâtel"],
+    "CH-FR": ["Fribourg"],
+    "CH-SH": ["Schaffhausen"],
+    "CH-GR": ["Chur"],
+    "CH-VS": ["Sion"],
+    "CH-ZG": ["Zug"],
+  },
+  // --- Reino Unido: por nación ---
+  GB: {
+    "GB-ENG": ["London", "Birmingham", "Manchester", "Liverpool", "Leeds", "Sheffield", "Bristol", "Leicester", "Coventry", "Nottingham", "Newcastle upon Tyne", "Brighton", "Kingston upon Hull", "Plymouth", "Stoke-on-Trent", "Wolverhampton", "Derby", "Southampton", "Portsmouth", "Reading", "Preston", "Milton Keynes", "Norwich", "Oxford", "Cambridge", "York"],
+    "GB-SCT": ["Glasgow", "Edinburgh", "Aberdeen", "Dundee"],
+    "GB-WLS": ["Cardiff"],
+    "GB-NIR": ["Belfast"],
+  },
 };

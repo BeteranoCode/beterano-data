@@ -1,0 +1,417 @@
+[
+  {
+    "code": "RU-ALT",
+    "name": "Altai Krai",
+    "cities": []
+  },
+  {
+    "code": "RU-AMU",
+    "name": "Amur Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-ARK",
+    "name": "Arkhangelsk Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-AST",
+    "name": "Astrakhan Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-BEL",
+    "name": "Belgorod Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-BRY",
+    "name": "Bryansk Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-CE",
+    "name": "Chechen Republic",
+    "cities": []
+  },
+  {
+    "code": "RU-CHE",
+    "name": "Chelyabinsk Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-CHU",
+    "name": "Chukotka Autonomous Okrug",
+    "cities": []
+  },
+  {
+    "code": "RU-CU",
+    "name": "Chuvash Republic",
+    "cities": []
+  },
+  {
+    "code": "RU-IRK",
+    "name": "Irkutsk Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-IVA",
+    "name": "Ivanovo Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-JEW",
+    "name": "Jewish Autonomous Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-KB",
+    "name": "Kabardino-Balkar Republic",
+    "cities": []
+  },
+  {
+    "code": "RU-KLN",
+    "name": "Kaliningrad Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-KLU",
+    "name": "Kaluga Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-KAM",
+    "name": "Kamchatka Krai",
+    "cities": []
+  },
+  {
+    "code": "RU-KC",
+    "name": "Karachay-Cherkess Republic",
+    "cities": []
+  },
+  {
+    "code": "RU-KEM",
+    "name": "Kemerovo Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-KHA",
+    "name": "Khabarovsk Krai",
+    "cities": []
+  },
+  {
+    "code": "RU-KHM",
+    "name": "Khanty-Mansi Autonomous Okrug - Yugra",
+    "cities": []
+  },
+  {
+    "code": "RU-KIR",
+    "name": "Kirov Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-KO",
+    "name": "Komi Republic",
+    "cities": []
+  },
+  {
+    "code": "RU-KOS",
+    "name": "Kostroma Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-KDA",
+    "name": "Krasnodar Krai",
+    "cities": []
+  },
+  {
+    "code": "RU-KYA",
+    "name": "Krasnoyarsk Krai",
+    "cities": []
+  },
+  {
+    "code": "RU-KGN",
+    "name": "Kurgan Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-KRS",
+    "name": "Kursk Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-LEN",
+    "name": "Leningrad Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-LIP",
+    "name": "Lipetsk Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-MAG",
+    "name": "Magadan Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-ME",
+    "name": "Mari El Republic",
+    "cities": []
+  },
+  {
+    "code": "RU-MOW",
+    "name": "Moscow",
+    "cities": []
+  },
+  {
+    "code": "RU-MOS",
+    "name": "Moscow Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-MU",
+    "name": "Murmansk Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-NEN",
+    "name": "Nenets Autonomous Okrug",
+    "cities": []
+  },
+  {
+    "code": "RU-NIZ",
+    "name": "Nizhny Novgorod Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-NGR",
+    "name": "Novgorod Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-NVS",
+    "name": "Novosibirsk Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-OMS",
+    "name": "Omsk Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-ORE",
+    "name": "Orenburg Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-ORL",
+    "name": "Oryol Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-PNZ",
+    "name": "Penza Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-PER",
+    "name": "Perm Krai",
+    "cities": []
+  },
+  {
+    "code": "RU-PRI",
+    "name": "Primorsky Krai",
+    "cities": []
+  },
+  {
+    "code": "RU-PSK",
+    "name": "Pskov Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-AD",
+    "name": "Republic of Adygea",
+    "cities": []
+  },
+  {
+    "code": "RU-AL",
+    "name": "Republic of Altai (Gorno-Altaysk)",
+    "cities": []
+  },
+  {
+    "code": "RU-BA",
+    "name": "Republic of Bashkortostan",
+    "cities": []
+  },
+  {
+    "code": "RU-BU",
+    "name": "Republic of Buryatia",
+    "cities": []
+  },
+  {
+    "code": "RU-DA",
+    "name": "Republic of Dagestan",
+    "cities": []
+  },
+  {
+    "code": "RU-IN",
+    "name": "Republic of Ingushetia",
+    "cities": []
+  },
+  {
+    "code": "RU-KL",
+    "name": "Republic of Kalmykia",
+    "cities": []
+  },
+  {
+    "code": "RU-KR",
+    "name": "Republic of Karelia",
+    "cities": []
+  },
+  {
+    "code": "RU-KK",
+    "name": "Republic of Khakassia",
+    "cities": []
+  },
+  {
+    "code": "RU-MO",
+    "name": "Republic of Mordovia",
+    "cities": []
+  },
+  {
+    "code": "RU-NOA",
+    "name": "Republic of North Ossetia-Alania",
+    "cities": []
+  },
+  {
+    "code": "RU-TA",
+    "name": "Republic of Tatarstan",
+    "cities": []
+  },
+  {
+    "code": "RU-ROS",
+    "name": "Rostov Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-RYA",
+    "name": "Ryazan Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-SPE",
+    "name": "Saint Petersburg",
+    "cities": []
+  },
+  {
+    "code": "RU-SA",
+    "name": "Sakha (Yakutia) Republic",
+    "cities": []
+  },
+  {
+    "code": "RU-SAK",
+    "name": "Sakhalin Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-SAM",
+    "name": "Samara Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-SAR",
+    "name": "Saratov Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-SMO",
+    "name": "Smolensk Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-STA",
+    "name": "Stavropol Krai",
+    "cities": []
+  },
+  {
+    "code": "RU-SVE",
+    "name": "Sverdlovsk Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-TAM",
+    "name": "Tambov Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-TOM",
+    "name": "Tomsk Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-TUL",
+    "name": "Tula Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-TU",
+    "name": "Tuva Republic",
+    "cities": []
+  },
+  {
+    "code": "RU-TVE",
+    "name": "Tver Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-TYU",
+    "name": "Tyumen Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-UD",
+    "name": "Udmurt Republic",
+    "cities": []
+  },
+  {
+    "code": "RU-ULY",
+    "name": "Ulyanovsk Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-VLA",
+    "name": "Vladimir Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-VGG",
+    "name": "Volgograd Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-VLG",
+    "name": "Vologda Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-VOR",
+    "name": "Voronezh Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-YAN",
+    "name": "Yamalo-Nenets Autonomous Okrug",
+    "cities": []
+  },
+  {
+    "code": "RU-YAR",
+    "name": "Yaroslavl Oblast",
+    "cities": []
+  },
+  {
+    "code": "RU-ZAB",
+    "name": "Zabaykalsky Krai",
+    "cities": []
+  }
+]

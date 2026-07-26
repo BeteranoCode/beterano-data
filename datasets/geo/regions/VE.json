@@ -1,0 +1,127 @@
+[
+  {
+    "code": "VE-Z",
+    "name": "Amazonas",
+    "cities": []
+  },
+  {
+    "code": "VE-B",
+    "name": "Anzoátegui",
+    "cities": []
+  },
+  {
+    "code": "VE-C",
+    "name": "Apure",
+    "cities": []
+  },
+  {
+    "code": "VE-D",
+    "name": "Aragua",
+    "cities": []
+  },
+  {
+    "code": "VE-E",
+    "name": "Barinas",
+    "cities": []
+  },
+  {
+    "code": "VE-F",
+    "name": "Bolívar",
+    "cities": []
+  },
+  {
+    "code": "VE-G",
+    "name": "Carabobo",
+    "cities": []
+  },
+  {
+    "code": "VE-H",
+    "name": "Cojedes",
+    "cities": []
+  },
+  {
+    "code": "VE-Y",
+    "name": "Delta Amacuro",
+    "cities": []
+  },
+  {
+    "code": "VE-W",
+    "name": "Dependencias Federales",
+    "cities": []
+  },
+  {
+    "code": "VE-A",
+    "name": "Distrito Federal",
+    "cities": []
+  },
+  {
+    "code": "VE-I",
+    "name": "Falcón",
+    "cities": []
+  },
+  {
+    "code": "VE-J",
+    "name": "Guárico",
+    "cities": []
+  },
+  {
+    "code": "VE-K",
+    "name": "Lara",
+    "cities": []
+  },
+  {
+    "code": "VE-L",
+    "name": "Mérida",
+    "cities": []
+  },
+  {
+    "code": "VE-M",
+    "name": "Miranda",
+    "cities": []
+  },
+  {
+    "code": "VE-N",
+    "name": "Monagas",
+    "cities": []
+  },
+  {
+    "code": "VE-O",
+    "name": "Nueva Esparta",
+    "cities": []
+  },
+  {
+    "code": "VE-P",
+    "name": "Portuguesa",
+    "cities": []
+  },
+  {
+    "code": "VE-R",
+    "name": "Sucre",
+    "cities": []
+  },
+  {
+    "code": "VE-S",
+    "name": "Táchira",
+    "cities": []
+  },
+  {
+    "code": "VE-T",
+    "name": "Trujillo",
+    "cities": []
+  },
+  {
+    "code": "VE-X",
+    "name": "Vargas",
+    "cities": []
+  },
+  {
+    "code": "VE-U",
+    "name": "Yaracuy",
+    "cities": []
+  },
+  {
+    "code": "VE-V",
+    "name": "Zulia",
+    "cities": []
+  }
+]

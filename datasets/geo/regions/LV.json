@@ -1,0 +1,597 @@
+[
+  {
+    "code": "LV-011",
+    "name": "Ādaži",
+    "cities": []
+  },
+  {
+    "code": "LV-001",
+    "name": "Aglona",
+    "cities": []
+  },
+  {
+    "code": "LV-002",
+    "name": "Aizkraukle",
+    "cities": []
+  },
+  {
+    "code": "LV-003",
+    "name": "Aizpute",
+    "cities": []
+  },
+  {
+    "code": "LV-004",
+    "name": "Aknīste",
+    "cities": []
+  },
+  {
+    "code": "LV-005",
+    "name": "Aloja",
+    "cities": []
+  },
+  {
+    "code": "LV-06",
+    "name": "Alsunga",
+    "cities": []
+  },
+  {
+    "code": "LV-007",
+    "name": "Alūksne",
+    "cities": []
+  },
+  {
+    "code": "LV-008",
+    "name": "Amata",
+    "cities": []
+  },
+  {
+    "code": "LV-009",
+    "name": "Ape",
+    "cities": []
+  },
+  {
+    "code": "LV-010",
+    "name": "Auce",
+    "cities": []
+  },
+  {
+    "code": "LV-012",
+    "name": "Babīte",
+    "cities": []
+  },
+  {
+    "code": "LV-013",
+    "name": "Baldone",
+    "cities": []
+  },
+  {
+    "code": "LV-014",
+    "name": "Baltinava",
+    "cities": []
+  },
+  {
+    "code": "LV-015",
+    "name": "Balvi",
+    "cities": []
+  },
+  {
+    "code": "LV-016",
+    "name": "Bauska",
+    "cities": []
+  },
+  {
+    "code": "LV-017",
+    "name": "Beverīna",
+    "cities": []
+  },
+  {
+    "code": "LV-018",
+    "name": "Brocēni",
+    "cities": []
+  },
+  {
+    "code": "LV-019",
+    "name": "Burtnieki",
+    "cities": []
+  },
+  {
+    "code": "LV-020",
+    "name": "Carnikava",
+    "cities": []
+  },
+  {
+    "code": "LV-022",
+    "name": "Cēsis",
+    "cities": []
+  },
+  {
+    "code": "LV-021",
+    "name": "Cesvaine",
+    "cities": []
+  },
+  {
+    "code": "LV-023",
+    "name": "Cibla",
+    "cities": []
+  },
+  {
+    "code": "LV-024",
+    "name": "Dagda",
+    "cities": []
+  },
+  {
+    "code": "LV-025",
+    "name": "Daugavpils",
+    "cities": []
+  },
+  {
+    "code": "LV-DGV",
+    "name": "Daugavpils (City)",
+    "cities": []
+  },
+  {
+    "code": "LV-026",
+    "name": "Dobele",
+    "cities": []
+  },
+  {
+    "code": "LV-027",
+    "name": "Dundaga",
+    "cities": []
+  },
+  {
+    "code": "LV-028",
+    "name": "Durbe",
+    "cities": []
+  },
+  {
+    "code": "LV-029",
+    "name": "Engure",
+    "cities": []
+  },
+  {
+    "code": "LV-030",
+    "name": "Ērgļi",
+    "cities": []
+  },
+  {
+    "code": "LV-031",
+    "name": "Garkalne",
+    "cities": []
+  },
+  {
+    "code": "LV-032",
+    "name": "Grobiņa",
+    "cities": []
+  },
+  {
+    "code": "LV-033",
+    "name": "Gulbene",
+    "cities": []
+  },
+  {
+    "code": "LV-034",
+    "name": "Iecava",
+    "cities": []
+  },
+  {
+    "code": "LV-035",
+    "name": "Ikšķile",
+    "cities": []
+  },
+  {
+    "code": "LV-036",
+    "name": "Ilūkste",
+    "cities": []
+  },
+  {
+    "code": "LV-037",
+    "name": "Inčukalns",
+    "cities": []
+  },
+  {
+    "code": "LV-038",
+    "name": "Jaunjelgava",
+    "cities": []
+  },
+  {
+    "code": "LV-039",
+    "name": "Jaunpiebalga",
+    "cities": []
+  },
+  {
+    "code": "LV-040",
+    "name": "Jaunpils",
+    "cities": []
+  },
+  {
+    "code": "LV-042",
+    "name": "Jēkabpils",
+    "cities": []
+  },
+  {
+    "code": "LV-JKB",
+    "name": "Jēkabpils (City)",
+    "cities": []
+  },
+  {
+    "code": "LV-041",
+    "name": "Jelgava",
+    "cities": []
+  },
+  {
+    "code": "LV-JEL",
+    "name": "Jelgava (City)",
+    "cities": []
+  },
+  {
+    "code": "LV-JUR",
+    "name": "Jūrmala (City)",
+    "cities": []
+  },
+  {
+    "code": "LV-043",
+    "name": "Kandava",
+    "cities": []
+  },
+  {
+    "code": "LV-044",
+    "name": "Kārsava",
+    "cities": []
+  },
+  {
+    "code": "LV-051",
+    "name": "Ķegums",
+    "cities": []
+  },
+  {
+    "code": "LV-052",
+    "name": "Ķekava",
+    "cities": []
+  },
+  {
+    "code": "LV-045",
+    "name": "Kocēni",
+    "cities": []
+  },
+  {
+    "code": "LV-046",
+    "name": "Koknese",
+    "cities": []
+  },
+  {
+    "code": "LV-047",
+    "name": "Krāslava",
+    "cities": []
+  },
+  {
+    "code": "LV-048",
+    "name": "Krimulda",
+    "cities": []
+  },
+  {
+    "code": "LV-049",
+    "name": "Krustpils",
+    "cities": []
+  },
+  {
+    "code": "LV-050",
+    "name": "Kuldīga",
+    "cities": []
+  },
+  {
+    "code": "LV-053",
+    "name": "Lielvārde",
+    "cities": []
+  },
+  {
+    "code": "LV-LPX",
+    "name": "Liepāja",
+    "cities": []
+  },
+  {
+    "code": "LV-055",
+    "name": "Līgatne",
+    "cities": []
+  },
+  {
+    "code": "LV-054",
+    "name": "Limbaži",
+    "cities": []
+  },
+  {
+    "code": "LV-056",
+    "name": "Līvāni",
+    "cities": []
+  },
+  {
+    "code": "LV-057",
+    "name": "Lubāna",
+    "cities": []
+  },
+  {
+    "code": "LV-058",
+    "name": "Ludza",
+    "cities": []
+  },
+  {
+    "code": "LV-059",
+    "name": "Madona",
+    "cities": []
+  },
+  {
+    "code": "LV-061",
+    "name": "Mālpils",
+    "cities": []
+  },
+  {
+    "code": "LV-062",
+    "name": "Mārupe",
+    "cities": []
+  },
+  {
+    "code": "LV-060",
+    "name": "Mazsalaca",
+    "cities": []
+  },
+  {
+    "code": "LV-063",
+    "name": "Mērsrags",
+    "cities": []
+  },
+  {
+    "code": "LV-064",
+    "name": "Naukšēni",
+    "cities": []
+  },
+  {
+    "code": "LV-065",
+    "name": "Nereta",
+    "cities": []
+  },
+  {
+    "code": "LV-066",
+    "name": "Nīca",
+    "cities": []
+  },
+  {
+    "code": "LV-067",
+    "name": "Ogre",
+    "cities": []
+  },
+  {
+    "code": "LV-068",
+    "name": "Olaine",
+    "cities": []
+  },
+  {
+    "code": "LV-069",
+    "name": "Ozolnieki",
+    "cities": []
+  },
+  {
+    "code": "LV-070",
+    "name": "Pārgauja",
+    "cities": []
+  },
+  {
+    "code": "LV-071",
+    "name": "Pāvilosta",
+    "cities": []
+  },
+  {
+    "code": "LV-072",
+    "name": "Pļaviņas",
+    "cities": []
+  },
+  {
+    "code": "LV-073",
+    "name": "Preiļi",
+    "cities": []
+  },
+  {
+    "code": "LV-074",
+    "name": "Priekule",
+    "cities": []
+  },
+  {
+    "code": "LV-075",
+    "name": "Priekuļi",
+    "cities": []
+  },
+  {
+    "code": "LV-076",
+    "name": "Rauna",
+    "cities": []
+  },
+  {
+    "code": "LV-077",
+    "name": "Rēzekne",
+    "cities": []
+  },
+  {
+    "code": "LV-REZ",
+    "name": "Rēzekne (City)",
+    "cities": []
+  },
+  {
+    "code": "LV-078",
+    "name": "Riebiņi",
+    "cities": []
+  },
+  {
+    "code": "LV-RIX",
+    "name": "Rīga",
+    "cities": []
+  },
+  {
+    "code": "LV-079",
+    "name": "Roja",
+    "cities": []
+  },
+  {
+    "code": "LV-080",
+    "name": "Ropaži",
+    "cities": []
+  },
+  {
+    "code": "LV-081",
+    "name": "Rucava",
+    "cities": []
+  },
+  {
+    "code": "LV-082",
+    "name": "Rugāji",
+    "cities": []
+  },
+  {
+    "code": "LV-084",
+    "name": "Rūjiena",
+    "cities": []
+  },
+  {
+    "code": "LV-083",
+    "name": "Rundāle",
+    "cities": []
+  },
+  {
+    "code": "LV-085",
+    "name": "Sala",
+    "cities": []
+  },
+  {
+    "code": "LV-086",
+    "name": "Salacgrīva",
+    "cities": []
+  },
+  {
+    "code": "LV-087",
+    "name": "Salaspils",
+    "cities": []
+  },
+  {
+    "code": "LV-088",
+    "name": "Saldus",
+    "cities": []
+  },
+  {
+    "code": "LV-089",
+    "name": "Saulkrasti",
+    "cities": []
+  },
+  {
+    "code": "LV-090",
+    "name": "Sēja",
+    "cities": []
+  },
+  {
+    "code": "LV-091",
+    "name": "Sigulda",
+    "cities": []
+  },
+  {
+    "code": "LV-092",
+    "name": "Skrīveri",
+    "cities": []
+  },
+  {
+    "code": "LV-093",
+    "name": "Skrunda",
+    "cities": []
+  },
+  {
+    "code": "LV-094",
+    "name": "Smiltene",
+    "cities": []
+  },
+  {
+    "code": "LV-095",
+    "name": "Stopiņi",
+    "cities": []
+  },
+  {
+    "code": "LV-096",
+    "name": "Strenči",
+    "cities": []
+  },
+  {
+    "code": "LV-097",
+    "name": "Talsi",
+    "cities": []
+  },
+  {
+    "code": "LV-098",
+    "name": "Tērvete",
+    "cities": []
+  },
+  {
+    "code": "LV-099",
+    "name": "Tukums",
+    "cities": []
+  },
+  {
+    "code": "LV-100",
+    "name": "Vaiņode",
+    "cities": []
+  },
+  {
+    "code": "LV-101",
+    "name": "Valka",
+    "cities": []
+  },
+  {
+    "code": "LV-VMR",
+    "name": "Valmiera",
+    "cities": []
+  },
+  {
+    "code": "LV-102",
+    "name": "Varakļāni",
+    "cities": []
+  },
+  {
+    "code": "LV-103",
+    "name": "Vārkava",
+    "cities": []
+  },
+  {
+    "code": "LV-104",
+    "name": "Vecpiebalga",
+    "cities": []
+  },
+  {
+    "code": "LV-105",
+    "name": "Vecumnieki",
+    "cities": []
+  },
+  {
+    "code": "LV-106",
+    "name": "Ventspils",
+    "cities": []
+  },
+  {
+    "code": "LV-VEN",
+    "name": "Ventspils (City)",
+    "cities": []
+  },
+  {
+    "code": "LV-107",
+    "name": "Viesīte",
+    "cities": []
+  },
+  {
+    "code": "LV-108",
+    "name": "Viļaka",
+    "cities": []
+  },
+  {
+    "code": "LV-109",
+    "name": "Viļāni",
+    "cities": []
+  },
+  {
+    "code": "LV-110",
+    "name": "Zilupe",
+    "cities": []
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "code": "UY-AR",
+    "name": "Artigas",
+    "cities": []
+  },
+  {
+    "code": "UY-CA",
+    "name": "Canelones",
+    "cities": []
+  },
+  {
+    "code": "UY-CL",
+    "name": "Cerro Largo",
+    "cities": []
+  },
+  {
+    "code": "UY-CO",
+    "name": "Colonia",
+    "cities": []
+  },
+  {
+    "code": "UY-DU",
+    "name": "Durazno",
+    "cities": []
+  },
+  {
+    "code": "UY-FS",
+    "name": "Flores",
+    "cities": []
+  },
+  {
+    "code": "UY-FD",
+    "name": "Florida",
+    "cities": []
+  },
+  {
+    "code": "UY-LA",
+    "name": "Lavalleja",
+    "cities": []
+  },
+  {
+    "code": "UY-MA",
+    "name": "Maldonado",
+    "cities": []
+  },
+  {
+    "code": "UY-MO",
+    "name": "Montevideo",
+    "cities": []
+  },
+  {
+    "code": "UY-PA",
+    "name": "Paysandú",
+    "cities": []
+  },
+  {
+    "code": "UY-RN",
+    "name": "Río Negro",
+    "cities": []
+  },
+  {
+    "code": "UY-RV",
+    "name": "Rivera",
+    "cities": []
+  },
+  {
+    "code": "UY-RO",
+    "name": "Rocha",
+    "cities": []
+  },
+  {
+    "code": "UY-SA",
+    "name": "Salto",
+    "cities": []
+  },
+  {
+    "code": "UY-SJ",
+    "name": "San José",
+    "cities": []
+  },
+  {
+    "code": "UY-SO",
+    "name": "Soriano",
+    "cities": []
+  },
+  {
+    "code": "UY-TA",
+    "name": "Tacuarembó",
+    "cities": []
+  },
+  {
+    "code": "UY-TT",
+    "name": "Treinta y Tres",
+    "cities": []
+  }
+]

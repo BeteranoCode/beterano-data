@@ -1,0 +1,92 @@
+[
+  {
+    "code": "SD-RS",
+    "name": "Al Bahr al Ahmar",
+    "cities": []
+  },
+  {
+    "code": "SD-GZ",
+    "name": "Al Jazirah",
+    "cities": []
+  },
+  {
+    "code": "SD-KH",
+    "name": "Al Khartum",
+    "cities": []
+  },
+  {
+    "code": "SD-GD",
+    "name": "Al Qadarif",
+    "cities": []
+  },
+  {
+    "code": "SD-NW",
+    "name": "An Nil al Abyad",
+    "cities": []
+  },
+  {
+    "code": "SD-NB",
+    "name": "An Nil al Azraq",
+    "cities": []
+  },
+  {
+    "code": "SD-NO",
+    "name": "Ash Shamaliyah",
+    "cities": []
+  },
+  {
+    "code": "SD-DW",
+    "name": "Gharb Darfur",
+    "cities": []
+  },
+  {
+    "code": "SD-GK",
+    "name": "Gharb Kurdufan",
+    "cities": []
+  },
+  {
+    "code": "SD-DS",
+    "name": "Janub Darfur",
+    "cities": []
+  },
+  {
+    "code": "SD-KS",
+    "name": "Janub Kurdufan",
+    "cities": []
+  },
+  {
+    "code": "SD-KA",
+    "name": "Kassala",
+    "cities": []
+  },
+  {
+    "code": "SD-NR",
+    "name": "Nahr an Nil",
+    "cities": []
+  },
+  {
+    "code": "SD-DN",
+    "name": "Shamal Darfur",
+    "cities": []
+  },
+  {
+    "code": "SD-DE",
+    "name": "Sharq Darfur",
+    "cities": []
+  },
+  {
+    "code": "SD-KN",
+    "name": "Shiamal Kurdufan",
+    "cities": []
+  },
+  {
+    "code": "SD-SI",
+    "name": "Sinnar",
+    "cities": []
+  },
+  {
+    "code": "SD-DC",
+    "name": "Wasat Darfur Zalinjay",
+    "cities": []
+  }
+]

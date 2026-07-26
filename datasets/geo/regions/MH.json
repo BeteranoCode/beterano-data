@@ -1,0 +1,112 @@
+[
+  {
+    "code": "MH-ALL",
+    "name": "Ailinglaplap",
+    "cities": []
+  },
+  {
+    "code": "MH-ALK",
+    "name": "Ailuk",
+    "cities": []
+  },
+  {
+    "code": "MH-ARN",
+    "name": "Arno",
+    "cities": []
+  },
+  {
+    "code": "MH-AUR",
+    "name": "Aur",
+    "cities": []
+  },
+  {
+    "code": "MH-KIL",
+    "name": "Bikini and Kili",
+    "cities": []
+  },
+  {
+    "code": "MH-EBO",
+    "name": "Ebon",
+    "cities": []
+  },
+  {
+    "code": "MH-JAB",
+    "name": "Jabat",
+    "cities": []
+  },
+  {
+    "code": "MH-JAL",
+    "name": "Jaluit",
+    "cities": []
+  },
+  {
+    "code": "MH-KWA",
+    "name": "Kwajalein",
+    "cities": []
+  },
+  {
+    "code": "MH-LAE",
+    "name": "Lae",
+    "cities": []
+  },
+  {
+    "code": "MH-LIB",
+    "name": "Lib",
+    "cities": []
+  },
+  {
+    "code": "MH-LIK",
+    "name": "Likiep",
+    "cities": []
+  },
+  {
+    "code": "MH-MAJ",
+    "name": "Majuro",
+    "cities": []
+  },
+  {
+    "code": "MH-MAL",
+    "name": "Maloelap",
+    "cities": []
+  },
+  {
+    "code": "MH-MEJ",
+    "name": "Mejit",
+    "cities": []
+  },
+  {
+    "code": "MH-NMK",
+    "name": "Namdrik",
+    "cities": []
+  },
+  {
+    "code": "MH-NMU",
+    "name": "Namu",
+    "cities": []
+  },
+  {
+    "code": "MH-RON",
+    "name": "Rongelap",
+    "cities": []
+  },
+  {
+    "code": "MH-UJA",
+    "name": "Ujae",
+    "cities": []
+  },
+  {
+    "code": "MH-UTI",
+    "name": "Utrik",
+    "cities": []
+  },
+  {
+    "code": "MH-WTH",
+    "name": "Wotho",
+    "cities": []
+  },
+  {
+    "code": "MH-WTJ",
+    "name": "Wotje",
+    "cities": []
+  }
+]

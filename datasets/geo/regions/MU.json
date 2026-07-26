@@ -1,0 +1,82 @@
+[
+  {
+    "code": "MU-AG",
+    "name": "Agalega Islands",
+    "cities": []
+  },
+  {
+    "code": "MU-BR",
+    "name": "Beau Bassin-Rose Hill",
+    "cities": []
+  },
+  {
+    "code": "MU-BL",
+    "name": "Black River",
+    "cities": []
+  },
+  {
+    "code": "MU-CC",
+    "name": "Cargados Carajos Shoals",
+    "cities": []
+  },
+  {
+    "code": "MU-CU",
+    "name": "Curepipe",
+    "cities": []
+  },
+  {
+    "code": "MU-FL",
+    "name": "Flacq",
+    "cities": []
+  },
+  {
+    "code": "MU-GP",
+    "name": "Grand Port",
+    "cities": []
+  },
+  {
+    "code": "MU-MO",
+    "name": "Moka",
+    "cities": []
+  },
+  {
+    "code": "MU-PA",
+    "name": "Pamplemousses",
+    "cities": []
+  },
+  {
+    "code": "MU-PW",
+    "name": "Plaines Wilhems",
+    "cities": []
+  },
+  {
+    "code": "MU-PL",
+    "name": "Port Louis",
+    "cities": []
+  },
+  {
+    "code": "MU-PU",
+    "name": "Port Louis (City)",
+    "cities": []
+  },
+  {
+    "code": "MU-RR",
+    "name": "Riviere du Rempart",
+    "cities": []
+  },
+  {
+    "code": "MU-RO",
+    "name": "Rodrigues Island",
+    "cities": []
+  },
+  {
+    "code": "MU-SA",
+    "name": "Savanne",
+    "cities": []
+  },
+  {
+    "code": "MU-CP",
+    "name": "Vacoas-Phoenix",
+    "cities": []
+  }
+]

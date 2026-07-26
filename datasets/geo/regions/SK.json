@@ -1,0 +1,42 @@
+[
+  {
+    "code": "SK-BC",
+    "name": "Banskobystricky",
+    "cities": []
+  },
+  {
+    "code": "SK-BL",
+    "name": "Bratislavsky",
+    "cities": []
+  },
+  {
+    "code": "SK-KI",
+    "name": "Kosicky",
+    "cities": []
+  },
+  {
+    "code": "SK-NI",
+    "name": "Nitriansky",
+    "cities": []
+  },
+  {
+    "code": "SK-PV",
+    "name": "Presovsky",
+    "cities": []
+  },
+  {
+    "code": "SK-TC",
+    "name": "Trenciansky",
+    "cities": []
+  },
+  {
+    "code": "SK-TA",
+    "name": "Trnavsky",
+    "cities": []
+  },
+  {
+    "code": "SK-ZI",
+    "name": "Zilinsky",
+    "cities": []
+  }
+]

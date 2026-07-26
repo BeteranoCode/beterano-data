@@ -1,0 +1,312 @@
+[
+  {
+    "code": "US-AL",
+    "name": "Alabama",
+    "cities": []
+  },
+  {
+    "code": "US-AK",
+    "name": "Alaska",
+    "cities": []
+  },
+  {
+    "code": "US-AS",
+    "name": "American Samoa",
+    "cities": []
+  },
+  {
+    "code": "US-AZ",
+    "name": "Arizona",
+    "cities": []
+  },
+  {
+    "code": "US-AR",
+    "name": "Arkansas",
+    "cities": []
+  },
+  {
+    "code": "US-AA",
+    "name": "Armed Forces Americas",
+    "cities": []
+  },
+  {
+    "code": "US-AE",
+    "name": "Armed Forces Europe, Canada, Africa and Middle East",
+    "cities": []
+  },
+  {
+    "code": "US-AP",
+    "name": "Armed Forces Pacific",
+    "cities": []
+  },
+  {
+    "code": "US-CA",
+    "name": "California",
+    "cities": []
+  },
+  {
+    "code": "US-CO",
+    "name": "Colorado",
+    "cities": []
+  },
+  {
+    "code": "US-CT",
+    "name": "Connecticut",
+    "cities": []
+  },
+  {
+    "code": "US-DE",
+    "name": "Delaware",
+    "cities": []
+  },
+  {
+    "code": "US-DC",
+    "name": "District of Columbia",
+    "cities": []
+  },
+  {
+    "code": "US-FL",
+    "name": "Florida",
+    "cities": []
+  },
+  {
+    "code": "US-GA",
+    "name": "Georgia",
+    "cities": []
+  },
+  {
+    "code": "US-GU",
+    "name": "Guam",
+    "cities": []
+  },
+  {
+    "code": "US-HI",
+    "name": "Hawaii",
+    "cities": []
+  },
+  {
+    "code": "US-ID",
+    "name": "Idaho",
+    "cities": []
+  },
+  {
+    "code": "US-IL",
+    "name": "Illinois",
+    "cities": []
+  },
+  {
+    "code": "US-IN",
+    "name": "Indiana",
+    "cities": []
+  },
+  {
+    "code": "US-IA",
+    "name": "Iowa",
+    "cities": []
+  },
+  {
+    "code": "US-KS",
+    "name": "Kansas",
+    "cities": []
+  },
+  {
+    "code": "US-KY",
+    "name": "Kentucky",
+    "cities": []
+  },
+  {
+    "code": "US-LA",
+    "name": "Louisiana",
+    "cities": []
+  },
+  {
+    "code": "US-ME",
+    "name": "Maine",
+    "cities": []
+  },
+  {
+    "code": "US-MH",
+    "name": "Marshall Islands",
+    "cities": []
+  },
+  {
+    "code": "US-MD",
+    "name": "Maryland",
+    "cities": []
+  },
+  {
+    "code": "US-MA",
+    "name": "Massachusetts",
+    "cities": []
+  },
+  {
+    "code": "US-MI",
+    "name": "Michigan",
+    "cities": []
+  },
+  {
+    "code": "US-FM",
+    "name": "Micronesia",
+    "cities": []
+  },
+  {
+    "code": "US-MN",
+    "name": "Minnesota",
+    "cities": []
+  },
+  {
+    "code": "US-MS",
+    "name": "Mississippi",
+    "cities": []
+  },
+  {
+    "code": "US-MO",
+    "name": "Missouri",
+    "cities": []
+  },
+  {
+    "code": "US-MT",
+    "name": "Montana",
+    "cities": []
+  },
+  {
+    "code": "US-NE",
+    "name": "Nebraska",
+    "cities": []
+  },
+  {
+    "code": "US-NV",
+    "name": "Nevada",
+    "cities": []
+  },
+  {
+    "code": "US-NH",
+    "name": "New Hampshire",
+    "cities": []
+  },
+  {
+    "code": "US-NJ",
+    "name": "New Jersey",
+    "cities": []
+  },
+  {
+    "code": "US-NM",
+    "name": "New Mexico",
+    "cities": []
+  },
+  {
+    "code": "US-NY",
+    "name": "New York",
+    "cities": []
+  },
+  {
+    "code": "US-NC",
+    "name": "North Carolina",
+    "cities": []
+  },
+  {
+    "code": "US-ND",
+    "name": "North Dakota",
+    "cities": []
+  },
+  {
+    "code": "US-MP",
+    "name": "Northern Mariana Islands",
+    "cities": []
+  },
+  {
+    "code": "US-OH",
+    "name": "Ohio",
+    "cities": []
+  },
+  {
+    "code": "US-OK",
+    "name": "Oklahoma",
+    "cities": []
+  },
+  {
+    "code": "US-OR",
+    "name": "Oregon",
+    "cities": []
+  },
+  {
+    "code": "US-PW",
+    "name": "Palau",
+    "cities": []
+  },
+  {
+    "code": "US-PA",
+    "name": "Pennsylvania",
+    "cities": []
+  },
+  {
+    "code": "US-PR",
+    "name": "Puerto Rico",
+    "cities": []
+  },
+  {
+    "code": "US-RI",
+    "name": "Rhode Island",
+    "cities": []
+  },
+  {
+    "code": "US-SC",
+    "name": "South Carolina",
+    "cities": []
+  },
+  {
+    "code": "US-SD",
+    "name": "South Dakota",
+    "cities": []
+  },
+  {
+    "code": "US-TN",
+    "name": "Tennessee",
+    "cities": []
+  },
+  {
+    "code": "US-TX",
+    "name": "Texas",
+    "cities": []
+  },
+  {
+    "code": "US-UT",
+    "name": "Utah",
+    "cities": []
+  },
+  {
+    "code": "US-VT",
+    "name": "Vermont",
+    "cities": []
+  },
+  {
+    "code": "US-VI",
+    "name": "Virgin Islands",
+    "cities": []
+  },
+  {
+    "code": "US-VA",
+    "name": "Virginia",
+    "cities": []
+  },
+  {
+    "code": "US-WA",
+    "name": "Washington",
+    "cities": []
+  },
+  {
+    "code": "US-WV",
+    "name": "West Virginia",
+    "cities": []
+  },
+  {
+    "code": "US-WI",
+    "name": "Wisconsin",
+    "cities": []
+  },
+  {
+    "code": "US-WY",
+    "name": "Wyoming",
+    "cities": []
+  }
+]

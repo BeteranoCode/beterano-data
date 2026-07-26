@@ -1,0 +1,62 @@
+[
+  {
+    "code": "BJ-AL",
+    "name": "Alibori",
+    "cities": []
+  },
+  {
+    "code": "BJ-AK",
+    "name": "Atakora",
+    "cities": []
+  },
+  {
+    "code": "BJ-AQ",
+    "name": "Atlantique",
+    "cities": []
+  },
+  {
+    "code": "BJ-BO",
+    "name": "Borgou",
+    "cities": []
+  },
+  {
+    "code": "BJ-CO",
+    "name": "Collines Department",
+    "cities": []
+  },
+  {
+    "code": "BJ-DO",
+    "name": "Donga",
+    "cities": []
+  },
+  {
+    "code": "BJ-KO",
+    "name": "Kouffo",
+    "cities": []
+  },
+  {
+    "code": "BJ-LI",
+    "name": "Littoral Department",
+    "cities": []
+  },
+  {
+    "code": "BJ-MO",
+    "name": "Mono Department",
+    "cities": []
+  },
+  {
+    "code": "BJ-OU",
+    "name": "Ouémé",
+    "cities": []
+  },
+  {
+    "code": "BJ-PL",
+    "name": "Plateau",
+    "cities": []
+  },
+  {
+    "code": "BJ-ZO",
+    "name": "Zou",
+    "cities": []
+  }
+]

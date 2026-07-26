@@ -1,0 +1,97 @@
+[
+  {
+    "code": "HU-BK",
+    "name": "Bács-Kiskun",
+    "cities": []
+  },
+  {
+    "code": "HU-BA",
+    "name": "Baranya",
+    "cities": []
+  },
+  {
+    "code": "HU-BE",
+    "name": "Békés",
+    "cities": []
+  },
+  {
+    "code": "HU-BZ",
+    "name": "Borsod-Abaúj-Zemplén",
+    "cities": []
+  },
+  {
+    "code": "HU-BU",
+    "name": "Budapest",
+    "cities": []
+  },
+  {
+    "code": "HU-CS",
+    "name": "Csongrád-Csanád",
+    "cities": []
+  },
+  {
+    "code": "HU-FE",
+    "name": "Fejér",
+    "cities": []
+  },
+  {
+    "code": "HU-GS",
+    "name": "Győr-Moson-Sopron",
+    "cities": []
+  },
+  {
+    "code": "HU-HB",
+    "name": "Hajdú-Bihar",
+    "cities": []
+  },
+  {
+    "code": "HU-HE",
+    "name": "Heves",
+    "cities": []
+  },
+  {
+    "code": "HU-JN",
+    "name": "Jász-Nagykun-Szolnok",
+    "cities": []
+  },
+  {
+    "code": "HU-KE",
+    "name": "Komárom-Esztergom",
+    "cities": []
+  },
+  {
+    "code": "HU-PE",
+    "name": "Pest",
+    "cities": []
+  },
+  {
+    "code": "HU-SO",
+    "name": "Somogy",
+    "cities": []
+  },
+  {
+    "code": "HU-SZ",
+    "name": "Szabolcs-Szatmár-Bereg",
+    "cities": []
+  },
+  {
+    "code": "HU-TO",
+    "name": "Tolna",
+    "cities": []
+  },
+  {
+    "code": "HU-VA",
+    "name": "Vas",
+    "cities": []
+  },
+  {
+    "code": "HU-VE",
+    "name": "Veszprém",
+    "cities": []
+  },
+  {
+    "code": "HU-ZA",
+    "name": "Zala",
+    "cities": []
+  }
+]

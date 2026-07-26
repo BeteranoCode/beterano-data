@@ -1,0 +1,32 @@
+[
+  {
+    "code": "ER-AN",
+    "name": "Anseba",
+    "cities": []
+  },
+  {
+    "code": "ER-DU",
+    "name": "Debub",
+    "cities": []
+  },
+  {
+    "code": "ER-DK",
+    "name": "Debub-Keih-Bahri",
+    "cities": []
+  },
+  {
+    "code": "ER-GB",
+    "name": "Gash-Barka",
+    "cities": []
+  },
+  {
+    "code": "ER-MA",
+    "name": "Maekel",
+    "cities": []
+  },
+  {
+    "code": "ER-SK",
+    "name": "Semien-Keih-Bahri",
+    "cities": []
+  }
+]

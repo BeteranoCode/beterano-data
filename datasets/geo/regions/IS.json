@@ -1,0 +1,42 @@
+[
+  {
+    "code": "IS-7",
+    "name": "Austurland",
+    "cities": []
+  },
+  {
+    "code": "IS-1",
+    "name": "Höfuðborgarsvæði",
+    "cities": []
+  },
+  {
+    "code": "IS-6",
+    "name": "Norðurland eystra",
+    "cities": []
+  },
+  {
+    "code": "IS-5",
+    "name": "Norðurland vestra",
+    "cities": []
+  },
+  {
+    "code": "IS-8",
+    "name": "Suðurland",
+    "cities": []
+  },
+  {
+    "code": "IS-2",
+    "name": "Suðurnes",
+    "cities": []
+  },
+  {
+    "code": "IS-4",
+    "name": "Vestfirðir",
+    "cities": []
+  },
+  {
+    "code": "IS-3",
+    "name": "Vesturland",
+    "cities": []
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "code": "KY-BT",
+    "name": "Bodden Town",
+    "cities": []
+  },
+  {
+    "code": "KY-EE",
+    "name": "East End",
+    "cities": []
+  },
+  {
+    "code": "KY-GT",
+    "name": "George Town",
+    "cities": []
+  },
+  {
+    "code": "KY-NS",
+    "name": "North Side",
+    "cities": []
+  },
+  {
+    "code": "KY-SI",
+    "name": "Sister Islands",
+    "cities": []
+  },
+  {
+    "code": "KY-WB",
+    "name": "West Bay",
+    "cities": []
+  }
+]

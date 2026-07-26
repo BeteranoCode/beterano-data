@@ -1,0 +1,52 @@
+[
+  {
+    "code": "CM-AD",
+    "name": "Adamaoua",
+    "cities": []
+  },
+  {
+    "code": "CM-CE",
+    "name": "Centre",
+    "cities": []
+  },
+  {
+    "code": "CM-ES",
+    "name": "Est",
+    "cities": []
+  },
+  {
+    "code": "CM-EN",
+    "name": "Extrême-Nord",
+    "cities": []
+  },
+  {
+    "code": "CM-LT",
+    "name": "Littoral",
+    "cities": []
+  },
+  {
+    "code": "CM-NO",
+    "name": "Nord",
+    "cities": []
+  },
+  {
+    "code": "CM-NW",
+    "name": "Nord-Ouest",
+    "cities": []
+  },
+  {
+    "code": "CM-OU",
+    "name": "Ouest",
+    "cities": []
+  },
+  {
+    "code": "CM-SU",
+    "name": "Sud",
+    "cities": []
+  },
+  {
+    "code": "CM-SW",
+    "name": "Sud-Ouest",
+    "cities": []
+  }
+]

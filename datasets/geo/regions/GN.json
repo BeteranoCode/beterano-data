@@ -1,0 +1,42 @@
+[
+  {
+    "code": "GN-B",
+    "name": "Boké",
+    "cities": []
+  },
+  {
+    "code": "GN-C",
+    "name": "Conakry",
+    "cities": []
+  },
+  {
+    "code": "GN-F",
+    "name": "Faranah",
+    "cities": []
+  },
+  {
+    "code": "GN-K",
+    "name": "Kankan",
+    "cities": []
+  },
+  {
+    "code": "GN-D",
+    "name": "Kindia",
+    "cities": []
+  },
+  {
+    "code": "GN-L",
+    "name": "Labé",
+    "cities": []
+  },
+  {
+    "code": "GN-M",
+    "name": "Mamou",
+    "cities": []
+  },
+  {
+    "code": "GN-N",
+    "name": "Nzérékoré",
+    "cities": []
+  }
+]

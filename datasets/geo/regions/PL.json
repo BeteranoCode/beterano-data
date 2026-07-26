@@ -1,0 +1,82 @@
+[
+  {
+    "code": "PL-02",
+    "name": "Dolnośląskie",
+    "cities": []
+  },
+  {
+    "code": "PL-04",
+    "name": "Kujawsko-pomorskie",
+    "cities": []
+  },
+  {
+    "code": "PL-10",
+    "name": "Łódzkie",
+    "cities": []
+  },
+  {
+    "code": "PL-06",
+    "name": "Lubelskie",
+    "cities": []
+  },
+  {
+    "code": "PL-08",
+    "name": "Lubuskie",
+    "cities": []
+  },
+  {
+    "code": "PL-12",
+    "name": "Małopolskie",
+    "cities": []
+  },
+  {
+    "code": "PL-14",
+    "name": "Mazowieckie",
+    "cities": []
+  },
+  {
+    "code": "PL-16",
+    "name": "Opolskie",
+    "cities": []
+  },
+  {
+    "code": "PL-18",
+    "name": "Podkarpackie",
+    "cities": []
+  },
+  {
+    "code": "PL-20",
+    "name": "Podlaskie",
+    "cities": []
+  },
+  {
+    "code": "PL-22",
+    "name": "Pomorskie",
+    "cities": []
+  },
+  {
+    "code": "PL-24",
+    "name": "Śląskie",
+    "cities": []
+  },
+  {
+    "code": "PL-26",
+    "name": "Świętokrzyskie",
+    "cities": []
+  },
+  {
+    "code": "PL-28",
+    "name": "Warmińsko-mazurskie",
+    "cities": []
+  },
+  {
+    "code": "PL-30",
+    "name": "Wielkopolskie",
+    "cities": []
+  },
+  {
+    "code": "PL-32",
+    "name": "Zachodniopomorskie",
+    "cities": []
+  }
+]

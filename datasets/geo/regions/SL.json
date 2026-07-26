@@ -1,0 +1,22 @@
+[
+  {
+    "code": "SL-E",
+    "name": "Eastern",
+    "cities": []
+  },
+  {
+    "code": "SL-N",
+    "name": "Northern",
+    "cities": []
+  },
+  {
+    "code": "SL-S",
+    "name": "Southern",
+    "cities": []
+  },
+  {
+    "code": "SL-W",
+    "name": "Western",
+    "cities": []
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "code": "CH-AG",
+    "name": "Aargau",
+    "cities": []
+  },
+  {
+    "code": "CH-AR",
+    "name": "Appenzell Ausserrhoden",
+    "cities": []
+  },
+  {
+    "code": "CH-AI",
+    "name": "Appenzell Innerrhoden",
+    "cities": []
+  },
+  {
+    "code": "CH-BL",
+    "name": "Basel-Landschaft",
+    "cities": []
+  },
+  {
+    "code": "CH-BS",
+    "name": "Basel-Stadt",
+    "cities": [
+      "Basel"
+    ]
+  },
+  {
+    "code": "CH-BE",
+    "name": "Bern",
+    "cities": [
+      "Bern",
+      "Biel/Bienne",
+      "Köniz",
+      "Thun"
+    ]
+  },
+  {
+    "code": "CH-FR",
+    "name": "Freiburg",
+    "cities": [
+      "Fribourg"
+    ]
+  },
+  {
+    "code": "CH-GE",
+    "name": "Genève",
+    "cities": [
+      "Genève"
+    ]
+  },
+  {
+    "code": "CH-GL",
+    "name": "Glarus",
+    "cities": []
+  },
+  {
+    "code": "CH-GR",
+    "name": "Graubünden",
+    "cities": [
+      "Chur"
+    ]
+  },
+  {
+    "code": "CH-JU",
+    "name": "Jura",
+    "cities": []
+  },
+  {
+    "code": "CH-LU",
+    "name": "Luzern",
+    "cities": [
+      "Luzern"
+    ]
+  },
+  {
+    "code": "CH-NE",
+    "name": "Neuchâtel",
+    "cities": [
+      "La Chaux-de-Fonds",
+      "Neuchâtel"
+    ]
+  },
+  {
+    "code": "CH-NW",
+    "name": "Nidwalden",
+    "cities": []
+  },
+  {
+    "code": "CH-OW",
+    "name": "Obwalden",
+    "cities": []
+  },
+  {
+    "code": "CH-SG",
+    "name": "Sankt Gallen",
+    "cities": [
+      "Sankt Gallen"
+    ]
+  },
+  {
+    "code": "CH-SH",
+    "name": "Schaffhausen",
+    "cities": [
+      "Schaffhausen"
+    ]
+  },
+  {
+    "code": "CH-SZ",
+    "name": "Schwyz",
+    "cities": []
+  },
+  {
+    "code": "CH-SO",
+    "name": "Solothurn",
+    "cities": []
+  },
+  {
+    "code": "CH-TG",
+    "name": "Thurgau",
+    "cities": []
+  },
+  {
+    "code": "CH-TI",
+    "name": "Ticino",
+    "cities": [
+      "Lugano"
+    ]
+  },
+  {
+    "code": "CH-UR",
+    "name": "Uri",
+    "cities": []
+  },
+  {
+    "code": "CH-VS",
+    "name": "Valais",
+    "cities": [
+      "Sion"
+    ]
+  },
+  {
+    "code": "CH-VD",
+    "name": "Vaud",
+    "cities": [
+      "Lausanne"
+    ]
+  },
+  {
+    "code": "CH-ZG",
+    "name": "Zug",
+    "cities": [
+      "Zug"
+    ]
+  },
+  {
+    "code": "CH-ZH",
+    "name": "Zürich",
+    "cities": [
+      "Uster",
+      "Winterthur",
+      "Zürich"
+    ]
+  }
+]

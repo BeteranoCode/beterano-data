@@ -1,0 +1,132 @@
+[
+  {
+    "code": "TZ-01",
+    "name": "Arusha",
+    "cities": []
+  },
+  {
+    "code": "TZ-19",
+    "name": "Coast",
+    "cities": []
+  },
+  {
+    "code": "TZ-02",
+    "name": "Dar es Salaam",
+    "cities": []
+  },
+  {
+    "code": "TZ-03",
+    "name": "Dodoma",
+    "cities": []
+  },
+  {
+    "code": "TZ-04",
+    "name": "Iringa",
+    "cities": []
+  },
+  {
+    "code": "TZ-05",
+    "name": "Kagera",
+    "cities": []
+  },
+  {
+    "code": "TZ-08",
+    "name": "Kigoma",
+    "cities": []
+  },
+  {
+    "code": "TZ-09",
+    "name": "Kilimanjaro",
+    "cities": []
+  },
+  {
+    "code": "TZ-12",
+    "name": "Lindi",
+    "cities": []
+  },
+  {
+    "code": "TZ-26",
+    "name": "Manyara",
+    "cities": []
+  },
+  {
+    "code": "TZ-13",
+    "name": "Mara",
+    "cities": []
+  },
+  {
+    "code": "TZ-14",
+    "name": "Mbeya",
+    "cities": []
+  },
+  {
+    "code": "TZ-16",
+    "name": "Morogoro",
+    "cities": []
+  },
+  {
+    "code": "TZ-17",
+    "name": "Mtwara",
+    "cities": []
+  },
+  {
+    "code": "TZ-18",
+    "name": "Mwanza",
+    "cities": []
+  },
+  {
+    "code": "TZ-06",
+    "name": "Pemba North",
+    "cities": []
+  },
+  {
+    "code": "TZ-10",
+    "name": "Pemba South",
+    "cities": []
+  },
+  {
+    "code": "TZ-20",
+    "name": "Rukwa",
+    "cities": []
+  },
+  {
+    "code": "TZ-21",
+    "name": "Ruvuma",
+    "cities": []
+  },
+  {
+    "code": "TZ-22",
+    "name": "Shinyanga",
+    "cities": []
+  },
+  {
+    "code": "TZ-23",
+    "name": "Singida",
+    "cities": []
+  },
+  {
+    "code": "TZ-24",
+    "name": "Tabora",
+    "cities": []
+  },
+  {
+    "code": "TZ-25",
+    "name": "Tanga",
+    "cities": []
+  },
+  {
+    "code": "TZ-11",
+    "name": "Zanzibar Central/South",
+    "cities": []
+  },
+  {
+    "code": "TZ-07",
+    "name": "Zanzibar North",
+    "cities": []
+  },
+  {
+    "code": "TZ-15",
+    "name": "Zanzibar Urban/West",
+    "cities": []
+  }
+]

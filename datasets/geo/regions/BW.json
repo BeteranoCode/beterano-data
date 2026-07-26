@@ -1,0 +1,47 @@
+[
+  {
+    "code": "BW-CE",
+    "name": "Central",
+    "cities": []
+  },
+  {
+    "code": "BW-GH",
+    "name": "Ghanzi",
+    "cities": []
+  },
+  {
+    "code": "BW-KG",
+    "name": "Kgalagadi",
+    "cities": []
+  },
+  {
+    "code": "BW-KL",
+    "name": "Kgatleng",
+    "cities": []
+  },
+  {
+    "code": "BW-KW",
+    "name": "Kweneng",
+    "cities": []
+  },
+  {
+    "code": "BW-NW",
+    "name": "North West",
+    "cities": []
+  },
+  {
+    "code": "BW-NE",
+    "name": "North-East",
+    "cities": []
+  },
+  {
+    "code": "BW-SE",
+    "name": "South East",
+    "cities": []
+  },
+  {
+    "code": "BW-SO",
+    "name": "Southern",
+    "cities": []
+  }
+]

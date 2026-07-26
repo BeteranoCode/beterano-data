@@ -1,0 +1,67 @@
+[
+  {
+    "code": "PA-1",
+    "name": "Bocas del Toro",
+    "cities": []
+  },
+  {
+    "code": "PA-4",
+    "name": "Chiriquí",
+    "cities": []
+  },
+  {
+    "code": "PA-2",
+    "name": "Coclé",
+    "cities": []
+  },
+  {
+    "code": "PA-3",
+    "name": "Colón",
+    "cities": []
+  },
+  {
+    "code": "PA-5",
+    "name": "Darién",
+    "cities": []
+  },
+  {
+    "code": "PA-EM",
+    "name": "Emberá",
+    "cities": []
+  },
+  {
+    "code": "PA-6",
+    "name": "Herrera",
+    "cities": []
+  },
+  {
+    "code": "PA-KY",
+    "name": "Kuna Yala",
+    "cities": []
+  },
+  {
+    "code": "PA-7",
+    "name": "Los Santos",
+    "cities": []
+  },
+  {
+    "code": "PA-NB",
+    "name": "Ngäbe-Buglé",
+    "cities": []
+  },
+  {
+    "code": "PA-8",
+    "name": "Panamá",
+    "cities": []
+  },
+  {
+    "code": "PA-10",
+    "name": "Panamá Oeste",
+    "cities": []
+  },
+  {
+    "code": "PA-9",
+    "name": "Veraguas",
+    "cities": []
+  }
+]

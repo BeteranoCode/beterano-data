@@ -1,0 +1,87 @@
+[
+  {
+    "code": "LA-AT",
+    "name": "Attapu",
+    "cities": []
+  },
+  {
+    "code": "LA-BK",
+    "name": "Bokèo",
+    "cities": []
+  },
+  {
+    "code": "LA-BL",
+    "name": "Bolikhamxai",
+    "cities": []
+  },
+  {
+    "code": "LA-CH",
+    "name": "Champasak",
+    "cities": []
+  },
+  {
+    "code": "LA-HO",
+    "name": "Houaphan",
+    "cities": []
+  },
+  {
+    "code": "LA-KH",
+    "name": "Khammouan",
+    "cities": []
+  },
+  {
+    "code": "LA-LM",
+    "name": "Louang Namtha",
+    "cities": []
+  },
+  {
+    "code": "LA-LP",
+    "name": "Louangphabang",
+    "cities": []
+  },
+  {
+    "code": "LA-OU",
+    "name": "Oudômxai",
+    "cities": []
+  },
+  {
+    "code": "LA-PH",
+    "name": "Phôngsali",
+    "cities": []
+  },
+  {
+    "code": "LA-SL",
+    "name": "Salavan",
+    "cities": []
+  },
+  {
+    "code": "LA-SV",
+    "name": "Savannakhét",
+    "cities": []
+  },
+  {
+    "code": "LA-VI",
+    "name": "Vientiane",
+    "cities": []
+  },
+  {
+    "code": "LA-XA",
+    "name": "Xaignabouli",
+    "cities": []
+  },
+  {
+    "code": "LA-XS",
+    "name": "Xaisomboun",
+    "cities": []
+  },
+  {
+    "code": "LA-XE",
+    "name": "Xékong",
+    "cities": []
+  },
+  {
+    "code": "LA-XI",
+    "name": "Xiangkhouang",
+    "cities": []
+  }
+]

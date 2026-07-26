@@ -1,0 +1,27 @@
+[
+  {
+    "code": "RW-02",
+    "name": "Eastern",
+    "cities": []
+  },
+  {
+    "code": "RW-01",
+    "name": "Kigali",
+    "cities": []
+  },
+  {
+    "code": "RW-03",
+    "name": "Northern",
+    "cities": []
+  },
+  {
+    "code": "RW-05",
+    "name": "Southern",
+    "cities": []
+  },
+  {
+    "code": "RW-04",
+    "name": "Western",
+    "cities": []
+  }
+]
