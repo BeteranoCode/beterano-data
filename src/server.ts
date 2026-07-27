@@ -14,9 +14,17 @@ import { sendError } from "./routes/helpers";
 const app = express();
 const port = Number(process.env.PORT ?? 4010);
 const assetsPath = path.join(process.cwd(), "assets");
+// Orígenes permitidos para peticiones de navegador: localhost (dev) + los de
+// CORS_ORIGINS (prod, coma-separados: p.ej. "https://beterano.club,https://map.beterano.club").
+// Nota: los consumidores server-side (leads-api proxy) no pasan por CORS.
 const allowedOrigins = new Set([
   "http://localhost:5173",
   "http://localhost:3000",
+  "http://localhost:4020",
+  ...String(process.env.CORS_ORIGINS || "")
+    .split(",")
+    .map((value) => value.trim())
+    .filter(Boolean),
 ]);
 
 app.use(express.json());

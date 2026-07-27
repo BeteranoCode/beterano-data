@@ -1,0 +1,31 @@
+# Servicio beterano-data: API de datasets (vehículos, taxonomía de piezas, tribus,
+# geo) sobre Postgres + Prisma. Mismo patrón que core-api/marketplace-api en Render.
+#
+# Read-only y sin secretos → se despliega SIN API_KEY (guard abierto), así el health
+# check funciona y los consumidores (leads-api proxy, y en el futuro los fronts) no
+# necesitan cablear ninguna clave. Si algún día se quiere cerrar, poner API_KEY y
+# excluir /v1/health del guard.
+#
+# IMPORTANTE tras el primer deploy: la DB de Neon arranca VACÍA. Hay que seedear la
+# taxonomía/catálogo (ver runbook DEPLOY.md): prisma migrate deploy + import:parts +
+# import:parts:translations + import:vehicles. Sin eso los endpoints devuelven listas
+# vacías (mismo síntoma que el servicio caído).
+services:
+  - type: web
+    name: beterano-data
+    runtime: node
+    region: frankfurt
+    plan: free
+    branch: main
+    buildCommand: npm ci && npx prisma generate && npm run build
+    startCommand: node dist/server.js
+    healthCheckPath: /v1/health
+    envVars:
+      - key: NODE_VERSION
+        value: "24"
+      # Postgres de Neon (crear en el dashboard; pegar el connection string aquí).
+      - key: DATABASE_URL
+        sync: false
+      # Orígenes de navegador permitidos (los consumidores server-side no pasan por CORS).
+      - key: CORS_ORIGINS
+        value: https://beterano.club,https://map.beterano.club,https://calendar.beterano.club,https://garagex.beterano.club,https://lab.beterano.club
