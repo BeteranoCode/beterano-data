@@ -1,0 +1,27 @@
+name: Notify backend on catalog change
+
+# Cuando cambian los datasets de vehículos o tribus en main, avisa al backend
+# (BeteranoMotors/beterano-backend) para que revendorice y despliegue. Cierra el
+# lazo: re-hornear aquí → el catálogo llega solo a api.beterano.club.
+#
+# Requiere el secret CATALOG_SYNC_PAT: un PAT con permiso para lanzar el
+# repository_dispatch en beterano-backend (orgs distintas, GITHUB_TOKEN no vale).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - datasets/vehicles/**
+      - datasets/tribes/**
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Avisar al backend
+        run: |
+          curl -sf -X POST \
+            -H "Authorization: Bearer ${{ secrets.CATALOG_SYNC_PAT }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/BeteranoMotors/beterano-backend/dispatches \
+            -d '{"event_type":"catalog-updated"}'
