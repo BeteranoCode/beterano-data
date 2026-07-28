@@ -23,7 +23,9 @@
     "fix:translations": "ts-node scripts/fix-translations.ts --source xlsx --file datasets/parts/biblioteca_piezas.xlsx",
     "sync": "node scripts/sync_biblioteca.js",
     "seed:lab": "ts-node scripts/seed-lab-postgres.ts",
-    "seed:motors": "ts-node scripts/seed-motors-firestore.ts"
+    "seed:motors": "ts-node scripts/seed-motors-firestore.ts",
+    "dict:export": "ts-node scripts/export-parts-dictionary.ts",
+    "dict:import": "ts-node scripts/import-parts-dictionary.ts"
   },
   "prisma": {
     "seed": "ts-node prisma/seed.ts"
