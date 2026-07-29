@@ -350,3 +350,45 @@ lookupRouter.get("/lookup/part-text", async (req, res, next) => {
     next(error);
   }
 });
+
+// Mejor TÉRMINO DE BÚSQUEDA de un nodo en un idioma, resuelto en SU PROPIO nivel según la
+// key más específica recibida (element → category → group → system). En ELEMENTOS usa el
+// primer keyword del diccionario (término real de vendedor, p.ej. "auspuffdichtung"), que
+// es el nivel que se enriqueció a mano. En categoría/grupo/sistema usa el NOMBRE canónico
+// (limpio y específico en todos los idiomas: "Abgaskrümmerdichtungen"), porque sus keywords
+// aún son autogenerados/ruido. Alimenta las búsquedas de recambios por portal, en su idioma.
+lookupRouter.get("/lookup/part-term", async (req, res, next) => {
+  try {
+    const locale = parseLocale(req, res);
+    if (!locale) return;
+    const elementKey = safeString(req.query.elementKey);
+    const categoryKey = safeString(req.query.categoryKey);
+    const groupKey = safeString(req.query.groupKey);
+    const systemKey = safeString(req.query.systemKey);
+    const cleanName = (tr?: { name?: string | null } | null) => (tr?.name ?? "").trim();
+    const keywordFirst = (tr?: { name?: string | null; keywordsJson?: unknown } | null) => {
+      if (!tr) return "";
+      const kw = asArray(tr.keywordsJson).map((s) => s.trim()).filter((s) => s.length >= 2);
+      return kw[0] || cleanName(tr);
+    };
+    const incl = { translations: { where: { locale: locale as never } } };
+    let term = "";
+    if (elementKey) {
+      const n = await prisma.partElement.findFirst({ where: { key: elementKey }, include: incl });
+      term = keywordFirst(n?.translations[0]); // elementos: keyword de vendedor
+    } else if (categoryKey) {
+      const n = await prisma.partCategory.findFirst({ where: { key: categoryKey }, include: incl });
+      term = cleanName(n?.translations[0]);
+    } else if (groupKey) {
+      const n = await prisma.partGroup.findFirst({ where: { key: groupKey }, include: incl });
+      term = cleanName(n?.translations[0]);
+    } else if (systemKey) {
+      const n = await prisma.partSystem.findFirst({ where: { key: systemKey }, include: incl });
+      term = cleanName(n?.translations[0]);
+    }
+    res.set("Cache-Control", "public, max-age=60");
+    res.json({ term, locale });
+  } catch (error) {
+    next(error);
+  }
+});
