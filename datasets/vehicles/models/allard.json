@@ -65,12 +65,12 @@
     "type": "Cabrio"
   },
   {
-    "id": "allard-p1-p1",
+    "id": "allard-p1",
     "name": "P1",
     "type": "Sedan"
   },
   {
-    "id": "allard-p2-p2-monte-carlo",
+    "id": "allard-p2-monte-carlo",
     "name": "P2 Monte Carlo",
     "type": "Sedan"
   },

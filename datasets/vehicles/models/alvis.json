@@ -40,7 +40,7 @@
     "type": "Roadster"
   },
   {
-    "id": "alvis-12-70-12-70",
+    "id": "alvis-12-70",
     "name": "12/70",
     "type": "Sedan"
   },
@@ -55,27 +55,27 @@
     "type": "Coupe"
   },
   {
-    "id": "alvis-1475-1475",
+    "id": "alvis-1475",
     "name": "14.75",
     "type": "Sedan"
   },
   {
-    "id": "alvis-43-litre-43-litre",
+    "id": "alvis-43-litre",
     "name": "4.3 Litre",
     "type": "Sedan"
   },
   {
-    "id": "alvis-crested-eagle-crested-eagle",
+    "id": "alvis-crested-eagle",
     "name": "Crested Eagle",
     "type": "Sedan"
   },
   {
-    "id": "alvis-firebird-firebird",
+    "id": "alvis-firebird",
     "name": "Firebird",
     "type": "Sedan"
   },
   {
-    "id": "alvis-firefly-firefly",
+    "id": "alvis-firefly",
     "name": "Firefly",
     "type": "Sedan"
   },
