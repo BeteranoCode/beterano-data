@@ -25,12 +25,12 @@
     "type": "Sedan"
   },
   {
-    "id": "alfa-romeo-1750-2000-berlina-105",
+    "id": "alfa-romeo-1750-2000-berlina-1750-2000-berlina-105",
     "name": "1750 / 2000 Berlina 1750/2000 Berlina (105)",
     "type": "Sedan"
   },
   {
-    "id": "alfa-romeo-1900-1900-first-serie",
+    "id": "alfa-romeo-1900-1900-primera-serie",
     "name": "1900 (primera serie)",
     "type": "Sedan"
   },
@@ -90,12 +90,12 @@
     "type": "Sedan"
   },
   {
-    "id": "alfa-romeo-alfa-6-119",
+    "id": "alfa-romeo-alfa-6-alfa-6-119",
     "name": "Alfa 6 (119)",
     "type": "Sedan"
   },
   {
-    "id": "alfa-romeo-alfasud-901",
+    "id": "alfa-romeo-alfasud-alfasud-901",
     "name": "Alfasud (901)",
     "type": "Sedan"
   },
@@ -105,7 +105,7 @@
     "type": "Coupe"
   },
   {
-    "id": "alfa-romeo-alfetta-116",
+    "id": "alfa-romeo-alfetta-alfetta-116",
     "name": "Alfetta (116)",
     "type": "Sedan"
   },
@@ -125,7 +125,7 @@
     "type": "Hatchback"
   },
   {
-    "id": "alfa-romeo-giulia-105",
+    "id": "alfa-romeo-giulia-giulia-105",
     "name": "Giulia (105)",
     "type": "Sedan"
   },
@@ -140,12 +140,12 @@
     "type": "Coupe"
   },
   {
-    "id": "alfa-romeo-giulietta-116",
+    "id": "alfa-romeo-giulietta-giulietta-116-nueva",
     "name": "Giulietta (116, nueva)",
     "type": "Sedan"
   },
   {
-    "id": "alfa-romeo-giulietta-750-101",
+    "id": "alfa-romeo-giulietta-giulietta-750-101",
     "name": "Giulietta (750/101)",
     "type": "Sedan"
   },
