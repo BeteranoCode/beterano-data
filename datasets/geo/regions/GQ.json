@@ -1,0 +1,37 @@
+[
+  {
+    "code": "GQ-AN",
+    "name": "Annobón",
+    "cities": []
+  },
+  {
+    "code": "GQ-BN",
+    "name": "Bioko Norte",
+    "cities": []
+  },
+  {
+    "code": "GQ-BS",
+    "name": "Bioko Sur",
+    "cities": []
+  },
+  {
+    "code": "GQ-CS",
+    "name": "Centro Sur",
+    "cities": []
+  },
+  {
+    "code": "GQ-KN",
+    "name": "Kié-Ntem",
+    "cities": []
+  },
+  {
+    "code": "GQ-LI",
+    "name": "Litoral",
+    "cities": []
+  },
+  {
+    "code": "GQ-WN",
+    "name": "Wele-Nzas",
+    "cities": []
+  }
+]

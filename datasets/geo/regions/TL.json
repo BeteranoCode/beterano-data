@@ -1,0 +1,67 @@
+[
+  {
+    "code": "TL-AL",
+    "name": "Aileu",
+    "cities": []
+  },
+  {
+    "code": "TL-AN",
+    "name": "Ainaro",
+    "cities": []
+  },
+  {
+    "code": "TL-BA",
+    "name": "Baucau",
+    "cities": []
+  },
+  {
+    "code": "TL-BO",
+    "name": "Bobonaro",
+    "cities": []
+  },
+  {
+    "code": "TL-CO",
+    "name": "Cova Lima",
+    "cities": []
+  },
+  {
+    "code": "TL-DI",
+    "name": "Dili",
+    "cities": []
+  },
+  {
+    "code": "TL-ER",
+    "name": "Ermera",
+    "cities": []
+  },
+  {
+    "code": "TL-LA",
+    "name": "Lautem",
+    "cities": []
+  },
+  {
+    "code": "TL-LI",
+    "name": "Liquica",
+    "cities": []
+  },
+  {
+    "code": "TL-MT",
+    "name": "Manatuto",
+    "cities": []
+  },
+  {
+    "code": "TL-MF",
+    "name": "Manufahi",
+    "cities": []
+  },
+  {
+    "code": "TL-OE",
+    "name": "Oecussi",
+    "cities": []
+  },
+  {
+    "code": "TL-VI",
+    "name": "Viqueque",
+    "cities": []
+  }
+]

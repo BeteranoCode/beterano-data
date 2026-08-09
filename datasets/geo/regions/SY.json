@@ -1,0 +1,72 @@
+[
+  {
+    "code": "SY-HA",
+    "name": "Al Hasakah",
+    "cities": []
+  },
+  {
+    "code": "SY-LA",
+    "name": "Al Ladhiqiyah",
+    "cities": []
+  },
+  {
+    "code": "SY-QU",
+    "name": "Al Qunaytirah",
+    "cities": []
+  },
+  {
+    "code": "SY-RA",
+    "name": "Ar Raqqah",
+    "cities": []
+  },
+  {
+    "code": "SY-SU",
+    "name": "As Suwayda'",
+    "cities": []
+  },
+  {
+    "code": "SY-DR",
+    "name": "Dar'a",
+    "cities": []
+  },
+  {
+    "code": "SY-DY",
+    "name": "Dayr az Zawr",
+    "cities": []
+  },
+  {
+    "code": "SY-DI",
+    "name": "Dimashq",
+    "cities": []
+  },
+  {
+    "code": "SY-HL",
+    "name": "Halab",
+    "cities": []
+  },
+  {
+    "code": "SY-HM",
+    "name": "Hamah",
+    "cities": []
+  },
+  {
+    "code": "SY-HI",
+    "name": "Hims",
+    "cities": []
+  },
+  {
+    "code": "SY-ID",
+    "name": "Idlib",
+    "cities": []
+  },
+  {
+    "code": "SY-RD",
+    "name": "Rif Dimashq",
+    "cities": []
+  },
+  {
+    "code": "SY-TA",
+    "name": "Tartus",
+    "cities": []
+  }
+]

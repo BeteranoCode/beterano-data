@@ -1,0 +1,187 @@
+[
+  {
+    "code": "MD-AN",
+    "name": "Anenii Noi",
+    "cities": []
+  },
+  {
+    "code": "MD-BA",
+    "name": "Bălți",
+    "cities": []
+  },
+  {
+    "code": "MD-BS",
+    "name": "Basarabeasca",
+    "cities": []
+  },
+  {
+    "code": "MD-BD",
+    "name": "Bender",
+    "cities": []
+  },
+  {
+    "code": "MD-BR",
+    "name": "Briceni",
+    "cities": []
+  },
+  {
+    "code": "MD-CA",
+    "name": "Cahul",
+    "cities": []
+  },
+  {
+    "code": "MD-CL",
+    "name": "Călărași",
+    "cities": []
+  },
+  {
+    "code": "MD-CT",
+    "name": "Cantemir",
+    "cities": []
+  },
+  {
+    "code": "MD-CS",
+    "name": "Căușeni",
+    "cities": []
+  },
+  {
+    "code": "MD-CU",
+    "name": "Chișinău",
+    "cities": []
+  },
+  {
+    "code": "MD-CM",
+    "name": "Cimișlia",
+    "cities": []
+  },
+  {
+    "code": "MD-CR",
+    "name": "Criuleni",
+    "cities": []
+  },
+  {
+    "code": "MD-DO",
+    "name": "Dondușeni",
+    "cities": []
+  },
+  {
+    "code": "MD-DR",
+    "name": "Drochia",
+    "cities": []
+  },
+  {
+    "code": "MD-DU",
+    "name": "Dubăsari",
+    "cities": []
+  },
+  {
+    "code": "MD-ED",
+    "name": "Edineț",
+    "cities": []
+  },
+  {
+    "code": "MD-FA",
+    "name": "Fălești",
+    "cities": []
+  },
+  {
+    "code": "MD-FL",
+    "name": "Florești",
+    "cities": []
+  },
+  {
+    "code": "MD-GA",
+    "name": "Găgăuzia",
+    "cities": []
+  },
+  {
+    "code": "MD-GL",
+    "name": "Glodeni",
+    "cities": []
+  },
+  {
+    "code": "MD-HI",
+    "name": "Hîncești",
+    "cities": []
+  },
+  {
+    "code": "MD-IA",
+    "name": "Ialoveni",
+    "cities": []
+  },
+  {
+    "code": "MD-LE",
+    "name": "Leova",
+    "cities": []
+  },
+  {
+    "code": "MD-NI",
+    "name": "Nisporeni",
+    "cities": []
+  },
+  {
+    "code": "MD-OC",
+    "name": "Ocnița",
+    "cities": []
+  },
+  {
+    "code": "MD-OR",
+    "name": "Orhei",
+    "cities": []
+  },
+  {
+    "code": "MD-RE",
+    "name": "Rezina",
+    "cities": []
+  },
+  {
+    "code": "MD-RI",
+    "name": "Rîșcani",
+    "cities": []
+  },
+  {
+    "code": "MD-SI",
+    "name": "Sîngerei",
+    "cities": []
+  },
+  {
+    "code": "MD-SD",
+    "name": "Șoldănești",
+    "cities": []
+  },
+  {
+    "code": "MD-SO",
+    "name": "Soroca",
+    "cities": []
+  },
+  {
+    "code": "MD-SN",
+    "name": "Stânga Nistrului",
+    "cities": []
+  },
+  {
+    "code": "MD-SV",
+    "name": "Ștefan Vodă",
+    "cities": []
+  },
+  {
+    "code": "MD-ST",
+    "name": "Strășeni",
+    "cities": []
+  },
+  {
+    "code": "MD-TA",
+    "name": "Taraclia",
+    "cities": []
+  },
+  {
+    "code": "MD-TE",
+    "name": "Telenești",
+    "cities": []
+  },
+  {
+    "code": "MD-UN",
+    "name": "Ungheni",
+    "cities": []
+  }
+]

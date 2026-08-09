@@ -1,0 +1,32 @@
+[
+  {
+    "code": "VU-MAP",
+    "name": "Malampa",
+    "cities": []
+  },
+  {
+    "code": "VU-PAM",
+    "name": "Pénama",
+    "cities": []
+  },
+  {
+    "code": "VU-SAM",
+    "name": "Sanma",
+    "cities": []
+  },
+  {
+    "code": "VU-SEE",
+    "name": "Shéfa",
+    "cities": []
+  },
+  {
+    "code": "VU-TAE",
+    "name": "Taféa",
+    "cities": []
+  },
+  {
+    "code": "VU-TOB",
+    "name": "Torba",
+    "cities": []
+  }
+]

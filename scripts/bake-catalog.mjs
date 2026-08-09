@@ -8,7 +8,11 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import XLSX from "xlsx";
+import * as XLSX from "xlsx";
+
+// La build ESM de SheetJS (xlsx desde su CDN) no incluye el acceso a ficheros
+// por compatibilidad con el navegador: hay que inyectarle el fs de Node.
+XLSX.set_fs(fs);
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const VEH = path.join(root, "datasets", "vehicles");

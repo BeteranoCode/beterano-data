@@ -1,0 +1,92 @@
+[
+  {
+    "code": "HN-AT",
+    "name": "Atlántida",
+    "cities": []
+  },
+  {
+    "code": "HN-CH",
+    "name": "Choluteca",
+    "cities": []
+  },
+  {
+    "code": "HN-CL",
+    "name": "Colón",
+    "cities": []
+  },
+  {
+    "code": "HN-CM",
+    "name": "Comayagua",
+    "cities": []
+  },
+  {
+    "code": "HN-CP",
+    "name": "Copán",
+    "cities": []
+  },
+  {
+    "code": "HN-CR",
+    "name": "Cortés",
+    "cities": []
+  },
+  {
+    "code": "HN-EP",
+    "name": "El Paraíso",
+    "cities": []
+  },
+  {
+    "code": "HN-FM",
+    "name": "Francisco Morazán",
+    "cities": []
+  },
+  {
+    "code": "HN-GD",
+    "name": "Gracias a Dios",
+    "cities": []
+  },
+  {
+    "code": "HN-IN",
+    "name": "Intibucá",
+    "cities": []
+  },
+  {
+    "code": "HN-IB",
+    "name": "Islas de la Bahía",
+    "cities": []
+  },
+  {
+    "code": "HN-LP",
+    "name": "La Paz",
+    "cities": []
+  },
+  {
+    "code": "HN-LE",
+    "name": "Lempira",
+    "cities": []
+  },
+  {
+    "code": "HN-OC",
+    "name": "Ocotepeque",
+    "cities": []
+  },
+  {
+    "code": "HN-OL",
+    "name": "Olancho",
+    "cities": []
+  },
+  {
+    "code": "HN-SB",
+    "name": "Santa Bárbara",
+    "cities": []
+  },
+  {
+    "code": "HN-VA",
+    "name": "Valle",
+    "cities": []
+  },
+  {
+    "code": "HN-YO",
+    "name": "Yoro",
+    "cities": []
+  }
+]

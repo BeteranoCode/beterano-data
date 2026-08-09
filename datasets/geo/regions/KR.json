@@ -1,0 +1,87 @@
+[
+  {
+    "code": "KR-26",
+    "name": "Busan-gwangyeoksi",
+    "cities": []
+  },
+  {
+    "code": "KR-43",
+    "name": "Chungcheongbuk-do",
+    "cities": []
+  },
+  {
+    "code": "KR-44",
+    "name": "Chungcheongnam-do",
+    "cities": []
+  },
+  {
+    "code": "KR-27",
+    "name": "Daegu-gwangyeoksi",
+    "cities": []
+  },
+  {
+    "code": "KR-30",
+    "name": "Daejeon-gwangyeoksi",
+    "cities": []
+  },
+  {
+    "code": "KR-42",
+    "name": "Gangwon-do",
+    "cities": []
+  },
+  {
+    "code": "KR-29",
+    "name": "Gwangju-gwangyeoksi",
+    "cities": []
+  },
+  {
+    "code": "KR-41",
+    "name": "Gyeonggi-do",
+    "cities": []
+  },
+  {
+    "code": "KR-47",
+    "name": "Gyeongsangbuk-do",
+    "cities": []
+  },
+  {
+    "code": "KR-48",
+    "name": "Gyeongsangnam-do",
+    "cities": []
+  },
+  {
+    "code": "KR-28",
+    "name": "Incheon-gwangyeoksi",
+    "cities": []
+  },
+  {
+    "code": "KR-49",
+    "name": "Jeju-teukbyeoljachido",
+    "cities": []
+  },
+  {
+    "code": "KR-45",
+    "name": "Jeollabuk-do",
+    "cities": []
+  },
+  {
+    "code": "KR-46",
+    "name": "Jeollanam-do",
+    "cities": []
+  },
+  {
+    "code": "KR-50",
+    "name": "Sejong-teukbyeoljachisi",
+    "cities": []
+  },
+  {
+    "code": "KR-11",
+    "name": "Seoul-teukbyeolsi",
+    "cities": []
+  },
+  {
+    "code": "KR-31",
+    "name": "Ulsan-gwangyeoksi",
+    "cities": []
+  }
+]

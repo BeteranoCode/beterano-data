@@ -1,0 +1,185 @@
+[
+  {
+    "code": "ES-AN",
+    "name": "Andalucía",
+    "cities": [
+      "Almería",
+      "Cádiz",
+      "Córdoba",
+      "Dos Hermanas",
+      "Granada",
+      "Huelva",
+      "Jaén",
+      "Jerez de la Frontera",
+      "Málaga",
+      "Marbella",
+      "Sevilla"
+    ]
+  },
+  {
+    "code": "ES-AR",
+    "name": "Aragón",
+    "cities": [
+      "Huesca",
+      "Teruel",
+      "Zaragoza"
+    ]
+  },
+  {
+    "code": "ES-AS",
+    "name": "Asturias",
+    "cities": [
+      "Gijón",
+      "Oviedo"
+    ]
+  },
+  {
+    "code": "ES-CN",
+    "name": "Canarias",
+    "cities": [
+      "Las Palmas de Gran Canaria",
+      "Santa Cruz de Tenerife"
+    ]
+  },
+  {
+    "code": "ES-CB",
+    "name": "Cantabria",
+    "cities": [
+      "Santander"
+    ]
+  },
+  {
+    "code": "ES-CL",
+    "name": "Castilla y León",
+    "cities": [
+      "Ávila",
+      "Burgos",
+      "León",
+      "Palencia",
+      "Salamanca",
+      "Segovia",
+      "Soria",
+      "Valladolid",
+      "Zamora"
+    ]
+  },
+  {
+    "code": "ES-CM",
+    "name": "Castilla-La Mancha",
+    "cities": [
+      "Albacete",
+      "Ciudad Real",
+      "Cuenca",
+      "Guadalajara",
+      "Toledo"
+    ]
+  },
+  {
+    "code": "ES-CT",
+    "name": "Cataluña",
+    "cities": [
+      "Badalona",
+      "Barcelona",
+      "Girona",
+      "L'Hospitalet de Llobregat",
+      "Lleida",
+      "Mataró",
+      "Sabadell",
+      "Tarragona",
+      "Terrassa"
+    ]
+  },
+  {
+    "code": "ES-CE",
+    "name": "Ceuta",
+    "cities": [
+      "Ceuta"
+    ]
+  },
+  {
+    "code": "ES-VC",
+    "name": "Comunidad Valenciana",
+    "cities": [
+      "Alicante",
+      "Castellón de la Plana",
+      "Elche",
+      "Valencia"
+    ]
+  },
+  {
+    "code": "ES-EX",
+    "name": "Extremadura",
+    "cities": [
+      "Badajoz",
+      "Cáceres"
+    ]
+  },
+  {
+    "code": "ES-GA",
+    "name": "Galicia",
+    "cities": [
+      "A Coruña",
+      "Lugo",
+      "Ourense",
+      "Pontevedra",
+      "Vigo"
+    ]
+  },
+  {
+    "code": "ES-IB",
+    "name": "Islas Baleares",
+    "cities": [
+      "Palma"
+    ]
+  },
+  {
+    "code": "ES-RI",
+    "name": "La Rioja",
+    "cities": [
+      "Logroño"
+    ]
+  },
+  {
+    "code": "ES-MD",
+    "name": "Madrid",
+    "cities": [
+      "Alcalá de Henares",
+      "Fuenlabrada",
+      "Getafe",
+      "Leganés",
+      "Madrid",
+      "Móstoles"
+    ]
+  },
+  {
+    "code": "ES-ML",
+    "name": "Melilla",
+    "cities": [
+      "Melilla"
+    ]
+  },
+  {
+    "code": "ES-MC",
+    "name": "Murcia",
+    "cities": [
+      "Cartagena",
+      "Murcia"
+    ]
+  },
+  {
+    "code": "ES-NC",
+    "name": "Navarra",
+    "cities": [
+      "Pamplona"
+    ]
+  },
+  {
+    "code": "ES-PV",
+    "name": "País Vasco",
+    "cities": [
+      "Bilbao",
+      "San Sebastián",
+      "Vitoria-Gasteiz"
+    ]
+  }
+]

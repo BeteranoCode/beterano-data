@@ -1,0 +1,122 @@
+[
+  {
+    "code": "AR-B",
+    "name": "Buenos Aires",
+    "cities": []
+  },
+  {
+    "code": "AR-C",
+    "name": "Capital Federal",
+    "cities": []
+  },
+  {
+    "code": "AR-K",
+    "name": "Catamarca",
+    "cities": []
+  },
+  {
+    "code": "AR-H",
+    "name": "Chaco",
+    "cities": []
+  },
+  {
+    "code": "AR-U",
+    "name": "Chubut",
+    "cities": []
+  },
+  {
+    "code": "AR-X",
+    "name": "Córdoba",
+    "cities": []
+  },
+  {
+    "code": "AR-W",
+    "name": "Corrientes",
+    "cities": []
+  },
+  {
+    "code": "AR-E",
+    "name": "Entre Ríos",
+    "cities": []
+  },
+  {
+    "code": "AR-P",
+    "name": "Formosa",
+    "cities": []
+  },
+  {
+    "code": "AR-Y",
+    "name": "Jujuy",
+    "cities": []
+  },
+  {
+    "code": "AR-L",
+    "name": "La Pampa",
+    "cities": []
+  },
+  {
+    "code": "AR-F",
+    "name": "La Rioja",
+    "cities": []
+  },
+  {
+    "code": "AR-M",
+    "name": "Mendoza",
+    "cities": []
+  },
+  {
+    "code": "AR-N",
+    "name": "Misiones",
+    "cities": []
+  },
+  {
+    "code": "AR-Q",
+    "name": "Neuquén",
+    "cities": []
+  },
+  {
+    "code": "AR-R",
+    "name": "Río Negro",
+    "cities": []
+  },
+  {
+    "code": "AR-A",
+    "name": "Salta",
+    "cities": []
+  },
+  {
+    "code": "AR-J",
+    "name": "San Juan",
+    "cities": []
+  },
+  {
+    "code": "AR-D",
+    "name": "San Luis",
+    "cities": []
+  },
+  {
+    "code": "AR-Z",
+    "name": "Santa Cruz",
+    "cities": []
+  },
+  {
+    "code": "AR-S",
+    "name": "Santa Fe",
+    "cities": []
+  },
+  {
+    "code": "AR-G",
+    "name": "Santiago del Estero",
+    "cities": []
+  },
+  {
+    "code": "AR-V",
+    "name": "Tierra del Fuego",
+    "cities": []
+  },
+  {
+    "code": "AR-T",
+    "name": "Tucumán",
+    "cities": []
+  }
+]

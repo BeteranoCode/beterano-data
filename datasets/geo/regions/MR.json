@@ -1,0 +1,77 @@
+[
+  {
+    "code": "MR-07",
+    "name": "Adrar",
+    "cities": []
+  },
+  {
+    "code": "MR-03",
+    "name": "Assaba",
+    "cities": []
+  },
+  {
+    "code": "MR-05",
+    "name": "Brakna",
+    "cities": []
+  },
+  {
+    "code": "MR-08",
+    "name": "Dakhlet Nouadhibou",
+    "cities": []
+  },
+  {
+    "code": "MR-04",
+    "name": "Gorgol",
+    "cities": []
+  },
+  {
+    "code": "MR-10",
+    "name": "Guidimaka",
+    "cities": []
+  },
+  {
+    "code": "MR-01",
+    "name": "Hodh Ech Chargui",
+    "cities": []
+  },
+  {
+    "code": "MR-02",
+    "name": "Hodh El Gharbi",
+    "cities": []
+  },
+  {
+    "code": "MR-12",
+    "name": "Inchiri",
+    "cities": []
+  },
+  {
+    "code": "MR-14",
+    "name": "Nouakchott Nord",
+    "cities": []
+  },
+  {
+    "code": "MR-13",
+    "name": "Nouakchott Ouest",
+    "cities": []
+  },
+  {
+    "code": "MR-15",
+    "name": "Nouakchott Sud",
+    "cities": []
+  },
+  {
+    "code": "MR-09",
+    "name": "Tagant",
+    "cities": []
+  },
+  {
+    "code": "MR-11",
+    "name": "Tiris Zemmour",
+    "cities": []
+  },
+  {
+    "code": "MR-06",
+    "name": "Trarza",
+    "cities": []
+  }
+]

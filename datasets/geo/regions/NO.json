@@ -1,0 +1,67 @@
+[
+  {
+    "code": "NO-09",
+    "name": "Agder",
+    "cities": []
+  },
+  {
+    "code": "NO-34",
+    "name": "Innlandet",
+    "cities": []
+  },
+  {
+    "code": "NO-22",
+    "name": "Jan Mayen",
+    "cities": []
+  },
+  {
+    "code": "NO-15",
+    "name": "Møre og Romsdal",
+    "cities": []
+  },
+  {
+    "code": "NO-18",
+    "name": "Nordland",
+    "cities": []
+  },
+  {
+    "code": "NO-03",
+    "name": "Oslo",
+    "cities": []
+  },
+  {
+    "code": "NO-11",
+    "name": "Rogaland",
+    "cities": []
+  },
+  {
+    "code": "NO-21",
+    "name": "Svalbard",
+    "cities": []
+  },
+  {
+    "code": "NO-54",
+    "name": "Troms og Finnmark",
+    "cities": []
+  },
+  {
+    "code": "NO-50",
+    "name": "Trøndelag",
+    "cities": []
+  },
+  {
+    "code": "NO-38",
+    "name": "Vestfold og Telemark",
+    "cities": []
+  },
+  {
+    "code": "NO-46",
+    "name": "Vestland",
+    "cities": []
+  },
+  {
+    "code": "NO-30",
+    "name": "Viken",
+    "cities": []
+  }
+]

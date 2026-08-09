@@ -1,0 +1,57 @@
+[
+  {
+    "code": "WS-AA",
+    "name": "A'ana",
+    "cities": []
+  },
+  {
+    "code": "WS-AL",
+    "name": "Aiga-i-le-Tai",
+    "cities": []
+  },
+  {
+    "code": "WS-AT",
+    "name": "Atua",
+    "cities": []
+  },
+  {
+    "code": "WS-FA",
+    "name": "Fa'asaleleaga",
+    "cities": []
+  },
+  {
+    "code": "WS-GE",
+    "name": "Gaga'emauga",
+    "cities": []
+  },
+  {
+    "code": "WS-GI",
+    "name": "Gagaifomauga",
+    "cities": []
+  },
+  {
+    "code": "WS-PA",
+    "name": "Palauli",
+    "cities": []
+  },
+  {
+    "code": "WS-SA",
+    "name": "Satupa'itea",
+    "cities": []
+  },
+  {
+    "code": "WS-TU",
+    "name": "Tuamasaga",
+    "cities": []
+  },
+  {
+    "code": "WS-VF",
+    "name": "Va'a-o-Fonoti",
+    "cities": []
+  },
+  {
+    "code": "WS-VS",
+    "name": "Vaisigano",
+    "cities": []
+  }
+]

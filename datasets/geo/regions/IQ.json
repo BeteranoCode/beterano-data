@@ -1,0 +1,92 @@
+[
+  {
+    "code": "IQ-AN",
+    "name": "Al Anbār",
+    "cities": []
+  },
+  {
+    "code": "IQ-BA",
+    "name": "Al Başrah",
+    "cities": []
+  },
+  {
+    "code": "IQ-MU",
+    "name": "Al Muthanná",
+    "cities": []
+  },
+  {
+    "code": "IQ-QA",
+    "name": "Al Qādisīyah",
+    "cities": []
+  },
+  {
+    "code": "IQ-NA",
+    "name": "An Najaf",
+    "cities": []
+  },
+  {
+    "code": "IQ-AR",
+    "name": "Arbīl",
+    "cities": []
+  },
+  {
+    "code": "IQ-SU",
+    "name": "As Sulaymānīyah",
+    "cities": []
+  },
+  {
+    "code": "IQ-BB",
+    "name": "Bābil",
+    "cities": []
+  },
+  {
+    "code": "IQ-BG",
+    "name": "Baghdād",
+    "cities": []
+  },
+  {
+    "code": "IQ-DQ",
+    "name": "Dhī Qār",
+    "cities": []
+  },
+  {
+    "code": "IQ-DI",
+    "name": "Diyālá",
+    "cities": []
+  },
+  {
+    "code": "IQ-DA",
+    "name": "Dohuk",
+    "cities": []
+  },
+  {
+    "code": "IQ-KA",
+    "name": "Karbalā'",
+    "cities": []
+  },
+  {
+    "code": "IQ-KI",
+    "name": "Kirkuk",
+    "cities": []
+  },
+  {
+    "code": "IQ-MA",
+    "name": "Maysān",
+    "cities": []
+  },
+  {
+    "code": "IQ-NI",
+    "name": "Nīnawá",
+    "cities": []
+  },
+  {
+    "code": "IQ-SD",
+    "name": "Şalāḩ ad Dīn",
+    "cities": []
+  },
+  {
+    "code": "IQ-WA",
+    "name": "Wāsiţ",
+    "cities": []
+  }
+]

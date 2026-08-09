@@ -1,0 +1,182 @@
+[
+  {
+    "code": "IN-AN",
+    "name": "Andaman and Nicobar Islands",
+    "cities": []
+  },
+  {
+    "code": "IN-AP",
+    "name": "Andhra Pradesh",
+    "cities": []
+  },
+  {
+    "code": "IN-AR",
+    "name": "Arunachal Pradesh",
+    "cities": []
+  },
+  {
+    "code": "IN-AS",
+    "name": "Assam",
+    "cities": []
+  },
+  {
+    "code": "IN-BR",
+    "name": "Bihar",
+    "cities": []
+  },
+  {
+    "code": "IN-CH",
+    "name": "Chandigarh",
+    "cities": []
+  },
+  {
+    "code": "IN-CT",
+    "name": "Chhattisgarh",
+    "cities": []
+  },
+  {
+    "code": "IN-DH",
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "cities": []
+  },
+  {
+    "code": "IN-DL",
+    "name": "Delhi",
+    "cities": []
+  },
+  {
+    "code": "IN-GA",
+    "name": "Goa",
+    "cities": []
+  },
+  {
+    "code": "IN-GJ",
+    "name": "Gujarat",
+    "cities": []
+  },
+  {
+    "code": "IN-HR",
+    "name": "Haryana",
+    "cities": []
+  },
+  {
+    "code": "IN-HP",
+    "name": "Himachal Pradesh",
+    "cities": []
+  },
+  {
+    "code": "IN-JK",
+    "name": "Jammu and Kashmir",
+    "cities": []
+  },
+  {
+    "code": "IN-JH",
+    "name": "Jharkhand",
+    "cities": []
+  },
+  {
+    "code": "IN-KA",
+    "name": "Karnataka",
+    "cities": []
+  },
+  {
+    "code": "IN-KL",
+    "name": "Kerala",
+    "cities": []
+  },
+  {
+    "code": "IN-LA",
+    "name": "Ladakh",
+    "cities": []
+  },
+  {
+    "code": "IN-LD",
+    "name": "Lakshadweep",
+    "cities": []
+  },
+  {
+    "code": "IN-MP",
+    "name": "Madhya Pradesh",
+    "cities": []
+  },
+  {
+    "code": "IN-MH",
+    "name": "Maharashtra",
+    "cities": []
+  },
+  {
+    "code": "IN-MN",
+    "name": "Manipur",
+    "cities": []
+  },
+  {
+    "code": "IN-ML",
+    "name": "Meghalaya",
+    "cities": []
+  },
+  {
+    "code": "IN-MZ",
+    "name": "Mizoram",
+    "cities": []
+  },
+  {
+    "code": "IN-NL",
+    "name": "Nagaland",
+    "cities": []
+  },
+  {
+    "code": "IN-OR",
+    "name": "Odisha",
+    "cities": []
+  },
+  {
+    "code": "IN-PY",
+    "name": "Puducherry",
+    "cities": []
+  },
+  {
+    "code": "IN-PB",
+    "name": "Punjab",
+    "cities": []
+  },
+  {
+    "code": "IN-RJ",
+    "name": "Rajasthan",
+    "cities": []
+  },
+  {
+    "code": "IN-SK",
+    "name": "Sikkim",
+    "cities": []
+  },
+  {
+    "code": "IN-TN",
+    "name": "Tamil Nadu",
+    "cities": []
+  },
+  {
+    "code": "IN-TG",
+    "name": "Telangana",
+    "cities": []
+  },
+  {
+    "code": "IN-TR",
+    "name": "Tripura",
+    "cities": []
+  },
+  {
+    "code": "IN-UP",
+    "name": "Uttar Pradesh",
+    "cities": []
+  },
+  {
+    "code": "IN-UT",
+    "name": "Uttarakhand",
+    "cities": []
+  },
+  {
+    "code": "IN-WB",
+    "name": "West Bengal",
+    "cities": []
+  }
+]

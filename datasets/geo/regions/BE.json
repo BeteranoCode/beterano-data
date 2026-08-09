@@ -1,0 +1,40 @@
+[
+  {
+    "code": "BE-BRU",
+    "name": "Bruselas",
+    "cities": [
+      "Bruxelles"
+    ]
+  },
+  {
+    "code": "BE-VLG",
+    "name": "Flandes",
+    "cities": [
+      "Aalst",
+      "Antwerpen",
+      "Brugge",
+      "Genk",
+      "Gent",
+      "Hasselt",
+      "Kortrijk",
+      "Leuven",
+      "Mechelen",
+      "Oostende",
+      "Roeselare"
+    ]
+  },
+  {
+    "code": "BE-WAL",
+    "name": "Valonia",
+    "cities": [
+      "Charleroi",
+      "La Louvière",
+      "Liège",
+      "Mons",
+      "Namur",
+      "Seraing",
+      "Tournai",
+      "Verviers"
+    ]
+  }
+]

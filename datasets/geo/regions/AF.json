@@ -1,0 +1,172 @@
+[
+  {
+    "code": "AF-BDS",
+    "name": "Badakhshan",
+    "cities": []
+  },
+  {
+    "code": "AF-BDG",
+    "name": "Badghis",
+    "cities": []
+  },
+  {
+    "code": "AF-BGL",
+    "name": "Baghlan",
+    "cities": []
+  },
+  {
+    "code": "AF-BAL",
+    "name": "Balkh",
+    "cities": []
+  },
+  {
+    "code": "AF-BAM",
+    "name": "Bamyan",
+    "cities": []
+  },
+  {
+    "code": "AF-DAY",
+    "name": "Daykundi",
+    "cities": []
+  },
+  {
+    "code": "AF-FRA",
+    "name": "Farah",
+    "cities": []
+  },
+  {
+    "code": "AF-FYB",
+    "name": "Faryab",
+    "cities": []
+  },
+  {
+    "code": "AF-GHA",
+    "name": "Ghazni",
+    "cities": []
+  },
+  {
+    "code": "AF-GHO",
+    "name": "Ghor",
+    "cities": []
+  },
+  {
+    "code": "AF-HEL",
+    "name": "Helmand",
+    "cities": []
+  },
+  {
+    "code": "AF-HER",
+    "name": "Herat",
+    "cities": []
+  },
+  {
+    "code": "AF-JOW",
+    "name": "Jowzjan",
+    "cities": []
+  },
+  {
+    "code": "AF-KAB",
+    "name": "Kabul",
+    "cities": []
+  },
+  {
+    "code": "AF-KAN",
+    "name": "Kandahar",
+    "cities": []
+  },
+  {
+    "code": "AF-KAP",
+    "name": "Kapisa",
+    "cities": []
+  },
+  {
+    "code": "AF-KHO",
+    "name": "Khost",
+    "cities": []
+  },
+  {
+    "code": "AF-KNR",
+    "name": "Kunar",
+    "cities": []
+  },
+  {
+    "code": "AF-KDZ",
+    "name": "Kunduz",
+    "cities": []
+  },
+  {
+    "code": "AF-LAG",
+    "name": "Laghman",
+    "cities": []
+  },
+  {
+    "code": "AF-LOW",
+    "name": "Logar",
+    "cities": []
+  },
+  {
+    "code": "AF-WAR",
+    "name": "Maidan Wardak",
+    "cities": []
+  },
+  {
+    "code": "AF-NAN",
+    "name": "Nangarhar",
+    "cities": []
+  },
+  {
+    "code": "AF-NIM",
+    "name": "Nimruz",
+    "cities": []
+  },
+  {
+    "code": "AF-NUR",
+    "name": "Nuristan",
+    "cities": []
+  },
+  {
+    "code": "AF-PIA",
+    "name": "Paktia",
+    "cities": []
+  },
+  {
+    "code": "AF-PKA",
+    "name": "Paktika",
+    "cities": []
+  },
+  {
+    "code": "AF-PAN",
+    "name": "Panjshir",
+    "cities": []
+  },
+  {
+    "code": "AF-PAR",
+    "name": "Parwan",
+    "cities": []
+  },
+  {
+    "code": "AF-SAM",
+    "name": "Samangan",
+    "cities": []
+  },
+  {
+    "code": "AF-SAR",
+    "name": "Sar-e Pol",
+    "cities": []
+  },
+  {
+    "code": "AF-TAK",
+    "name": "Takhar",
+    "cities": []
+  },
+  {
+    "code": "AF-ORU",
+    "name": "Urozgan",
+    "cities": []
+  },
+  {
+    "code": "AF-ZAB",
+    "name": "Zabul",
+    "cities": []
+  }
+]

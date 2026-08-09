@@ -1,0 +1,82 @@
+[
+  {
+    "code": "MY-01",
+    "name": "Johor",
+    "cities": []
+  },
+  {
+    "code": "MY-02",
+    "name": "Kedah",
+    "cities": []
+  },
+  {
+    "code": "MY-03",
+    "name": "Kelantan",
+    "cities": []
+  },
+  {
+    "code": "MY-04",
+    "name": "Melaka",
+    "cities": []
+  },
+  {
+    "code": "MY-05",
+    "name": "Negeri Sembilan",
+    "cities": []
+  },
+  {
+    "code": "MY-06",
+    "name": "Pahang",
+    "cities": []
+  },
+  {
+    "code": "MY-08",
+    "name": "Perak",
+    "cities": []
+  },
+  {
+    "code": "MY-09",
+    "name": "Perlis",
+    "cities": []
+  },
+  {
+    "code": "MY-07",
+    "name": "Pulau Pinang",
+    "cities": []
+  },
+  {
+    "code": "MY-12",
+    "name": "Sabah",
+    "cities": []
+  },
+  {
+    "code": "MY-13",
+    "name": "Sarawak",
+    "cities": []
+  },
+  {
+    "code": "MY-10",
+    "name": "Selangor",
+    "cities": []
+  },
+  {
+    "code": "MY-11",
+    "name": "Terengganu",
+    "cities": []
+  },
+  {
+    "code": "MY-14",
+    "name": "Wilayah Persekutuan (Kuala Lumpur)",
+    "cities": []
+  },
+  {
+    "code": "MY-15",
+    "name": "Wilayah Persekutuan (Labuan)",
+    "cities": []
+  },
+  {
+    "code": "MY-16",
+    "name": "Wilayah Persekutuan (Putrajaya)",
+    "cities": []
+  }
+]

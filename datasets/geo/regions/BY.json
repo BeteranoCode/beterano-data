@@ -1,0 +1,37 @@
+[
+  {
+    "code": "BY-BR",
+    "name": "Brest voblast",
+    "cities": []
+  },
+  {
+    "code": "BY-HM",
+    "name": "Gorod Minsk",
+    "cities": []
+  },
+  {
+    "code": "BY-HO",
+    "name": "Homiel voblast",
+    "cities": []
+  },
+  {
+    "code": "BY-HR",
+    "name": "Hrodna voblast",
+    "cities": []
+  },
+  {
+    "code": "BY-MA",
+    "name": "Mahilyow voblast",
+    "cities": []
+  },
+  {
+    "code": "BY-MI",
+    "name": "Minsk voblast",
+    "cities": []
+  },
+  {
+    "code": "BY-VI",
+    "name": "Vitsebsk voblast",
+    "cities": []
+  }
+]

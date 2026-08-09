@@ -1,0 +1,72 @@
+[
+  {
+    "code": "GR-69",
+    "name": "Ágion Óros",
+    "cities": []
+  },
+  {
+    "code": "GR-A",
+    "name": "Anatolikí Makedonía kai Thráki",
+    "cities": []
+  },
+  {
+    "code": "GR-I",
+    "name": "Attikḯ",
+    "cities": []
+  },
+  {
+    "code": "GR-G",
+    "name": "Dytikí Elláda",
+    "cities": []
+  },
+  {
+    "code": "GR-C",
+    "name": "Dytikí Makedonía",
+    "cities": []
+  },
+  {
+    "code": "GR-F",
+    "name": "Ionía Nísia",
+    "cities": []
+  },
+  {
+    "code": "GR-D",
+    "name": "Ípeiros",
+    "cities": []
+  },
+  {
+    "code": "GR-B",
+    "name": "Kentrikí Makedonía",
+    "cities": []
+  },
+  {
+    "code": "GR-M",
+    "name": "Krítí",
+    "cities": []
+  },
+  {
+    "code": "GR-L",
+    "name": "Notío Aigaío",
+    "cities": []
+  },
+  {
+    "code": "GR-J",
+    "name": "Peloponnísos",
+    "cities": []
+  },
+  {
+    "code": "GR-H",
+    "name": "Stereá Elláda",
+    "cities": []
+  },
+  {
+    "code": "GR-E",
+    "name": "Thessalía",
+    "cities": []
+  },
+  {
+    "code": "GR-K",
+    "name": "Voreío Aigaío",
+    "cities": []
+  }
+]

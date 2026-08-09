@@ -1,0 +1,52 @@
+[
+  {
+    "code": "SB-CE",
+    "name": "Central",
+    "cities": []
+  },
+  {
+    "code": "SB-CH",
+    "name": "Choiseul",
+    "cities": []
+  },
+  {
+    "code": "SB-GU",
+    "name": "Guadalcanal",
+    "cities": []
+  },
+  {
+    "code": "SB-CT",
+    "name": "Honiara",
+    "cities": []
+  },
+  {
+    "code": "SB-IS",
+    "name": "Isabel",
+    "cities": []
+  },
+  {
+    "code": "SB-MK",
+    "name": "Makira-Ulawa",
+    "cities": []
+  },
+  {
+    "code": "SB-ML",
+    "name": "Malaita",
+    "cities": []
+  },
+  {
+    "code": "SB-RB",
+    "name": "Rennell and Bellona",
+    "cities": []
+  },
+  {
+    "code": "SB-TE",
+    "name": "Temotu",
+    "cities": []
+  },
+  {
+    "code": "SB-WE",
+    "name": "Western",
+    "cities": []
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "code": "MZ-P",
+    "name": "Cabo Delgado",
+    "cities": []
+  },
+  {
+    "code": "MZ-G",
+    "name": "Gaza",
+    "cities": []
+  },
+  {
+    "code": "MZ-I",
+    "name": "Inhambane",
+    "cities": []
+  },
+  {
+    "code": "MZ-B",
+    "name": "Manica",
+    "cities": []
+  },
+  {
+    "code": "MZ-L",
+    "name": "Maputo",
+    "cities": []
+  },
+  {
+    "code": "MZ-MPM",
+    "name": "Maputo (City)",
+    "cities": []
+  },
+  {
+    "code": "MZ-N",
+    "name": "Nampula",
+    "cities": []
+  },
+  {
+    "code": "MZ-A",
+    "name": "Niassa",
+    "cities": []
+  },
+  {
+    "code": "MZ-S",
+    "name": "Sofala",
+    "cities": []
+  },
+  {
+    "code": "MZ-T",
+    "name": "Tete",
+    "cities": []
+  },
+  {
+    "code": "MZ-Q",
+    "name": "Zambezia",
+    "cities": []
+  }
+]

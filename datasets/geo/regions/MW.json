@@ -1,0 +1,137 @@
+[
+  {
+    "code": "MW-BA",
+    "name": "Balaka",
+    "cities": []
+  },
+  {
+    "code": "MW-BL",
+    "name": "Blantyre",
+    "cities": []
+  },
+  {
+    "code": "MW-CK",
+    "name": "Chikwawa",
+    "cities": []
+  },
+  {
+    "code": "MW-CR",
+    "name": "Chiradzulu",
+    "cities": []
+  },
+  {
+    "code": "MW-CT",
+    "name": "Chitipa",
+    "cities": []
+  },
+  {
+    "code": "MW-DE",
+    "name": "Dedza",
+    "cities": []
+  },
+  {
+    "code": "MW-DO",
+    "name": "Dowa",
+    "cities": []
+  },
+  {
+    "code": "MW-KR",
+    "name": "Karonga",
+    "cities": []
+  },
+  {
+    "code": "MW-KS",
+    "name": "Kasungu",
+    "cities": []
+  },
+  {
+    "code": "MW-LK",
+    "name": "Likoma",
+    "cities": []
+  },
+  {
+    "code": "MW-LI",
+    "name": "Lilongwe",
+    "cities": []
+  },
+  {
+    "code": "MW-MH",
+    "name": "Machinga",
+    "cities": []
+  },
+  {
+    "code": "MW-MG",
+    "name": "Mangochi",
+    "cities": []
+  },
+  {
+    "code": "MW-MC",
+    "name": "Mchinji",
+    "cities": []
+  },
+  {
+    "code": "MW-MU",
+    "name": "Mulanje",
+    "cities": []
+  },
+  {
+    "code": "MW-MW",
+    "name": "Mwanza",
+    "cities": []
+  },
+  {
+    "code": "MW-MZ",
+    "name": "Mzimba",
+    "cities": []
+  },
+  {
+    "code": "MW-NE",
+    "name": "Nkhata Bay",
+    "cities": []
+  },
+  {
+    "code": "MW-NB",
+    "name": "Nkhotakota",
+    "cities": []
+  },
+  {
+    "code": "MW-NS",
+    "name": "Nsanje",
+    "cities": []
+  },
+  {
+    "code": "MW-NU",
+    "name": "Ntcheu",
+    "cities": []
+  },
+  {
+    "code": "MW-NI",
+    "name": "Ntchisi",
+    "cities": []
+  },
+  {
+    "code": "MW-PH",
+    "name": "Phalombe",
+    "cities": []
+  },
+  {
+    "code": "MW-RU",
+    "name": "Rumphi",
+    "cities": []
+  },
+  {
+    "code": "MW-SA",
+    "name": "Salima",
+    "cities": []
+  },
+  {
+    "code": "MW-TH",
+    "name": "Thyolo",
+    "cities": []
+  },
+  {
+    "code": "MW-ZO",
+    "name": "Zomba",
+    "cities": []
+  }
+]

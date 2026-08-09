@@ -1,0 +1,57 @@
+[
+  {
+    "code": "CD-BN",
+    "name": "Bandundu",
+    "cities": []
+  },
+  {
+    "code": "CD-BC",
+    "name": "Bas-Congo",
+    "cities": []
+  },
+  {
+    "code": "CD-EQ",
+    "name": "Équateur",
+    "cities": []
+  },
+  {
+    "code": "CD-KE",
+    "name": "Kasaï-Occidental",
+    "cities": []
+  },
+  {
+    "code": "CD-KW",
+    "name": "Kasaï-Oriental",
+    "cities": []
+  },
+  {
+    "code": "CD-KA",
+    "name": "Katanga",
+    "cities": []
+  },
+  {
+    "code": "CD-KN",
+    "name": "Kinshasa",
+    "cities": []
+  },
+  {
+    "code": "CD-MA",
+    "name": "Maniema",
+    "cities": []
+  },
+  {
+    "code": "CD-NK",
+    "name": "Nord-Kivu",
+    "cities": []
+  },
+  {
+    "code": "CD-OR",
+    "name": "Orientale",
+    "cities": []
+  },
+  {
+    "code": "CD-SK",
+    "name": "Sud-Kivu",
+    "cities": []
+  }
+]

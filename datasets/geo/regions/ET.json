@@ -1,0 +1,57 @@
+[
+  {
+    "code": "ET-AA",
+    "name": "Addis Ababa",
+    "cities": []
+  },
+  {
+    "code": "ET-AF",
+    "name": "Afar",
+    "cities": []
+  },
+  {
+    "code": "ET-AM",
+    "name": "Amhara",
+    "cities": []
+  },
+  {
+    "code": "ET-BE",
+    "name": "Benshangul-Gumaz",
+    "cities": []
+  },
+  {
+    "code": "ET-DD",
+    "name": "Dire Dawa",
+    "cities": []
+  },
+  {
+    "code": "ET-GA",
+    "name": "Gambela",
+    "cities": []
+  },
+  {
+    "code": "ET-HA",
+    "name": "Harari",
+    "cities": []
+  },
+  {
+    "code": "ET-OR",
+    "name": "Oromia",
+    "cities": []
+  },
+  {
+    "code": "ET-SO",
+    "name": "Somali",
+    "cities": []
+  },
+  {
+    "code": "ET-SN",
+    "name": "Southern Nations Nationalities and People's Region",
+    "cities": []
+  },
+  {
+    "code": "ET-TI",
+    "name": "Tigray",
+    "cities": []
+  }
+]

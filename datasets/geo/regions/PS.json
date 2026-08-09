@@ -1,0 +1,82 @@
+[
+  {
+    "code": "PS-HBN",
+    "name": "Ak Khalīl",
+    "cities": []
+  },
+  {
+    "code": "PS-JEM",
+    "name": "Al Quds",
+    "cities": []
+  },
+  {
+    "code": "PS-JRH",
+    "name": "Arīḩā wal Aghwār",
+    "cities": []
+  },
+  {
+    "code": "PS-BTH",
+    "name": "Bayt Laḩm",
+    "cities": []
+  },
+  {
+    "code": "PS-DEB",
+    "name": "Dayr al Balaḩ",
+    "cities": []
+  },
+  {
+    "code": "PS-GZA",
+    "name": "Ghazzah",
+    "cities": []
+  },
+  {
+    "code": "PS-JEN",
+    "name": "Janīn",
+    "cities": []
+  },
+  {
+    "code": "PS-KYS",
+    "name": "Khān Yūnis",
+    "cities": []
+  },
+  {
+    "code": "PS-NBS",
+    "name": "Nāblus",
+    "cities": []
+  },
+  {
+    "code": "PS-QQA",
+    "name": "Qalqīyah",
+    "cities": []
+  },
+  {
+    "code": "PS-RFH",
+    "name": "Rafaḩ",
+    "cities": []
+  },
+  {
+    "code": "PS-RBH",
+    "name": "Rām Allāh wal Bīrah",
+    "cities": []
+  },
+  {
+    "code": "PS-SLT",
+    "name": "Salfīt",
+    "cities": []
+  },
+  {
+    "code": "PS-NGZ",
+    "name": "Shamāl Ghazzah",
+    "cities": []
+  },
+  {
+    "code": "PS-TBS",
+    "name": "Ţūbās",
+    "cities": []
+  },
+  {
+    "code": "PS-TKM",
+    "name": "Ţūlkarm",
+    "cities": []
+  }
+]

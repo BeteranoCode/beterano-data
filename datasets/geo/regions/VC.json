@@ -1,0 +1,32 @@
+[
+  {
+    "code": "VC-01",
+    "name": "Charlotte",
+    "cities": []
+  },
+  {
+    "code": "VC-06",
+    "name": "Grenadines",
+    "cities": []
+  },
+  {
+    "code": "VC-02",
+    "name": "Saint Andrew",
+    "cities": []
+  },
+  {
+    "code": "VC-03",
+    "name": "Saint David",
+    "cities": []
+  },
+  {
+    "code": "VC-04",
+    "name": "Saint George",
+    "cities": []
+  },
+  {
+    "code": "VC-05",
+    "name": "Saint Patrick",
+    "cities": []
+  }
+]

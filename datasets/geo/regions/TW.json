@@ -1,0 +1,102 @@
+[
+  {
+    "code": "TW-CHA",
+    "name": "Changhua",
+    "cities": []
+  },
+  {
+    "code": "TW-CYQ",
+    "name": "Chiayi",
+    "cities": []
+  },
+  {
+    "code": "TW-HSQ",
+    "name": "Hsinchu",
+    "cities": []
+  },
+  {
+    "code": "TW-HUA",
+    "name": "Hualien",
+    "cities": []
+  },
+  {
+    "code": "TW-KHH",
+    "name": "Kaohsiung",
+    "cities": []
+  },
+  {
+    "code": "TW-KEE",
+    "name": "Keelung",
+    "cities": []
+  },
+  {
+    "code": "TW-KIN",
+    "name": "Kinmen",
+    "cities": []
+  },
+  {
+    "code": "TW-LIE",
+    "name": "Lienchiang",
+    "cities": []
+  },
+  {
+    "code": "TW-MIA",
+    "name": "Miaoli",
+    "cities": []
+  },
+  {
+    "code": "TW-NAN",
+    "name": "Nantou",
+    "cities": []
+  },
+  {
+    "code": "TW-NWT",
+    "name": "New Taipei",
+    "cities": []
+  },
+  {
+    "code": "TW-PEN",
+    "name": "Penghu",
+    "cities": []
+  },
+  {
+    "code": "TW-PIF",
+    "name": "Pingtung",
+    "cities": []
+  },
+  {
+    "code": "TW-TXG",
+    "name": "Taichung",
+    "cities": []
+  },
+  {
+    "code": "TW-TNN",
+    "name": "Tainan",
+    "cities": []
+  },
+  {
+    "code": "TW-TPE",
+    "name": "Taipei",
+    "cities": []
+  },
+  {
+    "code": "TW-TTT",
+    "name": "Taitung",
+    "cities": []
+  },
+  {
+    "code": "TW-TAO",
+    "name": "Taoyuan",
+    "cities": []
+  },
+  {
+    "code": "TW-ILA",
+    "name": "Yilan",
+    "cities": []
+  },
+  {
+    "code": "TW-YUN",
+    "name": "Yunlin",
+    "cities": []
+  }
+]

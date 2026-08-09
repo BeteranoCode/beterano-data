@@ -1,0 +1,57 @@
+[
+  {
+    "code": "AM-AG",
+    "name": "Aragatsotn",
+    "cities": []
+  },
+  {
+    "code": "AM-AR",
+    "name": "Ararat",
+    "cities": []
+  },
+  {
+    "code": "AM-AV",
+    "name": "Armavir",
+    "cities": []
+  },
+  {
+    "code": "AM-GR",
+    "name": "Gegharkunik",
+    "cities": []
+  },
+  {
+    "code": "AM-KT",
+    "name": "Kotayk",
+    "cities": []
+  },
+  {
+    "code": "AM-LO",
+    "name": "Lori",
+    "cities": []
+  },
+  {
+    "code": "AM-SH",
+    "name": "Shirak",
+    "cities": []
+  },
+  {
+    "code": "AM-SU",
+    "name": "Syunik",
+    "cities": []
+  },
+  {
+    "code": "AM-TV",
+    "name": "Tavush",
+    "cities": []
+  },
+  {
+    "code": "AM-VD",
+    "name": "Vayots Dzor",
+    "cities": []
+  },
+  {
+    "code": "AM-ER",
+    "name": "Yerevan",
+    "cities": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "code": "BO-BE",
+    "name": "Beni",
+    "cities": []
+  },
+  {
+    "code": "BO-CH",
+    "name": "Chuquisaca",
+    "cities": []
+  },
+  {
+    "code": "BO-CB",
+    "name": "Cochabamba",
+    "cities": []
+  },
+  {
+    "code": "BO-LP",
+    "name": "La Paz",
+    "cities": []
+  },
+  {
+    "code": "BO-OR",
+    "name": "Oruro",
+    "cities": []
+  },
+  {
+    "code": "BO-PD",
+    "name": "Pando",
+    "cities": []
+  },
+  {
+    "code": "BO-PT",
+    "name": "Potosí",
+    "cities": []
+  },
+  {
+    "code": "BO-SC",
+    "name": "Santa Cruz",
+    "cities": []
+  },
+  {
+    "code": "BO-TJ",
+    "name": "Tarija",
+    "cities": []
+  }
+]

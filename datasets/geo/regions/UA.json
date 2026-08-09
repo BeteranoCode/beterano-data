@@ -1,0 +1,137 @@
+[
+  {
+    "code": "UA-43",
+    "name": "Avtonomna Respublika Krym",
+    "cities": []
+  },
+  {
+    "code": "UA-71",
+    "name": "Cherkaska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-74",
+    "name": "Chernihivska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-77",
+    "name": "Chernivetska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-12",
+    "name": "Dnipropetrovska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-14",
+    "name": "Donetska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-26",
+    "name": "Ivano-Frankivska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-63",
+    "name": "Kharkivska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-65",
+    "name": "Khersonska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-68",
+    "name": "Khmelnytska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-35",
+    "name": "Kirovohradska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-30",
+    "name": "Kyiv",
+    "cities": []
+  },
+  {
+    "code": "UA-32",
+    "name": "Kyivska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-09",
+    "name": "Luhanska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-46",
+    "name": "Lvivska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-48",
+    "name": "Mykolaivska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-51",
+    "name": "Odeska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-53",
+    "name": "Poltavska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-56",
+    "name": "Rivnenska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-40",
+    "name": "Sevastopol",
+    "cities": []
+  },
+  {
+    "code": "UA-59",
+    "name": "Sumska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-61",
+    "name": "Ternopilska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-05",
+    "name": "Vinnytska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-07",
+    "name": "Volynska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-21",
+    "name": "Zakarpatska oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-23",
+    "name": "Zaporizka oblast",
+    "cities": []
+  },
+  {
+    "code": "UA-18",
+    "name": "Zhytomyrska oblast",
+    "cities": []
+  }
+]

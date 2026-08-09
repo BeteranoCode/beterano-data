@@ -1,0 +1,37 @@
+[
+  {
+    "code": "GD-01",
+    "name": "Saint Andrew",
+    "cities": []
+  },
+  {
+    "code": "GD-02",
+    "name": "Saint David",
+    "cities": []
+  },
+  {
+    "code": "GD-03",
+    "name": "Saint George",
+    "cities": []
+  },
+  {
+    "code": "GD-04",
+    "name": "Saint John",
+    "cities": []
+  },
+  {
+    "code": "GD-05",
+    "name": "Saint Mark",
+    "cities": []
+  },
+  {
+    "code": "GD-06",
+    "name": "Saint Patrick",
+    "cities": []
+  },
+  {
+    "code": "GD-10",
+    "name": "Southern Grenadine Islands",
+    "cities": []
+  }
+]

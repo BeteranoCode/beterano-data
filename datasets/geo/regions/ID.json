@@ -1,0 +1,167 @@
+[
+  {
+    "code": "ID-AC",
+    "name": "Aceh",
+    "cities": []
+  },
+  {
+    "code": "ID-BA",
+    "name": "Bali",
+    "cities": []
+  },
+  {
+    "code": "ID-BB",
+    "name": "Bangka Belitung",
+    "cities": []
+  },
+  {
+    "code": "ID-BT",
+    "name": "Banten",
+    "cities": []
+  },
+  {
+    "code": "ID-BE",
+    "name": "Bengkulu",
+    "cities": []
+  },
+  {
+    "code": "ID-GO",
+    "name": "Gorontalo",
+    "cities": []
+  },
+  {
+    "code": "ID-JK",
+    "name": "Jakarta Raya",
+    "cities": []
+  },
+  {
+    "code": "ID-JA",
+    "name": "Jambi",
+    "cities": []
+  },
+  {
+    "code": "ID-JB",
+    "name": "Jawa Barat",
+    "cities": []
+  },
+  {
+    "code": "ID-JT",
+    "name": "Jawa Tengah",
+    "cities": []
+  },
+  {
+    "code": "ID-JI",
+    "name": "Jawa Timur",
+    "cities": []
+  },
+  {
+    "code": "ID-KB",
+    "name": "Kalimantan Barat",
+    "cities": []
+  },
+  {
+    "code": "ID-KS",
+    "name": "Kalimantan Selatan",
+    "cities": []
+  },
+  {
+    "code": "ID-KT",
+    "name": "Kalimantan Tengah",
+    "cities": []
+  },
+  {
+    "code": "ID-KI",
+    "name": "Kalimantan Timur",
+    "cities": []
+  },
+  {
+    "code": "ID-KU",
+    "name": "Kalimantan Utara",
+    "cities": []
+  },
+  {
+    "code": "ID-KR",
+    "name": "Kepulauan Riau",
+    "cities": []
+  },
+  {
+    "code": "ID-LA",
+    "name": "Lampung",
+    "cities": []
+  },
+  {
+    "code": "ID-MA",
+    "name": "Maluku",
+    "cities": []
+  },
+  {
+    "code": "ID-MU",
+    "name": "Maluku Utara",
+    "cities": []
+  },
+  {
+    "code": "ID-NB",
+    "name": "Nusa Tenggara Barat",
+    "cities": []
+  },
+  {
+    "code": "ID-NT",
+    "name": "Nusa Tenggara Timur",
+    "cities": []
+  },
+  {
+    "code": "ID-PA",
+    "name": "Papua",
+    "cities": []
+  },
+  {
+    "code": "ID-PB",
+    "name": "Papua Barat",
+    "cities": []
+  },
+  {
+    "code": "ID-RI",
+    "name": "Riau",
+    "cities": []
+  },
+  {
+    "code": "ID-SR",
+    "name": "Sulawesi Selatan",
+    "cities": []
+  },
+  {
+    "code": "ID-ST",
+    "name": "Sulawesi Tengah",
+    "cities": []
+  },
+  {
+    "code": "ID-SG",
+    "name": "Sulawesi Tenggara",
+    "cities": []
+  },
+  {
+    "code": "ID-SA",
+    "name": "Sulawesi Utara",
+    "cities": []
+  },
+  {
+    "code": "ID-SB",
+    "name": "Sumatera Barat",
+    "cities": []
+  },
+  {
+    "code": "ID-SS",
+    "name": "Sumatera Selatan",
+    "cities": []
+  },
+  {
+    "code": "ID-SU",
+    "name": "Sumatera Utara",
+    "cities": []
+  },
+  {
+    "code": "ID-YO",
+    "name": "Yogyakarta",
+    "cities": []
+  }
+]

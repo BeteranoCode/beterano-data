@@ -1,0 +1,142 @@
+[
+  {
+    "code": "BG-01",
+    "name": "Blagoevgrad",
+    "cities": []
+  },
+  {
+    "code": "BG-02",
+    "name": "Burgas",
+    "cities": []
+  },
+  {
+    "code": "BG-08",
+    "name": "Dobrich",
+    "cities": []
+  },
+  {
+    "code": "BG-07",
+    "name": "Gabrovo",
+    "cities": []
+  },
+  {
+    "code": "BG-28",
+    "name": "Jambol",
+    "cities": []
+  },
+  {
+    "code": "BG-26",
+    "name": "Khaskovo",
+    "cities": []
+  },
+  {
+    "code": "BG-10",
+    "name": "Kjustendil",
+    "cities": []
+  },
+  {
+    "code": "BG-09",
+    "name": "Kurdzhali",
+    "cities": []
+  },
+  {
+    "code": "BG-11",
+    "name": "Lovech",
+    "cities": []
+  },
+  {
+    "code": "BG-12",
+    "name": "Montana",
+    "cities": []
+  },
+  {
+    "code": "BG-13",
+    "name": "Pazardzhik",
+    "cities": []
+  },
+  {
+    "code": "BG-14",
+    "name": "Pernik",
+    "cities": []
+  },
+  {
+    "code": "BG-15",
+    "name": "Pleven",
+    "cities": []
+  },
+  {
+    "code": "BG-16",
+    "name": "Plovdiv",
+    "cities": []
+  },
+  {
+    "code": "BG-17",
+    "name": "Razgrad",
+    "cities": []
+  },
+  {
+    "code": "BG-18",
+    "name": "Ruse",
+    "cities": []
+  },
+  {
+    "code": "BG-27",
+    "name": "Shumen",
+    "cities": []
+  },
+  {
+    "code": "BG-19",
+    "name": "Silistra",
+    "cities": []
+  },
+  {
+    "code": "BG-20",
+    "name": "Sliven",
+    "cities": []
+  },
+  {
+    "code": "BG-21",
+    "name": "Smoljan",
+    "cities": []
+  },
+  {
+    "code": "BG-23",
+    "name": "Sofija",
+    "cities": []
+  },
+  {
+    "code": "BG-22",
+    "name": "Sofija-Grad",
+    "cities": []
+  },
+  {
+    "code": "BG-24",
+    "name": "Stara Zagora",
+    "cities": []
+  },
+  {
+    "code": "BG-25",
+    "name": "Turgovishhe",
+    "cities": []
+  },
+  {
+    "code": "BG-03",
+    "name": "Varna",
+    "cities": []
+  },
+  {
+    "code": "BG-04",
+    "name": "Veliko Turnovo",
+    "cities": []
+  },
+  {
+    "code": "BG-05",
+    "name": "Vidin",
+    "cities": []
+  },
+  {
+    "code": "BG-06",
+    "name": "Vraca",
+    "cities": []
+  }
+]

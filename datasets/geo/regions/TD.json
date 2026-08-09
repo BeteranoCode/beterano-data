@@ -1,0 +1,112 @@
+[
+  {
+    "code": "TD-BG",
+    "name": "Bahr el Ghazal",
+    "cities": []
+  },
+  {
+    "code": "TD-BA",
+    "name": "Batha",
+    "cities": []
+  },
+  {
+    "code": "TD-BO",
+    "name": "Borkou",
+    "cities": []
+  },
+  {
+    "code": "TD-CB",
+    "name": "Chari-Baguirmi",
+    "cities": []
+  },
+  {
+    "code": "TD-EE",
+    "name": "Ennedi-Est",
+    "cities": []
+  },
+  {
+    "code": "TD-EO",
+    "name": "Ennedi-Ouest",
+    "cities": []
+  },
+  {
+    "code": "TD-GR",
+    "name": "Guéra",
+    "cities": []
+  },
+  {
+    "code": "TD-HL",
+    "name": "Hadjer Lamis",
+    "cities": []
+  },
+  {
+    "code": "TD-KA",
+    "name": "Kanem",
+    "cities": []
+  },
+  {
+    "code": "TD-LC",
+    "name": "Lac",
+    "cities": []
+  },
+  {
+    "code": "TD-LO",
+    "name": "Logone Occidental",
+    "cities": []
+  },
+  {
+    "code": "TD-LR",
+    "name": "Logone Oriental",
+    "cities": []
+  },
+  {
+    "code": "TD-ME",
+    "name": "Mayo-Kébbi-Est",
+    "cities": []
+  },
+  {
+    "code": "TD-MA",
+    "name": "Mondoul",
+    "cities": []
+  },
+  {
+    "code": "TD-MC",
+    "name": "Moyen-Chari",
+    "cities": []
+  },
+  {
+    "code": "TD-OD",
+    "name": "Ouaddai",
+    "cities": []
+  },
+  {
+    "code": "TD-SA",
+    "name": "Salamat",
+    "cities": []
+  },
+  {
+    "code": "TD-SI",
+    "name": "Sila",
+    "cities": []
+  },
+  {
+    "code": "TD-TA",
+    "name": "Tandjilé",
+    "cities": []
+  },
+  {
+    "code": "TD-TI",
+    "name": "Tibesti",
+    "cities": []
+  },
+  {
+    "code": "TD-ND",
+    "name": "Ville de Ndjamena",
+    "cities": []
+  },
+  {
+    "code": "TD-WF",
+    "name": "Wadi Fira",
+    "cities": []
+  }
+]

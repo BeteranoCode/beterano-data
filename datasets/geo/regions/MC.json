@@ -1,0 +1,87 @@
+[
+  {
+    "code": "MC-CL",
+    "name": "Colle",
+    "cities": []
+  },
+  {
+    "code": "MC-CO",
+    "name": "Condamine",
+    "cities": []
+  },
+  {
+    "code": "MC-FO",
+    "name": "Fontvieille",
+    "cities": []
+  },
+  {
+    "code": "MC-GA",
+    "name": "Gare",
+    "cities": []
+  },
+  {
+    "code": "MC-JE",
+    "name": "Jardin Exotique",
+    "cities": []
+  },
+  {
+    "code": "MC-LA",
+    "name": "Larvotto",
+    "cities": []
+  },
+  {
+    "code": "MC-MA",
+    "name": "Malbousquet",
+    "cities": []
+  },
+  {
+    "code": "MC-MO",
+    "name": "Monaco-Ville",
+    "cities": []
+  },
+  {
+    "code": "MC-MG",
+    "name": "Moneghetti",
+    "cities": []
+  },
+  {
+    "code": "MC-MC",
+    "name": "Monte-Carlo",
+    "cities": []
+  },
+  {
+    "code": "MC-MU",
+    "name": "Moulins",
+    "cities": []
+  },
+  {
+    "code": "MC-PH",
+    "name": "Port-Hercule",
+    "cities": []
+  },
+  {
+    "code": "MC-SR",
+    "name": "Saint-Roman",
+    "cities": []
+  },
+  {
+    "code": "MC-SD",
+    "name": "Sainte-Dévote",
+    "cities": []
+  },
+  {
+    "code": "MC-SO",
+    "name": "Source",
+    "cities": []
+  },
+  {
+    "code": "MC-SP",
+    "name": "Spélugues",
+    "cities": []
+  },
+  {
+    "code": "MC-VR",
+    "name": "Vallon de la Rousse",
+    "cities": []
+  }
+]

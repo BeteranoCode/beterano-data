@@ -1,0 +1,52 @@
+[
+  {
+    "code": "HT-AR",
+    "name": "Artibonite",
+    "cities": []
+  },
+  {
+    "code": "HT-CE",
+    "name": "Centre",
+    "cities": []
+  },
+  {
+    "code": "HT-GA",
+    "name": "Grand'Anse",
+    "cities": []
+  },
+  {
+    "code": "HT-NI",
+    "name": "Nippes",
+    "cities": []
+  },
+  {
+    "code": "HT-ND",
+    "name": "Nord",
+    "cities": []
+  },
+  {
+    "code": "HT-NE",
+    "name": "Nord-Est",
+    "cities": []
+  },
+  {
+    "code": "HT-NO",
+    "name": "Nord-Ouest",
+    "cities": []
+  },
+  {
+    "code": "HT-OU",
+    "name": "Ouest",
+    "cities": []
+  },
+  {
+    "code": "HT-SD",
+    "name": "Sud",
+    "cities": []
+  },
+  {
+    "code": "HT-SE",
+    "name": "Sud-Est",
+    "cities": []
+  }
+]

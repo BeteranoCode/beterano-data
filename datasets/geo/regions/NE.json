@@ -1,0 +1,42 @@
+[
+  {
+    "code": "NE-1",
+    "name": "Agadez",
+    "cities": []
+  },
+  {
+    "code": "NE-2",
+    "name": "Diffa",
+    "cities": []
+  },
+  {
+    "code": "NE-3",
+    "name": "Dosso",
+    "cities": []
+  },
+  {
+    "code": "NE-4",
+    "name": "Maradi",
+    "cities": []
+  },
+  {
+    "code": "NE-8",
+    "name": "Niamey",
+    "cities": []
+  },
+  {
+    "code": "NE-5",
+    "name": "Tahoua",
+    "cities": []
+  },
+  {
+    "code": "NE-6",
+    "name": "Tillabéri",
+    "cities": []
+  },
+  {
+    "code": "NE-7",
+    "name": "Zinder",
+    "cities": []
+  }
+]

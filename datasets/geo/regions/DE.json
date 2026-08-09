@@ -1,0 +1,134 @@
+[
+  {
+    "code": "DE-BW",
+    "name": "Baden-Württemberg",
+    "cities": [
+      "Freiburg im Breisgau",
+      "Karlsruhe",
+      "Mannheim",
+      "Stuttgart"
+    ]
+  },
+  {
+    "code": "DE-BY",
+    "name": "Bayern",
+    "cities": [
+      "Augsburg",
+      "München",
+      "Nürnberg",
+      "Regensburg"
+    ]
+  },
+  {
+    "code": "DE-BE",
+    "name": "Berlin",
+    "cities": [
+      "Berlin"
+    ]
+  },
+  {
+    "code": "DE-BB",
+    "name": "Brandenburg",
+    "cities": []
+  },
+  {
+    "code": "DE-HB",
+    "name": "Bremen",
+    "cities": [
+      "Bremen"
+    ]
+  },
+  {
+    "code": "DE-HH",
+    "name": "Hamburg",
+    "cities": [
+      "Hamburg"
+    ]
+  },
+  {
+    "code": "DE-HE",
+    "name": "Hessen",
+    "cities": [
+      "Frankfurt am Main",
+      "Kassel",
+      "Wiesbaden"
+    ]
+  },
+  {
+    "code": "DE-MV",
+    "name": "Mecklenburg-Vorpommern",
+    "cities": [
+      "Rostock"
+    ]
+  },
+  {
+    "code": "DE-NI",
+    "name": "Niedersachsen",
+    "cities": [
+      "Braunschweig",
+      "Hannover"
+    ]
+  },
+  {
+    "code": "DE-NW",
+    "name": "Nordrhein-Westfalen",
+    "cities": [
+      "Aachen",
+      "Bielefeld",
+      "Bochum",
+      "Bonn",
+      "Dortmund",
+      "Duisburg",
+      "Düsseldorf",
+      "Essen",
+      "Gelsenkirchen",
+      "Köln",
+      "Krefeld",
+      "Mönchengladbach",
+      "Münster",
+      "Wuppertal"
+    ]
+  },
+  {
+    "code": "DE-RP",
+    "name": "Rheinland-Pfalz",
+    "cities": [
+      "Mainz"
+    ]
+  },
+  {
+    "code": "DE-SL",
+    "name": "Saarland",
+    "cities": [
+      "Saarbrücken"
+    ]
+  },
+  {
+    "code": "DE-SN",
+    "name": "Sachsen",
+    "cities": [
+      "Dresden",
+      "Leipzig"
+    ]
+  },
+  {
+    "code": "DE-ST",
+    "name": "Sachsen-Anhalt",
+    "cities": []
+  },
+  {
+    "code": "DE-SH",
+    "name": "Schleswig-Holstein",
+    "cities": [
+      "Kiel",
+      "Lübeck"
+    ]
+  },
+  {
+    "code": "DE-TH",
+    "name": "Thüringen",
+    "cities": [
+      "Erfurt"
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "code": "MT-01",
+    "name": "Attard",
+    "cities": []
+  },
+  {
+    "code": "MT-02",
+    "name": "Balzan",
+    "cities": []
+  },
+  {
+    "code": "MT-03",
+    "name": "Birgu",
+    "cities": []
+  },
+  {
+    "code": "MT-04",
+    "name": "Birkirkara",
+    "cities": []
+  },
+  {
+    "code": "MT-05",
+    "name": "Birżebbuġa",
+    "cities": []
+  },
+  {
+    "code": "MT-06",
+    "name": "Bormla",
+    "cities": []
+  },
+  {
+    "code": "MT-07",
+    "name": "Dingli",
+    "cities": []
+  },
+  {
+    "code": "MT-08",
+    "name": "Fgura",
+    "cities": []
+  },
+  {
+    "code": "MT-09",
+    "name": "Floriana",
+    "cities": []
+  },
+  {
+    "code": "MT-10",
+    "name": "Fontana",
+    "cities": []
+  },
+  {
+    "code": "MT-13",
+    "name": "Għajnsielem",
+    "cities": []
+  },
+  {
+    "code": "MT-14",
+    "name": "Għarb",
+    "cities": []
+  },
+  {
+    "code": "MT-15",
+    "name": "Għargħur",
+    "cities": []
+  },
+  {
+    "code": "MT-16",
+    "name": "Għasri",
+    "cities": []
+  },
+  {
+    "code": "MT-17",
+    "name": "Għaxaq",
+    "cities": []
+  },
+  {
+    "code": "MT-11",
+    "name": "Guda",
+    "cities": []
+  },
+  {
+    "code": "MT-12",
+    "name": "Gżira",
+    "cities": []
+  },
+  {
+    "code": "MT-18",
+    "name": "Ħamrun",
+    "cities": []
+  },
+  {
+    "code": "MT-19",
+    "name": "Iklin",
+    "cities": []
+  },
+  {
+    "code": "MT-20",
+    "name": "Isla",
+    "cities": []
+  },
+  {
+    "code": "MT-21",
+    "name": "Kalkara",
+    "cities": []
+  },
+  {
+    "code": "MT-22",
+    "name": "Kerċem",
+    "cities": []
+  },
+  {
+    "code": "MT-23",
+    "name": "Kirkop",
+    "cities": []
+  },
+  {
+    "code": "MT-24",
+    "name": "Lija",
+    "cities": []
+  },
+  {
+    "code": "MT-25",
+    "name": "Luqa",
+    "cities": []
+  },
+  {
+    "code": "MT-26",
+    "name": "Marsa",
+    "cities": []
+  },
+  {
+    "code": "MT-27",
+    "name": "Marsaskala",
+    "cities": []
+  },
+  {
+    "code": "MT-28",
+    "name": "Marsaxlokk",
+    "cities": []
+  },
+  {
+    "code": "MT-29",
+    "name": "Mdina",
+    "cities": []
+  },
+  {
+    "code": "MT-30",
+    "name": "Mellieħa",
+    "cities": []
+  },
+  {
+    "code": "MT-31",
+    "name": "Mġarr",
+    "cities": []
+  },
+  {
+    "code": "MT-32",
+    "name": "Mosta",
+    "cities": []
+  },
+  {
+    "code": "MT-33",
+    "name": "Mqabba",
+    "cities": []
+  },
+  {
+    "code": "MT-34",
+    "name": "Msida",
+    "cities": []
+  },
+  {
+    "code": "MT-35",
+    "name": "Mtarfa",
+    "cities": []
+  },
+  {
+    "code": "MT-36",
+    "name": "Munxar",
+    "cities": []
+  },
+  {
+    "code": "MT-37",
+    "name": "Nadur",
+    "cities": []
+  },
+  {
+    "code": "MT-38",
+    "name": "Naxxar",
+    "cities": []
+  },
+  {
+    "code": "MT-39",
+    "name": "Paola",
+    "cities": []
+  },
+  {
+    "code": "MT-40",
+    "name": "Pembroke",
+    "cities": []
+  },
+  {
+    "code": "MT-41",
+    "name": "Pietà",
+    "cities": []
+  },
+  {
+    "code": "MT-42",
+    "name": "Qala",
+    "cities": []
+  },
+  {
+    "code": "MT-43",
+    "name": "Qormi",
+    "cities": []
+  },
+  {
+    "code": "MT-44",
+    "name": "Qrendi",
+    "cities": []
+  },
+  {
+    "code": "MT-45",
+    "name": "Rabat Għawdex",
+    "cities": []
+  },
+  {
+    "code": "MT-46",
+    "name": "Rabat Malta",
+    "cities": []
+  },
+  {
+    "code": "MT-47",
+    "name": "Safi",
+    "cities": []
+  },
+  {
+    "code": "MT-48",
+    "name": "San Ġiljan",
+    "cities": []
+  },
+  {
+    "code": "MT-49",
+    "name": "San Ġwann",
+    "cities": []
+  },
+  {
+    "code": "MT-50",
+    "name": "San Lawrenz",
+    "cities": []
+  },
+  {
+    "code": "MT-51",
+    "name": "San Pawl il-Baħar",
+    "cities": []
+  },
+  {
+    "code": "MT-52",
+    "name": "Sannat",
+    "cities": []
+  },
+  {
+    "code": "MT-53",
+    "name": "Santa Luċija",
+    "cities": []
+  },
+  {
+    "code": "MT-54",
+    "name": "Santa Venera",
+    "cities": []
+  },
+  {
+    "code": "MT-55",
+    "name": "Siġġiewi",
+    "cities": []
+  },
+  {
+    "code": "MT-56",
+    "name": "Sliema",
+    "cities": []
+  },
+  {
+    "code": "MT-57",
+    "name": "Swieqi",
+    "cities": []
+  },
+  {
+    "code": "MT-58",
+    "name": "Tai Xbiex",
+    "cities": []
+  },
+  {
+    "code": "MT-59",
+    "name": "Tarzien",
+    "cities": []
+  },
+  {
+    "code": "MT-60",
+    "name": "Valletta",
+    "cities": []
+  },
+  {
+    "code": "MT-61",
+    "name": "Xagħra",
+    "cities": []
+  },
+  {
+    "code": "MT-62",
+    "name": "Xewkija",
+    "cities": []
+  },
+  {
+    "code": "MT-63",
+    "name": "Xgħajra",
+    "cities": []
+  },
+  {
+    "code": "MT-64",
+    "name": "Żabbar",
+    "cities": []
+  },
+  {
+    "code": "MT-65",
+    "name": "Żebbuġ Għawde",
+    "cities": []
+  },
+  {
+    "code": "MT-66",
+    "name": "Żebbuġ Malta",
+    "cities": []
+  },
+  {
+    "code": "MT-67",
+    "name": "Żejtun",
+    "cities": []
+  },
+  {
+    "code": "MT-68",
+    "name": "Żurrieq",
+    "cities": []
+  }
+]

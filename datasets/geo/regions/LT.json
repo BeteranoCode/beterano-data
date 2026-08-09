@@ -1,0 +1,52 @@
+[
+  {
+    "code": "LT-AL",
+    "name": "Alytaus",
+    "cities": []
+  },
+  {
+    "code": "LT-KU",
+    "name": "Kauno",
+    "cities": []
+  },
+  {
+    "code": "LT-KL",
+    "name": "Klaipėdos",
+    "cities": []
+  },
+  {
+    "code": "LT-MR",
+    "name": "Marijampolės",
+    "cities": []
+  },
+  {
+    "code": "LT-PN",
+    "name": "Panevėžio",
+    "cities": []
+  },
+  {
+    "code": "LT-SA",
+    "name": "Šiaulių",
+    "cities": []
+  },
+  {
+    "code": "LT-TA",
+    "name": "Tauragės",
+    "cities": []
+  },
+  {
+    "code": "LT-TE",
+    "name": "Telšių",
+    "cities": []
+  },
+  {
+    "code": "LT-UT",
+    "name": "Utenos",
+    "cities": []
+  },
+  {
+    "code": "LT-VL",
+    "name": "Vilniaus",
+    "cities": []
+  }
+]

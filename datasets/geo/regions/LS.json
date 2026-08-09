@@ -1,0 +1,52 @@
+[
+  {
+    "code": "LS-D",
+    "name": "Berea",
+    "cities": []
+  },
+  {
+    "code": "LS-B",
+    "name": "Butha-Buthe",
+    "cities": []
+  },
+  {
+    "code": "LS-C",
+    "name": "Leribe",
+    "cities": []
+  },
+  {
+    "code": "LS-E",
+    "name": "Mafeteng",
+    "cities": []
+  },
+  {
+    "code": "LS-A",
+    "name": "Maseru",
+    "cities": []
+  },
+  {
+    "code": "LS-F",
+    "name": "Mohales Hoek",
+    "cities": []
+  },
+  {
+    "code": "LS-J",
+    "name": "Mokhotlong",
+    "cities": []
+  },
+  {
+    "code": "LS-H",
+    "name": "Qacha's Nek",
+    "cities": []
+  },
+  {
+    "code": "LS-G",
+    "name": "Quthing",
+    "cities": []
+  },
+  {
+    "code": "LS-K",
+    "name": "Thaba-Tseka",
+    "cities": []
+  }
+]

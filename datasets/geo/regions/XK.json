@@ -1,0 +1,37 @@
+[
+  {
+    "code": "XK-FZ",
+    "name": "Farizaj",
+    "cities": []
+  },
+  {
+    "code": "XK-GK",
+    "name": "Gjakova",
+    "cities": []
+  },
+  {
+    "code": "XK-GL",
+    "name": "Gjilan",
+    "cities": []
+  },
+  {
+    "code": "XK-MI",
+    "name": "Mitrovica",
+    "cities": []
+  },
+  {
+    "code": "XK-PE",
+    "name": "Peja/Peć",
+    "cities": []
+  },
+  {
+    "code": "XK-PR",
+    "name": "Pristina",
+    "cities": []
+  },
+  {
+    "code": "XK-PZ",
+    "name": "Prizren",
+    "cities": []
+  }
+]

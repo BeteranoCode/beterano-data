@@ -1,0 +1,212 @@
+[
+  {
+    "code": "RO-RO-AB",
+    "name": "Alba",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-AR",
+    "name": "Arad",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-AG",
+    "name": "Arges",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-BC",
+    "name": "Bacau",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-BH",
+    "name": "Bihor",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-BN",
+    "name": "Bistrita-Nasaud",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-BT",
+    "name": "Botosani",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-BR",
+    "name": "Braila",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-BV",
+    "name": "Brasov",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-B",
+    "name": "Bucharest",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-BZ",
+    "name": "Buzau",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-CL",
+    "name": "Calarasi",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-CS",
+    "name": "Caras-Severin",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-CJ",
+    "name": "Cluj",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-CT",
+    "name": "Constanta",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-CV",
+    "name": "Covasna",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-DB",
+    "name": "Dambovita",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-DJ",
+    "name": "Dolj",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-GL",
+    "name": "Galati",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-GR",
+    "name": "Giurgiu",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-GJ",
+    "name": "Gorj",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-HR",
+    "name": "Harghita",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-HD",
+    "name": "Hunedoara",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-IL",
+    "name": "Ialomita",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-IS",
+    "name": "Iasi",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-IF",
+    "name": "Ilfov",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-MM",
+    "name": "Maramures",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-MH",
+    "name": "Mehedinti",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-MS",
+    "name": "Mures",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-NT",
+    "name": "Neamt",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-OT",
+    "name": "Olt",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-PH",
+    "name": "Prahova",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-SJ",
+    "name": "Salaj",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-SM",
+    "name": "Satu Mare",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-SB",
+    "name": "Sibiu",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-SV",
+    "name": "Suceava",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-TR",
+    "name": "Teleorman",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-TM",
+    "name": "Timis",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-TL",
+    "name": "Tulcea",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-VL",
+    "name": "Valcea",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-VS",
+    "name": "Vaslui",
+    "cities": []
+  },
+  {
+    "code": "RO-RO-VN",
+    "name": "Vrancea",
+    "cities": []
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "code": "CA-AB",
+    "name": "Alberta",
+    "cities": []
+  },
+  {
+    "code": "CA-BC",
+    "name": "British Columbia",
+    "cities": []
+  },
+  {
+    "code": "CA-MB",
+    "name": "Manitoba",
+    "cities": []
+  },
+  {
+    "code": "CA-NB",
+    "name": "New Brunswick",
+    "cities": []
+  },
+  {
+    "code": "CA-NL",
+    "name": "Newfoundland and Labrador",
+    "cities": []
+  },
+  {
+    "code": "CA-NT",
+    "name": "Northwest Territories",
+    "cities": []
+  },
+  {
+    "code": "CA-NS",
+    "name": "Nova Scotia",
+    "cities": []
+  },
+  {
+    "code": "CA-NU",
+    "name": "Nunavut",
+    "cities": []
+  },
+  {
+    "code": "CA-ON",
+    "name": "Ontario",
+    "cities": []
+  },
+  {
+    "code": "CA-PE",
+    "name": "Prince Edward Island",
+    "cities": []
+  },
+  {
+    "code": "CA-QC",
+    "name": "Quebec",
+    "cities": []
+  },
+  {
+    "code": "CA-SK",
+    "name": "Saskatchewan",
+    "cities": []
+  },
+  {
+    "code": "CA-YT",
+    "name": "Yukon",
+    "cities": []
+  }
+]

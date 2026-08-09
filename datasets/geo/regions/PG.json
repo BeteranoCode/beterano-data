@@ -1,0 +1,112 @@
+[
+  {
+    "code": "PG-NSB",
+    "name": "Bougainville",
+    "cities": []
+  },
+  {
+    "code": "PG-CPM",
+    "name": "Central",
+    "cities": []
+  },
+  {
+    "code": "PG-CPK",
+    "name": "Chimbu",
+    "cities": []
+  },
+  {
+    "code": "PG-EBR",
+    "name": "East New Britain",
+    "cities": []
+  },
+  {
+    "code": "PG-ESW",
+    "name": "East Sepik",
+    "cities": []
+  },
+  {
+    "code": "PG-EHG",
+    "name": "Eastern Highlands",
+    "cities": []
+  },
+  {
+    "code": "PG-EPW",
+    "name": "Enga",
+    "cities": []
+  },
+  {
+    "code": "PG-GPK",
+    "name": "Gulf",
+    "cities": []
+  },
+  {
+    "code": "PG-HLA",
+    "name": "Hela",
+    "cities": []
+  },
+  {
+    "code": "PG-JWK",
+    "name": "Jiwaka",
+    "cities": []
+  },
+  {
+    "code": "PG-MOM",
+    "name": "Madang",
+    "cities": []
+  },
+  {
+    "code": "PG-MRL",
+    "name": "Manus",
+    "cities": []
+  },
+  {
+    "code": "PG-MBA",
+    "name": "Milne Bay",
+    "cities": []
+  },
+  {
+    "code": "PG-MPL",
+    "name": "Morobe",
+    "cities": []
+  },
+  {
+    "code": "PG-NIK",
+    "name": "New Ireland",
+    "cities": []
+  },
+  {
+    "code": "PG-NPP",
+    "name": "Northern",
+    "cities": []
+  },
+  {
+    "code": "PG-NCD",
+    "name": "Port Moresby",
+    "cities": []
+  },
+  {
+    "code": "PG-SHM",
+    "name": "Southern Highlands",
+    "cities": []
+  },
+  {
+    "code": "PG-WBK",
+    "name": "West New Britain",
+    "cities": []
+  },
+  {
+    "code": "PG-SAN",
+    "name": "West Sepik",
+    "cities": []
+  },
+  {
+    "code": "PG-WPD",
+    "name": "Western",
+    "cities": []
+  },
+  {
+    "code": "PG-WHM",
+    "name": "Western Highlands",
+    "cities": []
+  }
+]

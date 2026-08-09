@@ -1,0 +1,37 @@
+[
+  {
+    "code": "AE-AZ",
+    "name": "Abu Dhabi",
+    "cities": []
+  },
+  {
+    "code": "AE-AJ",
+    "name": "Ajman",
+    "cities": []
+  },
+  {
+    "code": "AE-DU",
+    "name": "Dubai",
+    "cities": []
+  },
+  {
+    "code": "AE-FU",
+    "name": "Fujairah",
+    "cities": []
+  },
+  {
+    "code": "AE-RK",
+    "name": "Ras al Khaimah",
+    "cities": []
+  },
+  {
+    "code": "AE-SH",
+    "name": "Sharjah",
+    "cities": []
+  },
+  {
+    "code": "AE-UQ",
+    "name": "Umm Al Quwain",
+    "cities": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "code": "MA-MA-05",
+    "name": "Béni Mellal-Khénifra",
+    "cities": []
+  },
+  {
+    "code": "MA-MA-06",
+    "name": "Casablanca-Settat",
+    "cities": []
+  },
+  {
+    "code": "MA-MA-12",
+    "name": "Dakhla-Oued Ed-Dahab",
+    "cities": []
+  },
+  {
+    "code": "MA-MA-08",
+    "name": "Drâa-Tafilalet",
+    "cities": []
+  },
+  {
+    "code": "MA-MA-03",
+    "name": "Fès-Meknès",
+    "cities": []
+  },
+  {
+    "code": "MA-MA-10",
+    "name": "Guelmim-Oued Noun",
+    "cities": []
+  },
+  {
+    "code": "MA-MA-02",
+    "name": "L'Oriental",
+    "cities": []
+  },
+  {
+    "code": "MA-MA-11",
+    "name": "Laâyoune-Sakia El Hamra",
+    "cities": []
+  },
+  {
+    "code": "MA-MA-07",
+    "name": "Marrakech-Safi",
+    "cities": []
+  },
+  {
+    "code": "MA-MA-04",
+    "name": "Rabat-Salé-Kénitra",
+    "cities": []
+  },
+  {
+    "code": "MA-MA-09",
+    "name": "Souss-Massa",
+    "cities": []
+  },
+  {
+    "code": "MA-MA-01",
+    "name": "Tanger-Tétouan-Al Hoceïma",
+    "cities": []
+  }
+]

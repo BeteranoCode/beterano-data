@@ -1,0 +1,37 @@
+[
+  {
+    "code": "CR-2",
+    "name": "Alajuela",
+    "cities": []
+  },
+  {
+    "code": "CR-3",
+    "name": "Cartago",
+    "cities": []
+  },
+  {
+    "code": "CR-5",
+    "name": "Guanacaste",
+    "cities": []
+  },
+  {
+    "code": "CR-4",
+    "name": "Heredia",
+    "cities": []
+  },
+  {
+    "code": "CR-7",
+    "name": "Limón",
+    "cities": []
+  },
+  {
+    "code": "CR-6",
+    "name": "Puntarenas",
+    "cities": []
+  },
+  {
+    "code": "CR-1",
+    "name": "San José",
+    "cities": []
+  }
+]

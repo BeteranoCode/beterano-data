@@ -1,0 +1,87 @@
+[
+  {
+    "code": "PH-PH-14",
+    "name": "Autonomous Region in Muslim Mindanao",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-05",
+    "name": "Bicol",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-02",
+    "name": "Cagayan Valley",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-40",
+    "name": "Calabarzon",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-13",
+    "name": "Caraga",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-03",
+    "name": "Central Luzon",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-07",
+    "name": "Central Visayas",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-15",
+    "name": "Cordillera Administrative Region",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-11",
+    "name": "Davao",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-08",
+    "name": "Eastern Visayas",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-01",
+    "name": "Ilocos",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-41",
+    "name": "Mimaropa",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-00",
+    "name": "National Capital Region",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-10",
+    "name": "Northern Mindanao",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-12",
+    "name": "Soccsksargen",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-06",
+    "name": "Western Visayas",
+    "cities": []
+  },
+  {
+    "code": "PH-PH-09",
+    "name": "Zamboanga Peninsula",
+    "cities": []
+  }
+]

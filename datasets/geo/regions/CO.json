@@ -1,0 +1,167 @@
+[
+  {
+    "code": "CO-AMA",
+    "name": "Amazonas",
+    "cities": []
+  },
+  {
+    "code": "CO-ANT",
+    "name": "Antioquia",
+    "cities": []
+  },
+  {
+    "code": "CO-ARA",
+    "name": "Arauca",
+    "cities": []
+  },
+  {
+    "code": "CO-SAP",
+    "name": "Archipiélago de San Andrés",
+    "cities": []
+  },
+  {
+    "code": "CO-ATL",
+    "name": "Atlántico",
+    "cities": []
+  },
+  {
+    "code": "CO-DC",
+    "name": "Bogotá D.C.",
+    "cities": []
+  },
+  {
+    "code": "CO-BOL",
+    "name": "Bolívar",
+    "cities": []
+  },
+  {
+    "code": "CO-BOY",
+    "name": "Boyacá",
+    "cities": []
+  },
+  {
+    "code": "CO-CAL",
+    "name": "Caldas",
+    "cities": []
+  },
+  {
+    "code": "CO-CAQ",
+    "name": "Caquetá",
+    "cities": []
+  },
+  {
+    "code": "CO-CAS",
+    "name": "Casanare",
+    "cities": []
+  },
+  {
+    "code": "CO-CAU",
+    "name": "Cauca",
+    "cities": []
+  },
+  {
+    "code": "CO-CES",
+    "name": "Cesar",
+    "cities": []
+  },
+  {
+    "code": "CO-CHO",
+    "name": "Chocó",
+    "cities": []
+  },
+  {
+    "code": "CO-COR",
+    "name": "Córdoba",
+    "cities": []
+  },
+  {
+    "code": "CO-CUN",
+    "name": "Cundinamarca",
+    "cities": []
+  },
+  {
+    "code": "CO-GUA",
+    "name": "Guainía",
+    "cities": []
+  },
+  {
+    "code": "CO-GUV",
+    "name": "Guaviare",
+    "cities": []
+  },
+  {
+    "code": "CO-HUI",
+    "name": "Huila",
+    "cities": []
+  },
+  {
+    "code": "CO-LAG",
+    "name": "La Guajira",
+    "cities": []
+  },
+  {
+    "code": "CO-MAG",
+    "name": "Magdalena",
+    "cities": []
+  },
+  {
+    "code": "CO-MET",
+    "name": "Meta",
+    "cities": []
+  },
+  {
+    "code": "CO-NAR",
+    "name": "Nariño",
+    "cities": []
+  },
+  {
+    "code": "CO-NSA",
+    "name": "Norte de Santander",
+    "cities": []
+  },
+  {
+    "code": "CO-PUT",
+    "name": "Putumayo",
+    "cities": []
+  },
+  {
+    "code": "CO-QUI",
+    "name": "Quindío",
+    "cities": []
+  },
+  {
+    "code": "CO-RIS",
+    "name": "Risaralda",
+    "cities": []
+  },
+  {
+    "code": "CO-SAN",
+    "name": "Santander",
+    "cities": []
+  },
+  {
+    "code": "CO-SUC",
+    "name": "Sucre",
+    "cities": []
+  },
+  {
+    "code": "CO-TOL",
+    "name": "Tolima",
+    "cities": []
+  },
+  {
+    "code": "CO-VAC",
+    "name": "Valle del Cauca",
+    "cities": []
+  },
+  {
+    "code": "CO-VAU",
+    "name": "Vaupés",
+    "cities": []
+  },
+  {
+    "code": "CO-VID",
+    "name": "Vichada",
+    "cities": []
+  }
+]

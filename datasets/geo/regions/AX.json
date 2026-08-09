@@ -1,0 +1,82 @@
+[
+  {
+    "code": "AX-BR",
+    "name": "Brändö",
+    "cities": []
+  },
+  {
+    "code": "AX-EC",
+    "name": "Eckerö",
+    "cities": []
+  },
+  {
+    "code": "AX-FN",
+    "name": "Finström",
+    "cities": []
+  },
+  {
+    "code": "AX-FG",
+    "name": "Föglö",
+    "cities": []
+  },
+  {
+    "code": "AX-GT",
+    "name": "Geta",
+    "cities": []
+  },
+  {
+    "code": "AX-HM",
+    "name": "Hammarland",
+    "cities": []
+  },
+  {
+    "code": "AX-JM",
+    "name": "Jomala",
+    "cities": []
+  },
+  {
+    "code": "AX-KK",
+    "name": "Kökar",
+    "cities": []
+  },
+  {
+    "code": "AX-KM",
+    "name": "Kumlinge",
+    "cities": []
+  },
+  {
+    "code": "AX-LE",
+    "name": "Lemland",
+    "cities": []
+  },
+  {
+    "code": "AX-LU",
+    "name": "Lumparland",
+    "cities": []
+  },
+  {
+    "code": "AX-MH",
+    "name": "Mariehamn",
+    "cities": []
+  },
+  {
+    "code": "AX-SV",
+    "name": "Saltvik",
+    "cities": []
+  },
+  {
+    "code": "AX-ST",
+    "name": "Sottunga",
+    "cities": []
+  },
+  {
+    "code": "AX-SD",
+    "name": "Sund",
+    "cities": []
+  },
+  {
+    "code": "AX-VR",
+    "name": "Vårdö",
+    "cities": []
+  }
+]
