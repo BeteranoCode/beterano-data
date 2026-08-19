@@ -1,0 +1,60 @@
+{
+  "_comment": "Correcciones a mano sobre lo que sale del sitio de origen. Cada entrada dice por que existe, para que el siguiente re-extraido no las borre por error.",
+
+  "aston-martin-heritage-foundation": {
+    "_why": "La ficha pone 'Nr Wallingford' como ciudad, que no es una ciudad: el geocodificador no encuentra nada. El pueblo real es Drayton St Leonard.",
+    "city": "Drayton St Leonard",
+    "geo": { "lat": 51.660034, "lng": -1.137159, "precision": "point", "method": "manual", "matched": "Aston Martin Heritage Trust, High Street, Drayton St. Leonard (OSM tourism=museum)" }
+  },
+
+  "auto-sport-museum": {
+    "_why": "La direccion es '8 Colette Street', traduccion literal de '8 rue Colette'; con el nombre en ingles Nominatim no la encuentra.",
+    "geo": { "lat": 47.828232, "lng": 2.848622, "precision": "point", "method": "manual", "matched": "8, Rue Colette, Chatillon-Coligny" }
+  },
+
+  "stanguellini-museum": {
+    "_why": "'Via Emilia East' es de nuevo la traduccion de 'Via Emilia Est'. El numero 756 si esta en OSM.",
+    "geo": { "lat": 44.635923, "lng": 10.950554, "precision": "point", "method": "manual", "matched": "756, Via Emilia Est, Modena" }
+  },
+
+  "horacio-pagani-museum": {
+    "_why": "El portal no esta en OSM; se usa el centro de la calle del poligono, que deja el pin en la manzana correcta.",
+    "geo": { "lat": 44.590446, "lng": 11.025994, "precision": "point", "method": "manual", "matched": "Via dell'Industria, zona industriale La Graziosa, San Cesario sul Panaro (centro de la via)" }
+  },
+
+  "automobile-museum-of-provence": {
+    "_why": "CERRADO definitivamente en verano de 2022 (lo dice la propia ficha de origen); los edificios iban a demolerse. Se queda en el dataset como registro historico pero no se siembra en el mapa.",
+    "closed": true
+  },
+
+  "m24-the-motor-sports-museum": {
+    "_why": "DUPLICADO de 24-hours-of-le-mans-museum: misma direccion (9 place Luigi Chinetti) y mismo telefono. M24 es el nombre nuevo del Musee des 24 Heures y el sitio de origen mantiene las dos fichas con webs distintas, asi que el deduplicado por web no las junta.",
+    "drop": true
+  },
+
+  "the-grand-atelier-chatellerault": {
+    "_why": "DUPLICADO de le-grand-atelier-musee-d-art-et-d-industrie: misma direccion y telefono, dos rutas distintas de alienor.org.",
+    "drop": true
+  },
+
+  "lorraine-automobile-museum": {
+    "_why": "MAL GEOCODIFICADO: la busqueda por nombre lo coloco en Reims, a 150 km. Esta en Velaine-en-Haye, cerca de Nancy. Ademas chocaba con el museo de Reims-Champagne e impedia sembrarlo.",
+    "geo": { "lat": 48.698041, "lng": 6.061382, "precision": "point", "method": "manual", "matched": "Musee de l'Automobile, Allee des Merisiers, Velaine-en-Haye (OSM tourism=museum)" }
+  },
+
+  "lincoln-motor-car-heritage-museum": {
+    "_why": "Comparte la direccion del campus Gilmore (6865 Hickory Road) con otros dos museos, asi que los tres caian en el mismo punto y el backend rechaza pines a menos de 55 m. Son museos distintos en edificios distintos del recinto, pero OSM no mapea los edificios: esta coordenada es una COLOCACION APROXIMADA dentro del campus, no una posicion verificada. Corregir si aparece el dato real.",
+    "city": "Hickory Corners",
+    "geo": { "lat": 42.44101, "lng": -85.42008, "precision": "point", "method": "manual-campus", "matched": "Campus del Gilmore Car Museum, Hickory Corners (posicion aproximada dentro del recinto)" }
+  },
+
+  "pierce-arrow-museum": {
+    "_why": "Mismo caso que lincoln-motor-car-heritage-museum: edificio propio dentro del campus Gilmore, sin dato de OSM. Coordenada APROXIMADA dentro del recinto.",
+    "geo": { "lat": 42.43941, "lng": -85.42008, "precision": "point", "method": "manual-campus", "matched": "Campus del Gilmore Car Museum, Hickory Corners (posicion aproximada dentro del recinto)" }
+  },
+
+  "montjalin-automobile-museum": {
+    "_why": "El Chateau de Montjalin no esta en OSM y la ficha no da mas que el nombre del chateau. Se queda a nivel de pueblo (Sauvigny-le-Bois) hasta poder confirmar el punto.",
+    "keepCityPrecision": true
+  }
+}

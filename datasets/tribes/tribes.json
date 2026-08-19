@@ -10,5 +10,6 @@
   { "id": "rent_knowledge", "label": "Rent Knowledge", "color": "#1b9988", "icon": "fa-solid fa-graduation-cap" },
   { "id": "abandonos", "label": "Abandonos", "color": "#7d52c7", "icon": "fa-solid fa-triangle-exclamation" },
   { "id": "propietarios", "label": "Propietarios", "color": "#d27f23", "icon": "fa-solid fa-user" },
-  { "id": "garagex", "label": "GarageX", "color": "#8d2c2c", "icon": "fa-solid fa-car" }
+  { "id": "garagex", "label": "GarageX", "color": "#8d2c2c", "icon": "fa-solid fa-car" },
+  { "id": "museos", "label": "Museos", "color": "#be185d", "icon": "fa-solid fa-landmark" }
 ]
