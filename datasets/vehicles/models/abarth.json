@@ -20,6 +20,61 @@
     "type": "Spider"
   },
   {
+    "id": "abarth-1000-abarth-1000-bialbero-zagato",
+    "name": "Abarth 1000 Bialbero Zagato",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-210a-abarth-210a-spyder-boano",
+    "name": "Abarth 210A Spyder Boano",
+    "type": "Spider"
+  },
+  {
+    "id": "abarth-2400-abarth-2400-coupe-allemano",
+    "name": "Abarth 2400 Coupe Allemano",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-3000-sp-abarth-3000-sp",
+    "name": "Abarth 3000 SP",
+    "type": "Spider"
+  },
+  {
+    "id": "abarth-700-abarth-700s-bialbero",
+    "name": "Abarth 700S Bialbero",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-850-abarth-850-spider-allemano",
+    "name": "Abarth 850 Spider Allemano",
+    "type": "Spider"
+  },
+  {
+    "id": "abarth-204a-abarth-cisitalia-204a-spider-corsa",
+    "name": "Abarth Cisitalia 204A Spider Corsa",
+    "type": "Spider"
+  },
+  {
+    "id": "abarth-monomille-abarth-monomille",
+    "name": "Abarth Monomille",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-scorpione-abarth-scorpione-ss-francis-lombardi",
+    "name": "Abarth Scorpione SS (Francis Lombardi)",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-simca-1150-abarth-simca-1150",
+    "name": "Abarth-Simca 1150",
+    "type": "Sedan"
+  },
+  {
+    "id": "abarth-simca-1300-bialbero-abarth-simca-1300-bialbero",
+    "name": "Abarth-Simca 1300 Bialbero",
+    "type": "Coupe"
+  },
+  {
     "id": "abarth-simca-1300-gt-abarth-simca-1300-gt",
     "name": "Abarth-Simca 1300 GT",
     "type": "Coupe"
@@ -30,9 +85,19 @@
     "type": "Coupe"
   },
   {
+    "id": "abarth-1000-sp-fiat-abarth-1000-sp",
+    "name": "Fiat-Abarth 1000 SP",
+    "type": "Spider"
+  },
+  {
     "id": "abarth-1000-tc-fiat-abarth-1000-tc-berlina",
     "name": "Fiat-Abarth 1000 TC Berlina",
     "type": "Sedan"
+  },
+  {
+    "id": "abarth-2000-sport-se-010-fiat-abarth-2000-sport-se-010",
+    "name": "Fiat-Abarth 2000 Sport SE 010",
+    "type": "Spider"
   },
   {
     "id": "abarth-595-fiat-abarth-595",
@@ -47,6 +112,21 @@
   {
     "id": "abarth-750-fiat-abarth-750-gt-bialbero",
     "name": "Fiat-Abarth 750 GT Bialbero",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-750-fiat-abarth-750-gt-derivazione",
+    "name": "Fiat-Abarth 750 GT Derivazione",
+    "type": "Sedan"
+  },
+  {
+    "id": "abarth-750-fiat-abarth-750-record-monza-zagato",
+    "name": "Fiat-Abarth 750 Record Monza Zagato",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-750-fiat-abarth-750-sestriere-zagato",
+    "name": "Fiat-Abarth 750 Sestriere Zagato",
     "type": "Coupe"
   },
   {
@@ -67,6 +147,11 @@
   {
     "id": "abarth-ot-2000-fiat-abarth-ot-2000",
     "name": "Fiat-Abarth OT 2000",
+    "type": "Coupe"
+  },
+  {
+    "id": "abarth-otr-1000-fiat-abarth-otr-1000",
+    "name": "Fiat-Abarth OTR 1000",
     "type": "Coupe"
   }
 ]

@@ -3,13 +3,13 @@
     "key": "sedan",
     "name": "Sedan",
     "kind": "car",
-    "count": 2586
+    "count": 2588
   },
   {
     "key": "coupe",
     "name": "Coupe",
     "kind": "car",
-    "count": 1073
+    "count": 1083
   },
   {
     "key": "hatchback",
@@ -75,6 +75,6 @@
     "key": "spider",
     "name": "Spider",
     "kind": "car",
-    "count": 59
+    "count": 65
   }
 ]
