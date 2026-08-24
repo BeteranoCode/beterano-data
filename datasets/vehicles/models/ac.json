@@ -1,5 +1,10 @@
 [
   {
+    "id": "ac-12-hp-12-hp",
+    "name": "12 hp",
+    "type": "Cabrio"
+  },
+  {
     "id": "ac-2-litre-2-litre-saloon",
     "name": "2-Litre Saloon",
     "type": "Sedan"
@@ -13,6 +18,11 @@
     "id": "ac-428-428-frua",
     "name": "428 Frua",
     "type": "Coupe"
+  },
+  {
+    "id": "ac-428-428-frua-convertible",
+    "name": "428 Frua Convertible",
+    "type": "Cabrio"
   },
   {
     "id": "ac-ace-ace",
@@ -38,6 +48,11 @@
     "id": "ac-aceca-aceca-bristol",
     "name": "Aceca-Bristol",
     "type": "Coupe"
+  },
+  {
+    "id": "ac-autocarrier-autocarrier",
+    "name": "Autocarrier",
+    "type": "Van"
   },
   {
     "id": "ac-ace-brooklands-ace",
@@ -78,5 +93,25 @@
     "id": "ac-petite-petite",
     "name": "Petite",
     "type": "Microcar"
+  },
+  {
+    "id": "ac-six-16-40-16-66",
+    "name": "Six 16/40 - 16/66",
+    "type": "Sedan"
+  },
+  {
+    "id": "ac-six-16-60-16-90",
+    "name": "Six 16/60 - 16/90",
+    "type": "Cabrio"
+  },
+  {
+    "id": "ac-sociable-sociable",
+    "name": "Sociable",
+    "type": "Microcar"
+  },
+  {
+    "id": "ac-ten-ten",
+    "name": "Ten",
+    "type": "Roadster"
   }
 ]

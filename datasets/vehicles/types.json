@@ -3,7 +3,7 @@
     "key": "sedan",
     "name": "Sedan",
     "kind": "car",
-    "count": 2588
+    "count": 2589
   },
   {
     "key": "coupe",
@@ -21,7 +21,7 @@
     "key": "roadster",
     "name": "Roadster",
     "kind": "car",
-    "count": 352
+    "count": 353
   },
   {
     "key": "camion",
@@ -33,7 +33,7 @@
     "key": "van",
     "name": "Van",
     "kind": "car",
-    "count": 234
+    "count": 235
   },
   {
     "key": "wagon",
@@ -45,7 +45,7 @@
     "key": "cabrio",
     "name": "Cabrio",
     "kind": "car",
-    "count": 216
+    "count": 219
   },
   {
     "key": "suv",
@@ -69,7 +69,7 @@
     "key": "microcar",
     "name": "Microcar",
     "kind": "car",
-    "count": 83
+    "count": 84
   },
   {
     "key": "spider",

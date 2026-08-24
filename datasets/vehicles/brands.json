@@ -14,10 +14,12 @@
     "name": "AC",
     "kind": "car",
     "types": [
+      "Cabrio",
       "Coupe",
       "Microcar",
       "Roadster",
-      "Sedan"
+      "Sedan",
+      "Van"
     ]
   },
   {
