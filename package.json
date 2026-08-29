@@ -25,7 +25,9 @@
     "seed:lab": "ts-node scripts/seed-lab-postgres.ts",
     "seed:motors": "ts-node scripts/seed-motors-firestore.ts",
     "dict:export": "ts-node scripts/export-parts-dictionary.ts",
-    "dict:import": "ts-node scripts/import-parts-dictionary.ts"
+    "dict:import": "ts-node scripts/import-parts-dictionary.ts",
+    "images:check": "node scripts/check-vehicle-images.mjs",
+    "images:todo": "node scripts/check-vehicle-images.mjs --list"
   },
   "prisma": {
     "seed": "ts-node prisma/seed.ts"
